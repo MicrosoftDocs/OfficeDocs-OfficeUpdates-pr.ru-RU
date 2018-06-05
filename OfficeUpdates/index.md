@@ -32,7 +32,7 @@ ms.locfileid: "19556317"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 профессиональный плюс</h3>
+                        <h3>Office 365 профессиональный плюс;</h3>
                         <p><a href="release-notes-office365-proplus.md">Заметки о выпуске</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">Обновление журнала (по дате)</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">Обновить размеры</a></p>
@@ -48,7 +48,7 @@ ms.locfileid: "19556317"
                     <div class="cardText">
                         <h3>Office для Mac</h3>
                         <p><a href="release-notes-office-for-mac.md">Заметки о выпуске</a></p>
-                        <p><a href="update-history-office-for-mac.md">Журнал обновления</a></p>
+                        <p><a href="update-history-office-for-mac.md">Журнал обновлений</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">Освобождает MAU</a></p>
                      </div>
                 </div>

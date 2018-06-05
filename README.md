@@ -1,3 +1,2 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Исходный код Microsoft открыть поведения
-Этот проект приняла [Microsoft Open исходного кода поведения](https://opensource.microsoft.com/codeofconduct/).
-Для получения дополнительных сведений обратитесь [Кода из проведение вопросы и ответы по](https://opensource.microsoft.com/codeofconduct/faq/) или к [opencode@microsoft.com](mailto:opencode@microsoft.com) с любые дополнительные вопросы или комментарии.
+## <a name="microsoft-open-source-code-of-conduct"></a>Правила поведения Майкрософт, касающиеся обращения с открытым кодом
+Этот проект соответствует [правилам поведения Майкрософт, касающимся обращения с открытым кодом](https://opensource.microsoft.com/codeofconduct/). Дополнительную информацию см. в разделе [часто задаваемых вопросов по правилам поведения](https://opensource.microsoft.com/codeofconduct/faq/). Если у вас возникли вопросы или замечания, напишите нам по адресу [opencode@microsoft.com](mailto:opencode@microsoft.com).
