@@ -5,25 +5,25 @@
 
 ## [Заметки о выпуске](release-notes-office365-proplus.md)
 
-### Ежемесячно канала
+### Monthly Channel
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Разделитель годовая канала
+### Semi-Annual Channel
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Разделитель годовая канала (целевой)
+### Semi-Annual Channel (Targeted)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office для Mac
-## [Журнал обновления](update-history-office-for-mac.md)
+## [Журнал обновлений](update-history-office-for-mac.md)
 ## [Заметки о выпуске](release-notes-office-for-mac.md)
 ## [Журнал выпуска MAU](release-history-microsoft-autoupdate.md)
 
@@ -40,7 +40,7 @@
 ## [Обновления Project Server](project-server-updates.md)
 ## [Обновления SharePoint](sharepoint-updates.md)
 
-# Ссылки по теме
+# Связанные ссылки
 ## [Выпуски Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Политика по срокам Microsoft](https://support.microsoft.com/lifecycle)
 
