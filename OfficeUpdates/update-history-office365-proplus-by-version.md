@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, отсортированный по версии, со ссылками на заметки о выпусках. Предназначен для ИТ-специалистов
-ms.openlocfilehash: 6014ad9d6c2b80becb835927642533f4b01b9f2a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d05e53ed372738227e89e4885c4913090dc69ecd
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556326"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709710"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>История обновлений Office 365 профессиональный плюс (по версии)
  
@@ -67,6 +67,6 @@ ms.locfileid: "19556326"
 ## <a name="related-topics"></a>Связанные статьи
 
 - [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Заметки о выпусках Office 365 профессиональный плюс](release-notes-office365-proplus.md)
+- [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md)
 - [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md)
 
