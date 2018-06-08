@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Содержит ИТ-специалистов по Бессрочная версий Office 2010, использующих Click-to-Run с журнала обновлений
-ms.openlocfilehash: 11c4aa06ce34d1c7d57d482647b862bea9ab230a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556316"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709770"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления для продуктов Office 2010 Click-to-Run
 
@@ -54,11 +54,11 @@ ms.locfileid: "19556316"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018  <br/> |8 мая  <br/> |14.0.7209.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |8 мая  <br/> |14.0.7209.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 апреля  <br/> |14.0.7197.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||13 марта  <br/> |14.0.7196.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||13 февраля  <br/> |14.0.7194.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4077965](https://support.microsoft.com/help/4077965) <br/> |
-||Январь 9  <br/> |14.0.7193.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4058103](https://support.microsoft.com/help/4058103) <br/> |
+||9 января  <br/> |14.0.7193.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12 декабря  <br/> |14.0.7191.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4055454](https://support.microsoft.com/help/4055454) <br/> |
 ||14 ноября  <br/> |14.0.7190.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4051890](https://support.microsoft.com/help/4051890) <br/> |
 ||10 октября  <br/> |14.0.7189.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4043461](https://support.microsoft.com/help/4043461) <br/> |
