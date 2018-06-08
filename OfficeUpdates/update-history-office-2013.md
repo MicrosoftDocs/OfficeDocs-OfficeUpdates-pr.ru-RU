@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 90565118b040da6550afd630fe2a8fbcac454b26
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: b38c1bc88df6cef66c9ebdd14c9baed626914cde
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556318"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709670"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
@@ -46,7 +46,7 @@ ms.locfileid: "19556318"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018   |8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
+|2018 |8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
 ||10 апреля   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ru-RU/help/4098622)  |
 ||13 марта   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ru-RU/help/4090988)  |
 ||13 февраля   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
