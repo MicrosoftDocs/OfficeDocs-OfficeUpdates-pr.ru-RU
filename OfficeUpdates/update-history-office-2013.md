@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: b38c1bc88df6cef66c9ebdd14c9baed626914cde
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: f65b48fd1a94bc8add97bd074b13254bb320cf80
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709670"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886615"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Большинство продуктов Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5031.1000**, выпущенная 8 мая 2018 г. 
+> Последняя версия Office 2013 — **15.0.5041.1001**, выпущенная 12 июня 2018 г. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,7 +46,8 @@ ms.locfileid: "19709670"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
+|2018 |12 июня   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/ru-RU/help/4299875)  |
+||8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
 ||10 апреля   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ru-RU/help/4098622)  |
 ||13 марта   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ru-RU/help/4090988)  |
 ||13 февраля   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |

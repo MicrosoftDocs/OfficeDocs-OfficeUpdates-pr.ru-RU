@@ -3,19 +3,19 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 500d9c49e38386fcee2cc6d98c078bf9179d33df
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: c6b083be87893863971fbc9bb677dbd96889d9e2
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556325"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886735"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -26,10 +26,10 @@ ms.locfileid: "19556325"
   
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Дата, до которой поддерживается текущая версия**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1805  <br/> |[9330.2087](monthly-channel-2018.md#version-1805-may-24)  <br/> | 24 мая 2018 г.  <br/> |Выпущена версия 1806 <br/>|
-|Semi-Annual (Targeted)  <br/> |1803  <br/> |[9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)  <br/> | 18 мая 2018 г.  <br/> |11 сентября 2018 г. <br/>|
-|Semi-Annual <br/> |1708  <br/> | [8431.2250](semi-annual-channel-2018.md#version-1708-may-8) <br/> |8 мая 2018 г.  <br/> |12 марта 2019 г. <br/>|
-|Deferred <br/> |1705  <br/> |[8201.2278](semi-annual-channel-2018.md#version-1705-may-8)  <br/> | 8 мая 2018 г.  <br/> |10 июля 2018 г. <br/>|
+|Monthly  <br/> |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)  <br/> | 13 июня 2018 г.  <br/> |Выпущена версия 1806 <br/>|
+|Semi-Annual (Targeted)  <br/> |1803  <br/> |[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)  <br/> | 12 июня 2018 г.  <br/> |11 сентября 2018 г. <br/>|
+|Semi-Annual <br/> |1708  <br/> | [8431.2270](semi-annual-channel-2018.md#version-1708-june-12) <br/> |12 июня 2018 г.  <br/> |12 марта 2019 г. <br/>|
+|Deferred <br/> |1705  <br/> |[8201.2294](semi-annual-channel-2018.md#version-1705-june-12)  <br/> | 12 июня 2018 г.  <br/> |10 июля 2018 г. <br/>|
 
 Информацию о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
 

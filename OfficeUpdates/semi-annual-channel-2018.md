@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: eb057983e92975a4fa19d9dc5abae683c0564d20
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 8a5d598823ad277ad5f2cdd5f13368f338f4b3d6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556330"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886665"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel в 2018 г.
 
@@ -27,20 +27,49 @@ ms.locfileid: "19556330"
 > - Канал Semi-Annual Channel звался Deferred Channel до января 2018 г.
 
 
+## <a name="version-1708-june-12"></a>Версия 1708: 12 июня
+*Версия 1708 (сборка 8431.2270)*
+
+### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+
+### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8244): уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+-   Исправлена ошибка, из-за которой пользователи Windows 7 с пакетом обновления 1 (SP1) не могли добавлять участников в современные группы.
+
+
+
+## <a name="version-1705-june-12"></a>Версия 1705: 12 июня
+*Версия 1705 (сборка 8201.2294)*
+
+*Это выпуск Deferred Channel, который доступен с сентября 2017 г. Его поддержка будет продолжена, и мы будем выпускать обновления для системы безопасности для этого выпуска до июля 2018 г. Кроме того, теперь доступен выпуск Semi-Annual Channel (версия 1708, сборка 8431.2270) с новыми функциями, обновлениями для системы безопасности и другими обновлениями.*
+
+### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+
+### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8244): уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
+
+
+
 ## <a name="version-1708-may-8"></a>Версия 1708: 8 мая
 *Версия 1708 (сборка 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8147:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8147) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8163): уязвимость Microsoft Excel, связанная с раскрытием информации
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-8150:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8150) уязвимость Microsoft Outlook, связанная с обходом функций безопасности
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8150): уязвимость Microsoft Outlook, связанная с обходом функций безопасности
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8157:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8157) уязвимость Microsoft Office, связанная с удаленным выполнением кода
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8157): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-8158:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8158) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
@@ -51,16 +80,16 @@ ms.locfileid: "19556330"
 *Это выпуск Deferred Channel, который доступен с сентября 2017 г. Его поддержка будет продолжена, и мы будем выпускать обновления для системы безопасности для этого выпуска до июля 2018 г. Кроме того, теперь доступен выпуск Semi-Annual Channel (версия 1708, сборка 8431.2250) с новыми функциями, обновлениями для системы безопасности и другими обновлениями.*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8147:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8147) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8163): уязвимость Microsoft Excel, связанная с раскрытием информации
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-8150:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8150) уязвимость Microsoft Outlook, связанная с обходом функций безопасности
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8150): уязвимость Microsoft Outlook, связанная с обходом функций безопасности
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8157:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8157) уязвимость Microsoft Office, связанная с удаленным выполнением кода
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8157): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-8158:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8158) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
@@ -139,7 +168,7 @@ ms.locfileid: "19556330"
 -   [CVE-2018-0850:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0850) уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0852): уязвимость Microsoft Outlook, связанная с повреждением памяти
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   [CVE-2018-0851:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0851) уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2018-0853:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0853) уязвимость Microsoft Office, связанная с раскрытием информации
 
@@ -157,7 +186,7 @@ ms.locfileid: "19556330"
 -   [CVE-2018-0850:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0850) уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0852): уязвимость Microsoft Outlook, связанная с повреждением памяти
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   [CVE-2018-0851:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0851) уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2018-0853:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0853) уязвимость Microsoft Office, связанная с раскрытием информации
 
@@ -417,15 +446,15 @@ ms.locfileid: "19556330"
 *Это выпуск Deferred Channel, который доступен с сентября 2017 г. Его поддержка будет продолжена, и мы будем выпускать обновления для системы безопасности для этого выпуска до июля 2018 г. Кроме того, теперь доступен выпуск Semi-Annual Channel (версия 1708, сборка 8431.2153) с новыми функциями, обновлениями для системы безопасности и другими обновлениями.*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-0796:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0796) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0796): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [Рекомендация 170021.](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV170021): обновление для системы многоуровневой защиты Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-0791:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0791) уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0791): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2018-0792:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0792) уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0792): уязвимость Microsoft Word, связанная с удаленным выполнением кода
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0794): уязвимость Microsoft Word, связанная с удаленным выполнением кода
 -   [CVE-2018-0798](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0798). Уязвимость Microsoft Office, связанная с повреждением памяти
@@ -437,6 +466,6 @@ ms.locfileid: "19556330"
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0807): уязвимость Microsoft Word, связанная с удаленным выполнением кода
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0812): уязвимость Microsoft Word, связанная с повреждением памяти
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-0795:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0795) уязвимость Microsoft Office, связанная с удаленным выполнением кода
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0795): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [Рекомендация 180003](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180003): обновление для системы многоуровневой защиты Microsoft Office
