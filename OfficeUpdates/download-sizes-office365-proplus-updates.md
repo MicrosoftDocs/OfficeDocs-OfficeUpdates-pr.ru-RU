@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: e8ac5a96745dadae5527f01f2d291b1fb52b8893
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886845"
+ms.locfileid: "20036248"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -38,6 +38,18 @@ ms.locfileid: "19886845"
   
 
 
+## <a name="june-25-2018"></a>25 июня 2018 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1806 (сборка 10228.20080).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1805 (сборка 9330.2124)  <br/> |13 июня 2018 г.  <br/> |155  <br/> |
+|Версия 1805 (сборка 9330.2118)  <br/> |12 июня 2018 г.  <br/> |402  <br/> |
+|Версия 1805 (сборка 9330.2087)  <br/> |24 мая 2018 г.  <br/> |154  <br/> |
+   
 ## <a name="june-13-2018"></a>13 июня 2018 г.
 
 ### <a name="monthly-channel"></a>Monthly Channel

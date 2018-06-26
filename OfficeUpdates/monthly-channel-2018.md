@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886965"
+ms.locfileid: "20036308"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -23,7 +23,37 @@ ms.locfileid: "19886965"
  
 > [!NOTE]
 > - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
-> - Эта информация также относится к Office 365 бизнес, который представляет собой версию Office, поставляемую с некоторыми планами Office 365, например Office 365 бизнес премиум.
+> - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+
+
+
+## <a name="version-1806-june-25"></a>Версия 1806: 25 июня
+*Версия 1806 (сборка 10228.20080)*
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+ - **Улучшено редактирование ячеек и строк формул.** Теперь вы можете использовать клавиши CTRL + A для выделения текста в ячейке или строке формул. Также улучшена поддержка эмодзи и других сложных символов.
+ - **Улучшена поддержка SVG.** Вы можете вставлять SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+ - **Параметр повторения по умолчанию.** В диалоговом окне "Повторение встречи" (в разделе "Пределы повторения") первым отображается параметр "Окончание" (а не "Без даты окончания"), и установлена дата окончания по умолчанию.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+ - **Улучшена поддержка SVG.** Вы можете вставлять SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **Озаглавливание слайдов пером.** Напишите заголовок пером и посмотрите, как PowerPoint преобразует его в текст. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project. Обновления функций
+ - **Места последнего сохранения.** В Project ведется список мест сохранения других проектов. Когда вы будете готовы сохранить свой проект, просто выберите одно из последних мест сохранения.
+
+### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью
+ - Устранена проблема с сохранением подпроектов из главных проектов.
+
+### <a name="visio-feature-updates"></a>Visio. Обновления функций
+ - **Больше наборов элементов, больше значков, больше выбора.** Мы добавили 26 наборов элементов, в том числе "Аналитика", "Искусство", "Праздник", "Лица", "Расположение", "Медицина", "Природа", "Люди", "Спорт" и "Погода и времена года".
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+ - **Улучшена поддержка SVG.** Вы можете вставлять SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>Версия 1805: 13 июня
 *Версия 1805 (сборка 9330.2124)*
