@@ -3,7 +3,7 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 ms.custom: LIL_Placement
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: a3e11b6b965243c05897c6e60184968d77b38f14
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 61d1d77c7601fc570e92dc4d2cd613306903495c
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19926675"
+ms.locfileid: "20036288"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -33,7 +33,8 @@ ms.locfileid: "19926675"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|13 июня   |[**Версия 1805 (сборка 9330.2124)**](monthly-channel-2018.md#version-1805-june-13) |||
+|2018|25 июня   |[**Версия 1806 (сборка 10228.20080)**](monthly-channel-2018.md#version-1806-june-25) |||
+||13 июня   |[Версия 1805 (сборка 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||12 июня   |[Версия 1805 (сборка 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[**Версия 1803 (сборка 9126.2227**)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[**Версия 1708 (сборка 8431.2270)**](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Версия 1705 (сборка 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||24 мая   |[Версия 1805 (сборка 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
 ||23 мая   |[Версия 1805 (сборка 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
