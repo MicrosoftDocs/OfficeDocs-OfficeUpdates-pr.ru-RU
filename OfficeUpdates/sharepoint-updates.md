@@ -3,7 +3,7 @@ title: Обновления SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: a303891074326674571a70bbf9ae990f6a065737
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6f70fe8bf721d034fc5b6573ca6f5be7965bb223
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886855"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246329"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -33,6 +33,7 @@ ms.locfileid: "19886855"
 
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/ru-RU/help/4022228)  <br/> |Июль 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4022173](https://support.microsoft.com/ru-RU/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/ru-RU/help/4022178) <br/> |Июнь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018381](https://support.microsoft.com/ru-RU/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/ru-RU/help/4018386) <br/> |Май 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018336](https://support.microsoft.com/ru-RU/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/ru-RU/help/4018340) <br/> |Апрель 2018 г.  <br/> |
@@ -75,6 +76,7 @@ ms.locfileid: "19886855"
     
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/ru-RU/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/ru-RU/help/4022241) <br/> |Июль 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/ru-RU/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/ru-RU/help/4022187) <br/> |Июнь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/ru-RU/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/ru-RU/help/4018397) <br/> |Май 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/ru-RU/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/ru-RU/help/4018348) <br/> |Апрель 2018 г.  <br/> |

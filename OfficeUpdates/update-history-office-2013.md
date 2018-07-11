@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: f65b48fd1a94bc8add97bd074b13254bb320cf80
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: dbb60a87c099c03bf0a92b0dbc93b8042b9821c2
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886615"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246429"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Большинство продуктов Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5041.1001**, выпущенная 12 июня 2018 г. 
+> Последняя версия Office 2013 — **15.0.5049.1000**, выпущенная 10 июня 2018 г. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,7 +46,8 @@ ms.locfileid: "19886615"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018 |12 июня   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/ru-RU/help/4299875)  |
+|2018 |10 июля   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/ru-RU/help/4340798)  |
+||12 июня   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/ru-RU/help/4299875)  |
 ||8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
 ||10 апреля   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ru-RU/help/4098622)  |
 ||13 марта   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ru-RU/help/4090988)  |
