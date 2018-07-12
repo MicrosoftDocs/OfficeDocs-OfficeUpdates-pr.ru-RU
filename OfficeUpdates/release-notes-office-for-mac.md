@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246279"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275775"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -44,11 +44,10 @@ ms.locfileid: "20246279"
 |:-----|:-----|:-----|
 |Word  <br/> |**Устранение проблем со специальными возможностями одним щелчком.** Средство проверки читаемости стало еще лучше с обновленной поддержкой международных стандартов и полезными рекомендациями, которые сделают ваши документы еще доступнее. [Подробнее](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**Оживите свою презентацию с помощью видео.** Добавьте движения к вашему слайду при помощи видео с YouTube, а затем просмотрите его, не покидая приложение. [Подробнее](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Пакет обновления PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Оживите свою презентацию с помощью видео.** Добавьте движения к вашему слайду при помощи видео с YouTube, а затем просмотрите его, не покидая приложение. [Подробнее](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Пакет обновления для PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Функция автоматического обновления (Майкрософт) версии 4.1  <br/> |Обновление для пакета SDK Aria 8.4. Устраняет проблему утечки памяти.<br/><br/>Изменения регистрации приложений. Теперь поддерживается ознакомительная версия Office 2019.||[Пакет обновления функции автоматического обновления (Майкрософт)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Пакет Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8281): уязвимость Microsoft Office, связанная с удаленным выполнением кода  <br/> ||
-
 
 
 ## <a name="june-2018-release"></a>Выпуск за июнь 2018 г.
