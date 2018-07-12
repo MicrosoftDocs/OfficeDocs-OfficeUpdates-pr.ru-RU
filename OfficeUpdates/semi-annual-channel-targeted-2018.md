@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886635"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246389"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2018 г.
 
@@ -23,7 +23,37 @@ ms.locfileid: "19886635"
  
 > [!NOTE]
 > - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и других обновлениях Visio Pro для Office 365 и клиента Project Online для настольных ПК.
-> - Эта информация также относится к Office 365 бизнес, который представляет собой версию Office, поставляемую с некоторыми планами Office 365, например Office 365 бизнес премиум.
+> - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+
+## <a name="version-1803-july-10"></a>Версия 1803: 10 июля
+*Версия 1803 (сборка 9126.2259)*
+
+### <a name="access-security-updates"></a>Access. Обновления для системы безопасности
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
+
+### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8310): уязвимость Microsoft Office, связанная с незаконным изменением
+
+### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8281): уязвимость Microsoft Office, связанная с удаленным выполнением кода
+
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
+-   Исправлена ошибка, из-за которой отображается неправильный год, если в формате ячейки даты используется японский календарь.
+-   При импорте данных в модель данных Excel входящие значения отрицательного нуля приводят к ошибке. После применения исправления такие значения будут импортироваться как ноль.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
+-   Исправлена ошибка, из-за которой таблицы некорректно отображаются с толстыми границами.
+
+### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью
+-   Исправлена ошибка, из-за которой, если задача разделена с затратным ресурсом, затратный ресурс неправильно обновляется, а затраты теряются.
+-   Исправлена ошибка, из-за которой в диалоговом окне добавления существующих задач на временную шкалу отображаются только задачи из первой суммарной задачи.
+-   Исправлена ошибка, из-за которой может не работать сохранение в виде XML для главных проектов из Project Online или Project Server.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+-   Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время. 
+-   Исправлена ошибка, которая приводила к сбоям тестов SVG.
+-   Исправлена ошибка, из-за которой при развертывании обновлений с помощью System Center Configuration Manager на клиенте с запущенными приложениями Office обновление не применяется после перезапуска устройства.
+
 
 ## <a name="version-1803-june-12"></a>Версия 1803: 12 июня
 *Версия 1803 (сборка 9126.2227)*
