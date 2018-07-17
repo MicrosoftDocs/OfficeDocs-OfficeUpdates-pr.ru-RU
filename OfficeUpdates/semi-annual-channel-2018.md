@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334439"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397972"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel в 2018 г.
 
@@ -331,7 +331,7 @@ ms.locfileid: "20334439"
 ## <a name="version-1708-july-10"></a>Версия 1708: 10 июля
 *Версия 1708 (сборка 8431.2280)*
 
-* Это выпуск Semi-Annual Extended Channel, который доступен с сентября 2017 г. Его поддержка будет продолжена, и мы будем выпускать обновления для системы безопасности для этого выпуска до марта 2019 г. Кроме того, теперь доступен выпуск Semi-Annual Channel (версия 1803, сборка 16.0.9126.2259) с новыми функциями, обновлениями для системы безопасности и другими обновлениями*.
+* Это выпуск Semi-Annual Channel, который доступен с сентября 2017 г. Его поддержка будет продолжена, и мы будем выпускать обновления для системы безопасности для этого выпуска до марта 2019 г. Кроме того, теперь доступен выпуск Semi-Annual Channel версии 1803 (сборка 16.0.9126.2259) с новыми функциями, обновлениями для системы безопасности и другими обновлениями*.
 
 ### <a name="access-security-updates"></a>Access. Обновления для системы безопасности
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
