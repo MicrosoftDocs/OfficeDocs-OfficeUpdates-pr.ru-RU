@@ -30,17 +30,17 @@
 # Microsoft Office (Бессрочная)
 ## [Обновления Office (MSI)](office-updates-msi.md)
 ## [Обновления для Outlook (MSI)](outlook-updates-msi.md)
-## [Обновляет Скайп для бизнеса](https://technet.microsoft.com/office/dn788954.aspx)
+## [Обновляет Скайп для бизнеса](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016 MSP-файлов](msp-files-office-2016.md)
 ## [Office 2013 MSP-файлов](msp-files-office-2013.md)
-## [Обновления Office 2013](update-history-office-2013.md)
-## [Обновления Office 2010](update-history-office-2010-click-to-run.md)
+## [Обновления для Office 2013](update-history-office-2013.md)
+## [Обновления для Office 2010](update-history-office-2010-click-to-run.md)
 
 # Серверные продукты Office
 ## [Обновления для Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Обновления для Project Server](project-server-updates.md)
 ## [Обновления SharePoint](sharepoint-updates.md)
-## [Скайп обновлений Business Server](https://technet.microsoft.com/office/dn788954.aspx)
+## [Скайп обновлений Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Связанные ссылки
 ## [Выпуски Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
