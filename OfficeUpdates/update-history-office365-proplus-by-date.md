@@ -3,19 +3,19 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2018
+ms.date: 7/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 93ca6b7ae685e87054c4f2dd9508a62d2a3670ce
-ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
+ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20435668"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223211"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -32,7 +32,8 @@ ms.locfileid: "20435668"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|10 июля   |[**Версия 1806 (сборка 10228.20104)**](monthly-channel-2018.md#version-1806-july-10) |[**Версия 1803 (сборка 9126.2259**)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[**Версия 1803 (сборка 9126.2259)**](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Версия 1708 (сборка 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|25 июля   |[**Версия 1807 (сборка 10325.20082)**](monthly-channel-2018.md#version-1807-july-25) | | |
+|2018 г.|10 июля   |[Версия 1806 (сборка 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Версия 1708 (сборка 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||25 июня   |[Версия 1806 (сборка 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||13 июня   |[Версия 1805 (сборка 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||12 июня   |[Версия 1805 (сборка 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Версия 1803 (сборка 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Версия 1708 (сборка 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Версия 1705 (сборка 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |

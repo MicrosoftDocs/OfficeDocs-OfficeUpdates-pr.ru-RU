@@ -3,19 +3,19 @@ title: История обновлений Office 365 профессионал�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, отсортированный по версии, со ссылками на заметки о выпусках. Предназначен для ИТ-специалистов
-ms.openlocfilehash: fb89058cca143a3921500e15c3fbb1787d60c047
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 7f5603be248254925173f54e14b83b951b97ac41
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246359"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222820"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>История обновлений Office 365 профессиональный плюс (по версии)
  
@@ -32,7 +32,8 @@ ms.locfileid: "20246359"
   
 |**Версия**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|
-|1806  <br/> |**[10228.20104](monthly-channel-2018.md#version-1806-july-10) (10 июля 2018 г.)** <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25) (25 июня 2018 г.) |  <br/> |  <br/> |
+|1807  <br/> |**[10325.20082](monthly-channel-2018.md#version-1807-july-25) (25 июля 2018 г.)** <br/> |  <br/> | <br/> |  <br/> |
+|1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10) (10 июля 2018 г.) <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25) (25 июня 2018 г.) |  <br/> |  <br/> |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13) (13 июня 2018 г.) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12) (12 июня 2018 г.) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24) (24 мая 2018 г.) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23) (23 мая 2018 г.) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14) (14 мая 2018 г.) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8) (8 мая 2018 г.) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25) (25 апреля 2018 г.) <br/> |  <br/> |  <br/> |
 |1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11) (11 апреля 2018 г.)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27) (27 марта 2018 г.)  <br/> |**[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10) (10 июля 2018 г.)** <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12) (12 июня 2018 г.) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18) (18 мая 2018 г.) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8) (8 мая 2018 г.) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10) (10 апреля 2018 г.)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20) (20 марта 2018 г.)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13) (13 марта 2018 г.)  <br/> |[9126.2259](semi-annual-channel-2018.md#version-1803-july-10) (10 июля 2018 г.)  <br/> |

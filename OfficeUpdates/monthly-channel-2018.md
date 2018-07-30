@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246259"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222950"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -25,6 +25,26 @@ ms.locfileid: "20246259"
 > - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
  
+## <a name="version-1807-july-25"></a>Версия 1807: 25 июля
+*Версия 1807 (сборка 10325.20082)*
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+- **Предупреждения надстроек Outlook.** Иногда в надстройках COM для Outlook могут возникать проблемы, замедляющие работу всего приложения Outlook. Эти проблемы могут быть вызваны задержкой таких событий, как переключение между папками Outlook, доставка новых сообщений, открытие элементов календаря и т. д. При возникновении таких проблем Outlook выводит предупреждение на панели уведомлений.
+- **Присоединение к собраниям Teams из диалогового окна "Напоминания" в Outlook.** Когда Outlook напоминает пользователям о предстоящем собрании, представляющем собой собрание по сети в Teams, в окне отображается кнопка "Подключиться к собранию по сети". Это аналогично присоединению к собранию Skype для бизнеса из диалогового окна "Напоминания" в Outlook.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+ - **Цвета гиперссылок.** Гиперссылки теперь не только синие. Цвет шрифта может быть любым. [Подробнее](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio. Обновления функций
+ - **Создание документа Word из фигур Visio.** Автоматически добавляйте содержимое схем, включая фигуры и метаданные, в документы Word. Затем настраивайте документ для создания описаний процессов и руководств по эксплуатации. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+ - **Отслеживание исправлений в документах, защищенных с помощью IRM.** Теперь вы можете использовать функцию "Исправления" в Word в документах, защищенных с помощью IRM и не принадлежащих вам.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+ - Исправлен ряд ошибок, из-за которых некоторым пользователям не удавалось открывать защищенные с помощью IRM документы и электронные сообщения, доступ к которым предоставили пользователи из других организаций.
+
+
 ## <a name="version-1806-july-10"></a>Версия 1806: 10 июля
 *Версия 1806 (сборка 10228.20104)*
 
