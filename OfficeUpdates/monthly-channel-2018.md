@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222950"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772506"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -39,7 +39,7 @@ ms.locfileid: "21222950"
  - **Создание документа Word из фигур Visio.** Автоматически добавляйте содержимое схем, включая фигуры и метаданные, в документы Word. Затем настраивайте документ для создания описаний процессов и руководств по эксплуатации. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
- - **Отслеживание исправлений в документах, защищенных с помощью IRM.** Теперь вы можете использовать функцию "Исправления" в Word в документах, защищенных с помощью IRM и не принадлежащих вам.
+ - **Отслеживание исправлений в документах, защищенных с помощью IRM.** Теперь вы можете использовать функцию "Исправления" в Word в документах, защищенных с помощью IRM, не запрашивая права на полный доступ.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
  - Исправлен ряд ошибок, из-за которых некоторым пользователям не удавалось открывать защищенные с помощью IRM документы и электронные сообщения, доступ к которым предоставили пользователи из других организаций.
@@ -420,3 +420,5 @@ ms.locfileid: "21222950"
 
 ### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, приводящая к исчезновению кода VBA из проектов.
+
+Примечание. Если у вас возникла проблема с использованием Office, задайте свой вопрос на [форуме Answers от Майкрософт] (https://answers.microsoft.com/), [в сообществе технических специалистов] (https://techcommunity.microsoft.com/) или обратитесь в [службу поддержки] (https://support.microsoft.com/contactus).

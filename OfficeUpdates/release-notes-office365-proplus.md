@@ -3,19 +3,19 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 8845e3ba3eef05514b23e90ded0711749938f8c0
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397962"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772476"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -26,7 +26,7 @@ ms.locfileid: "20397962"
   
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Текущая версия до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 10 июля 2018 г.  <br/> |Выпущена версия 1807 <br/>|
+|Ежемесячно  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | Июль 25, 2018 г.  <br/> |Выпущена версия 1808 <br/>|
 |Semi-Annual (Targeted)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 июля 2018 г.  <br/> |11 сентября 2018 г. <br/>|
 |Semi-Annual <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 июля 2018 г.  <br/> |8 января 2019 г. <br/>|
 |Semi-Annual <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 июля 2018 г.  <br/> |12 марта 2019 г. <br/>|
@@ -67,3 +67,5 @@ ms.locfileid: "20397962"
 - [Общие сведения о Центре сообщений Office 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Информация о выпуске Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Руководство по обновлениям для системы безопасности Майкрософт](https://portal.msrc.microsoft.com/)
+
+Примечание. Если у вас возникла проблема с использованием Office, задайте свой вопрос на [форуме Answers от Майкрософт] (https://answers.microsoft.com/), [в сообществе технических специалистов] (https://techcommunity.microsoft.com/) или обратитесь в [службу поддержки] (https://support.microsoft.com/contactus).
