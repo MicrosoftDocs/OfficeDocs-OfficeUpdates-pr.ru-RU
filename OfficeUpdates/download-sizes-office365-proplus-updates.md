@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246289"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772496"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -36,6 +36,17 @@ ms.locfileid: "20246289"
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ. 
 
+  ## <a name="july-25-2018"></a>25 июля 2018 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1807 (сборка 10325.20082).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1806 (сборка 10228.20314)  <br/> |17 июля 2018 г.  <br/> |176  <br/> |
+|Версия 1805 (сборка 10228.20104)  <br/> |10 июля 2018 г.  <br/> |176  <br/> |
+
  ## <a name="july-10-2018"></a>10 июля 2018 г.
 
 ### <a name="monthly-channel"></a>Monthly Channel
@@ -52,12 +63,12 @@ ms.locfileid: "20246289"
    
 ### <a name="semi-annual-channel"></a>Semi-Annual Channel
 
-Самый свежий выпуск — версия 1708 (сборка 9126.2259).
+Самый свежий выпуск — версия 1803 (сборка 9126.2259).
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
+|Версия 1708 (сборка 8431.2270)  <br/> |12 июня 2018 г.  <br/> |280  <br/> |
 |Версия 1708 (сборка 8431.2250)  <br/> |8 мая 2018 г.  <br/> |280  <br/> |
-|Версия 1708 (сборка 8431.2242)  <br/> |10 апреля 2018 г.  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
@@ -375,3 +386,4 @@ ms.locfileid: "20246289"
 - [История обновлений Office 365 профессиональный плюс (по дате)](update-history-office365-proplus-by-date.md)
 - [История обновлений Office 365 профессиональный плюс (по версии)](update-history-office365-proplus-by-version.md)
 
+Примечание. Если у вас возникла проблема с использованием Office, задайте свой вопрос на [форуме Answers от Майкрософт] (https://answers.microsoft.com/), [в сообществе технических специалистов] (https://techcommunity.microsoft.com/) или обратитесь в [службу поддержки] (https://support.microsoft.com/contactus).
