@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистов с заметки о выпуске для канала точками годовая освобождает для Office 365 профессиональный плюс в 2017
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556351"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Заметки о выпуске для выпусков точками годовая канала в 2017
 
 Эти заметки о выпуске представлены сведения о новых функциях, обновления безопасности и других обновлений в канале точками годовая обновлений для Office 365 профессиональный плюс в составе 2017. 
 > [!NOTE]
-> - Следующие также сведения о новых функциях, обновления безопасности и других обновлений для Visio Pro для Office 365 и Project Online настольный клиент.
-> - Эти сведения также относится к Office 365 для бизнеса, являющийся версии Office, которое поставляется с некоторыми планов Office 365, например бизнеса расширенный.
-> - Канал точками годовая был с именем канала отложенный до января 2018.
+> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
+> - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+> - Канал Semi-Annual Channel звался Deferred Channel до января 2018 г.
 
 
 ## <a name="version-1705-december-12"></a>Версия 1705: 12 декабря
@@ -53,7 +53,7 @@ ms.locfileid: "19556351"
 ## <a name="version-1705-november-24"></a>Версия 1705: Ноябрь 24
 *Версия 1705 (сборка 8201.2209)*
 
-### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+### <a name="office-suite-non-security-updates"></a>Пакет Office. Обновления, не связанные с безопасностью
 -   Устранена проблема в 64-разрядной версии Office, из-за которой при выборе пользователем элемента "Файл \> Параметры" происходит сбой приложений Office.
 
 
@@ -62,7 +62,7 @@ ms.locfileid: "19556351"
 *Версия 1705 (сборка 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): уязвимость Microsoft Excel, связанная с обходом функций безопасности
+-   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) уязвимость Microsoft Excel, связанная с обходом функций безопасности
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): уязвимость Microsoft Excel, связанная с повреждением памяти
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884). Уязвимость Microsoft Office, связанная с повреждением памяти
 
@@ -70,7 +70,7 @@ ms.locfileid: "19556351"
 -   [Рекомендация 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): обновление для системы многоуровневой защиты Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11882:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) уязвимость Microsoft Office, связанная с повреждением памяти
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "19556351"
 *Это выпуска отложенный канала, который был 2017 июня. Оно будет поддерживаться и получать обновления безопасности до января 2018. Но теперь доступен новой версии отложенный канала — версия 1705 (построение 8201.2207) — которого содержит новые функции, обновления безопасности и других обновлений.*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): уязвимость Microsoft Excel, связанная с обходом функций безопасности
+-   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) уязвимость Microsoft Excel, связанная с обходом функций безопасности
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): уязвимость Microsoft Excel, связанная с повреждением памяти
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884). Уязвимость Microsoft Office, связанная с повреждением памяти
 
@@ -88,7 +88,7 @@ ms.locfileid: "19556351"
 -   [Рекомендация 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): обновление для системы многоуровневой защиты Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11882:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) уязвимость Microsoft Office, связанная с повреждением памяти
 
 
 
@@ -106,7 +106,7 @@ ms.locfileid: "19556351"
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): уязвимость Skype для бизнеса, связанная с несанкционированным повышением привилегий
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11826:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
@@ -125,7 +125,7 @@ ms.locfileid: "19556351"
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): уязвимость Skype для бизнеса, связанная с несанкционированным повышением привилегий
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11826:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
@@ -234,7 +234,7 @@ ms.locfileid: "19556351"
 -   **Улучшены специальные возможности.** Улучшена поддержка чтения и редактирования презентаций с помощью клавиатуры, экранного диктора и других специальных возможностей. [Дополнительные сведения](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint. Обновления для системы безопасности
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): уязвимость PowerPoint, связанная с удаленным выполнением кода
+-   [CVE-2017-8742:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742) уязвимость PowerPoint, связанная с удаленным выполнением кода
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): уязвимость PowerPoint, связанная с удаленным выполнением кода
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
@@ -403,11 +403,11 @@ ms.locfileid: "19556351"
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632). Уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint. Обновления для системы безопасности
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): уязвимость PowerPoint, связанная с удаленным выполнением кода
+-   [CVE-2017-8742:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742) уязвимость PowerPoint, связанная с удаленным выполнением кода
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): уязвимость PowerPoint, связанная с удаленным выполнением кода
 
 ### <a name="skype-for-business-security-updates"></a>Skype для бизнеса. Обновления для системы безопасности
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): уязвимость Windows GDI+, связанная с раскрытием информации
+-   [CVE-2017-8676:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676) уязвимость GDI+ для Windows, связанная с раскрытием информации
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): уязвимость графического компонента, связанная с раскрытием информации
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): уязвимость графического компонента Майкрософт, связанная с удаленным выполнением кода
 
@@ -421,7 +421,7 @@ ms.locfileid: "19556351"
 *Версия 1701 (сборка 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
+-   [CVE-2017-8571:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): уязвимость Microsoft Office Outlook, связанная с раскрытием информации
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): уязвимость Microsoft Office Outlook, связанная с повреждением памяти
 
@@ -433,7 +433,7 @@ ms.locfileid: "19556351"
 *Это выпуска отложенный канала, который был 2017 февраля. Оно будет поддерживаться и получать обновления безопасности до 2017 сентября. Но теперь доступен новой версии отложенный канала — 1701 версии (построение 7766.2099) — которого содержит новые функции, обновления безопасности и других обновлений.*
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
+-   [CVE-2017-8571:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): уязвимость Microsoft Office Outlook, связанная с раскрытием информации
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): уязвимость Microsoft Office Outlook, связанная с повреждением памяти
 
@@ -443,11 +443,11 @@ ms.locfileid: "19556351"
 *Версия 1701 (сборка 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-8501:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502). Уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2017-8570:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
 
@@ -457,11 +457,11 @@ ms.locfileid: "19556351"
 *Это выпуска отложенный канала, который был 2017 февраля. Оно будет поддерживаться и получать обновления безопасности до 2017 сентября. Но теперь доступен новой версии отложенный канала — 1701 версии (построение 7766.2096) — которого содержит новые функции, обновления безопасности и других обновлений.*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-8501:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502). Уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2017-8570:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
 
@@ -849,7 +849,7 @@ ms.locfileid: "19556351"
 -   Устранена проблема, из-за которой Skype для бизнеса перестает отвечать, если одновременно открыто несколько окон беседы.
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014). Обновление для системы безопасности Microsoft Office (3217868)
+-   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014): обновление для системы безопасности Microsoft Office (3217868)
 
 
 
@@ -865,7 +865,7 @@ ms.locfileid: "19556351"
 -   Бюллетень по безопасности (Майкрософт) [MS17-013](https://technet.microsoft.com/library/security/ms17-013). Обновление для графического компонента Майкрософт (4013075)
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014). Обновление для системы безопасности Microsoft Office (3217868)
+-   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014): обновление для системы безопасности Microsoft Office (3217868)
 
 
 

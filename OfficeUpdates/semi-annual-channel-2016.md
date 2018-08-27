@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистов с заметки о выпуске для канала точками годовая освобождает для Office 365 профессиональный плюс в 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556344"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Заметки о выпуске для выпусков точками годовая канала в 2016
 
 Эти заметки о выпуске представлены сведения о новых функциях, обновления безопасности и других обновлений, включенные в канале точками годовая обновлений для Office 365 профессиональный плюс в 2016. 
 > [!NOTE]
-> - Следующие также сведения о новых функциях, обновления безопасности и других обновлений для Visio Pro для Office 365 и Project Online настольный клиент.
-> - Эти сведения также относится к Office 365 для бизнеса, являющийся версии Office, которое поставляется с некоторыми планов Office 365, например бизнеса расширенный.
-> - Канал точками годовая был с именем канала отложенный до января 2018.
+> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
+> - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+> - Канал Semi-Annual Channel звался Deferred Channel до января 2018 г.
 
 
 ## <a name="version-1605-december-13"></a>Версия 1605: 13 декабря
@@ -37,7 +37,7 @@ ms.locfileid: "19556344"
 -   Исправлена ошибка, из-за которой Skype для бизнеса дает сбой при открытии списка, например списка контактов, если запущено средство чтения с экрана JAWS.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16 148](https://technet.microsoft.com/library/security/ms16-148). Обновление для системы безопасности Microsoft Office (3204068)
+-   Бюллетень по безопасности (Майкрософт) [MS16-148](https://technet.microsoft.com/library/security/ms16-148): обновление для системы безопасности Microsoft Office (3204068)
 
 
 
@@ -50,7 +50,7 @@ ms.locfileid: "19556344"
 -   Бюллетень по безопасности (Майкрософт) [MS16 148](https://technet.microsoft.com/library/security/ms16-148). Обновление для системы безопасности Microsoft Office (3204068)
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16 148](https://technet.microsoft.com/library/security/ms16-148). Обновление для системы безопасности Microsoft Office (3204068)
+-   Бюллетень по безопасности (Майкрософт) [MS16-148](https://technet.microsoft.com/library/security/ms16-148): обновление для системы безопасности Microsoft Office (3204068)
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "19556344"
 -   Устранена проблема, из-за которой после миграции в Exchange Online пользователю не удается подключиться к Exchange, чтобы получить данные журнала бесед, контактов и голосовой почты.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16-133](https://technet.microsoft.com/library/security/ms16-133). Обновление для системы безопасности Microsoft Office (3199168)
+-   Бюллетень по безопасности Майкрософт [MS16-133](https://technet.microsoft.com/library/security/ms16-133): обновление для системы безопасности для Microsoft Office (3199168)
 
 
 
@@ -77,7 +77,7 @@ ms.locfileid: "19556344"
 -   Бюллетень по безопасности (Майкрософт) [MS16-133](https://technet.microsoft.com/library/security/ms16-133). Обновление для системы безопасности Microsoft Office (3199168)
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16-133](https://technet.microsoft.com/library/security/ms16-133). Обновление для системы безопасности Microsoft Office (3199168)
+-   Бюллетень по безопасности Майкрософт [MS16-133](https://technet.microsoft.com/library/security/ms16-133): обновление для системы безопасности для Microsoft Office (3199168)
 
 
 
@@ -220,9 +220,9 @@ ms.locfileid: "19556344"
 -   **Параметр шаблона политики прав службы AD RMS:** Гарантирует, что параметр «Предоставить владельцу (автору) полный доступ со без ограничения срока действия» принимается при применении новых документов Word, Excel и PowerPoint, особенно в том случае, если этот параметр отключен. Если параметр отключен, появляется предупреждение о том, применение шаблона может ограничить доступ к документу.
  
 
-    Примечание: Существующие документы, уже защищен с помощью шаблона, где этот параметр настроен остаются без изменений. Владелец по-прежнему будут иметь полный доступ и без ограничения срока действия в этих документах.
+    Примечание. Существующие документы, уже защищенные шаблоном, в котором настроен этот параметр, не изменяются. У владельца сохранится полный контроль над этими документами без ограничения срока.
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS16-054](https://technet.microsoft.com/library/security/ms16-054). Обновление для системы безопасности Microsoft Office (3155544)
 -   Бюллетень по безопасности (Майкрософт) [MS16-070](https://technet.microsoft.com/library/security/ms16-070). Обновление для системы безопасности Microsoft Office (3163610)
 -   Бюллетень по безопасности (Майкрософт) [MS16-099](https://technet.microsoft.com/library/security/ms16-099). Обновление для системы безопасности Microsoft Office (3177451)
@@ -465,7 +465,7 @@ ms.locfileid: "19556344"
 -   **Трансформация.** Создание плавных переходов между слайдами и подвижных презентаций, более эффективно демонстрирующих концепции и сведения. [Дополнительные сведения](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Конструктор PowerPoint:** новая служба, которая анализирует содержимое слайдов и автоматически создает ряд идей по улучшению их внешнего вида. [Дополнительные сведения](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Эта служба требуется подключение к Интернету. Чтобы отключить эту функцию, [Используйте последние файлы административных шаблонов групповых политик](https://www.microsoft.com/download/details.aspx?id=49030) и включите параметр параметры конструктора PowerPoint. Этот параметр политики в разделе Конфигурация пользователя можно найти\\административные шаблоны\\Microsoft Office 2016\\Сервис | Параметры | Общие | Параметры службы... \\PowerPoint Designer.
+    Для работы этой службы необходимо подключение к Интернету. Чтобы отключить эту функцию, [Используйте последние файлы административных шаблонов групповых политик](https://www.microsoft.com/download/details.aspx?id=49030) и включите параметр параметры конструктора PowerPoint. Этот параметр политики можно найти в разделе "Конфигурация пользователя\\Административные шаблоны\\Microsoft Office 2016\\Средства | Параметры | Общие | Параметры служб...\\Конструктор PowerPoint".
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-116](https://technet.microsoft.com/library/security/ms15-116): обновление для системы безопасности Microsoft Office, решающее проблему удаленного выполнения кода (3104540)
@@ -582,9 +582,9 @@ ms.locfileid: "19556344"
 -   **Возможность сортировки при выборе элементов "Файл" \> "Открыть".** Сортируйте по имени или дате изменения, выбрав элементы "Файл" \> "Открыть" во всех приложениях, кроме Outlook. В Word, Excel и PowerPoint сортировка также доступна при выборе элементов "Файл" \> "Сохранить как".
 -   **Возможность просмотра папки в файл \> Сохранить как:** используйте полный папки навигации в файл \> Сохранить как в Word, Excel и PowerPoint для папок OneDrive OneDrive для бизнеса папок и этот компьютер.
 -   **Варианты отправки.** Отправка документа в виде вложения или в виде PDF-файла из области "Общий доступ" в Word или PowerPoint.
--   **Вставить рисунок API:** Вставка изображения в Word, Excel и PowerPoint с помощью [метода document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в библиотеке общие office.js. Word JavaScript API методы среды размещения вызывается insertInlinePictureFromBase64() установка встроенные рисунки в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Абзац](https://msdn.microsoft.com/library/office/mt598682.aspx)и объектов Range.
+-   **API для вставки рисунков.** Вставка изображений в Word, Excel или PowerPoint с помощью [метода document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx)из общей библиотеки office.js. API JavaScript для Word включает специальные методы под названием insertInlinePictureFromBase64() для выбора встроенных рисунков в объектах [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx),[Абзац](https://msdn.microsoft.com/library/office/mt598682.aspx)или Range .
 
-### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-081](https://technet.microsoft.com/library/security/ms15-081). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3080790).
 -   Бюллетень по безопасности (Майкрософт) [MS15-099](https://technet.microsoft.com/library/security/ms15-099). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3089664).
 -   Бюллетень по безопасности (Майкрософт) [MS15-116](https://technet.microsoft.com/library/security/ms15-116): обновление для системы безопасности Microsoft Office, решающее проблему удаленного выполнения кода (3104540)
