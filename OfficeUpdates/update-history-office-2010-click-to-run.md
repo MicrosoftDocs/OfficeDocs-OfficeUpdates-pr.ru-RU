@@ -3,34 +3,34 @@ title: Журнал обновления для продуктов Office 2010 C
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Содержит ИТ-специалистов по Бессрочная версий Office 2010, использующих Click-to-Run с журнала обновлений
-ms.openlocfilehash: dd6eb645d367ff319d84d6a2ac472e0505b72224
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: be133a3e9e86c9587dfeb741bb39ad2208698734
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246319"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520531"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления для продуктов Office 2010 Click-to-Run
 
 К следующим продуктам Office 2010 хранятся в актуальном состоянии автоматически с помощью технологии Click-to-Run.
   
-- Office, для дома и бизнеса 2010
+- Office для дома и бизнеса 2010
     
-- Office, версия для дома и учебы 2010
+- Office для дома и учебы 2010
     
-- Office 2010, начальная версия
+- Office Starter 2010
     
 Если вы используете один из этих продуктов, и вы хотите убедиться, что вы в актуальном состоянии, проверьте номер версии Office и вручную обновить Office, если это необходимо.
   
 > [!NOTE]
-> Последние версии Office 2010 — это **14.0.7211.5000**, которая была выпущена в 10 июля 2018. 
+> Последние версии Office 2010 — это **14.0.7212.5000**, которая была выпущена в 14 августа 2018. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +54,8 @@ ms.locfileid: "20246319"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018 |10 июля  <br/> |14.0.7211.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
+|2018 |14 августа  <br/> |14.0.7212.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+||10 июля  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||12 июня  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
 ||8 мая  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 апреля  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
