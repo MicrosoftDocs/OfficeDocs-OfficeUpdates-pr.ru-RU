@@ -3,19 +3,19 @@ title: Последние обновления для версий Office, в к
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: 9d2a01abd6ad4b742a65c230510a0d897e76e435
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 3b865b44cd18fdf825c0969f9724b841b70df697
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246299"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520511"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -32,33 +32,35 @@ ms.locfileid: "20246299"
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за июль 2018 г.  <br/> [KB4340798](https://support.microsoft.com/ru-RU/help/4340798) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за август 2018 г.  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
    
 ## <a name="office-2013-updates"></a>Обновления для Office 2013
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за июль 2018 г.  <br/> [KB4340798](https://support.microsoft.com/ru-RU/help/4340798) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |Пакет обновления 1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за август 2018 г.  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
    
 ## <a name="office-2010-updates"></a>Обновления для Office 2010
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за июль 2018 г. <br/>[KB4340798](https://support.microsoft.com/ru-RU/help/4340798) <br/>|
+|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |Пакет обновления 2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за август 2018 г. <br/>[KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Обновления, выпущенные за последние 12 месяцев
 
+[Обновления для системы безопасности и другие обновления за август 2018 г.: KB4346823](https://support.microsoft.com/help/4346823)   
+
 [Обновления для системы безопасности и другие обновления за июль 2018 г.: KB4340798](https://support.microsoft.com/help/4340798)   
 
 [Обновления для системы безопасности и другие обновления за июнь 2018 г.: KB4299875](https://support.microsoft.com/help/4299875)  
 
-[Обновления для системы безопасности и другие обновления за май 2018 г.: KB4133083](https://support.microsoft.com/ru-RU/help/4133083)
+[Обновления для системы безопасности и другие обновления за май 2018 г.: KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
   
-[Обновления для системы безопасности и другие обновления за апрель 2018 г.: KB4098622](https://support.microsoft.com/ru-RU/help/4098622) 
+[Обновления для системы безопасности и другие обновления за апрель 2018 г.: KB4098622](https://support.microsoft.com/en-us/help/4098622) 
   
-[Обновления для системы безопасности и другие обновления за март 2018 г.: KB4090988](https://support.microsoft.com/ru-RU/help/4090988)  
+[Обновления для системы безопасности и другие обновления за март 2018 г.: KB4090988](https://support.microsoft.com/en-us/help/4090988)  
   
 [Обновления для системы безопасности и другие обновления за февраль 2018 г.: KB4077965](https://support.microsoft.com/help/4077965)  
   
@@ -71,8 +73,7 @@ ms.locfileid: "20246299"
 [Обновления для системы безопасности и другие обновления за октябрь 2017 г.: KB4043461](https://support.microsoft.com/help/4043461)   
   
 [Обновления для системы безопасности и другие обновления за сентябрь 2017 г.: KB4040279](https://support.microsoft.com/help/4040279)   
-  
-[Обновления для системы безопасности и другие обновления за август 2017 г.: KB4036121](https://support.microsoft.com/help/4036121)   
+
   
 
    
