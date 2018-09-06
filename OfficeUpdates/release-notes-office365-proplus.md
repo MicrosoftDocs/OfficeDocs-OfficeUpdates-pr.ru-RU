@@ -3,19 +3,19 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/18
+ms.date: 9/5/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520581"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839227"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -26,7 +26,8 @@ ms.locfileid: "23520581"
   
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 августа 2018 г.  <br/> | Выпущена версия 1808 <br/>|
+|Monthly  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5 сентября 2018 г.  <br/> |Выпущена версия 1809 <br/>|
+|Monthly  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 августа 2018 г.  <br/> | Выпущена версия 1808 <br/>|
 |Semi-Annual (Targeted)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 августа 2018 г.  <br/> | 11 сентября 2018 г. <br/>|
 |Semi-Annual <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 августа 2018 г.  <br/> | 10 сентября 2019 г. <br/>|
 |Semi-Annual <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14 августа 2018 г.  <br/> | 12 марта 2019 г. <br/>|
