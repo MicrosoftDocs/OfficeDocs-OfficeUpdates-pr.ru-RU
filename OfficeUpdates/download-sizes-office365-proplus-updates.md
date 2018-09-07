@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520601"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839197"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -36,6 +36,16 @@ ms.locfileid: "23520601"
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ. 
 
+  ## <a name="september-5-2018"></a>5 сентября 2018 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1808 (сборка 10730.20088).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1807 (сборка 10325.20082)  <br/> |25 июля 2018 г.  <br/> |237  <br/> |
+|Версия 1807 (сборка 10325.20118)  <br/> |14 августа 2018 г.  <br/> |231  <br/> |
   ## <a name="august-14-2018"></a>14 августа 2018 г.
 
 ### <a name="monthly-channel"></a>Monthly Channel
@@ -98,7 +108,7 @@ ms.locfileid: "23520601"
 |Версия 1708 (сборка 8431.2270)  <br/> |12 июня 2018 г.  <br/> |280  <br/> |
 |Версия 1708 (сборка 8431.2250)  <br/> |8 мая 2018 г.  <br/> |280  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2259).
   
@@ -202,7 +212,7 @@ ms.locfileid: "23520601"
 
 ## <a name="may-18-2018"></a>18 мая 2018 г.
 
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2210).
   
@@ -245,7 +255,7 @@ ms.locfileid: "23520601"
 | Версия 1708 (сборка 8431.2242)  <br/> |10 апреля 2018 г.  <br/> |49  <br/> |
 |Версия 1708 (сборка 8431.2236)  <br/> |13 марта 2018 г.  <br/> |53  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2191).
   
@@ -287,7 +297,7 @@ ms.locfileid: "23520601"
 |Версия 1708 (сборка 8431.2236)  <br/> |13 марта 2018 г.  <br/> |54  <br/> |
 |Версия 1708 (сборка 8431.2215)  <br/> |13 февраля 2018 г.  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2152).
   
@@ -309,7 +319,7 @@ ms.locfileid: "23520601"
    
 ## <a name="march-20-2018"></a>20 марта 2018 г.
 
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2098).
   
@@ -338,7 +348,7 @@ ms.locfileid: "23520601"
 |Версия 1708 (сборка 8431.2215)  <br/> |13 февраля 2018 г.  <br/> |50  <br/> |
 |Версия 1708 (сборка 8431.2153)  <br/> |9 января 2018 г.  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1803 (сборка 9126.2072).
   
@@ -381,7 +391,7 @@ ms.locfileid: "23520601"
 |Версия 1708 (сборка 8431.2153)  <br/> |9 января 2018 г.  <br/> |53  <br/> |
 |Версия 1705 (сборка 8201.2213)  <br/> |12 декабря 2017 г.  <br/> |293  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Semi-annual Channel (Targeted)
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
 Самый свежий выпуск — версия 1708 (сборка 8431.2215).
   
@@ -423,4 +433,4 @@ ms.locfileid: "23520601"
 - [История обновлений Office 365 профессиональный плюс (по версии)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, рекомендуется опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), или же можно обратиться в [службу поддержки](https://support.microsoft.com/contactus).
+> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, задайте свой вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/). Вы также можете обратиться в [службу поддержки](https://support.microsoft.com/contactus).
