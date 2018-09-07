@@ -3,19 +3,19 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/18
+ms.date: 9/6/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 38a10d5afa1996ca9abd1680a76395c5d8c75030
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839227"
+ms.locfileid: "23848357"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -26,11 +26,10 @@ ms.locfileid: "23839227"
   
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5 сентября 2018 г.  <br/> |Выпущена версия 1809 <br/>|
-|Monthly  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 августа 2018 г.  <br/> | Выпущена версия 1808 <br/>|
-|Semi-Annual (Targeted)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 августа 2018 г.  <br/> | 11 сентября 2018 г. <br/>|
-|Semi-Annual <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 августа 2018 г.  <br/> | 10 сентября 2019 г. <br/>|
-|Semi-Annual <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14 августа 2018 г.  <br/> | 12 марта 2019 г. <br/>|
+|Ежемесячно  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5 сентября 2018 г.  <br/> |Выпущена версия 1809 <br/>|
+|Раз в полгода (запланировано)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 августа 2018 г.  <br/> | 11 сентября 2018 г. <br/>|
+|Раз в полгода <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 августа 2018 г.  <br/> | 10 сентября 2019 г. <br/>|
+|Раз в полгода <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14 августа 2018 г.  <br/> | 12 марта 2019 г. <br/>|
 
 Информацию о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
 
@@ -48,9 +47,9 @@ ms.locfileid: "23839227"
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Заметки о выпусках Office 365 профессиональный плюс
 
 Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.
- - Monthly: [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
- - Semi-Annual (Targeted): [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
- - Semi-Annual: [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Ежемесячно: [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
+ - Раз в полгода (запланировано): [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - Раз в полгода: [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Информация о выпусках Office для Mac
 
@@ -67,7 +66,7 @@ ms.locfileid: "23839227"
 - [Стратегический план Office 365](https://products.office.com/business/office-365-roadmap)
 - [Общие сведения о Центре сообщений Office 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Информация о выпуске Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
-- [Руководство по обновлениям для системы безопасности Майкрософт](https://portal.msrc.microsoft.com/)
+- [Руководство по обновлению системы безопасности Майкрософт](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, рекомендуется опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), или же можно обратиться в [службу поддержки](https://support.microsoft.com/contactus).
+> Для получения помощи при решении проблем, связанных с использованием Office, рекомендуется опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), либо обратиться в [службу поддержки](https://support.microsoft.com/contactus).
