@@ -3,19 +3,19 @@ title: Журнал обновления для продуктов Office 2010 C
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Содержит ИТ-специалистов по Бессрочная версий Office 2010, использующих Click-to-Run с журнала обновлений
-ms.openlocfilehash: be133a3e9e86c9587dfeb741bb39ad2208698734
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 2c98b159a7799b0b4b4116feaaecab5823e540dd
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520531"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954805"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления для продуктов Office 2010 Click-to-Run
 
@@ -30,7 +30,7 @@ ms.locfileid: "23520531"
 Если вы используете один из этих продуктов, и вы хотите убедиться, что вы в актуальном состоянии, проверьте номер версии Office и вручную обновить Office, если это необходимо.
   
 > [!NOTE]
-> Последние версии Office 2010 — это **14.0.7212.5000**, которая была выпущена в 14 августа 2018. 
+> Последние версии Office 2010 — это **14.0.7213.5000**, которая была выпущена в 11 сентября 2018. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,56 +54,57 @@ ms.locfileid: "23520531"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018 |14 августа  <br/> |14.0.7212.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
-||10 июля  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
-||12 июня  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
-||8 мая  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
-||10 апреля  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
-||13 марта  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
-||13 февраля  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
-||9 января  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
-|2017  <br/> |12 декабря  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
-||14 ноября  <br/> |14.0.7190.5001  <br/> |[KB 4051890](https://support.microsoft.com/help/4051890) <br/> |
-||10 октября  <br/> |14.0.7189.5001  <br/> |[KB 4043461](https://support.microsoft.com/help/4043461) <br/> |
-||12 сентября  <br/> |14.0.7188.5002  <br/> |[KB 4040279](https://support.microsoft.com/help/4040279) <br/> |
-||27 июля  <br/> |14.0.7187.5000  <br/> |[KB 4036121](https://support.microsoft.com/help/4036121) <br/> |
-||11 июля  <br/> |14.0.7185.5000  <br/> |[KB 4033107](https://support.microsoft.com/help/4033107) <br/> |
-||13 июня  <br/> |14.0.7182.5000  <br/> |[KB 4023935](https://support.microsoft.com/help/4023935) <br/> |
-||9 мая  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
-||11 апреля  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
-||14 марта  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |13 декабря  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
-||8 ноября  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
-||11 октября  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
-||13 сентября  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
-||9 августа  <br/> |14.0.7172.5001  <br/> |[KB 3181038](https://support.microsoft.com/kb/3181038) <br/> |
-||12 июля  <br/> |14.0.7171.5002  <br/> |[KB 3173835](https://support.microsoft.com/kb/3173835) <br/> |
-||14 июня  <br/> |14.0.7170.5000  <br/> |[KB 3166910](https://support.microsoft.com/kb/3166910) <br/> |
-||10 мая  <br/> |14.0.7169.5000  <br/> |[KB 3158453](https://support.microsoft.com/kb/3158453 ) <br/> |
-||12 апреля  <br/> |14.0.7168.5000  <br/> |[KB 3150264](https://support.microsoft.com/kb/3150264) <br/> |
-||8 марта  <br/> |14.0.7167.5001  <br/> |[KB 3143491](https://support.microsoft.com/kb/3143491) <br/> |
-||9 февраля  <br/> |14.0.7166.5001  <br/> |[KB 3137471](https://support.microsoft.com/kb/3137471) <br/> |
-||12 января  <br/> |14.0.7165.5002  <br/> |[KB 3131245](https://support.microsoft.com/kb/3131245) <br/> |
-|2015  <br/> |8 декабря  <br/> |14.0.7164.5001  <br/> |[KB 3121650](https://support.microsoft.com/kb/3121650) <br/> |
-||10 ноября  <br/> |14.0.7162.5003  <br/> |[KB 3108456](https://support.microsoft.com/kb/3108456) <br/> |
-||13 октября  <br/> |14.0.7160.5000  <br/> |[KB 3099951](https://support.microsoft.com/kb/3099951) <br/> |
-||8 сентября  <br/> |14.0.7157.5002  <br/> |[KB 3092181](https://support.microsoft.com/kb/3092181) <br/> |
-||11 августа  <br/> |14.0.7155.5001  <br/> |[KB 3083805](https://support.microsoft.com/kb/3083805) <br/> |
-||14 июля  <br/> |14.0.7153.5002  <br/> |[KB 3077012](https://support.microsoft.com/kb/3077012) <br/> |
-||9 июня  <br/> |14.0.7151.5001  <br/> |[KB 3068507](https://support.microsoft.com/kb/3068507) <br/> |
-||12 мая  <br/> |14.0.7149.5001  <br/> |[KB 3061974](https://support.microsoft.com/kb/3061974) <br/> |
-||14 апреля  <br/> |14.0.7147.5001  <br/> |[KB 3050766](https://support.microsoft.com/kb/3050766) <br/> |
-||10 марта  <br/> |14.0.7145.5001  <br/> |[KB 3040794](https://support.microsoft.com/kb/3040794) <br/> |
-||10 февраля  <br/> |14.0.7143.5001  <br/> |[KB 3032763](https://support.microsoft.com/kb/3032763) <br/> |
-|2014 г.  <br/> |9 декабря  <br/> |14.0.7140.5002  <br/> |[KB 3020812](https://support.microsoft.com/kb/3020812) <br/> |
-||11 ноября  <br/> |14.0.7137.5001  <br/> |[KB 3012392](https://support.microsoft.com/kb/3012392) <br/> |
-||14 октября  <br/> |14.0.7134.5001  <br/> |[KB 3003800](https://support.microsoft.com/kb/3003800) <br/> |
-||12 августа  <br/> |14.0.7130.5000  <br/> |[KB 2989071](https://support.microsoft.com/kb/2989071) <br/> |
-||8 июля  <br/> |14.0.7128.5001  <br/> |[KB 2980001](https://support.microsoft.com/kb/2980001) <br/> |
-||13 мая  <br/> |14.0.7123.5002  <br/> |[KB 2964042](https://support.microsoft.com/kb/2964042) <br/> |
-||8 апреля  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
+|2018 |11 сентября  <br/> |14.0.7213.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+||14 августа  <br/> |14.0.7212.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+||10 июля  <br/> |14.0.7211.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
+||12 июня  <br/> |14.0.7210.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||8 мая  <br/> |14.0.7209.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+||10 апреля  <br/> |14.0.7197.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
+||13 марта  <br/> |14.0.7196.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
+||13 февраля  <br/> |14.0.7194.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4077965](https://support.microsoft.com/help/4077965) <br/> |
+||9 января  <br/> |14.0.7193.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4058103](https://support.microsoft.com/help/4058103) <br/> |
+|2017  <br/> |12 декабря  <br/> |14.0.7191.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4055454](https://support.microsoft.com/help/4055454) <br/> |
+||14 ноября  <br/> |14.0.7190.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4051890](https://support.microsoft.com/help/4051890) <br/> |
+||10 октября  <br/> |14.0.7189.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4043461](https://support.microsoft.com/help/4043461) <br/> |
+||12 сентября  <br/> |14.0.7188.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4040279](https://support.microsoft.com/help/4040279) <br/> |
+||27 июля  <br/> |14.0.7187.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4036121](https://support.microsoft.com/help/4036121) <br/> |
+||11 июля  <br/> |14.0.7185.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4033107](https://support.microsoft.com/help/4033107) <br/> |
+||13 июня  <br/> |14.0.7182.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4023935](https://support.microsoft.com/help/4023935) <br/> |
+||9 мая  <br/> |14.0.7181.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4020152](https://support.microsoft.com/help/4020152) <br/> |
+||11 апреля  <br/> |14.0.7180.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4016803](https://support.microsoft.com/help/4016803) <br/> |
+||14 марта  <br/> |14.0.7179.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4013886](https://support.microsoft.com/help/4013886) <br/> |
+|2016  <br/> |13 декабря  <br/> |14.0.7177.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+||8 ноября  <br/> |14.0.7176.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3200802](https://support.microsoft.com/kb/3200802) <br/> |
+||11 октября  <br/> |14.0.7174.1001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3194160](https://support.microsoft.com/kb/3194160) <br/> |
+||13 сентября  <br/> |14.0.7173.1001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3188548](https://support.microsoft.com/kb/3188548) <br/> |
+||9 августа  <br/> |14.0.7172.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3181038](https://support.microsoft.com/kb/3181038) <br/> |
+||12 июля  <br/> |14.0.7171.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3173835](https://support.microsoft.com/kb/3173835) <br/> |
+||14 июня  <br/> |14.0.7170.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3166910](https://support.microsoft.com/kb/3166910) <br/> |
+||10 мая  <br/> |14.0.7169.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3158453](https://support.microsoft.com/kb/3158453 ) <br/> |
+||12 апреля  <br/> |14.0.7168.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3150264](https://support.microsoft.com/kb/3150264) <br/> |
+||8 марта  <br/> |14.0.7167.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3143491](https://support.microsoft.com/kb/3143491) <br/> |
+||9 февраля  <br/> |14.0.7166.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3137471](https://support.microsoft.com/kb/3137471) <br/> |
+||12 января  <br/> |14.0.7165.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3131245](https://support.microsoft.com/kb/3131245) <br/> |
+|2015  <br/> |8 декабря  <br/> |14.0.7164.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3121650](https://support.microsoft.com/kb/3121650) <br/> |
+||10 ноября  <br/> |14.0.7162.5003  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3108456](https://support.microsoft.com/kb/3108456) <br/> |
+||13 октября  <br/> |14.0.7160.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3099951](https://support.microsoft.com/kb/3099951) <br/> |
+||8 сентября  <br/> |14.0.7157.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3092181](https://support.microsoft.com/kb/3092181) <br/> |
+||11 августа  <br/> |14.0.7155.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3083805](https://support.microsoft.com/kb/3083805) <br/> |
+||14 июля  <br/> |14.0.7153.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3077012](https://support.microsoft.com/kb/3077012) <br/> |
+||9 июня  <br/> |14.0.7151.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3068507](https://support.microsoft.com/kb/3068507) <br/> |
+||12 мая  <br/> |14.0.7149.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3061974](https://support.microsoft.com/kb/3061974) <br/> |
+||14 апреля  <br/> |14.0.7147.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3050766](https://support.microsoft.com/kb/3050766) <br/> |
+||10 марта  <br/> |14.0.7145.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3040794](https://support.microsoft.com/kb/3040794) <br/> |
+||10 февраля  <br/> |14.0.7143.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3032763](https://support.microsoft.com/kb/3032763) <br/> |
+|2014 г.  <br/> |9 декабря  <br/> |14.0.7140.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3020812](https://support.microsoft.com/kb/3020812) <br/> |
+||11 ноября  <br/> |14.0.7137.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3012392](https://support.microsoft.com/kb/3012392) <br/> |
+||14 октября  <br/> |14.0.7134.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3003800](https://support.microsoft.com/kb/3003800) <br/> |
+||12 августа  <br/> |14.0.7130.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2989071](https://support.microsoft.com/kb/2989071) <br/> |
+||8 июля  <br/> |14.0.7128.5001  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2980001](https://support.microsoft.com/kb/2980001) <br/> |
+||13 мая  <br/> |14.0.7123.5002  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2964042](https://support.microsoft.com/kb/2964042) <br/> |
+||8 апреля  <br/> |14.0.7122.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 февраля  <br/> |14.0.7113.5007  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2553378](https://support.microsoft.com/kb/2553378) <br/> |
-|2013  <br/> |14 мая  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
+|2013  <br/> |14 мая  <br/> |14.0.6137.5006  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2847265](https://support.microsoft.com/kb/2847265) <br/> |
 |2012 г.  <br/> |9 октября  <br/> |14.0.6126.5003  <br/> |[Бюллетень по безопасности корпорации Майкрософт MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Бюллетень по безопасности корпорации Майкрософт MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Определения обновления для Office 2010  <br/> |
 ||13 марта  <br/> |14.0.6117.5002  <br/> |Определения обновления для Office 2010  <br/> |
 |2011 г.  <br/> |13 декабря  <br/> |14.0.6114.5002  <br/> |[Бюллетень по безопасности корпорации Майкрософт MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2553439](https://support.microsoft.com/kb/2553439) <br/> Обновления для фильтра нежелательной почты Outlook 2010  <br/> |
