@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/16/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 1ca096f0a4595eb8017f5af719a8d4b85bd58d73
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: df6fa0c538e42af077c0c033bee48c1480510b94
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520741"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23940320"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -30,6 +30,24 @@ ms.locfileid: "23520741"
 > - Эти заметки о выпуске также относятся к Office 2016 для Mac, который представляет собой бессрочную версию Office для Mac и доступен для разовой покупки в розничных магазинах или в рамках соглашения о корпоративном лицензировании. Тем не менее некоторые функции, указанные в заметках о выпуске, доступны, только если у вас есть подписка на Office 365.
 > - Здесь приведены только ссылки для скачивания самых последних выпусков.
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
+
+## <a name="september-2018-release"></a>Выпуск от сентября 2018 года
+
+ **Дата выпуска:** 11 сентября 2018 г. 
+  
+ *Версия 16.17.0 (сборка 18090901)* 
+  
+Этот выпуск включает указанные ниже обновления.
+
+  
+|**Приложение**|**Обновления функций**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Word  <br/> |**Привлеките внимание \@упоминаниями:** используйте @mentions в комментариях, чтобы сообщить коллегам о том, что вам нужны их входные данные. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Рисование с рукописными фрагментами:** используйте мышь или сенсорную панель, а также ручки на вкладке Рисование для того, чтобы записывать, рисовать и выделять. [Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Вставка 3D-моделей для просмотра всех углов:** легко вставляйте 3D-модель и поворачивайте ее в диапазоне 360 градусов. [Подробнее](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Рисование с рукописными фрагментами:** используйте мышь или сенсорную панель, а также ручки на вкладке Рисование для того, чтобы записывать, рисовать и выделять. [Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Вставка 3D-моделей для просмотра всех углов:** легко вставляйте 3D-модель и поворачивайте ее в диапазоне 360 градусов. [Подробнее](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Настраиваемые сочетания клавиш вернулись:** мы учли ваши пожелания! По вашей просьбе мы вернули настраиваемые сочетания клавиш. [Подробнее](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Excel, связанная с раскрытием информации <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): уязвимость Microsoft Excel, связанная с удаленным выполнением кода <br/>  |[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Привлеките внимание \@упоминаниями:** используйте @mentions в комментариях, чтобы сообщить коллегам о том, что вам нужны их входные данные. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Рисование с рукописными фрагментами:** используйте мышь или сенсорную панель, а также ручки на вкладке Рисование для того, чтобы записывать, рисовать и выделять.[Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Вставка 3D-моделей для просмотра всех углов:** легко вставляйте 3D-модель и поворачивайте ее в диапазоне 360 градусов. [Подробнее](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Выбираемый вами шрифт — тот шрифт, который будет виден:** внедряйте настраиваемые шрифты в файлы, чтобы шрифтами перемещались вместе с ними в любое место назначения. [Подробнее](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Пакет обновления для PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
+|Функция автоматического обновления (Майкрософт) версии 4.2  <br/> |||[Пакет обновления функции автоматического обновления (Майкрософт)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Пакет Office  <br/> ||[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Graphics, связанная с удаленным выполнением кода <br/>||
 
 ## <a name="august-2018-release"></a>Выпуск августа 2018 г.
 
@@ -73,10 +91,8 @@ ms.locfileid: "23520741"
 *Версия 16.14.1 (сборка 18061302)*
 
 Этот выпуск устраняет проблему с пакетами обновлений для отдельных приложений.
-
-Вот ссылки для скачивания пакетов обновлений: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) и [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg).
-
 <br/><br/>
+
 
  **Дата выпуска:** 12 июня 2018 г. 
   
