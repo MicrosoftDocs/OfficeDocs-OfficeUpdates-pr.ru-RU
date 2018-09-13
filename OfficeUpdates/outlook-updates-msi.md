@@ -3,19 +3,19 @@ title: Последние обновления для версий Outlook, в �
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
-ms.openlocfilehash: 5f11b7c8fa3c653c414720582c75cbaf733e1e12
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 2e8c901b34b9a3e432efcbe91100210914af8227
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520501"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954775"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -44,7 +44,7 @@ ms.locfileid: "23520501"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за август 2018 г. <br/>[KB4032235](https://support.microsoft.com/en-us/help/4032235) <br/><br/> Общедоступное обновление для фильтра нежелательной почты Outlook 2016 за август 2016 г.  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за сентябрь 2018 г. <br/>[KB4092462](https://support.microsoft.com/en-us/help/4092462) <br/><br/> Общедоступное обновление для фильтра нежелательной почты Outlook 2016 за август 2016 г.  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Обновления для Outlook 2013
 
