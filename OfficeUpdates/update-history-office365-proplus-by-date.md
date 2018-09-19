@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 0075744d2adeae80a8ab591c598970b49c54d668
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
+ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965155"
+ms.lasthandoff: 09/18/2018
+ms.locfileid: "23998558"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -158,5 +158,5 @@ ms.locfileid: "23965155"
 - [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, рекомендуется опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), или же можно обратиться в [службу поддержки](https://support.microsoft.com/contactus).
+> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, рекомендуем опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), либо обратиться в [службу поддержки](https://support.microsoft.com/contactus).
 
