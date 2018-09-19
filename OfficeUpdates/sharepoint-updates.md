@@ -3,7 +3,7 @@ title: Обновления SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: afdc90d617c0cdcb6261d5a0a177c2e330375491
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520571"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954845"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -33,7 +33,8 @@ ms.locfileid: "23520571"
 
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
-|SharePoint Server 2016  <br/> Языковое исправление (MUI) для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Август 2018 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Сентябрь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Август 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Июль 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |Июнь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |Май 2018 г.  <br/> |
@@ -77,6 +78,7 @@ ms.locfileid: "23520571"
     
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Август 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Июль 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022184](https://support.microsoft.com/en-us/help/4022184) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022187](https://support.microsoft.com/en-us/help/4022187) <br/> |Июнь 2018 г.  <br/> |
@@ -92,7 +94,7 @@ ms.locfileid: "23520571"
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011073](https://support.microsoft.com/help/4011073) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011076](https://support.microsoft.com/help/4011076) <br/> |Август 2017 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3213563](https://support.microsoft.com/help/3213563) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3213569](https://support.microsoft.com/help/3213569) <br/> |Июль 2017 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3203428](https://support.microsoft.com/help/3203428) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3203430](https://support.microsoft.com/help/3203430) <br/> |Июнь 2017 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3191911](https://support.microsoft.com/help/3191911) <br/> [KB 3191913](https://support.microsoft.com/help/3191913) <br/> |Май 2017 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3191911](https://support.microsoft.com/help/3191911) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3191913](https://support.microsoft.com/help/3191913) <br/> |Май 2017 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3178727](https://support.microsoft.com/help/3178727) <br/> [KB3178730](https://support.microsoft.com/help/3178730)  <br/> |Апрель 2017 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3172456](https://support.microsoft.com/help/3172456) <br/> [KB3172497](https://support.microsoft.com/help/3172497) <br/> |Март 2017 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3141479](https://support.microsoft.com/kb/3141479) <br/> [KB3141481](https://support.microsoft.com/kb/3141481) <br/> |Январь 2017 г.  <br/> |
@@ -117,7 +119,7 @@ ms.locfileid: "23520571"
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3054864](https://support.microsoft.com/kb/3054864) <br/> [KB3054866](https://support.microsoft.com/kb/3054866) <br/> |Июнь 2015 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3039747](https://support.microsoft.com/kb/3039747) <br/> [KB3039780](https://support.microsoft.com/kb/3039780) <br/> |Май 2015 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB2965261](https://support.microsoft.com/kb/2965261) <br/> [KB2965266](https://support.microsoft.com/kb/2965266) <br/> |Апрель 2015 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2956159](https://support.microsoft.com/kb/2956159) <br/> [KB 2956166](https://support.microsoft.com/kb/2956166) <br/> |Март 2015 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2956159](https://support.microsoft.com/kb/2956159) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2956166](https://support.microsoft.com/kb/2956166) <br/> |Март 2015 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2920801](https://support.microsoft.com/kb/2920801) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2920804](https://support.microsoft.com/kb/2920804) <br/> |Февраль 2015 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2910945](https://support.microsoft.com/kb/2910945) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2910938](https://support.microsoft.com/kb/2910938) <br/> |Декабрь 2014 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2899468](https://support.microsoft.com/kb/2899468) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2889944](https://support.microsoft.com/kb/2889944) <br/> |Ноябрь 2014 г.  <br/> |
@@ -136,6 +138,7 @@ ms.locfileid: "23520571"
 
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Август 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Июнь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022143](https://support.microsoft.com/en-us/help/4022143) <br/> |Май 2018 г.  <br/> |
