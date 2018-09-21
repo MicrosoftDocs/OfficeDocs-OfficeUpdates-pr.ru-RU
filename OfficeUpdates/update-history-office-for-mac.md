@@ -3,19 +3,19 @@ title: История обновлений Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: f8b461a204840d8fab957c8f79364d3ed9a1fb83
-ms.sourcegitcommit: 974fa36131b2fad205b3fc64dcfa526a99b54eb7
+ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2018
-ms.locfileid: "23981455"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056138"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -29,7 +29,7 @@ ms.locfileid: "23981455"
 16.17 (18090901)  <br/> |11 сентября 2018 г.  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Эта информация также относится к Office 2016 для Mac, который является бессрочной версией Office для Mac и доступен для разовой покупки в розничном магазине или в рамках соглашения о корпоративном лицензировании.
+> - Эта информация более не относится к Office 2016 для Mac, который является бессрочной версией Office для Mac и доступен для разовой покупки в розничном магазине или в рамках соглашения о корпоративном лицензировании.  Старые версии, до 16.16 включительно, можно активировать с помощью корпоративной лицензии на Office для Mac 2016. Тем не менее начиная с версии 16.17 корпоративная лицензия 2016 более не является совместимой.
 > - Информацию о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск Office для Mac, см. в статье [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md).
 > - Если вам необходим ранний доступ к новым выпускам, присоединяйтесь к программе [предварительной оценки Office](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
