@@ -11,7 +11,7 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Semi-Annual Channel
+### Канал полугодового обновления
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
@@ -23,8 +23,9 @@
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office для Mac
-## [Журнал обновлений](update-history-office-for-mac.md)
-## [Заметки о выпуске](release-notes-office-for-mac.md)
+## [Обновление журнала (Office 365, 2019)](update-history-office-for-mac.md)
+## [Заметки о выпуске (Office 365, 2019)](release-notes-office-for-mac.md)
+## [Заметки о выпуске (2016)](release-notes-office-2016-mac.md)
 ## [Журнал выпуска MAU](release-history-microsoft-autoupdate.md)
 
 # Microsoft Office (Бессрочная)
