@@ -3,19 +3,19 @@ title: История обновлений Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056138"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004446"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -29,7 +29,8 @@ ms.locfileid: "24056138"
 16.17 (18090901)  <br/> |11 сентября 2018 г.  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Эта информация более не относится к Office 2016 для Mac, который является бессрочной версией Office для Mac и доступен для разовой покупки в розничном магазине или в рамках соглашения о корпоративном лицензировании.  Старые версии, до 16.16 включительно, можно активировать с помощью корпоративной лицензии на Office для Mac 2016. Тем не менее начиная с версии 16.17 корпоративная лицензия 2016 более не является совместимой.
+> - Начиная с версии 16.17 в сентябре 2018, эти сведения также относятся к Office 2019 для Mac, являющийся версией Office для Mac, доступной как одноразовая покупка в магазине розничной торговли или по соглашению о корпоративном лицензировании.
+> - Сведения о журнале обновления для версии 16.16 и более ранним версиям также относятся к Office 2016 для Mac, который также является версией Office для Mac, доступной для одноразовой покупки. Старые версии, до 16.16 включительно, можно активировать с корпоративной лицензией на Office 2016 для Mac. Не удается активировать версию 16.17 или более поздней версии с корпоративной лицензией Office 2016 для Mac.
 > - Информацию о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск Office для Mac, см. в статье [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md).
 > - Если вам необходим ранний доступ к новым выпускам, присоединяйтесь к программе [предварительной оценки Office](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
