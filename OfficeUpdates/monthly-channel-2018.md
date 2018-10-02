@@ -1,22 +1,7 @@
 ---
-title: Заметки о выпусках Monthly Channel в 2018 г.
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347015"
+title: "Заметки о выпусках Monthly Channel в 2018 году" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Предоставляет ИТ-специалистам заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 году"
 ---
+
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2018 г.
@@ -52,14 +37,14 @@ ms.locfileid: "25347015"
 ## <a name="version-1808-september-11"></a>Версия 1808: 11 сентября
 *Версия 1808 (сборка 10730.20102)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Excel, связанная с раскрытием информации
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): уязвимость Word PDF, связанная с удаленным исполнением кода
 
-### <a name="office-suite-security-updates"></a>Набор Office: Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   [CVE 2018 8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): уязвимость Win32k Graphics, связанная с удаленным выполнением кода
 
 
@@ -69,21 +54,21 @@ ms.locfileid: "25347015"
 ### <a name="access-feature-updates"></a>Access: Обновления компонентов
  - **Обновление, повторное связывание или удаление связанных таблиц.** Обновленный диспетчер связанных таблиц — это место для управления всеми источниками данных и связанными таблицами. [Подробнее](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
-### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
  - **Отключение пересылки собрания.** Предотвращение пересылки вашего собрания его участниками другим пользователям. Просто перейдите на ленте и щелкните "Параметры ответа". [Подробнее](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio. Обновления функций
  - **Насладитесь знаковым моментом при создании следующей диаграммы.** Выберите любой из 26 новых наборов элементов со значками тематик аналитики, искусства, праздников, людей, спорта и пр. 
  - **Создайте документ Word из фигур Visio.** Автоматически добавляйте в документ Word содержимое диаграмм, включая фигуры и метаданные. Настраивайте документ для создания описаний процессов и руководств по эксплуатации. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio и Power BI: лучше вместе.** Всего в несколько щелчков превратите диаграмму Visio в интерактивную визуализацию Power BI. [Подробнее](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio и Power BI: эффективная совместная работа**  Всего в несколько щелчков превратите диаграмму Visio в интерактивную визуализацию Power BI. [Подробнее](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project. Обновления функций
  - **Вы сможете увидеть больше с карточками доске задач.** Если заголовки сами по себе ни о чем не говорят, настройте карточки доски задач, чтобы представить наиболее важные детали. [Подробнее](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: Обновления, не связанные с безопасностью
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 -  Устраняет проблему в Excel, при которой пунктирная линия, отмечающая диапазон ячеек, которые пользователь выбрал для копирования, не исчезают и остаются в буфере обмена даже при последующих операциях пользователя, как, например, "вставка". 
 
-### <a name="outlook-non-security-updates"></a>Outlook: Обновления, не связанные с безопасностью
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
  - Устраняет проблему, которая приводила к исчезновению ссылки "Щелкните для просмотра подробных сведений..." из списка результатов поиска для некоторых пользователей с настройкой нескольких учетных записей Exchange.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
@@ -151,9 +136,9 @@ ms.locfileid: "25347015"
 ## <a name="version-1806-june-25"></a>Версия 1806: 25 июня
 *Версия 1806 (сборка 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel: Обновления компонентов
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
  - **Улучшено редактирование ячеек и строки формул:** теперь вы можете использовать клавиши CTRL+A для выделения текста в ячейке или в строке формул. Также улучшена поддержка эмодзи и других сложных знаков.[Подробнее](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **Улучшена поддержка SVG:** вы можете вставлять SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **Улучшена поддержка SVG.** Вы можете вставлять SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
  - **Повторение по умолчанию:** в диалоговом окне "Повторение встречи" (в рамках "Диапазон повторения") первым по умолчанию отображается параметр "End by" (вместо  "No end date"),  и — это первый параметр из списка и установлена дата окончания по умолчанию.
@@ -306,7 +291,7 @@ ms.locfileid: "25347015"
 -   Исправьте ошибку, из-за которой совместное редактирование одной презентации несколькими пользователями приводит к неправильному дублированию образцов слайдов.
 -   Исправьте ошибку, из-за которой выход из защищенного просмотра при открытии файла, сохраненного в OneDrive, приводит к сбою PowerPoint.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса: Обновления, не связанные с безопасностью
+### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, связанная с поддержкой TLS 1.2.
 
 ### <a name="word-non-security-updates"></a>Word: Обновления, не связанные с безопасностью
@@ -324,7 +309,7 @@ ms.locfileid: "25347015"
 ### <a name="excel-feature-updates"></a>Excel: Обновления компонентов
 -   **Microsoft Translator:** переводите слова, фразы и предложения на другой язык, используя Microsoft Translator. Соответствующая кнопка находится на вкладке "Рецензирование" на ленте.
 
-### <a name="excel-non-security-updates"></a>Excel: Обновления, не связанные с безопасностью
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 -   Устранена проблема, в результате которой при выборе быстрой печати для книги Excel, вложенной в сообщение в Outlook, она могла не выводиться на печать.
 -   Устранена проблема, из-за которой нажатие гиперссылки может привести к сбою Excel.
 -   Исправьте ошибку, в результате которой использование функций куба приводит к сбою Excel.
@@ -360,7 +345,7 @@ ms.locfileid: "25347015"
 ### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): обход функций безопасности Excel в Microsoft Office
 
-### <a name="word-security-updates"></a>Word: Обновления для системы безопасности
+### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): уязвимость Microsoft Office, связанная с раскрытием информации
 
 
