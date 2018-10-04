@@ -1,7 +1,22 @@
 ---
-title: "Заметки о выпусках Monthly Channel в 2018 году" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Предоставляет ИТ-специалистам заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 году"
+title: Заметки о выпусках Monthly Channel в 2018 г.
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362714"
 ---
-
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2018 г.
@@ -14,9 +29,8 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 *Версия 1809 (сборка 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: Обновления компонентов
-- **Быстрый поиск** Мы добавили турбо-зарядку ваших вычислений VLOOKUP, HLOOKUP и MATCH, чтобы вы могли быстрее получать ответы.
-- **Узнайте больше о ваших данных** Приложения Office 365 наделены искусственным интеллектом (AI), что поможет вам наиболее эффективно выполнять работу. В панели идеи AI использует искусственный интеллект для создания смарт-предложений, требующих действий, благодаря которым вы можете сохранить время и улучшить содержимое.[Подробнее](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Calling all Get & Transform fans** Если вы много используете Get & Transform, вы будете счастливы узнать, что возможности Столбца функции Example были улучшены. А также, были улучшены многие соединители. [Подробнее](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Быстрый поиск.** Мы добавили турбо-заряд для ваших вычислений ВПР, ГПР и ПОИСКПОЗ, чтобы вы могли быстрее получать ответы. [Подробнее](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Поклонникам функции Get & Transform посвящается.** Если вы часто используете Get & Transform, вы будете рады узнать, что функция "Столбец из примера" (Column From Example) была улучшена. А также, были улучшены многие соединители. [Подробнее](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
@@ -25,19 +39,20 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 - **Начало поиска в правописании** После выполнения поиска Outlook будет предоставлять запрос предложения для поиска с коррекцией орфографии.
 - **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Обновления компонентов
-- **Новые средства проверки правописания** Не волнуйтесь о написании ваших слов. PowerPoint теперь предоставляет  предложения по грамматике и написанию. [Подробнее](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+### <a name="powerpoint-feature-updates"></a>PowerPoint: обновление компонентов
+- **Смотрите, как оживают ваши слайды.** Вставляйте анимированные трехмерные графики, чтобы увидеть биение сердца, орбиту планеты и ярость тираннозавра рекса на экране.  [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Новые средства проверки правописания.** Не волнуйтесь о написании слов. PowerPoint теперь предоставляет  предложения по грамматике и написанию. [Подробнее](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Обновления компонентов
 - **Привлеките внимание \@упоминаниями:** используйте @mentions в комментариях, чтобы сообщить коллегам о том, что вам нужны их входные данные. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Конвертер редактора формул** Конвертер позволяет пользователям преобразовывать формулы, созданные с помощью редактора формул Майкрософт в формате Office Math ML, чтобы разрешить редактирование. 
+- **Конвертер редактора формул** Конвертер позволяет пользователям преобразовывать формулы, созданные с помощью редактора формул Майкрософт в формате Office Math ML, чтобы разрешить редактирование.
 
 ## <a name="version-1808-september-11"></a>Версия 1808: 11 сентября
 *Версия 1808 (сборка 10730.20102)*
 
-### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Excel, связанная с раскрытием информации
 
@@ -84,7 +99,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ### <a name="access-security-updates"></a>Access: Обновления для системы безопасности
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным исполнением кода 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации 
@@ -176,11 +191,11 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ## <a name="version-1805-june-12"></a>Версия 1805: 12 июня
 *Версия 1805 (сборка 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
-### <a name="outlook-security-updates"></a>Outlook: Обновления для системы безопасности
+### <a name="outlook-security-updates"></a>Outlook: обновления для системы безопасности
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Обновления, не связанные с безопасностью
@@ -246,7 +261,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ## <a name="version-1804-may-8"></a>Версия 1804: 8 мая
 *Версия 1804 (сборка 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
@@ -284,7 +299,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ## <a name="version-1803-april-11"></a>Версия 1803: 11 апреля
 *Версия 1803 (сборка 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Обновления, не связанные с безопасностью
@@ -342,7 +357,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ### <a name="access-security-updates"></a>Access: Обновления для системы безопасности
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): уязвимость Microsoft Access, связанная с удаленным выполнением кода
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): обход функций безопасности Excel в Microsoft Office
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
@@ -374,7 +389,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ## <a name="version-1801-february-13"></a>Версия 1801: 13 февраля
 *Версия 1801 (сборка 9001.2171)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="outlook-security-updates"></a>Outlook: Обновления для системы безопасности
@@ -457,7 +472,7 @@ title: "Заметки о выпусках Monthly Channel в 2018 году" ms.
 ## <a name="version-1711-january-9"></a>Версия 1711: 9 января
 *Версия 1711 (сборка 8730.2175)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [Рекомендация 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): углубленное обновление защиты Microsoft Office
 
