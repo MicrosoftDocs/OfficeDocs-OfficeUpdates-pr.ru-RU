@@ -3,7 +3,7 @@ title: Обновления SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,54 +14,55 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d58388fdd2653eec09e3645853693faa0da88893
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954845"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456813"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
 Централизованный поиск обновлений для [SharePoint Server 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) и [SharePoint 2010](#sharepoint-2010-update-history) и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
 
-Сведения о последних обновлениях SharePoint Online и Office 365 см. в [плане обновлений Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
+Сведения о последних обновлениях SharePoint Online и Office 365 см. в [Плане обновлений Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2016-update-history"></a>Журнал обновлений SharePoint 2016
 
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи базы знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/>  |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Сентябрь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Август 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Август 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Июль 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |Июнь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |Май 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018336](https://support.microsoft.com/en-us/help/4018336) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4018340](https://support.microsoft.com/en-us/help/4018340) <br/> |Апрель 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018293](https://support.microsoft.com/en-us/help/4018293) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011687](https://support.microsoft.com/en-us/help/4011687) <br/> |Март 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |Июнь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |Май 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018336](https://support.microsoft.com/en-us/help/4018336) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4018340](https://support.microsoft.com/en-us/help/4018340) <br/> |Апрель 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4018293](https://support.microsoft.com/en-us/help/4018293) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011687](https://support.microsoft.com/en-us/help/4011687) <br/> |Март 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011680](https://support.microsoft.com/help/4011680) <br/> |Февраль 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011642](https://support.microsoft.com/help/4011642) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011645](https://support.microsoft.com/help/4011645) <br/> |Январь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011576](https://support.microsoft.com/help/4011576) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011578](https://support.microsoft.com/help/4011578) <br/> |Декабрь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011244](https://support.microsoft.com/help/4011244) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011243](https://support.microsoft.com/help/4011243) <br/> |Ноябрь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011217](https://support.microsoft.com/help/4011217) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011161](https://support.microsoft.com/help/4011161) <br/> |Октябрь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011127](https://support.microsoft.com/help/4011127) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011112](https://support.microsoft.com/help/4011112) <br/> |Сентябрь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011049](https://support.microsoft.com/help/4011049) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011053](https://support.microsoft.com/help/4011053) <br/> |Август 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3213544](https://support.microsoft.com/help/3213544) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3213543](https://support.microsoft.com/help/3213543) <br/> |Июль 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3203432](https://support.microsoft.com/help/3203432) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3203433](https://support.microsoft.com/help/3203433) <br/> |Июнь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3191880](https://support.microsoft.com/help/3191880) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3191884](https://support.microsoft.com/help/3191884) <br/> |Май 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3178718](https://support.microsoft.com/help/3178718) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3178721](https://support.microsoft.com/help/3178721)  <br/> |Апрель 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3178672](https://support.microsoft.com/help/3178672) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3178675](https://support.microsoft.com/help/3178675) <br/> |Март 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3141515](https://support.microsoft.com/help/3141515) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3141517](https://support.microsoft.com/help/3141517) <br/> |Февраль 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB3141486](https://support.microsoft.com/kb/3141486) <br/> [KB3141487](https://support.microsoft.com/kb/3141487) <br/> |Январь 2017 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB3128014](https://support.microsoft.com/kb/3128014) <br/> [KB3128017](https://support.microsoft.com/kb/3128017) <br/> |Декабрь 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB3127940](https://support.microsoft.com/kb/3127940) <br/> [KB3127942](https://support.microsoft.com/kb/3127942) <br/> |Ноябрь 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB3118372](https://support.microsoft.com/kb/3118372) <br/> [KB3118376](https://support.microsoft.com/kb/3118376) <br/> |Октябрь 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс SharePoint Server 2016  <br/> |[KB3118289](https://support.microsoft.com/kb/3118289) <br/> [KB3118295](https://support.microsoft.com/kb/3118295) <br/> |Сентябрь 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс SharePoint Server 2016  <br/> |[KB3115437](https://support.microsoft.com/kb/3115437) <br/> [KB3115441](https://support.microsoft.com/kb/3115441) <br/> |Август 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс SharePoint Server 2016  <br/> |[KB3115299](https://support.microsoft.com/kb/3115299) <br/> [KB3115304](https://support.microsoft.com/kb/3115304) <br/> |Июль 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс SharePoint Server 2016  <br/> |[KB3115181](https://support.microsoft.com/kb/3115181) <br/> [KB3115184](https://support.microsoft.com/kb/3115184) <br/> |Июнь 2016 г.  <br/> |
-|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс SharePoint Server 2016  <br/> |[KB3115088](https://support.microsoft.com/kb/3115088) <br/> [KB2920690](https://support.microsoft.com/kb/2920690) <br/> |Май 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011642](https://support.microsoft.com/help/4011642) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011645](https://support.microsoft.com/help/4011645) <br/> |Январь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011576](https://support.microsoft.com/help/4011576) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011578](https://support.microsoft.com/help/4011578) <br/> |Декабрь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011244](https://support.microsoft.com/help/4011244) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011243](https://support.microsoft.com/help/4011243) <br/> |Ноябрь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011217](https://support.microsoft.com/help/4011217) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011161](https://support.microsoft.com/help/4011161) <br/> |Октябрь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011127](https://support.microsoft.com/help/4011127) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011112](https://support.microsoft.com/help/4011112) <br/> |Сентябрь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4011049](https://support.microsoft.com/help/4011049) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4011053](https://support.microsoft.com/help/4011053) <br/> |Август 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3213544](https://support.microsoft.com/help/3213544) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3213543](https://support.microsoft.com/help/3213543) <br/> |Июль 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3203432](https://support.microsoft.com/help/3203432) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3203433](https://support.microsoft.com/help/3203433) <br/> |Июнь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3191880](https://support.microsoft.com/help/3191880) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3191884](https://support.microsoft.com/help/3191884) <br/> |Май 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3178718](https://support.microsoft.com/help/3178718) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3178721](https://support.microsoft.com/help/3178721)  <br/> |Апрель 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3178672](https://support.microsoft.com/help/3178672) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3178675](https://support.microsoft.com/help/3178675) <br/> |Март 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3141515](https://support.microsoft.com/help/3141515) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 3141517](https://support.microsoft.com/help/3141517) <br/> |Февраль 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[KB3141486](https://support.microsoft.com/kb/3141486) <br/> [KB3141487](https://support.microsoft.com/kb/3141487) <br/> |Январь 2017 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[KB3128014](https://support.microsoft.com/kb/3128014) <br/> [KB3128017](https://support.microsoft.com/kb/3128017) <br/> |Декабрь 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[KB3127940](https://support.microsoft.com/kb/3127940) <br/> [KB3127942](https://support.microsoft.com/kb/3127942) <br/> |Ноябрь 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление и исправление MUI для SharePoint Server 2016  <br/> |[KB3118372](https://support.microsoft.com/kb/3118372) <br/> [KB3118376](https://support.microsoft.com/kb/3118376) <br/> |Октябрь 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс (MUI) SharePoint Server 2016  <br/> |[KB3118289](https://support.microsoft.com/kb/3118289) <br/> [KB3118295](https://support.microsoft.com/kb/3118295) <br/> |Сентябрь 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс (MUI) SharePoint Server 2016  <br/> |[KB3115437](https://support.microsoft.com/kb/3115437) <br/> [KB3115441](https://support.microsoft.com/kb/3115441) <br/> |Август 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс (MUI) SharePoint Server 2016  <br/> |[KB3115299](https://support.microsoft.com/kb/3115299) <br/> [KB3115304](https://support.microsoft.com/kb/3115304) <br/> |Июль 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс (MUI) SharePoint Server 2016  <br/> |[KB3115181](https://support.microsoft.com/kb/3115181) <br/> [KB3115184](https://support.microsoft.com/kb/3115184) <br/> |Июнь 2016 г.  <br/> |
+|SharePoint Server 2016  <br/> Многоязычный пользовательский интерфейс (MUI) SharePoint Server 2016  <br/> |[KB3115088](https://support.microsoft.com/kb/3115088) <br/> [KB2920690](https://support.microsoft.com/kb/2920690) <br/> |Май 2016 г.  <br/> |
 |SharePoint Server 2016  <br/> |[KB2920721](https://support.microsoft.com/kb/2920721) <br/> |Апрель 2016 г.  <br/> |
    
 
@@ -70,14 +71,15 @@ ms.locfileid: "23954845"
 ## <a name="sharepoint-2013-update-history"></a>Журнал обновлений SharePoint 2013
 
  
-Для накопительных пакетов обновления предоставляются следующие пакеты:
+Для накопительных обновления предоставляются следующие пакеты:
   
 - SharePoint Foundation 2013
     
 - SharePoint Server 2013 (этот пакет также используется для обновления SharePoint Foundation 2013)
     
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи базы знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Август 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Июль 2018 г.  <br/> |
@@ -136,8 +138,9 @@ ms.locfileid: "23954845"
 
 ## <a name="sharepoint-2010-update-history"></a>Журнал обновлений SharePoint 2010
 
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи базы знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Август 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Июнь 2018 г.  <br/> |
@@ -177,7 +180,7 @@ ms.locfileid: "23954845"
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2899585](https://support.microsoft.com/kb/2899585) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2899583](https://support.microsoft.com/kb/2899583) <br/> |Декабрь 2014 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2889933](https://support.microsoft.com/kb/2889933) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2899478](https://support.microsoft.com/kb/2899478) <br/> |Ноябрь 2014 г.  <br/> |
 |SharePoint Foundation 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2889946](https://support.microsoft.com/kb/2889946) <br/> |Октябрь 2014 г.  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2889932](https://support.microsoft.com/kb/2889932), [KB 2889909](https://support.microsoft.com/kb/2889909) <br/> [KB 2883103](https://support.microsoft.com/kb/2883103) <br/> |Сентябрь 2014 г.  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2889932](https://support.microsoft.com/kb/2889932), [СТАТЬЯ БАЗЫ ЗНАНИЙ 2889909](https://support.microsoft.com/kb/2889909) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2883103](https://support.microsoft.com/kb/2883103) <br/> |Сентябрь 2014 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2883026](https://support.microsoft.com/kb/2883026) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2883005](https://support.microsoft.com/kb/2883005) <br/> |Июль 2014 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2880975](https://support.microsoft.com/kb/2880975) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2880972](https://support.microsoft.com/kb/2880972) <br/> |Июнь 2014 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 2878270](https://support.microsoft.com/kb/2878270) <br/> [СТАТЬЯ БАЗЫ ЗНАНИЙ 2878250](https://support.microsoft.com/kb/2878250) <br/> |Апрель 2014 г.  <br/> |
@@ -205,7 +208,7 @@ ms.locfileid: "23954845"
   - [Обновления Workflow Manager](https://blogs.msdn.microsoft.com/workflowteam/)
    
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Статьи по теме
 
 - [Установка обновления программного обеспечения для SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [Обзор обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)

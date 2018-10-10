@@ -1,9 +1,9 @@
 ---
-title: Обновления для Project Server
+title: Обновления Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -12,15 +12,15 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном месте. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954795"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456703"
 ---
-# <a name="project-server-updates"></a>Обновления для Project Server
+# <a name="project-server-updates"></a>Обновления Project Server
 
 Воспользуйтесь ссылками на этой странице, чтобы узнать больше об обновлениях для Project Server 2013 и Project Server 2010 и скачать сами обновления. 
 > [!NOTE]
@@ -28,8 +28,9 @@ ms.locfileid: "23954795"
   
 ## <a name="project-server-2013-update-history"></a>История обновлений Project Server 2013
   
-|**Дата выпуска**|**Номер в базе знаний**|
+|**Дата выпуска**|**Номер статьи базы знаний**|
 |:-----|:-----|:-----|
+|Октябрь 2018 г.  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Сентябрь 2018 г.  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Август 2018 г.  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Июль 2018 г.  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -78,8 +79,9 @@ ms.locfileid: "23954795"
    
 ## <a name="project-server-2010-update-history"></a>История обновлений Project Server 2010
 
-|**Дата выпуска**|**Номер в базе знаний**|
+|**Дата выпуска**|**Номер статьи базы знаний**|
 |:-----|:-----|:-----|
+|Октябрь 2018 г.  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Сентябрь 2018 г.  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Август 2018 г.  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Июль 2018 г.  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
@@ -128,7 +130,7 @@ ms.locfileid: "23954795"
 |Июль 2013 г.  |[KB2687452](https://support.microsoft.com/kb/2687452) (пакет обновления 2) <br/> |
    
 
-## <a name="related-topics"></a>Похожие темы
+## <a name="related-topics"></a>Статьи по теме
 
-- [Обновления Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Обновления для Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 - [Обновления SharePoint](sharepoint-updates.md)
