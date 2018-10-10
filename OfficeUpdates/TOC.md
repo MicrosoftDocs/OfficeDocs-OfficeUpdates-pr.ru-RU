@@ -11,7 +11,7 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Канал полугодового обновления
+### Semi-Annual Channel.
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
@@ -34,6 +34,7 @@
 ## [Обновляет Скайп для бизнеса](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016 MSP-файлов](msp-files-office-2016.md)
 ## [Office 2013 MSP-файлов](msp-files-office-2013.md)
+## [Обновления Office 2019](update-history-office-2019.md)
 ## [Обновления для Office 2013](update-history-office-2013.md)
 ## [Обновления для Office 2010](update-history-office-2010-click-to-run.md)
 
