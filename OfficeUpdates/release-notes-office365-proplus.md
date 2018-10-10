@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 671eb87440073b6ab096d4e9611e6b112baf3534
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 1e746cb80014c2603951933adfa63db1f2dab3c9
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456753"
+ms.locfileid: "25459396"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -26,10 +26,10 @@ ms.locfileid: "25456753"
   
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 09 октября 2018 года  <br/> |Выпущена версия 1810 <br/>|
-|Semi-Annual (Targeted)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 09 октября 2018 года  <br/> | 13 марта 2019 года <br/>|
-|Semi-Annual <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-october-9) <br/> |09 октября 2018 года  <br/> | 10 декабря 2019 года <br/>|
-|Semi-Annual <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |09 октября 2018 года  <br/> | 13 марта 2019 года <br/>|
+|Ежемесячно  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 09 октября 2018 г.  <br/> |Выпущена версия 1810 <br/>|
+|Semi-Annual (Targeted)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 09 октября 2018 г.  <br/> | 13 марта 2019 года <br/>|
+|Semi-Annual <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |09 октября 2018 г.  <br/> | 10 декабря 2019 года <br/>|
+|Semi-Annual <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |09 октября 2018 г.  <br/> | 13 марта 2019  г. <br/>|
 
 Информацию о приблизительном объеме загружаемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы загружаемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
 

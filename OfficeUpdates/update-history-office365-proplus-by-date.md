@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: d432974218b8d9d7ffa7d31b5364aa70c48ac28f
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456773"
+ms.locfileid: "25459406"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>История обновлений Office 365 профессиональный плюс (по дате)
 
@@ -32,7 +32,7 @@ ms.locfileid: "25456773"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-Annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 г.|9 октября |[**Версия 1809 (сборка 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Версия 1808 (сборка 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Версия 1808 (сборка 9126.2295)**](semi-annual-channel-2018.md#version-1808-october-9)  <br/>  [Версия 1708 (сборка 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018 г.|9 октября |[**Версия 1809 (сборка 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Версия 1808 (сборка 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Версия 1803 (сборка 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Версия 1708 (сборка 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018 г.|27 сентября   |[Версия 1809 (сборка 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018 г.|11 сентября   |[Версия 1808 (сборка 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Версия 1808 (сборка 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Версия 1803 (сборка 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Версия 1708 (сборка 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 г.|5 сентября   |[Версия 1808 (сборка 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
