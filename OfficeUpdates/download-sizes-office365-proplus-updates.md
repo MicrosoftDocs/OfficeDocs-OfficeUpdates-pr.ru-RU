@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: a5c51a9ccaf7484360965371868b9d444f0b1eda
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456823"
+ms.locfileid: "25459416"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры загрузки для обновлений Office 365 профессиональный плюс
 
@@ -51,12 +51,12 @@ ms.locfileid: "25456823"
   
 ### <a name="semi-annual-channel"></a>Semi-Annual Channel
 
-Самый последний выпуск — версия 1808 (сборка 9126.2295).
+Самый свежий выпуск — версия 1803 (сборка 9126.2295).
   
 |**Обновление выпуска от**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
 |Версия 1803 (сборка 9126.2275)  <br/> |14 августа 2018 г.  <br/> |104 <br/> |
-|Версия 11803 (сборка 9126.2282)  <br/> |11 сентября 2018 г.  <br/> |100<br/> |
+|Версия 1803 (сборка 9126.2282)  <br/> |11 сентября 2018 г.  <br/> |100<br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
@@ -504,7 +504,7 @@ ms.locfileid: "25456823"
 |Версия 1711 (сборка 8730.2175)  <br/> |9 января 2018 г.  <br/> |233  <br/> |
    
   
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Статьи по теме
 
 - [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [История обновлений Office 365 профессиональный плюс (по дате)](update-history-office365-proplus-by-date.md)
