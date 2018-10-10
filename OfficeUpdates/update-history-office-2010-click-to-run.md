@@ -3,19 +3,19 @@ title: Журнал обновления для продуктов Office 2010 C
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Содержит ИТ-специалистов по Бессрочная версий Office 2010, использующих Click-to-Run с журнала обновлений
-ms.openlocfilehash: 2c98b159a7799b0b4b4116feaaecab5823e540dd
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: b8dac3a66f54c2048c36e466925b0fa8badaf8f5
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954805"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456763"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления для продуктов Office 2010 Click-to-Run
 
@@ -30,7 +30,7 @@ ms.locfileid: "23954805"
 Если вы используете один из этих продуктов, и вы хотите убедиться, что вы в актуальном состоянии, проверьте номер версии Office и вручную обновить Office, если это необходимо.
   
 > [!NOTE]
-> Последние версии Office 2010 — это **14.0.7213.5000**, которая была выпущена в 11 сентября 2018. 
+> Последние версии Office 2010 — это **14.0.7214.5000**, которая была выпущена в 9 октября 2018. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +54,8 @@ ms.locfileid: "23954805"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2018 |11 сентября  <br/> |14.0.7213.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+|2018 |9 октября  <br/> |14.0.7214.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
+| |11 сентября  <br/> |14.0.7213.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
 ||14 августа  <br/> |14.0.7212.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
 ||10 июля  <br/> |14.0.7211.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||12 июня  <br/> |14.0.7210.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
