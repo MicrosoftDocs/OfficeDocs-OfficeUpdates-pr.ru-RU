@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493875"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504991"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -37,7 +37,7 @@ ms.locfileid: "25493875"
 ### <a name="powerpoint-security-updates"></a>PowerPoint: обновления для системы безопасности 
 -   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода
 
-### <a name="word-security-updates"></a>Word: обновления для системы безопасности 
+### <a name="word-security-updates"></a>Word. Обновления для системы безопасности 
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): уязвимость Microsoft Word, связанная с удаленным выполнением кода 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): углубленное обновление защиты Microsoft Office 
 
@@ -49,20 +49,19 @@ ms.locfileid: "25493875"
 *Версия 1809 (сборка 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: Обновления компонентов
-- **Быстрый поиск.** Мы добавили турбо-заряд для ваших вычислений ВПР, ГПР и ПОИСКПОЗ, чтобы вы могли быстрее получать ответы. [Подробнее](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Поклонникам функции Get & Transform посвящается.** Если вы часто используете Get & Transform, вы будете рады узнать, что функция "Столбец из примера" (Column From Example) была улучшена. А также, были улучшены многие соединители. [Подробнее](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Быстрый поиск**. Мы добавили турбо-зарядку ваших вычислений VLOOKUP, HLOOKUP и MATCH, чтобы вы могли быстрее получать ответы. [Подробнее](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- Поклонникам функции**Calling all Get & Transform**. Если вы часто используете Get & Transform, вы будете рады узнать, что функция "Столбец из примера" (Column From Example) была улучшена. А также, были улучшены многие соединители.  [Подробнее](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает одинаково. Кроме того, они отлично смотрятся на экранах любого размера.  [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
-- Информацию о том,**что ожидается в ближайшее время** см. в статье "Испытайте новые функциональные возможности пользователей, прежде чем они будут выпущены и сообщите нам свое мнение". [Подробнее](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Просмотрите URL-адрес безопасных ссылок** Безопасные ссылки помогают защитить вас от вредоносных URL-адресов, полученных по электронной почте, но они скрывают исходный URL-адрес. Теперь просто наведите указатель мыши на URL-адрес для просмотра оригинала, даже в ссылках защищёнными безопасными ссылками.
-- **Начало поиска в правописании** После выполнения поиска Outlook будет предоставлять запрос предложения для поиска с коррекцией орфографии.
-- **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- Информацию о том, **Что ожидается в ближайшее время** см. в статье "Испытайте новые функциональные возможности пользователей, прежде чем они будут выпущены и сообщите нам свое мнение". [Подробнее](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **Просмотреть URL-адрес безопасных ссылок**. Безопасные ссылки помогают защитить вас от вредоносных URL-адресов, полученных по электронной почте, но они скрывают исходный URL-адрес. Теперь просто наведите указатель мыши на URL-адрес для просмотра оригинала, даже в ссылках, защищёнными безопасными ссылками.
+- **Начало поиска в правописании**. После выполнения поиска Outlook будет предоставлять запрос предложения для поиска с коррекцией орфографии.
+- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает одинаково. Кроме того, они отлично смотрятся на экранах любого размера.  [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: обновление компонентов
-- **Смотрите, как оживают ваши слайды.**   Вставляйте анимированные трехмерные графики, чтобы увидеть биение сердца, орбиту планеты и ярость тираннозавра рекса на экране.  [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Новые средства проверки правописания.** Не волнуйтесь о написании слов. PowerPoint теперь предоставляет  предложения по грамматике и написанию. [Подробнее](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
-- **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Смотрите, как оживают ваши слайды**.  Вставляйте анимированные трехмерные графики, чтобы увидеть биение сердца, орбиту планеты и ярость тираннозавра рекса на экране.  [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Обновления компонентов
 - **Привлеките внимание \@упоминаниями:** используйте @mentions в комментариях, чтобы сообщить коллегам о том, что вам нужны их входные данные. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
@@ -89,7 +88,7 @@ ms.locfileid: "25493875"
 ### <a name="access-feature-updates"></a>Access: Обновления компонентов
  - **Обновление, повторное связывание или удаление связанных таблиц.** Обновленный диспетчер связанных таблиц — это место для управления всеми источниками данных и связанными таблицами. [Подробнее](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
-### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
  - **Отключение пересылки собрания.** Предотвращение пересылки вашего собрания его участниками другим пользователям. Просто перейдите на ленте и щелкните "Параметры ответа". [Подробнее](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio. Обновления функций
@@ -100,7 +99,7 @@ ms.locfileid: "25493875"
  ### <a name="project-feature-updates"></a>Project. Обновления функций
  - **Вы сможете увидеть больше с карточками доске задач.** Если заголовки сами по себе ни о чем не говорят, настройте карточки доски задач, чтобы представить наиболее важные детали. [Подробнее](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: Обновления, не связанные с безопасностью
+### <a name="excel-non-security-updates"></a>Excel: обновления, не связанные с безопасностью
 -  Устраняет проблему в Excel, при которой пунктирная линия, отмечающая диапазон ячеек, которые пользователь выбрал для копирования, не исчезают и остаются в буфере обмена даже при последующих операциях пользователя, как, например, "вставка". 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: обновления, не связанные с безопасностью
@@ -119,7 +118,7 @@ ms.locfileid: "25493875"
 ### <a name="access-security-updates"></a>Access: Обновления для системы безопасности
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
-### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным исполнением кода 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации 
@@ -211,7 +210,7 @@ ms.locfileid: "25493875"
 ## <a name="version-1805-june-12"></a>Версия 1805: 12 июня
 *Версия 1805 (сборка 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
@@ -281,7 +280,7 @@ ms.locfileid: "25493875"
 ## <a name="version-1804-may-8"></a>Версия 1804: 8 мая
 *Версия 1804 (сборка 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
@@ -290,7 +289,7 @@ ms.locfileid: "25493875"
 ### <a name="outlook-security-updates"></a>Outlook: обновления для системы безопасности
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): уязвимость Microsoft Outlook, связанная с обходом функций безопасности
 
-### <a name="office-suite-security-updates"></a>Набор Office: Обновления для системы безопасности
+### <a name="office-suite-security-updates"></a>Набор Office: обновления для системы безопасности
 -   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
@@ -344,7 +343,7 @@ ms.locfileid: "25493875"
 ### <a name="excel-feature-updates"></a>Excel: Обновления компонентов
 -   **Microsoft Translator:** переводите слова, фразы и предложения на другой язык, используя Microsoft Translator. Соответствующая кнопка находится на вкладке "Рецензирование" на ленте.
 
-### <a name="excel-non-security-updates"></a>Excel: Обновления, не связанные с безопасностью
+### <a name="excel-non-security-updates"></a>Excel: обновления, не связанные с безопасностью
 -   Устранена проблема, в результате которой при выборе быстрой печати для книги Excel, вложенной в сообщение в Outlook, она могла не выводиться на печать.
 -   Устранена проблема, из-за которой нажатие гиперссылки может привести к сбою Excel.
 -   Исправьте ошибку, в результате которой использование функций куба приводит к сбою Excel.
@@ -409,7 +408,7 @@ ms.locfileid: "25493875"
 ## <a name="version-1801-february-13"></a>Версия 1801: 13 февраля
 *Версия 1801 (сборка 9001.2171)*
 
-### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="outlook-security-updates"></a>Outlook: Обновления для системы безопасности
