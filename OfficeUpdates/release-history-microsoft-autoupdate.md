@@ -3,25 +3,26 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 06d294c7ad348451fc9b8acabc5fd58a826338d9
-ms.sourcegitcommit: 977f06b0e459e7a29fdcae5bc3ed9d72f7c55bdb
+ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
+ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "23796743"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23936669"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
 Рекомендуем всегда выполнять обновление до последней версии функции автоматического обновления (Майкрософт).
 
 В таблице ниже содержатся сведения из истории выпусков функции автоматического обновления (Майкрософт). Эти сведения отсортированы по дате выпуска, при этом самая последняя дата выпуска находится в начале таблицы. Все пакеты обновления 64-разрядные.
+
 
 > [!NOTE]
 > - Последнюю версию функции автоматического обновления (Майкрософт) всегда можно скачать по этой ссылке: [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196).
@@ -30,9 +31,10 @@ ms.locfileid: "23796743"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|:-----|
-|14 августа 2018 г.  <br/> |4.2.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
+|11 сентября 2018 г.  <br/> |4.3.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |[Скачать службу автоматического обновления (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
+|14 августа 2018 г.  <br/> |4.2.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |[Скачать службу автоматического обновления (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |10 июля 2018 г.  <br/> |4.1.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#july-2018-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
-|12 июня 2018 г.  <br/> |4.0.0  <br/> ||[Скачать автоматическое обновление (Майкрософт) версии 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|12 июня 2018 г.  <br/> |4.0.0  <br/> |||
 |15 мая 2018 г.  <br/> |4.0.0  <br/> |||
 |10 апреля 2018 г.  <br/> |3.18  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#april-2018-release) <br/> ||
 |13 марта 2018 г.  <br/> |3.17  <br/> |||
