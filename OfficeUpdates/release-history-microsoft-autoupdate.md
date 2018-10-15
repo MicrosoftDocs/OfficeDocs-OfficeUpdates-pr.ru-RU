@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936669"
+ms.locfileid: "23940310"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,8 +31,8 @@ ms.locfileid: "23936669"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|:-----|
-|11 сентября 2018 г.  <br/> |4.3.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |[Скачать службу автоматического обновления (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
-|14 августа 2018 г.  <br/> |4.2.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |[Скачать службу автоматического обновления (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
+|11 сентября 2018 г.  <br/> |4.3.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |[Скачать функцию автоматического обновления (Майкрософт) версии 4.3.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
+|14 августа 2018 г.  <br/> |4.2.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |[Скачать функцию автоматического обновления (Майкрософт) версии 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |10 июля 2018 г.  <br/> |4.1.0  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#july-2018-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
 |12 июня 2018 г.  <br/> |4.0.0  <br/> |||
 |15 мая 2018 г.  <br/> |4.0.0  <br/> |||
@@ -53,16 +53,16 @@ ms.locfileid: "23936669"
 |11 января 2017 г.  <br/> |3.8.3  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2017-release) <br/> | <br/> |
 |13 декабря 2016 г.  <br/> |3.8.2  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#december-2016-release) <br/> | <br/> |
 |15 ноября 2016 г.  <br/> |3.8.1  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#november-2016-release) <br/> | <br/> |
-|11 октября 2016 г.  <br/> |3.8.0  <br/> |[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
-|22 августа 2016 г.  <br/> |3.6.0  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
-|10 мая 2016 г.  <br/> |3.5.0  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
-|12 апреля 2016 г.  <br/> |3.4.0  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
-|5 января 2016 г.  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
-|10 декабря 2015 г.  <br/> |3.3.0  <br/> |[KB 3119516](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
-|13 октября 2015 г.  <br/> |3.2.0  <br/> |[KB 3097267](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
-|11 июня 2015 г.  <br/> |3.1.1  <br/> |[KB 3048690](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
-|15 мая 2015 г.  <br/> |3.1.0  <br/> |[KB 3048681](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
-|16 апреля 2015 г.  <br/> |3.0.6  <br/> |[KB 3048680](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
+|11 октября 2016 г.  <br/> |3.8.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3193438](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
+|22 августа 2016 г.  <br/> |3.6.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3179163](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
+|10 мая 2016 г.  <br/> |3.5.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3155777](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
+|12 апреля 2016 г.  <br/> |3.4.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3142577](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
+|5 января 2016 г.  <br/> |3.4.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
+|10 декабря 2015 г.  <br/> |3.3.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3119516](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
+|13 октября 2015 г.  <br/> |3.2.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3097267](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
+|11 июня 2015 г.  <br/> |3.1.1  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3048690](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
+|15 мая 2015 г.  <br/> |3.1.0  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3048681](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
+|16 апреля 2015 г.  <br/> |3.0.6  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 3048680](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
 
 ## <a name="related-topics"></a>Связанные статьи
 
