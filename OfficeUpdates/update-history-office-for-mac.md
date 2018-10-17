@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях и история обновлений Office для Mac, включая ссылки на скачивание пакетов, для ИТ-специалистов
-ms.openlocfilehash: 53b0327479414c17788bce2686f59d830959ad12
-ms.sourcegitcommit: 576ac4e4615156add1d957b1a6d176c26a08fd32
+ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
+ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2018
-ms.locfileid: "25577128"
+ms.lasthandoff: 10/17/2018
+ms.locfileid: "25578940"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -26,11 +26,11 @@ ms.locfileid: "25577128"
 
 |**Текущая версия**|**Дата выпуска**|**Ссылка для загрузки**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-16.18 (18101400)  <br/> |16 октября 2018 г.  <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#october-2018-release) <br/> |
+16.18 (18101400)  <br/> |16 октября 2018 г.  <br/> |[Загрузить](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#october-2018-release) <br/> |
   
 > [!NOTE]
-> - В целях обеспечения безопасности Майкрософт упразднил использование SHA-1. [Подробнее](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
-> - Начиная с выпущенной в сентябре 2018 года версии 16.17 эти сведения также относятся к пакету Office 2019 для Mac, являющемуся версией Office для Mac, доступной в виде разовой покупки в розничном магазине или в рамках соглашения о корпоративном лицензировании.
+> - В целях обеспечения безопасности Майкрософт не рекомендует использование SHA-1. [Подробнее](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
+> - Начиная с выпущенной в сентябре 2018 г. версии 16.17, эти сведения также относятся к пакету Office 2019 для Mac, являющемуся версией Office для Mac, доступной в виде разовой покупки в розничном магазине или в рамках соглашения о корпоративном лицензировании.
 > - Сведения о журнале обновления для версии 16.16 и более ранним версиям также относятся к Office 2016 для Mac, который также является версией Office для Mac, доступной для одноразовой покупки. Старые версии, до 16.16 включительно, можно активировать с корпоративной лицензией на Office 2016 для Mac. Не удается активировать версию 16.17 или более позднюю версию с корпоративной лицензией Office 2016 для Mac. Информацию о выпусках Office 2016 для Mac начиная с сентября, см. в [Заметках о выпусках Office 2016 для Mac](release-notes-office-2016-mac.md)
 > - Информацию о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск Office для Mac, см. в статье [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md).
 > - Если вам необходим ранний доступ к новым выпускам, присоединяйтесь к программе [предварительной оценки Office](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
@@ -40,7 +40,7 @@ ms.locfileid: "25577128"
 
 В таблице ниже перечислены последние пакеты для Office для Mac и для отдельных приложений, например, Word или Excel. Все пакеты 64-разрядные. Дата сборки указана в скобках в формате ГГММДД после номера версии. Если у вас еще не установлено соответствующее приложение, используйте установочный пакет. Для обновления установленного приложения используйте пакет обновления.
   
-|**Приложение**|**Version**|**Ссылки для загрузки**|**Хэш SHA-256 для установочного пакета**|
+|**Приложение**|**Версия**|**Ссылки для загрузки**|**Хэш SHA-256 для установочного пакета**|
 |:-----|:-----|:-----|:-----|
 |Пакет Office (все приложения)  <br/> |16.18 (18101400)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
 |Word  <br/> |16.18 (18101400)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/> |8DFC0CF63AFE1BA2FE42F422EFB21D6CC5DF67F836650326E8A92C7F32B22F71 <br/> |
@@ -54,11 +54,11 @@ ms.locfileid: "25577128"
 
 В таблице ниже указаны сведения о самых последних пакетах (со ссылками для загрузки) для других программ для Mac от корпорации Майкрософт, которые могут быть интересны ИТ-специалистам. Дата сборки указана в скобках в формате ГГММДД после номера версии. 
   
-|**Программа**|**Version**|**Пакет**|**Хэш SHA-1**|**Дополнительные сведения**|
+|**Программа**|**Версия**|**Пакет**|**Хэш SHA-1**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|:-----|
 |Автоматическое обновление (Майкрософт)  <br/> |4.3 (18090901)  <br/> |[Загрузить](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Этот пакет обновления 64-разрядный. <br/><br/>[История выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md) |
-|Skype для бизнеса  <br/> |16.22.0.160 <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |Последняя версия была выпущена 12 октября 2018 года. <br/><br/>[Последние обновления](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Удаленный рабочий стол | 10.2.1 (1143) | [Загрузить](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Этот установочный пакет 64-разрядный. <br/> <br/>[Новые возможности](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
+|Skype для бизнеса  <br/> |16.22.0.160 <br/> |[Загрузить](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |Последняя версия выпущена 12 октября 2018 г. <br/><br/>[Последние обновления](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Удаленный рабочий стол | 10.2.2 (1291)  | [Загрузить](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Этот установочный пакет 64-разрядный. <br/> <br/>[Новые возможности](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Корпоративный портал Intune |1.5 (52.1805002.000) [180509] | [Загрузить](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Новые возможности Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
 |Подключаемый модуль браузера Safari локального Microsoft SharePoint для Office 2016 для Mac  <br/> |15.32.0 (170309)  <br/> |[Загрузить](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Этот установочный пакет 64-разрядный.  <br/> |
    
@@ -70,7 +70,7 @@ ms.locfileid: "25577128"
 > [!NOTE]
 > Здесь приведены ссылки для скачивания только самых последних выпусков.
   
-|**Дата выпуска**|**Version**|**Дополнительные сведения**|**Установочный пакет**|**Пакеты обновления**|
+|**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Установочный пакет**|**Пакеты обновления**|
 |:-----|:-----|:-----|:-----|:-----|
 |16 октября 2018 г.  <br/> |16.18 (18101400)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#october-2018-release) <br/> |[Пакет Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
 |11 сентября 2018 г.  <br/> |16.17 (18090901)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |[Пакет Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
