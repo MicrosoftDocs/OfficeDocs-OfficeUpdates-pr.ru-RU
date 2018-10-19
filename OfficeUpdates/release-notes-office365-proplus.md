@@ -3,39 +3,25 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/12/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 0e0396048c7702400dd84d68da25a1fd7fa8a35c
-ms.sourcegitcommit: d780aaaf591dbfad76ed02b88abe569d6038c70f
+ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25522150"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25638159"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
-Обновления для Office 365 профессиональный плюс выходят на регулярной основе и дополняют его новыми функциями, обновлениями для системы безопасности и обновлениями, не связанными с безопасностью. Для выпуска этих обновлений используются [каналы обновлений](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Каждому выпуску в каждом канале обновлений присваиваются отдельные номера версии и сборки. 
-
-В таблице ниже перечислены поддерживаемые версии и последний номер сборки для каждого канала обновлений. Номер сборки содержит ссылку на заметки о выпуске для этого выпуска. 
-
-  
-|**Канал**|**Version**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
-|:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно  <br/> |1809  <br/> |[10827.20150](monthly-channel-2018.md#version-1809-october-9)  <br/> | 09 октября 2018 г.  <br/> |Выпущена версия 1810 <br/>|
-|Semi-Annual (Targeted)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 09 октября 2018 г.  <br/> | 13 марта 2019  г. <br/>|
-|Semi-Annual <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |09 октября 2018 г.  <br/> | 10 декабря 2019 года <br/>|
-|Semi-Annual <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |09 октября 2018 г.  <br/> | 13 марта 2019  г. <br/>|
-
-Информацию о приблизительном объеме загружаемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы загружаемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
-
 > [!NOTE]
-> - Эти номера версий и сборок также относятся к Office 365 бизнес, Visio Pro для Office 365 и Project Online Desktop Client. Office 365 бизнес — это версия Office, которая входит в некоторые планы Office 365, например, Office 365 бизнес премиум.
-> - Версии каналов обновления, не указанные в таблице (например, версия 1704 канала Monthly Channel), больше не поддерживаются. 
+> - Таблица, содержащая поддерживаемые версии для каждого канала обновления, была перемещена в раздел [История обновлений Office 365 профессиональный плюс (по дате)](update-history-office365-proplus-by-date.md).
+
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>История обновлений Office 365 профессиональный плюс
