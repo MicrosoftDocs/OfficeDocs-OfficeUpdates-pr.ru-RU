@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях и история обновлений Office для Mac, включая ссылки на скачивание пакетов, для ИТ-специалистов
-ms.openlocfilehash: 07fe8ff246504b0723b86f796bfa8a7f00b6cdb0
-ms.sourcegitcommit: 5626bb716f12dd31eccb33bf0e0e8ed024392017
+ms.openlocfilehash: 7c01797a8cc02e08e70acab9daa2e9dcdb376bc8
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25597832"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25638169"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -54,13 +54,13 @@ ms.locfileid: "25597832"
 
 В таблице ниже указаны сведения о самых последних пакетах (со ссылками для загрузки) для других программ для Mac от корпорации Майкрософт, которые могут быть интересны ИТ-специалистам. Дата сборки указана в скобках в формате ГГММДД после номера версии. 
   
-|**Программа**|**Версия**|**Пакет**|**Хэш SHA-1 и SHA-256**|**Дополнительные сведения**|
+|**Программа**|**Версия**|**Пакет**|**Дополнительные сведения**|**Хэш SHA-1/SHA-256**|
 |:-----|:-----|:-----|:-----|:-----|
-|Автоматическое обновление Майкрософт (MAU)  <br/> |4.4 (18101400)  <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/> | Этот пакет обновления 64-разрядный. <br/><br/>[История выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md) |
-|Skype для бизнеса  <br/> |16.22.0.160 <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |Последняя версия была выпущена 12 октября 2018 года. <br/><br/>[Последние обновления](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Удаленный рабочий стол | 10.2.2 (1291)  | [Загрузка](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Этот установочный пакет 64-разрядный. <br/> <br/>[Новые возможности](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Корпоративный портал Intune |1.5 (52.1805002.000) [180509] | [Загрузка](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Новые возможности Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
-|Подключаемый модуль браузера Safari локального Microsoft SharePoint для Office 2016 для Mac  <br/> |15.32.0 (170309)  <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Этот установочный пакет 64-разрядный.  <br/> |
+|Автоматическое обновление Майкрософт (MAU)  <br/> |4.4 (18101400)  <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Этот пакет обновления — 64-разрядный. <br/><br/>[История выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|Skype для бизнеса  <br/> |16.22.0.160 <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |Последняя версия была выпущена 12 октября 2018 года. <br/><br/>[Последние обновления](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
+|Удаленный рабочий стол | 10.2.2 (1291)  | [Загрузка](https://go.microsoft.com/fwlink/?linkid=868963) | Этот установочный пакет — 64-разрядный. <br/> <br/>[Что нового](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|Корпоративный портал Intune |1.5 (52.1805002.000) [180509] | [Загрузка](https://go.microsoft.com/fwlink/?linkid=869655)| [Что нового в Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
+|Подключаемый модуль браузера Safari локальной системы Microsoft SharePoint для Office 2016 для Mac  <br/> |15.32.0 (170309)  <br/> |[Загрузка](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Этот установочный пакет — 64-разрядный.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>История выпусков Office для Mac
