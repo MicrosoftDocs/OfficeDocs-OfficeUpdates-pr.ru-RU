@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504991"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718973"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -24,6 +24,15 @@ ms.locfileid: "25504991"
  > [!NOTE]
 > - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и других обновлениях Visio Pro для Office 365 и клиента Project Online для настольных ПК.
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.
+> - Мы часто внедряем компоненты (и в некоторых случаях даже исправления) в канал ежемесячного обновления (Monthly) в период определенного времени. Это позволяет нам убедиться, что все работает без перебоев, прежде чем выпустить компонент для более широкой аудитории. Таким образом, если вам не отображается какой либо из описанных ниже компонентов, не волнуйтесь, со временем он появится и у вас. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+
+## <a name="version-1809-october-16"></a>Версия 1809: 16 октября
+*Версия 1809 (сборка 10827.20181)* 
+
+### <a name="office-suite-non-security-updates"></a>Набор Office:  Обновления, не связанные с безопасностью 
+-  Исправлены различные проблемы с производительностью.
+
 
 ## <a name="version-1809-october-9"></a>Версия 1809: 9 октября
 *Версия 1809 (сборка 10827.20150)*
@@ -60,13 +69,13 @@ ms.locfileid: "25504991"
 - **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает одинаково. Кроме того, они отлично смотрятся на экранах любого размера.  [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: обновление компонентов
-- **Смотрите, как оживают ваши слайды**.  Вставляйте анимированные трехмерные графики, чтобы увидеть биение сердца, орбиту планеты и ярость тираннозавра рекса на экране.  [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Следите за тем, как оживают ваши слайды**.  Вставляйте анимированные трехмерные графики, чтобы увидеть биение сердца, орбиту планеты и ярость тираннозавра рекса на экране.  [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает одинаково. Кроме того, они отлично смотрятся на экранах любого размера.  [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Обновления компонентов
 - **Привлеките внимание \@упоминаниями:** используйте @mentions в комментариях, чтобы сообщить коллегам о том, что вам нужны их входные данные. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Значки ленты имеют новое оформление** Не волнуйтесь, все работает так же. Кроме того, они удобны на экранах любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Конвертер редактора формул** Конвертер позволяет пользователям преобразовывать формулы, созданные с помощью редактора формул Майкрософт в формате Office Math ML, чтобы разрешить редактирование.
+- **Значки ленты имеют новое оформление**. Не волнуйтесь, все работает одинаково. Кроме того, они отлично смотрятся на экранах любого размера.  [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Преобразователь редактора формул** Преобразователь позволяет пользователям преобразовывать формулы, созданные с помощью редактора формул Майкрософт в формате Office Math ML, чтобы разрешить редактирование.
 
 ## <a name="version-1808-september-11"></a>Версия 1808: 11 сентября
 *Версия 1808 (сборка 10730.20102)*
@@ -88,7 +97,7 @@ ms.locfileid: "25504991"
 ### <a name="access-feature-updates"></a>Access: Обновления компонентов
  - **Обновление, повторное связывание или удаление связанных таблиц.** Обновленный диспетчер связанных таблиц — это место для управления всеми источниками данных и связанными таблицами. [Подробнее](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
-### <a name="outlook-feature-updates"></a>Outlook: Обновления компонентов
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
  - **Отключение пересылки собрания.** Предотвращение пересылки вашего собрания его участниками другим пользователям. Просто перейдите на ленте и щелкните "Параметры ответа". [Подробнее](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio. Обновления функций
@@ -118,7 +127,7 @@ ms.locfileid: "25504991"
 ### <a name="access-security-updates"></a>Access: Обновления для системы безопасности
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным исполнением кода 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации 
@@ -160,7 +169,7 @@ ms.locfileid: "25504991"
 ### <a name="access-security-updates"></a>Access: Обновления для системы безопасности
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
-### <a name="outlook-security-updates"></a>Outlook: обновления для системы безопасности
+### <a name="outlook-security-updates"></a>Outlook: Обновления для системы безопасности
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): уязвимость Microsoft Office, связанная с незаконным изменением
 
 ### <a name="office-suite-security-updates"></a>Набор Office: Обновления для системы безопасности
@@ -188,7 +197,7 @@ ms.locfileid: "25504991"
  - **Новый способ управлять спринтами:** применяйте гибкий подход в работе с досками задач. Выбирайте "Управление спринтами", чтобы добавлять и удалять спринты по мере развития проекта.
 
 
-### <a name="project-non-security-updates"></a>Project: Обновления, не связанные с безопасностью
+### <a name="project-non-security-updates"></a>Project: обновления, не связанные с безопасностью
  - Исправлена ошибка, из-за которой сохранение подпроектов из главных проектов даёт сбой.
 
 ### <a name="visio-feature-updates"></a>Visio: Обновления компонентов
@@ -210,7 +219,7 @@ ms.locfileid: "25504991"
 ## <a name="version-1805-june-12"></a>Версия 1805: 12 июня
 *Версия 1805 (сборка 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
@@ -250,12 +259,12 @@ ms.locfileid: "25504991"
 ### <a name="outlook-non-security-updates"></a>Outlook: Обновления, не связанные с безопасностью
 - Изменен текст в приглашении поделиться календарем с "Открыть этот календарь" на "Принять."
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Обновления компонентов
+### <a name="powerpoint-feature-updates"></a>PowerPoint: обновления компонентов
  - **Общайтесь с соавторами в чате в процессе редактирования:** ведите совместную работу более эффективно благодаря возможности общаться в чате с другими авторами, не выходя из приложения PowerPoint. [Подробнее](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **Голосовой ввод:** создавайте презентации, диктуя их. Не нужно ничего печатать. [Подробнее](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Microsoft Forms:** добавьте на слайд тест или опрос. Набор Office соберет и сохранит все ответы. [Подробнее](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-### <a name="project-non-security-updates"></a>Project: Обновления, не связанные с безопасностью
+### <a name="project-non-security-updates"></a>Project: обновления, не связанные с безопасностью
  - Исправьте ошибку, из-за которой Project может дать сбой при первом сохранении проекта в Project Web App.
 
 
@@ -280,7 +289,7 @@ ms.locfileid: "25504991"
 ## <a name="version-1804-may-8"></a>Версия 1804: 8 мая
 *Версия 1804 (сборка 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
@@ -390,7 +399,7 @@ ms.locfileid: "25504991"
 -   **Информация о том, кто будет участвовать в собрании:** теперь вы можете просматривать ответы других людей на приглашения на собрание, даже если не являетесь его организатором.
 -   **Удобная сортировка электронной почты:** мы изучили ваши отзывы и вернули сортировку над списком сообщений и фильтр "Непрочитанные" для тех, кто не использует сортировку почты.
 
-### <a name="project-non-security-updates"></a>Project: Обновления, не связанные с безопасностью
+### <a name="project-non-security-updates"></a>Project: обновления, не связанные с безопасностью
 -   Исправьте ошибку, из-за которой всем базовым планам в сеансе присваивается одинаковое значение свойства MOD\_DATE.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса: Обновления, не связанные с безопасностью
@@ -408,7 +417,7 @@ ms.locfileid: "25504991"
 ## <a name="version-1801-february-13"></a>Версия 1801: 13 февраля
 *Версия 1801 (сборка 9001.2171)*
 
-### <a name="excel-security-updates"></a>Excel: Обновления для системы безопасности
+### <a name="excel-security-updates"></a>Excel: обновления для системы безопасности
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="outlook-security-updates"></a>Outlook: Обновления для системы безопасности
@@ -430,7 +439,7 @@ ms.locfileid: "25504991"
 ## <a name="version-1801-february-1"></a>Версия 1801: 1 февраля
 *Версия 1801 (сборка 9001.2138)*
 
-### <a name="project-non-security-updates"></a>Project: Обновления, не связанные с безопасностью
+### <a name="project-non-security-updates"></a>Project: обновления, не связанные с безопасностью
 -   Исправьте ошибку, из-за которой значение "Фактические трудозатраты" продолжает отображаться в таблицах с отчетами после удаления в сеансе "Сохранить для общего доступа".
 -   Исправьте ошибку с версией для немецкого языка, из-за которой при планировании возвращается ошибка, если указать формат "Недели".
 -   Исправьте ошибку, из-за которой при редактировании дат окончания в веб-части "Расписание" задачи не переносятся, а остаются на 8 часов в день.
@@ -527,7 +536,7 @@ ms.locfileid: "25504991"
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Обновления, не связанные с безопасностью
 -   Исправьте ошибку, из-за которой удаление личных сведений и свойств документа приводит к сбою сохранения в SharePoint.
 
-### <a name="project-non-security-updates"></a>Project: Обновления, не связанные с безопасностью
+### <a name="project-non-security-updates"></a>Project: обновления, не связанные с безопасностью
 -   Исправлена ошибка, связанная с исчезновением кода VBA из проектов.
 
 > [!NOTE]
