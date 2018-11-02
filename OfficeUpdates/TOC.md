@@ -1,6 +1,5 @@
-# Office 365 профессиональный плюс
+# Office 365 профессиональный плюс
 ## [Обновление журнала (по дате)](update-history-office365-proplus-by-date.md)
-## [Обновление журнала (по версия)](update-history-office365-proplus-by-version.md)
 ## [Обновить размеры](download-sizes-office365-proplus-updates.md)
 
 ## [Заметки о выпуске](release-notes-office365-proplus.md)
@@ -11,7 +10,7 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Semi-Annual Channel.
+### Semi-Annual Channel
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
@@ -44,7 +43,7 @@
 ## [Обновления SharePoint](sharepoint-updates.md)
 ## [Скайп обновлений Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
-# Связанные ссылки
+# Ссылки по теме
 ## [Выпуски Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Политика по срокам Microsoft](https://support.microsoft.com/lifecycle)
 
