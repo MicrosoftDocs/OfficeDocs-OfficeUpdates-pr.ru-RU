@@ -1,63 +1,64 @@
 ---
-title: История обновлений Office 365 профессиональный плюс (по дате)
+title: Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/18/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
+ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638179"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "25841265"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>История обновлений Office 365 профессиональный плюс (по дате)
+# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
-Обновления для Office 365 профессиональный плюс выходят на регулярной основе и дополняют его новыми функциями, обновлениями для системы безопасности и обновлениями, не связанными с безопасностью. Для выпуска этих обновлений используются [каналы обновлений](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Каждому выпуску в каждом канале обновлений присваиваются отдельные номера версии и сборки. 
+Обновления для Office 365 профессиональный плюс выходят на регулярной основе и дополняют его новыми функциями, обновлениями для системы безопасности и обновлениями, не связанными с безопасностью. Для выпуска этих обновлений используются [каналы обновлений](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Каждому выпуску в каждом канале обновлений присваиваются отдельная версия и номер сборки. 
 
 
 > [!NOTE]
-> - Эти номера версий и сборок также относятся к Office 365 бизнес, Visio Pro для Office 365 и Project Online Desktop Client. Office 365 бизнес — это версия Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум.
+> - Эти номера версий и сборок также относятся к Office 365 бизнес, Visio Pro для Office 365, а также клиенту Project Online для настольных ПК. Office 365 бизнес — версия Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум.
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый). 
-> - Дополнительные сведения о каналах обновления см. в статье [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-В таблице ниже перечислены поддерживаемые версии и последний номер сборки для каждого канала обновлений. 
+В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления. 
  
-|**Канал**|**Version**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
+|**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживаться до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно  <br/> |1809  <br/> |10827.20181 <br/> | 16 октября 2018 г.  <br/> |Выпущена версия 1810 <br/>|
-|Semi-Annual (Targeted)  <br/> |1808  <br/> |10730.20155 <br/> | 09 октября 2018 г.  <br/> | 13 марта 2019  г. <br/>|
-|Semi-Annual <br/> |1803  <br/> | 9126.2295<br/> |09 октября 2018 г.  <br/> | 10 декабря 2019 года <br/>|
-|Semi-Annual <br/> |1708  <br/> |8431.2316  <br/> |09 октября 2018 г.  <br/> | 13 марта 2019  г. <br/>|
+|Monthly  <br/> |1810  <br/> |11001.20074<br/> | 29 октября 2018 г.  <br/> |Выпуска версии 1811 <br/>|
+|Semi-Annual (Targeted)  <br/> |1808  <br/> |10730.20155 <br/> | 9 октября 2018 г.  <br/> | 13 марта 2019 г. <br/>|
+|Semi-Annual <br/> |1803  <br/> | 9126.2295<br/> |9 октября 2018 г.  <br/> | 10 декабря 2019 г. <br/>|
+|Semi-Annual <br/> |1708  <br/> |8431.2316  <br/> |9 октября 2018 г.  <br/> | 13 марта 2019 г. <br/>|
 
-Информацию о приблизительном объеме загружаемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы загружаемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
-
-
-В таблице ниже указан список номеров версий и сборок для каждого обновления Office 365 профессиональный плюс, выпущенного в рамках канала обновления Monthly Channel, Semi-Annual Channel (Targeted) и Semi-Annual Channel. Каждая запись в этой таблице содержит ссылку на заметки о соответствующем выпуске. Такие заметки информируют о функциях, обновлениях системы безопасности и других обновлениях, которые включены в обновление для Office 365 профессиональный плюс.
+Информацию о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска Office 365 профессиональный плюс до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md).
 
 
-|**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-Annual Channel (Targeted)**|**Semi-Annual Channel**|
+В таблице ниже приведен список версий и номеров сборок всех обновлений для Office 365 профессиональный плюс, выпущенных в каналах обновления Monthly, Semi-Annual (Targeted) и Semi-Annual. Каждая запись в таблице содержит ссылку на заметки о соответствующем выпуске. В заметках о выпуске содержатся сведения о функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновление для Office 365 профессиональный плюс.
+
+
+|**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018 г.|29 октября |[Версия 1810 (сборка 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018 г.|16 октября |[Версия 1809 (сборка 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
 |2018 г.|9 октября |[Версия 1809 (сборка 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Версия 1808 (сборка 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Версия 1803 (сборка 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Версия 1708 (сборка 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018 г.|27 сентября   |[Версия 1809 (сборка 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018 г.|11 сентября   |[Версия 1808 (сборка 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Версия 1808 (сборка 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Версия 1803 (сборка 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Версия 1708 (сборка 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 г.|5 сентября   |[Версия 1808 (сборка 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 г.|14 августа   |[Версия 1807 (сборка 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[Версия 1803 (сборка 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[Версия 1803 (сборка 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [Версия 1708 (сборка 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
-||25 июля   |[Версия 1807 (сборка 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-||17 июля   |[Версия 1806 (сборка 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
-||10 июля   |[Версия 1806 (сборка 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Версия 1708 (сборка 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-||25 июня   |[Версия 1806 (сборка 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
-||13 июня   |[Версия 1805 (сборка 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
-||12 июня   |[Версия 1805 (сборка 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Версия 1803 (сборка 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Версия 1708 (сборка 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Версия 1705 (сборка 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
-||24 мая   |[Версия 1805 (сборка 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
-||23 мая   |[Версия 1805 (сборка 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
+||25 июля   |[Версия 1807 (сборка 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+||17 июля   |[Версия 1806 (сборка 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+||10 июля   |[Версия 1806 (сборка 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Версия 1803 (сборка 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Версия 1708 (сборка 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+||25 июня   |[Версия 1806 (сборка 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
+||13 июня   |[Версия 1805 (сборка 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
+||12 июня   |[Версия 1805 (сборка 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Версия 1803 (сборка 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Версия 1708 (сборка 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Версия 1705 (сборка 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||24 мая   |[Версия 1805 (сборка 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
+||23 мая   |[Версия 1805 (сборка 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
 ||18 мая   |  |[Версия 1803 (сборка 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
 ||14 мая   |[Версия 1804 (сборка 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
 ||8 мая   |[Версия 1804 (сборка 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[Версия 1803 (сборка 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[Версия 1708 (сборка 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [Версия 1705 (сборка 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
@@ -75,7 +76,7 @@ ms.locfileid: "25638179"
 ||17 января   | [Версия 1712 (сборка 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
 ||9 января   | [Версия 1711 (сборка 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [Версия 1708 (сборка 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [Версия 1708 (сборка 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [Версия 1705 (сборка 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
 ||2 января   | [Версия 1711 (сборка 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017 г.|12 декабря  <br/> | [Версия 1711 (сборка 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Версия 1708 (сборка 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Версия 1705 (сборка 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Версия 1701 (сборка 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+|2017|12 декабря  <br/> | [Версия 1711 (сборка 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Версия 1708 (сборка 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Версия 1705 (сборка 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Версия 1701 (сборка 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||6 декабря  <br/> | [Версия 1711 (сборка 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||27 ноября  <br/> | [Версия 1710 (сборка 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||24 ноября  <br/> |  <br/> |  <br/> |[Версия 1705 (сборка 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
@@ -102,7 +103,7 @@ ms.locfileid: "25638179"
 ||28 июня  <br/> | [Версия 1706 (сборка 8229.2073)](monthly-channel-2017.md#version-1706-june-28)  <br/> |  <br/> |  <br/> |
 ||13 июня  <br/> | [Версия 1705 (сборка 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [Версия 1705 (сборка 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [Версия 1701 (сборка 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [Версия 1609 (сборка 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
 ||7 июня  <br/> | [Версия 1705 (сборка 8201.2075)](monthly-channel-2017.md#version-1705-june-7)  <br/> |  <br/> |  <br/> |
-||1 июня  <br/> | [Версия 1704 (сборка 8067.2157)](monthly-channel-2017.md#version-1704-june-1)  <br/> |  <br/> |  <br/> |
+||1 июня  <br/> | [Версия 1704 (сборка 8067.2157)](monthly-channel-2017.md#version-1704-june-1)  <br/> |  <br/> |  <br/> |
 ||18 мая  <br/> | [Версия 1704 (сборка 8067.2115)](monthly-channel-2017.md#version-1704-may-18)  <br/> |  <br/> |  <br/> |
 ||9 мая  <br/> | [Версия 1703 (сборка 7967.2161)](monthly-channel-2017.md#version-1703-may-9)  <br/> | [Версия 1701 (сборка 7766.2084)](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [Версия 1609 (сборка 7369.2130)](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [Версия 1605 (сборка 6965.2150)](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
 ||21 апреля  <br/> | [Версия 1703 (сборка 7967.2139)](monthly-channel-2017.md#version-1703-april-21)  <br/> |  <br/> |  <br/> |
@@ -116,7 +117,7 @@ ms.locfileid: "25638179"
 ||25 января  <br/> | [Версия 1612 (сборка 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||10 января  <br/> |  <br/> | [Версия 1609 (сборка 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [Версия 1605 (сборка 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [Версия 1602 (сборка 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||4 января  <br/> | [Версия 1611 (сборка 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |
-|2016 г.|13 декабря  <br/> | [Версия 1611 (сборка 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[Версия 1609 (сборка 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Версия 1605 (сборка 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Версия 1602 (сборка 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|13 декабря  <br/> | [Версия 1611 (сборка 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[Версия 1609 (сборка 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Версия 1605 (сборка 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Версия 1602 (сборка 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||6 декабря  <br/> | [Версия 1611 (сборка 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |
 ||10 ноября  <br/> | [Версия 1610 (сборка 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |
 ||8 ноября  <br/> |[Версия 1609 (сборка 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> | [Версия 1609 (сборка 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [Версия 1605 (сборка 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [Версия 1602 (сборка 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
@@ -127,11 +128,11 @@ ms.locfileid: "25638179"
 ||21 сентября  <br/> |[Версия 1608 (сборка 7341.2032)](monthly-channel-2016.md#version-1608-september-21)  <br/> |  <br/> |  <br/> |
 ||13 сентября  <br/> |[Версия 1607 (сборка 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |[Версия 1605 (сборка 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [Версия 1602 (сборка 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [Версия 1509 (сборка 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
 ||6 сентября  <br/> |[Версия 1607 (сборка 7167.2055)](monthly-channel-2016.md#version-1607-september-6)  <br/> |  <br/> |  <br/> |
-||31 августа  <br/> |[Версия 1607 (сборка 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |
+||31 августа  <br/> |[Версия 1607 (сборка 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |
 ||16 августа  <br/> |[Версия 1607 (сборка 7167.2040)](monthly-channel-2016.md#version-1607-august-16)  <br/> |  <br/> |  <br/> |
 ||9 августа  <br/> |[Версия 1606 (сборка 7070.2036)](monthly-channel-2016.md#version-1606-august-9)  <br/> |[Версия 1605 (сборка 6965.2076)](semi-annual-channel-targeted-2016.md#version-1605-august-9)  <br/> | [Версия 1602 (сборка 6741.2063)](semi-annual-channel-2016.md#version-1602-august-9)  <br/>  [Версия 1509 (сборка 6001.1087)](semi-annual-channel-2016.md#version-1509-august-9)  <br/> |
 ||26 июля  <br/> |[Версия 1606 (сборка 7070.2033)](monthly-channel-2016.md#version-1606-july-26)  <br/> |  <br/> |  <br/> |
-||21 июля  <br/> |  <br/> |[Версия 1605 (сборка 6965.2069)](semi-annual-channel-targeted-2016.md#version-1605-july-21)  <br/> |  <br/> |
+||21 июля  <br/> |  <br/> |[Версия 1605 (сборка 6965.2069)](semi-annual-channel-targeted-2016.md#version-1605-july-21)  <br/> |  <br/> |
 ||20 июля  <br/> |[Версия 1606 (сборка 7070.2028)](monthly-channel-2016.md#version-1606-july-20)  <br/> |  <br/> |  <br/> |
 ||12 июля  <br/> |[Версия 1606 (сборка 7070.2026)](monthly-channel-2016.md#version-1606-july-12)  <br/> |[Версия 1605 (сборка 6965.2066)](semi-annual-channel-targeted-2016.md#version-1605-july-12)  <br/> | [Версия 1602 (сборка 6741.2056)](semi-annual-channel-2016.md#version-1602-july-12) <br/>  [Версия 1509 (сборка 6001.1085)](semi-annual-channel-2016.md#version-1509-july-12)  <br/> |
 ||5 июля  <br/> |[Версия 1606 (сборка 7070.2022)](monthly-channel-2016.md#version-1606-july-5)  <br/> |  <br/> |  <br/> |
@@ -158,7 +159,7 @@ ms.locfileid: "25638179"
 ||9 февраля  <br/> |[Версия 1511 (сборка 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |[Версия 1509 (сборка 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[Версия 1509 (сборка 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||25 января  <br/> |[Версия 1511 (сборка 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||12 января  <br/> |[Версия 1511 (сборка 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |[Версия 1509 (сборка 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015 г.|11 декабря  <br/> |[Версия 1511 (сборка 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
+|2015|11 декабря  <br/> |[Версия 1511 (сборка 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
 ||8 декабря  <br/> |[Версия 1509 (сборка 6001.1043)](monthly-channel-2015.md#version-1509-december-8)  <br/> |[Версия 1509 (сборка 6001.1043)](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
 ||10 ноября  <br/> |[Версия 1509 (сборка 6001.1038)](monthly-channel-2015.md#version-1509-november-10)  <br/> |[Версия 1509 (сборка 6001.1038)](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
 ||21 октября  <br/> |[Версия 1509 (сборка 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[Версия 1509 (сборка 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
@@ -170,8 +171,8 @@ ms.locfileid: "25638179"
 
 - [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md)
-- [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md)
+- [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Если вам требуется помощь при возникновении проблем, связанных с использованием Office, рекомендуем опубликовать вопрос на [форуме ответов корпорации Майкрософт](https://answers.microsoft.com/) или в [Техническом сообществе](https://techcommunity.microsoft.com/), либо обратиться в [службу поддержки](https://support.microsoft.com/contactus).
+> Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
 
