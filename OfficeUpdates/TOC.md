@@ -38,7 +38,7 @@
 ## [Обновления для Office 2010](update-history-office-2010-click-to-run.md)
 
 # Серверные продукты Office
-## [Обновления для Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Обновления для Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Обновления для Project Server](project-server-updates.md)
 ## [Обновления SharePoint](sharepoint-updates.md)
 ## [Скайп обновлений Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
