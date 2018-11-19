@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
+ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031668"
+ms.lasthandoff: 11/14/2018
+ms.locfileid: "26299092"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -37,20 +37,20 @@ ms.locfileid: "26031668"
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ. 
 
 
-## <a name="november-11-2018"></a>11 ноября 2018 г.
+## <a name="november-13-2018"></a>13 ноября 2018 г.
 
 ### <a name="monthly-channel"></a>Monthly Channel
 
-Выпуск под вопросом — версия 1810 <(сборка 11001.20094)>. 
+Самый свежий выпуск — версия 1810 (сборка 11001.20108). 
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
 |Версия 1809 (сборка 10827.20181)  <br/> |16 октября 2018 г.  <br/> |188<br/> |
-|Версия 1809 (сборка 11001.20074)  <br/> |29 октября 2018 г.  <br/> |61<br/> |
+|Версия 1809 (сборка 11001.20074)  <br/> |29 октября 2018 г.  <br/> |64<br/> |
 
 ### <a name="semi-annual-channel"></a>Semi-Annual Channel
 
-Выпуск под вопросом — версия <1803 (сборка 9126.2315)>.
+Самый свежий выпуск — версия 1803 (сборка 9126.2315).
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
@@ -59,7 +59,7 @@ ms.locfileid: "26031668"
 
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
-Выпуск под вопросом — версия <1808 (сборка 10730.20205)>.
+Самый свежий выпуск — версия 1808 (сборка 10730.20205).
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|

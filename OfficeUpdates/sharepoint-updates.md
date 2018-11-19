@@ -3,7 +3,7 @@ title: Обновления SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: a6d0d8e5b547668b0c711814106070de69fb9400
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: da04ad6480cd0ec469c437d2f4aae34930b7e735
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024613"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296669"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -29,10 +29,16 @@ ms.locfileid: "26024613"
 
 <a name="BKMK_2016"> </a>
   
+## <a name="sharepoint-2019-update-history"></a>Журнал обновлений SharePoint 2019
+
+|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/ru-RU/help/4461513)  <br/> |Ноябрь 2018 г.  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>Журнал обновлений SharePoint 2016
 
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/ru-RU/help/4461501) <br/>  |Ноябрь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4461447](https://support.microsoft.com/ru-RU/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/ru-RU/help/4092463) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/ru-RU/help/4092459) <br/>  |Сентябрь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4032256](https://support.microsoft.com/ru-RU/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/ru-RU/help/4022231) <br/> |Август 2018 г.  <br/> |
@@ -79,6 +85,7 @@ ms.locfileid: "26024613"
     
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/ru-RU/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/ru-RU/help/4461510) <br/> |Ноябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/ru-RU/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/ru-RU/help/4461458) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/ru-RU/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/ru-RU/help/4092476) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/ru-RU/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/ru-RU/help/4032247) <br/> |Август 2018 г.  <br/> |
@@ -140,6 +147,7 @@ ms.locfileid: "26024613"
 
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> |Ноябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/ru-RU/help/4461464) <br/> |Октябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/ru-RU/help/4227169) <br/> |Сентябрь 2018 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/ru-RU/help/4032221) <br/> |Август 2018 г.  <br/> |
