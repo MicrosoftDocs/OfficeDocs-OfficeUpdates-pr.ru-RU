@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526414"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618439"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2018 г.
 
@@ -63,6 +63,10 @@ ms.locfileid: "26526414"
 - Исправлена ошибка, из-за которой пользователи не могли использовать кнопку управления "Учетные записи" для переключения между учетными записями в настраиваемых формах.
 - Исправлена ошибка, приводившая к сбою при использовании пользователями ScanPST для восстановления файла OST или PST.
 - Исправлена ошибка, из-за которой в некоторых электронных сообщениях не отображается поле "Копия" для пользователей с профилями в сетевом режиме.
+
+### <a name="onenote-non-security-updates"></a>OneNote. Обновления, не связанные с безопасностью 
+
+- Исправлена проблема со стабильностью работы, которая может возникать при синхронизации и переходе к удаленному разделу.
 
 ### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью 
 
@@ -403,7 +407,7 @@ ms.locfileid: "26526414"
 
 ### <a name="office-suite-security-updates"></a>Пакет Office. Обновления для системы безопасности
 -   [CVE-2018-0950:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0950) уязвимость Microsoft Office, связанная с раскрытием информации
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1026). Уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-1026:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1026) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-1030:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1030) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
