@@ -76,7 +76,7 @@
 | 10/31/2018 | История обновлений Office 365 профессиональный плюс (по версии) | удалены |
 
 
-## <a name="week-of-november-05-2018"></a>Неделя 05 ноября 2018
+## <a name="week-of-november-05-2018"></a>Неделя с 5 ноября 2018 г.
 
 
 | Дата публикации |Название статьи | Изменение |
@@ -121,3 +121,13 @@
 | 11/14/2018 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
 | 11/14/2018 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
 | 11/15/2018 | [Заметки о выпусках Office 2016 для Mac](/OfficeUpdates/release-notes-office-2016-mac) | изменено |
+
+
+## <a name="week-of-november-19-2018"></a>Недели после 19 ноября 2018
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 11/19/2018 | [Заметки о выпусках Office 2016 для Mac](/OfficeUpdates/release-notes-office-2016-mac) | изменено |
+| 11/19/2018 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2018 г.](/OfficeUpdates/semi-annual-channel-targeted-2018) | изменено |
+| 11/19/2018 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
