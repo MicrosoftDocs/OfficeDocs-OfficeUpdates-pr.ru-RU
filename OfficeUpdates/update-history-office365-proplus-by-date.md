@@ -3,19 +3,19 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 70fe3128638a8453b5156d47a8b626e0aa5692d8
-ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
+ms.openlocfilehash: 60a0e8914a33ff22c72d81633018e5fd41b4aa82
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "26299083"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706633"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "26299083"
  
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1810  <br/> |11001.20108<br/> | 13 ноября 2018 г.  <br/> |Выпуска версии 1811 <br/>|
+|Monthly  <br/> |1811  <br/> |11029.20079<br/> | 27 ноября 2018 г.  <br/> |Выпуска версии 1812 <br/>|
 |Semi-Annual (Targeted)  <br/> |1808  <br/> |10730.20205 <br/> | 13 ноября 2018 г.  <br/> | 12 марта 2019 г. <br/>|
 |Semi-Annual <br/> |1803  <br/> | 9126.2315<br/> | 13 ноября 2018 г.  <br/> |  10 сентября 2019 г. <br/>|
 |Semi-Annual <br/> |1708  <br/> | 8431.2329  <br/> | 13 ноября 2018 г.  <br/> |  12 марта 2019 г. <br/>|
@@ -44,6 +44,7 @@ ms.locfileid: "26299083"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018 г.|27 ноября   |[Версия 1811 (сборка 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018 г.|13 ноября |[Версия 1810 (сборка 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[Версия 1808 (сборка 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Версия 1803 (сборка 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Версия 1708 (сборка 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018 г.|29 октября |[Версия 1810 (сборка 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018 г.|16 октября |[Версия 1809 (сборка 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |

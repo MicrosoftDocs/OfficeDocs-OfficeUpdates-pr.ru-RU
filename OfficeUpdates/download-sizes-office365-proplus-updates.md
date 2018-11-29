@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
-ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
+ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "26299092"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706643"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -35,6 +35,17 @@ ms.locfileid: "26299092"
 > - Указаны только выпуски за последние четыре месяца.
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ. 
+
+## <a name="november-27-2018"></a>27 ноября 2018 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1811 (сборка 11029.20079). 
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1811 (сборка 11001.20108)  <br/> |13 ноября 2018 г.  <br/> |167<br/> |
+|Версия 1810 (сборка 11001.20074)  <br/> |29 октября 2018 г.  <br/> |166<br/> |
 
 
 ## <a name="november-13-2018"></a>13 ноября 2018 г.
