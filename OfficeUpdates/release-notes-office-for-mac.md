@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 61658846d208ec0acc99474df99100724670377a
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
+ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526424"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "27124030"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -61,7 +61,7 @@ ms.locfileid: "26526424"
 
 |**Приложение**|**Обновления компонентов**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|
-|Word  <br/>|**Создание доступных изображений.** Если вы вставляете рисунок, Office предлагает подписи, которые смогут прочитать люди со слабым зрением.  <br/> ||[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Word  <br/>|||[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**Совместная работа с использованием примечаний.** Ведите беседу прямо на листе с помощью встроенного поля ответов. [Подробнее](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **Узнайте больше о своих данных.** Новая кнопка "Идеи" позволяет находить закономерности в данных и предлагает интеллектуальные, индивидуальные решения на их основе. [Подробнее](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **Повышение автоматизации функции автозаполнения.** При вводе формул появляется удобное меню автозаполнения с параметрами аргументов для выбора.  <br/><br/> **Улучшенная навигация с помощью VoiceOver.** Используете VoiceOver в Excel? Перемещайтесь между листами с помощью клавиш VO+U. Кроме того, вы можете включить Trackpad Commander в macOS.<br/> ||[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Создание доступных изображений.** Если вы вставляете рисунок, Office предлагает подписи, которые смогут прочитать люди со слабым зрением.  <br/><br/> **Добавлены переключатели анимации.** Мы прислушались к вашим просьбам! Переключатели анимации теперь есть не только в Windows. Вы найдете их на вкладке "Анимация". [Подробнее](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Пакет обновления PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Улучшенные возможности поиска.** Щелкните поле поиска и получите быстрые рекомендации на основе недавней истории поиска. Вводить текст нет необходимости. [Подробнее](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
@@ -97,7 +97,7 @@ ms.locfileid: "26526424"
 |:-----|:-----|:-----|
 |Word  <br/> |||[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным выполнением кода  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации  <br/>  |[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
-|PowerPoint  <br/> |||[Пакет обновления для PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
+|PowerPoint  <br/> |||[Пакет обновления PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Функция автоматического обновления (Майкрософт) версии 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8412): уязвимость функции автоматического обновления (Майкрософт), связанная с несанкционированным повышением привилегий Office  <br/>|[Пакет обновления функции автоматического обновления (Майкрософт)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
 |Набор Office  <br/> ||||
