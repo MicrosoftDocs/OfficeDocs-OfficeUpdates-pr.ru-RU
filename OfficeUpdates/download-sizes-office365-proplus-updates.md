@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
+ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706643"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "27180779"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -35,6 +35,31 @@ ms.locfileid: "26706643"
 > - Указаны только выпуски за последние четыре месяца.
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ. 
+
+
+## <a name="december-11-2018"></a>11 декабря 2018 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Ожидаемый выпуск — версия 1811 (сборка 11029.20090). 
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1811 (сборка 11001.20108)  <br/> |13 ноября 2018 г.  <br/> |168<br/> |
+|Версия 1810 (сборка 11029.20079)  <br/> |27 ноября 2018 г.  <br/> |84<br/> |
+
+### <a name="semi-annual-channel"></a>Semi-Annual Channel
+
+Приблизительный размер файла для скачивания (подлежит уточнению)
+  
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
+
+Ожидаемый выпуск — версия 1808 (сборка 10730.20234).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1803 (сборка 10730.20155)  <br/> |9 октября 2018 г.  <br/> |90 <br/> |
+|Версия 1808 (сборка 10730.20205)  <br/> |13 ноября 2018 г.  <br/>   |83  <br/>|
 
 ## <a name="november-27-2018"></a>27 ноября 2018 г.
 
