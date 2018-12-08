@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180779"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194920"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -90,8 +90,8 @@ ms.locfileid: "27180779"
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 1803 (сборка 9126.2282) <br/> |9 октября 2018 г.  <br/> |61 <br/> |
-|Версия 1803 (сборка 9126.2282)  <br/> |11 сентября 2018 г.  <br/> |58<br/> |
+|Версия 1803 (сборка 9126.2295) <br/> |9 октября 2018 г.  <br/> |61 <br/> |
+|Версия 1803 (сборка 9126.2282)  <br/> |11 сентября 2018 г.  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
@@ -192,7 +192,7 @@ ms.locfileid: "27180779"
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
 |Версия 1803 (сборка 9126.2259)  <br/> |10 июля 2018 г.  <br/> |99  <br/> |
-|Версия 1708 (сборка 9126.2275)  <br/> |14 августа 2018 г.  <br/> |99 <br/> |
+|Версия 1803 (сборка 9126.2275)  <br/> |14 августа 2018 г.  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
@@ -233,8 +233,8 @@ ms.locfileid: "27180779"
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 1803 (сборка 8431.2259)  <br/> |10 июля 2018 г.  <br/> |86  <br/> |
-|Версия 1708 (сборка 8431.2270)  <br/> |12 июня 2018 г.  <br/> |279  <br/> |
+|Версия 1803 (сборка 9126.2259)  <br/> |10 июля 2018 г.  <br/> |86  <br/> |
+|Версия 1708 (сборка 8431.2280)  <br/> |10 июля 2018 г.  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
