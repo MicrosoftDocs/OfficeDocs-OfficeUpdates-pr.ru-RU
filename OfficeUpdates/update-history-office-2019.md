@@ -3,19 +3,19 @@ title: История обновлений Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2019 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: a0133c76468487018701ba3d76c4f362490c2685
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: ebe32f4da0a0fc25d18dae319e3d9277ab0c3e4e
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296579"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241280"
 ---
 # <a name="update-history-for-office-2019"></a>История обновлений Office 2019
 
@@ -40,6 +40,7 @@ ms.locfileid: "26296579"
   
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|11 декабря 2018 г.   |Версия 1808 (сборка 10339.20026)  |[CVE-2018-8587](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8587) <br/> [CVE-2018-8597](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8597) <br/> [CVE-2018-8598](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8598) <br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8627) <br/> [CVE-2018-8628](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8628) <br/> [CVE-2018-8636](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8636) <br/>|
 |13 ноября 2018 г.   |Версия 1808 (сборка 10338.20019)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8582) <br/>|
 |9 октября 2018 г.   |Версия 1808 (сборка 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180026) <br/>|
 
@@ -48,5 +49,6 @@ ms.locfileid: "26296579"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|11 декабря 2018 г.   |Версия 1811 (сборка 11029.20108)  |[CVE-2018-8587](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8587) <br/> [CVE-2018-8597](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8597) <br/> [CVE-2018-8598](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8598) <br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8627) <br/> [CVE-2018-8628](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8628) <br/> [CVE-2018-8636](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8636) <br/>|
 |13 ноября 2018 г.   |Версия 1810 (сборка 11001.20108)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8582) <br/>|
 |9 октября 2018 г.   |Версия 1809 (сборка 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180026) <br/>|
