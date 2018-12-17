@@ -3,19 +3,19 @@ title: История обновлений Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2018
+ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: c83e0965a99bd55ee48ef01ffda556648071fa19
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 911d7d5378d2cd1ed18ef87625c19b8e23c783ee
+ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241380"
+ms.lasthandoff: 12/14/2018
+ms.locfileid: "27279690"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -41,7 +41,7 @@ ms.locfileid: "27241380"
   
 |**Приложение**|**Версия**|**Ссылки для скачивания**|**Хэш SHA-256 для пакета установки**|
 |:-----|:-----|:-----|:-----|
-|Набор Office (все приложения)  <br/> |16.20.0 (18120801)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |182C7F59C4D8D0F55F944979AE9B2E85BBB1269B4E1A542BFF1BD9BD79A6C235 <br/> |
+|Набор Office (все приложения)  <br/> |16.20.0 (18120801)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |61ED9026F803A31D442E0F6A2896328E84E0E350A264C6EA9314B68C066EB5CC <br/> |
 |Word  <br/> |16.20.0 (18120801)   <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/> |23A62FCCB9C834DA37233EF9AF9E037D496F0F7D11CF060432E0C914219C9AAF <br/> |
 |Excel  <br/> |16.20.0 (18120801)   <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/> |3B95883B8739F47F6FBEDA9DFE15FEF12BA63CACF94A244E207AF34EF10856D4  <br/> |
 |PowerPoint  <br/> |16.20.0 (18120801)    <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/> |75A9A05648FB4449582ACF4FF774BED65C61F304B8962734F5F27C297BFE2492 <br/> |
@@ -57,7 +57,7 @@ ms.locfileid: "27241380"
 |:-----|:-----|:-----|:-----|:-----|
 |Функция автоматического обновления (Майкрософт)  <br/> |4.6 (18120801)  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Этот пакет обновления 64-разрядный. <br/><br/>[История выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md)<br/> |5FB669DB651237FEC165E45BE4E82F3A82F969042B06DB6FA00A10B79B1BEDE6 <br/>|
 |Skype для бизнеса  <br/> |16.23.0.64 <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |Последняя версия была выпущена 14 ноября 2018 г. <br/><br/>[Последние обновления](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
-|Удаленный рабочий стол | 10.2.2 (1291)  | [Скачать](https://go.microsoft.com/fwlink/?linkid=868963) | Этот установочный пакет 64-разрядный. <br/> <br/>[Новые возможности](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|Удаленный рабочий стол | 10.2.5  | [Скачать](https://go.microsoft.com/fwlink/?linkid=868963) | Этот установочный пакет 64-разрядный. <br/> <br/>[Новые возможности](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  1933ebe38bfc3990ba5b3bd1153935868c12be7a90a487c0b1c3ae808bc40d65 <br/> |
 |Корпоративный портал Intune |1.5 (52.1805002.000) [180509] | [Скачать](https://go.microsoft.com/fwlink/?linkid=869655)| [Новые возможности Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Подключаемый модуль браузера Safari локального Microsoft SharePoint для Office 2016 для Mac  <br/> |15.32.0 (170309)  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Этот установочный пакет 64-разрядный.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
