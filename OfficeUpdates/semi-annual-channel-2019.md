@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: da269198a90b18ef62ae293273028d7206efd330
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
+ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773204"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27777455"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -31,6 +31,11 @@ ms.locfileid: "27773204"
 
 ## <a name="version-1808-january-8"></a>Версия 1808: 8 января
 *Версия 1808 (сборка 10730.20264)*
+
+### <a name="access-feature-updates"></a>Access. Обновления функций
+
+ - **Визуализация данных с помощью новых диаграмм.** Выберите одну из 11 диаграмм и добавьте ее в свою форму или отчет, чтобы лучше визуализировать данные и принять обоснованное решение. [Подробнее](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### <a name="excel-feature-updates"></a>Excel: Обновления функций
  - **Совместное редактирование.** Работайте в своей книге одновременно с другими пользователями. [Подробнее](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
