@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2019 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770050"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791647"
 ---
 # <a name="update-history-for-office-2019"></a>История обновлений Office 2019
 
@@ -37,7 +37,6 @@ ms.locfileid: "27770050"
 ## <a name="volume-licensed-versions-of-office-2019"></a>Корпоративные версии Office 2019
 Приведенные ниже сведения относятся к корпоративным версиям Office 2019, таким как Office профессиональный плюс 2019, приобретенным в рамках соглашения о корпоративном лицензировании.
 
-  
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
 |8 января 2019 г.   |Версия 1808 (сборка 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0585) <br/> |
