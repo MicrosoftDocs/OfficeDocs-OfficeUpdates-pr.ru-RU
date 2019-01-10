@@ -51,5 +51,3 @@
 # Связанные ссылки
 ## [Выпуски Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Политика жизненного цикла поддержки Майкрософт](https://support.microsoft.com/lifecycle)
-
-
