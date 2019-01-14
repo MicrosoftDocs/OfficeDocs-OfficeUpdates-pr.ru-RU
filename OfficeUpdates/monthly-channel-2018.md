@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241490"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992133"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -191,11 +191,13 @@ ms.locfileid: "27241490"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
 - **Добавление живых красок на слайды.** Вставляйте анимированные трехмерные изображения, чтобы показать на экране, как бьется сердце, вращается планета или рычит тираннозавр. [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Новый вид значков на ленте.** Не волнуйтесь, ведь все работает точно так же. Кроме того, они великолепно смотрятся на экране любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Тест или опрос для аудитории.** Добавьте на слайд тест или опрос. Набор Office соберет и сохранит все ответы. [Подробнее](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 - **Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в примечания, чтобы сообщить коллегам о том, что требуется их участие. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Новый вид значков на ленте.** Не волнуйтесь, ведь все работает точно так же. Кроме того, они великолепно смотрятся на экране любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Преобразователь редактора формул.** Позволяет преобразовывать формулы, созданные с помощью редактора Microsoft Equation, в формат Office Math ML, чтобы обеспечить возможность редактирования.
+- **Преобразуйте статические документы.** Преобразуйте документы в интерактивные веб-страницы, которые прекрасно выглядят на любом устройстве и которыми легко делиться. [Подробнее](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>Версия 1808: 11 сентября
 *Версия 1808 (сборка 10730.20102)*
