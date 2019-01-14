@@ -3,19 +3,19 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 1/8/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 739f393f003db9d0486013158109f16cb1c2b666
+ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638159"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "27770100"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -32,9 +32,9 @@ ms.locfileid: "25638159"
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Заметки о выпусках Office 365 профессиональный плюс
 
 Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.
- - Monthly за [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md).
- - Semi-Annual (Targeted) за [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md).
- - Semi-Annual за [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md).
+ - Monthly: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
+ - Semi-Annual (Targeted): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - Semi-Annual: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Информация о выпусках Office для Mac
 

@@ -3,7 +3,7 @@ title: Обновления для Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
+ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296619"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "27770110"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -30,6 +30,8 @@ ms.locfileid: "26296619"
   
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Январь 2019 г.  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
+|Декабрь 2018 г.  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Ноябрь 2018 г.  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |Октябрь 2018 г.  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Сентябрь 2018 г.  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
@@ -82,6 +84,8 @@ ms.locfileid: "26296619"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Январь 2019 г.  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
+|Декабрь 2018 г.  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Ноябрь 2018 г.  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Октябрь 2018 г.  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Сентябрь 2018 г.  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
