@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/14/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 99fef039dcc905c0d0e71df61941951f993570cc
-ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
+ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2018
-ms.locfileid: "27279710"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325459"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -33,6 +33,23 @@ ms.locfileid: "27279710"
 > - Здесь приведены ссылки для скачивания только самых последних выпусков.
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 > - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="january-2019-release"></a>Выпуск за январь 2019 г.
+
+ **Дата выпуска:** 16 января 2019 г. 
+  
+ *Версия 16.21.0 (сборка 190101500)* 
+  
+Этот выпуск включает указанные ниже обновления.
+
+|**Приложение**|**Обновления компонентов**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Word  <br/>| **С iPhone в Word в два счета.** Вставляйте фотографии со своего iPhone в документ с помощью функции "Камера Continuity" от Apple. Требуется macOS Mojave. [Подробнее](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Присваивание меток конфиденциальности документам.** Применяйте метки конфиденциальности к своим документам, чтобы они соответствовали политикам защиты информации вашей организации. [Подробнее](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0561): уязвимость Microsoft Word, связанная с раскрытием информации  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0585): уязвимость Microsoft Word, связанная с удаленным выполнением кода |[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **Совместная работа с использованием примечаний.** Ведите беседу прямо на листе с помощью встроенного поля ответов. [Подробнее](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Присваивание меток конфиденциальности листам.** Применяйте метки конфиденциальности к своим листам, чтобы они соответствовали политикам защиты информации вашей организации. [Подробнее](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/> | <br/><br/>  |[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Печать номеров слайдов в раздаточных материалах.** При печати презентации в виде раздаточных материалов на каждом слайде будет отображаться сопутствующий номер слайда. <br/><br/> **Присваивание меток конфиденциальности презентациям.** Применяйте метки конфиденциальности к своим презентациям, чтобы они соответствовали политикам защиты информации вашей организации. [Подробнее](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Пакет обновления PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Присваивание меток конфиденциальности сообщениям.** Применяйте метки конфиденциальности к своим сообщениям, чтобы они соответствовали политикам защиты информации вашей организации. [Подробнее](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Функция автоматического обновления (Майкрософт) версии 4.7 <br/>| Управляющая программа автоматического обновления теперь запускается в рамках процесса установки. Это устраняет появление запутывающих диалоговых окон безопасности, ранее отображавшихся для пользователей. <br/><br/> Улучшены функции безопасности автоматического обновления (Майкрософт) для поддержки сертификатов SHA256. <br/>|<br/> | [Пакет обновления функции автоматического обновления (Майкрософт)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="december-2018-release"></a>Выпуск за декабрь 2018 г.
 

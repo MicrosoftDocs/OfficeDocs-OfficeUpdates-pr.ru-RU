@@ -3,19 +3,19 @@ title: Заметки о выпусках для обновлений систе
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241260"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325379"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -24,6 +24,27 @@ ms.locfileid: "27241260"
 > [!NOTE]
 > - Кроме того, ниже представлены сведения об обновлениях для системы безопасности в Visio Pro для Office 365 и клиенте Project Online для настольных компьютеров.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+
+## <a name="january-8-2019"></a>8 января 2019 г.
+
+Monthly Channel: версия 1812 (сборка 11126.20196)  
+Semi-Annual Targeted Channel: версия 1808 (сборка 10730.20264)  
+Semi-Annual Channel: версия 1808 (сборка 10730.20264)  
+Semi-Annual Channel: версия 1803 (сборка 9126.2351)  
+Semi-Annual Channel: версия 1708 (сборка 8431.2366)  
+
+
+### <a name="outlook"></a>Outlook
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0559)
+
+### <a name="word-security-updates"></a>Word. Обновления для системы безопасности 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0585) 
+ 
+### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности 
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0560)
+
 ## <a name="december-11-2018"></a>11 декабря 2018 г.
 Monthly Channel: версия 1811 (сборка 11029.20108)  
 Semi-Annual Channel: версия 1803 (сборка 9126.2336)  

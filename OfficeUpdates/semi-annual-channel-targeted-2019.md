@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 54c9b62bebb657ade63b8c72f1ce0430611dfee6
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773202"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325419"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -33,9 +33,13 @@ ms.locfileid: "27773202"
 ## <a name="version-1808-january-8"></a>Версия 1808: 8 января
 *Версия 1808 (сборка 10730.20264)* 
 
-### <a name="outlook-non-security-updates"></a>Outlook: Обновления, не связанные с безопасностью 
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью 
 
 - Исправлена проблема появления ошибок при синхронизации календаря пользователей.
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+
+- Повышение производительности при открытии.
 
 
 > [!NOTE]
