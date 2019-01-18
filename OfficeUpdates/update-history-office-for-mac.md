@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: 4136d46de7cebe40c4a38bd8a2812fe07cf3caad
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 54d4731db7eddb71935e53439dc7b51e47388d04
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325429"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726692"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
 
@@ -24,11 +24,13 @@ ms.locfileid: "28325429"
 
 В таблице ниже приведены сводные сведения о последних версиях Office для Mac.
 
-|**Текущая версия**|**Дата выпуска**|**Ссылка для скачивания**|**Дополнительные сведения**|
+|**Тип набора Office**|**Текущая версия**|**Дата выпуска**|**Ссылка для скачивания**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-16.21 (19011500)  <br/> |16 января 2019 г.  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |
-  
+|C Microsoft Teams | 16.21 (19011500)  <br/> |16 января 2019 г.  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |
+|Без Microsoft Teams| 16.21 (19011500)  <br/> |16 января 2019 г.  <br/> |[Скачать](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/>|
+
 > [!NOTE]
+> - Начиная с версии 16.21, Microsoft Teams устанавливается по умолчанию для ***новых*** экземпляров установки, если вы используете установочный пакет набора Office. Дополнительные сведения см. в разделе [Установка экземпляров Microsoft Teams на компьютере Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 > - Из соображений безопасности корпорация Майкрософт прекратила использование SHA-1. [Подробнее](https://docs.microsoft.com/ru-RU/security-updates/SecurityAdvisories/2017/4010323)
 > - Начиная с выпуска 16.17 за сентябрь 2018 года, эта информация также относится к Office 2019 для Mac, версии Office для Mac, которую можно приобрести в розничном магазине или через соглашение о корпоративном лицензировании.
 > - Детали истории обновлений для версии 16.16 и более ранних версий также относятся к Office 2016 для Mac, который представляет собой версию Office для Mac, доступную для разовой покупки. Более ранние версии до 16.16 включительно можно активировать с помощью корпоративной лицензии Office 2016 для Mac. Версию 16.17 или более позднюю нельзя активировать с помощью корпоративной лицензии Office 2016 для Mac. Информацию о выпусках Office 2016 для Mac за сентябрь и позже см. в [заметках о выпусках Office 2016 для Mac](release-notes-office-2016-mac.md).
@@ -37,11 +39,12 @@ ms.locfileid: "28325429"
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Последние пакеты для Office для Mac
 
-В таблице ниже перечислены последние пакеты для Office для Mac и для отдельных приложений, например Word или Excel. Все пакеты 64-разрядные. Дата сборки указана в скобках в формате ГГММДД после номера версии. Если у вас еще не установлено соответствующее приложение, используйте установочный пакет. Для обновления установленного приложения используйте пакет обновления.
+В таблице ниже перечислены последние пакеты для набора Office и отдельных приложений. Набор Office включает все отдельные приложения, например Word, PowerPoint и Excel. Все пакеты 64-разрядные. Дата сборки указана в скобках в формате ГГММДД после номера версии. Если у вас еще не установлено соответствующее приложение, используйте установочный пакет. Для обновления установленного приложения используйте пакет обновления.
   
 |**Приложение**|**Версия**|**Ссылки для скачивания**|**Хэш SHA-256 для пакета установки**|
 |:-----|:-----|:-----|:-----|
-|Набор Office (все приложения)  <br/> |16.21.0 (19011500)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |3C2F8B5F77CF495937120FD1D1C80E22CAECBAD94458385775F7041421F5850D <br/> |
+|Набор Office <br/> (с Teams)   |16.21.0 (19011500)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |688C979E782040413E4AC9267D60130B63DB233470DC290614FFFDC6C039C90A <br/> |
+|Набор Office <br/>(без Teams)  <br/> |16.21.0 (19011500)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |3C2F8B5F77CF495937120FD1D1C80E22CAECBAD94458385775F7041421F5850D <br/> |
 |Word  <br/> |16.21.0 (19011500)   <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/> |34C6D2795B815224B0478BF56F501FF79B42A29A3493B411A379C4BD2D7D66DF <br/> |
 |Excel  <br/> |16.21.0 (19011500)   <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.21.19011500_Updater.pkg) <br/> |90F78B958BBDA01F8CAC9ABBCFC33F553D8FA4C90DBF50080EAA2C16F0DD5D68  <br/> |
 |PowerPoint  <br/> |16.21.0 (19011500)    <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/> |08DDAB9A9940B83486F1366726BB3DCA4B9EA91DF4D5FACECF6738F79C75C62D <br/> |
@@ -71,13 +74,13 @@ ms.locfileid: "28325429"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Установочный пакет**|**Пакеты обновления**|
 |:-----|:-----|:-----|:-----|:-----|
-16 января 2019 г.  <br/> |16.21 (19011500)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |[Набор Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.21.19011500_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.21.19011500_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.21.19011500_Updater.pkg) <br/>
+16 января 2019 г.  <br/> |16.21 (19011500)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release)| [Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.21.19011500_BusinessPro_Installer.pkg) <br/> <br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.21.19011500_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.21.19011500_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.21.19011500_Updater.pkg) <br/>
 11 декабря 2018 г.  <br/> |16.20 (18120801)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#december-2018-release) <br/> |[Набор Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.20.18120801_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.20.18120801_Updater.pkg) <br/>
 |13 ноября 2018 г.  <br/> |16.19 (18110915)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#november-2018-release) <br/> |[Набор Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.19.18110915_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.19.18110915_Updater.pkg) <br/> |
 |16 октября 2018 г.  <br/> |16.18 (18101400)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#october-2018-release) <br/> |[Набор Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
 |11 сентября 2018 г.  <br/> |16.17 (18090901)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#september-2018-release) <br/> |[Набор Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
-|14 августа 2018 г.  <br/> |16.16 (18081201)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |[Набор Office]
-|10 июля 2018 г.  <br/> |16.15 (18070902)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#july-2018-release) <br/> |[Набор Office]
+|14 августа 2018 г.  <br/> |16.16 (18081201)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#august-2018-release) <br/> |||
+|10 июля 2018 г.  <br/> |16.15 (18070902)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#july-2018-release) <br/> |||
 |13 июня 2018 г.  <br/> |16.14.1 (18061302)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#june-2018-release) <br/> |||
 |12 июня 2018 г.  <br/> |16.14.0 (18061000)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#june-2018-release) <br/> |||
 |24 мая 2018 г.  <br/> |16.13.1 (18052304)  <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#may-2018-release) <br/> |||
