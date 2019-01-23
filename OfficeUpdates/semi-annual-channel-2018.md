@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241500"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27264120"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel в 2018 г.
 
@@ -48,7 +48,7 @@ ms.locfileid: "27241500"
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8628): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода 
 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook. Обновления, не связанные с безопасностью
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
 - Исправлена ошибка, приводившая к неожиданному закрытию Outlook при обновлении определенных полей контактов.
 - Устранена проблема, приводившая к появлению сообщения об ошибке при запуске диалогового окна "Управление правилами и оповещениями".
@@ -75,7 +75,7 @@ ms.locfileid: "27241500"
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8628): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook. Обновления, не связанные с безопасностью
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
 - Исправлена ошибка, приводившая к неожиданному закрытию Outlook при обновлении определенных полей контактов.
 - Устранена проблема, приводившая к появлению сообщения об ошибке при запуске диалогового окна "Управление правилами и оповещениями".
@@ -1001,7 +1001,7 @@ ms.locfileid: "27241500"
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0796): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [Рекомендация 170021.](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV170021): обновление для системы многоуровневой защиты Microsoft Office
+-   [Рекомендация 170021](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV170021): обновление для системы многоуровневой защиты Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0791): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода

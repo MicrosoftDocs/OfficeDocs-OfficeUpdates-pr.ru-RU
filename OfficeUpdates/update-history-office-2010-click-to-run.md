@@ -3,19 +3,19 @@ title: Журнал обновления для продуктов Office 2010 C
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Содержит ИТ-специалистов по Бессрочная версий Office 2010, использующих Click-to-Run с журнала обновлений
-ms.openlocfilehash: a13085d71336e28d919e9d0097320afa6ebe67df
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: e0bae21f1bc795ab1e7e70f8b93784db2eed677b
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241390"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770160"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления для продуктов Office 2010 Click-to-Run
 
@@ -30,7 +30,7 @@ ms.locfileid: "27241390"
 Если вы используете один из этих продуктов, и вы хотите убедиться, что вы в актуальном состоянии, проверьте номер версии Office и вручную обновить Office, если это необходимо.
   
 > [!NOTE]
-> Последние версии Office 2010 — это **14.0.7224.5000**, которая была выпущена в 13 ноября 2018. 
+> Последние версии Office 2010 — это **14.0.7228.5000**, которая была выпущена в 8 января 2019. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,6 +54,7 @@ ms.locfileid: "27241390"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
+|2019|8 января  <br/> |14.0.7228.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
 |2018|13 ноября  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
 ||9 октября  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
 | |11 сентября  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
