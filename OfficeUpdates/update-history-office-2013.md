@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/20/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
-ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
+ms.openlocfilehash: 681c3077e784f7ae9ab0b6855fbdd91533967225
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "27378539"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770140"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Большинство продуктов Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5093.1001**, выпущенная 19 декабря 2018 г. 
+> Последняя версия Office 2013 — **15.0.5101.1002**, выпущенная 8 января 2019 г. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,6 +46,7 @@ ms.locfileid: "27378539"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
+|2019|8 января   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/ru-RU/help/4484800)  |
 |2018|19 декабря   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/ru-RU/help/4477615)  |
 ||13 ноября   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ru-RU/help/4469617)  |
 ||9 октября   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/ru-RU/help/4464656)  |

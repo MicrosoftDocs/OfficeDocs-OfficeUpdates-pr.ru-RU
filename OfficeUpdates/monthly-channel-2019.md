@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724927"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723132"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,13 +27,16 @@ ms.locfileid: "27724927"
 > - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут указываться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
+> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
+
+## <a name="version-1812-january-8"></a>Версия 1812: 8 января
+*Версия 1812 (сборка 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой нельзя было отменить выбор стиля отрезков критической задачи, задержки и временного резерва в диаграмме Ганта после установки одного из них.
 
 ## <a name="version-1812-january-3"></a>Версия 1812: 3 января
 *Версия 1812 (сборка 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access. Обновления функций
-- **Получение интеллектуальных данных с помощью Microsoft Graph.** Импортируйте интеллектуальные данные или ссылайтесь на них и взгляните по-новому на свою классическую базу данных с помощью интеллектуальных технологий. [Подробнее](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel. Обновления функций
 
@@ -61,3 +64,5 @@ ms.locfileid: "27724927"
 
 
 
+> [!NOTE]
+> Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
