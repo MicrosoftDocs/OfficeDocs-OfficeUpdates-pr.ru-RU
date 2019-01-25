@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/17/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "28723132"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442065"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -28,6 +28,12 @@ ms.locfileid: "28723132"
 
  > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
+
+## <a name="version-1812-january-14"></a>Версия 1812: 14 января
+*Версия 1812 (сборка 11126.20266)* 
+
+Только обновления, не связанные с безопасностью. Дополнительные сведения ожидаются в ближайшее время.
+
 
 ## <a name="version-1812-january-8"></a>Версия 1812: 8 января
 *Версия 1812 (сборка 11126.20196)* 
