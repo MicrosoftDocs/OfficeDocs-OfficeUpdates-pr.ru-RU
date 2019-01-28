@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442085"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530264"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -44,8 +44,8 @@ ms.locfileid: "29442085"
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 1812 (сборка 11126.20188)  <br/> |3 января 2019 г.  <br/> | Подлежит определению.<br/> |
-|Версия 1812 (сборка 11126.20196)  <br/> |8 января 2019 г. <br/> |Подлежит определению.<br/> |
+|Версия 1812 (сборка 11126.20196)  <br/> |8 января 2019 г. <br/> |81<br/> |
+|Версия 1812 (сборка 11126.20188)  <br/> |11 декабря 2018 г. <br/> |162<br/> |
 
 ## <a name="january-8-2019"></a>8 января 2019 г.
 

@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726712"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530294"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -35,6 +35,25 @@ ms.locfileid: "28726712"
 > - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="january-2019-release"></a>Выпуск за январь 2019 г.
+
+ **Дата выпуска:** 24 января 2019 г. 
+  
+ *Версия 16.21.0 (сборка 19011700)*
+
+ Этот выпуск включает указанные ниже обновления.
+
+|**Приложение**|**Обновления компонентов**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Word  <br/>| Исправлена проблема с китайской локализацией.<br/><br/>| |[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| Исправлена проблема с китайской локализацией.<br/><br/>  | |[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **Дата выпуска:** 23 января 2019 г. 
+  
+ *Версия 16.21.0 (сборка 190102303)* Этот выпуск включает указанные ниже обновления.
+ 
+|**Приложение**|**Обновления компонентов**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| Устранена регрессия в межзнаковом интервале при одновременном использовании символов Юникода и символов, отличных от Юникода. <br/><br/> | <br/><br/>  |[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
  **Дата выпуска:** 16 января 2019 г. 
   
