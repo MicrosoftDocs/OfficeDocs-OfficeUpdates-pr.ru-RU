@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325439"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647024"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -109,9 +109,9 @@ ms.locfileid: "28325439"
 - **Озаглавливание слайдов пером.** Напишите заголовок пером и посмотрите, как PowerPoint преобразует его в текст. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Предотвращение нежелательных изменений.** Чтобы предотвратить случайные изменения, настройте рабочие книги таким образом, чтобы они были доступны только для чтения. Перейдите в меню "Файл" > "Информация" > "Защита рабочей книги" > "Всегда открывать только для чтения"
 - **Улучшения проверки читаемости.** Для проверки читаемости изменены условия поддержки международных стандартов и рекомендаций, чтобы ваши презентации стали доступнее. [Подробнее](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **Тест или опрос для аудитории.** Добавьте на слайд тест или опрос. Набор Office соберет и сохранит все ответы. [Подробнее](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Обновления, не связанные с безопасностью
 - Исправлена ошибка с возможным повреждением файлов при сохранении файлов с содержимым ActiveX.
 - Исправлена ошибка, из-за которой таблицы некорректно отображаются с толстыми границами.
 - Исправлена ошибка, из-за которой при изменении свойства Shape.Visible мог произойти сбой.
