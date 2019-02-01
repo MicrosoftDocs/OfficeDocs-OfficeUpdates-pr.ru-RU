@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530254"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690681"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -29,11 +29,30 @@ ms.locfileid: "29530254"
  > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
 
+## <a name="version-1901-january-31"></a>Версия 1901: 31 января
+*Версия 1901 (сборка 11231.20130)* 
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+
+- **Совместная работа с использованием примечаний.** Ведите беседу прямо на листе с помощью встроенного поля ответов. [Подробнее](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- **Все смогут понять, что вы имели в виду.** Если текста или статических изображений недостаточно, воспользуйтесь файлами GIF с анимацией, чтобы донести свою идею. [Подробнее](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
+ 
+### <a name="visio-feature-updates"></a>Visio. Обновления функций
+
+- **Встроенные наборы элементов Azure.** Разрабатывайте облачное приложение или планируйте архитектуру с помощью множества наборов элементов Azure.[Подробнее](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
+
+- **Сторонние приложения Office теперь поддерживают вставку формата SVG с помощью API Office.js.** В сторонних приложениях, также называемых надстройками в Office, теперь есть возможность вставки формата SVG. Пользователи теперь могут подключать собственные коллекции файлов SVG к Office. Разработчики могут использовать эту функцию с помощью API Office.js.
+
+
 ## <a name="version-1812-january-14"></a>Версия 1812: 14 января
 *Версия 1812 (сборка 11126.20266)* 
 
 Только не связанные с безопасностью обновления, решающие проблемы с производительностью.
-
 
 ## <a name="version-1812-january-8"></a>Версия 1812: 8 января
 *Версия 1812 (сборка 11126.20196)* 
