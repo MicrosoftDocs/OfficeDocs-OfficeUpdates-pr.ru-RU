@@ -26,6 +26,10 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
+### Программа предварительной оценки Office
+#### [Журнал обновлений канала программы предварительной оценки журнала](update-history-office-insider.md)
+#### [Журнал обновлений канала Monthly Channel (Tageted)](update-history-monthly-channel-targeted.md)
+
 # Office для Mac
 ## [Журнал обновлений (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Заметки о выпуске (Office 365, 2019)](release-notes-office-for-mac.md)
