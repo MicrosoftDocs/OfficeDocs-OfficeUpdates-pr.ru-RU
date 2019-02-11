@@ -1,7 +1,7 @@
 ---
 title: Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
 ms.date: 1/31/2019
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 1bb67d3e0afd2c1029668b25637a97f94b8bd76e
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: e39cadc41e8403ab656a5d04ba403dea6b99ca2f
+ms.sourcegitcommit: 9b75c404f340d948b6d9bae867b45ee7ee55f43f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690761"
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "29705850"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
