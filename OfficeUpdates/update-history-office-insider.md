@@ -3,19 +3,19 @@ title: 'Журнал обновлений для канала программы
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/01/2019
+ms.date: 02/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 454a69c84eb7c30d23d4fd33ed27b335ffd84b5a
-ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
+ms.openlocfilehash: 1bcff2dcf3cbe6c848d596cfe1da99409189d1a6
+ms.sourcegitcommit: 2e2adf9db44f27ab59066170208709eb71a9c196
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29708747"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29892431"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -27,15 +27,17 @@ ms.locfileid: "29708747"
 
 Чтобы найти заметки о выпуске, см. [Заметки о выпуске для Office для настольных компьютеров с Windows](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
 
-**30 января 2019 года**<br/> Версия 1902 (сборка 11326.20000)<br/> 
+**9 февраля 2019 г.**<br/> Версия 1902 (сборка 11330.20014)<br/> 
 
-**25 января 2019 года**<br/> Версия 1902 (сборка 11316.20026)<br/> 
+**30 января 2019 г.**<br/> Версия 1902 (сборка 11326.20000)<br/> 
 
-**22 января 2019 года**<br/> Версия 1902 (сборка 11310.20016)<br/> 
+**25 января 2019 г.**<br/> Версия 1902 (сборка 11316.20026)<br/> 
 
-**17 января 2019 года**<br/> Версия 1902 (сборка 11231.20080)<br/>
+**22 января 2019 г.**<br/> Версия 1902 (сборка 11310.20016)<br/> 
 
-**10 января 2019 года**<br/> Версия 1902 (сборка 11231.20066)<br/> 
+**17 января 2019 г.**<br/> Версия 1902 (сборка 11231.20080)<br/>
+
+**10 января 2019 г.**<br/> Версия 1902 (сборка 11231.20066)<br/> 
 
 
 ## <a name="insider-community"></a>Сообщество участников программы предварительной оценки
