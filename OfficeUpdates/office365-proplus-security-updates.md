@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325379"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954031"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -24,6 +24,26 @@ ms.locfileid: "28325379"
 > [!NOTE]
 > - Кроме того, ниже представлены сведения об обновлениях для системы безопасности в Visio Pro для Office 365 и клиенте Project Online для настольных компьютеров.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+## <a name="february-12-2019"></a>12 февраля 2019 г.
+Monthly Channel: версия 1901 (сборка 11231.20174)  
+Semi-Annual Channel (Targeted): версия 1808 (сборка 10730.20280)   
+Semi-Annual Channel: версия 1808 (сборка 10730.20280)  
+Semi-Annual Channel: версия 1803 (сборка 9126.2356)  
+Semi-Annual Channel: версия 1708 (сборка 8431.2372)  
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0669)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>8 января 2019 г.
 
