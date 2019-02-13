@@ -3,7 +3,7 @@ title: Обновления для Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770110"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964611"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -30,6 +30,7 @@ ms.locfileid: "27770110"
   
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Февраль 2019 г.  <br/> |[KB 4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Январь 2019 г.  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Декабрь 2018 г.  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Ноябрь 2018 г.  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
@@ -84,6 +85,7 @@ ms.locfileid: "27770110"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Февраль 2019 г.  <br/>  |[KB 4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Январь 2019 г.  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Декабрь 2018 г.  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Ноябрь 2018 г.  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
