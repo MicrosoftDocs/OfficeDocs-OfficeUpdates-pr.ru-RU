@@ -27,8 +27,8 @@
 
 
 ### Программа предварительной оценки Office  
-#### [Журнал обновлений канала программы предварительной оценки журнала](update-history-office-insider.md)
-#### [Журнал обновлений канала Monthly Channel (Tageted)](update-history-monthly-channel-targeted.md)
+#### [Журнал обновлений канала программы предварительной оценки](update-history-office-insider.md)
+#### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
 ####[Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
 
 # Office для Mac
