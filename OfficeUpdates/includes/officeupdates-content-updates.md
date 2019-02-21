@@ -3,35 +3,6 @@
 
 
 
-## <a name="week-of-january-07-2019"></a>Неделя с 7 января 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 8/1/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
-| 8/1/2019 | [Список последних MSP-файлы для продуктов Office 2013](/OfficeUpdates/msp-files-office-2013) | изменено |
-| 8/1/2019 | [Список последних MSP-файлы для продуктов Office 2016](/OfficeUpdates/msp-files-office-2016) | изменено |
-| 8/1/2019 | [Последние обновления для версий Office, в которых используется установщик Windows (MSI)](/OfficeUpdates/office-updates-msi) | изменено |
-| 8/1/2019 | [Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)](/OfficeUpdates/outlook-updates-msi) | изменено |
-| 8/1/2019 | [Обновления для Project Server](/OfficeUpdates/project-server-updates) | изменено |
-| 8/1/2019 | [Информация о выпуске обновлений для Office 365 профессиональный плюс](/OfficeUpdates/release-notes-office365-proplus) | изменено |
-| 8/1/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | добавлен |
-| 8/1/2019 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.](/OfficeUpdates/semi-annual-channel-targeted-2019) | добавлен |
-| 8/1/2019 | [Обновления для SharePoint](/OfficeUpdates/sharepoint-updates) | изменено |
-| 8/1/2019 | [Журнал обновления для продуктов Office 2010 Click-to-Run](/OfficeUpdates/update-history-office-2010-click-to-run) | изменено |
-| 8/1/2019 | [История обновлений Office 2013](/OfficeUpdates/update-history-office-2013) | изменено |
-| 8/1/2019 | [История обновлений Office 2019](/OfficeUpdates/update-history-office-2019) | изменено |
-| 8/1/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
-| 8/1/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
-| 8/1/2019 | [Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс](/OfficeUpdates/office365-proplus-security-updates) | изменено |
-| 1/9/2019 | [История обновлений Office 2019](/OfficeUpdates/update-history-office-2019) | изменено |
-| 1/10/2019 | [Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс](/OfficeUpdates/office365-proplus-security-updates) | изменено |
-| 1/10/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
-| 1/10/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
-| 11/1/2019 | [Заметки о выпусках Monthly Channel в 2018 г.](/OfficeUpdates/monthly-channel-2018) | изменено |
-| 11/1/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
-
-
 ## <a name="week-of-january-14-2019"></a>Неделя с 14 января 2019 г.
 
 
@@ -49,7 +20,7 @@
 | 1/17/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
 
 
-## <a name="week-of-january-21-2019"></a>Недели после 21 января 2019
+## <a name="week-of-january-21-2019"></a>Неделя 21 января 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
@@ -73,16 +44,46 @@
 | 1/31/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
 | 1/31/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
 | 1/31/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
-| 2/1/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | добавлен |
-| 2/1/2019 | [Журнал обновления для Office: взгляд изнутри канала](/OfficeUpdates/update-history-office-insider) | добавлен |
+| 2/1/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | введен |
+| 2/1/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | введен |
 | 2/1/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
 
 
-## <a name="week-of-february-04-2019"></a>Неделя 04 февраля 2019
+## <a name="week-of-february-04-2019"></a>Неделя с 4 февраля 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
 | 2/5/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | изменено |
-| 2/5/2019 | [История обновлений Office для Mac](/OfficeUpdates/release-notes-office-insider) | добавлен |
-| 2/5/2019 | [Заметки о выпуске для сотрудников Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+| 2/5/2019 | [История обновлений Office для Mac](/OfficeUpdates/release-notes-office-insider) | введен |
+| 2/5/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+
+
+## <a name="week-of-february-11-2019"></a>Неделя с 11 февраля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 2/11/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+| 2/11/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
+| 2/12/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | изменено |
+| 2/12/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
+| 2/12/2019 | [Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс](/OfficeUpdates/office365-proplus-security-updates) | изменено |
+| 2/12/2019 | [Заметки о выпусках Office 2016 для Mac](/OfficeUpdates/release-notes-office-2016-mac) | изменено |
+| 2/12/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
+| 2/12/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
+| 2/12/2019 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.](/OfficeUpdates/semi-annual-channel-targeted-2019) | изменено |
+| 2/12/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
+| 2/12/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
+| 2/12/2019 | [Список актуальных MSP-файлов для продуктов Office 2013](/OfficeUpdates/msp-files-office-2013) | изменено |
+| 2/12/2019 | [Список актуальных MSP-файлов для продуктов Office 2016](/OfficeUpdates/msp-files-office-2016) | изменено |
+| 2/12/2019 | [Последние обновления для версий Office, в которых используется установщик Windows (MSI)](/OfficeUpdates/office-updates-msi) | изменено |
+| 2/12/2019 | [Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)](/OfficeUpdates/outlook-updates-msi) | изменено |
+| 2/12/2019 | [Обновления для Project Server](/OfficeUpdates/project-server-updates) | изменено |
+| 2/12/2019 | [Обновления для SharePoint](/OfficeUpdates/sharepoint-updates) | изменено |
+| 2/12/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | изменено |
+| 2/12/2019 | [История обновлений Office 2013](/OfficeUpdates/update-history-office-2013) | изменено |
+| 2/12/2019 | [История обновлений Office 2019](/OfficeUpdates/update-history-office-2019) | изменено |
+| 2/15/2019 | [Журнал обновлений для продуктов Office 2010 "нажми и работай"](/OfficeUpdates/update-history-office-2010-click-to-run) | изменено |
+| 2/15/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+| 2/15/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
