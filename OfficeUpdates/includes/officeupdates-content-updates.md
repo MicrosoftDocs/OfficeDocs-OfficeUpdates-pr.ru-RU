@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Неделя с 14 января 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 1/16/2019 | [Заметки о выпусках Office 2016 для Mac](/OfficeUpdates/release-notes-office-2016-mac) | изменено |
-| 1/16/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
-| 1/16/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
-| 1/16/2019 | [Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс](/OfficeUpdates/office365-proplus-security-updates) | изменено |
-| 1/16/2019 | [История выпусков функции автоматического обновления (Майкрософт)](/OfficeUpdates/release-history-microsoft-autoupdate) | изменено |
-| 1/16/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
-| 1/16/2019 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.](/OfficeUpdates/semi-annual-channel-targeted-2019) | изменено |
-| 1/17/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
-| 1/17/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
-| 1/17/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
-
-
 ## <a name="week-of-january-21-2019"></a>Неделя 21 января 2019 г.
 
 
@@ -87,3 +70,15 @@
 | 2/15/2019 | [Журнал обновлений для продуктов Office 2010 "нажми и работай"](/OfficeUpdates/update-history-office-2010-click-to-run) | изменено |
 | 2/15/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
 | 2/15/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
+
+
+## <a name="week-of-february-18-2019"></a>Неделя с 18 февраля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 2/20/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
+| 2/20/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
+| 2/21/2019 | [Журнал обновлений для Office 2016 C2R и Office 2019](/OfficeUpdates/update-history-office-2019) | изменено |
+| 2/22/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | изменено |
+| 2/22/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
