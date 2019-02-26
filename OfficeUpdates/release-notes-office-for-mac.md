@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/12/2019
+ms.date: 2/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
-ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
+ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
+ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "29954101"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "30128125"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -36,7 +36,18 @@ ms.locfileid: "29954101"
 
 ## <a name="february-2019-release"></a>Выпуск за февраль 2019 г.
 
- **Дата выпуска:** 12 февраля 2019 г. 
+**Дата выпуска:** 20 февраля 2019 г. 
+  
+ *Версия 16.22.1 (сборка 19022000)*
+
+ Этот выпуск включает указанные ниже обновления.
+
+|**Приложение**|**Обновления компонентов**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Outlook  <br/>| Исправлена проблема с проверкой подлинности для учетных записей Google.<br/><br/> Исправлена проблема с синхронизацией календаря. <br/>  | |[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
+ 
+
+**Дата выпуска:** 12 февраля 2019 г. 
   
  *Версия 16.22.0 (сборка 19021100)*
 
