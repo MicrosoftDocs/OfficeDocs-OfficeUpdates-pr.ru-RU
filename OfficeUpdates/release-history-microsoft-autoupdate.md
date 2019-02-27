@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 02/26/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 8f29d5238e8b759a54c90ff4390e720f1d855f2c
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 81becaf41e9d3d7c478dddb80c2c5e2382cfca51
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325409"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294632"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,7 +31,8 @@ ms.locfileid: "28325409"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|:-----|
-|16 января 2019 г. <br/>|4.7.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.7.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|26 февраля 2019 г. <br/>|4.8.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.8.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16 января 2019 г. <br/>|4.7.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 декабря 2018 г. <br/>|4.6.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |14 ноября 2018 г. <br/> |4.5.0 <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#november-2018-release) <br/> | |
 |16 октября 2018 г. <br/> |4.4.0 <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#october-2018-release) <br/> | |
