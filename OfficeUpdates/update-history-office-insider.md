@@ -3,64 +3,66 @@ title: 'Журнал обновлений для канала программы
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/25/2019
+ms.date: 03/01/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 457201db47b2c4adcca335d8d24078af6a4acf30
-ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
+ms.openlocfilehash: bcda4695c35146289f5dbcbc8014775243688a15
+ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30247701"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361754"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="9374c-103">Журнал обновлений для канала программы предварительной оценки Office </span><span class="sxs-lookup"><span data-stu-id="9374c-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="0751c-103">Журнал обновлений для канала программы предварительной оценки Office </span><span class="sxs-lookup"><span data-stu-id="0751c-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="9374c-p101">Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="9374c-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="0751c-p101">Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="0751c-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="9374c-107">Версии и сборки Office Insider</span><span class="sxs-lookup"><span data-stu-id="9374c-107">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="0751c-107">Версии и сборки Office Insider</span><span class="sxs-lookup"><span data-stu-id="0751c-107">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="9374c-p102">Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках.</span><span class="sxs-lookup"><span data-stu-id="9374c-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
+<span data-ttu-id="0751c-p102">Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках.</span><span class="sxs-lookup"><span data-stu-id="0751c-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
 
-<span data-ttu-id="9374c-111">Чтобы найти заметки о выпуске, см. [Заметки о выпуске для Office для настольных компьютеров с Windows](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).</span><span class="sxs-lookup"><span data-stu-id="9374c-111">To find release notes, see [Insider release notes for Office for Windows desktop](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).</span></span>
+<span data-ttu-id="0751c-111">Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).</span><span class="sxs-lookup"><span data-stu-id="0751c-111">To find release notes, see [Insider release notes for Office for Windows desktop](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).</span></span>
 
-<span data-ttu-id="9374c-112">**25 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-112">**February 25, 2019**</span></span><br/> <span data-ttu-id="9374c-113">Версия 1902 (сборка 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="9374c-113">Version 1902 (Build 11406.20002)</span></span><br/> 
+<span data-ttu-id="0751c-112">**1 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-112">**March 1, 2019**</span></span><br/> <span data-ttu-id="0751c-113">Версия 1902 (сборка 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="0751c-113">Version 1902 (Build 11414.20014)</span></span><br/> 
 
-<span data-ttu-id="9374c-114">**12 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-114">**February 12, 2019**</span></span><br/> <span data-ttu-id="9374c-115">Версия 1902 (сборка 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="9374c-115">Version 1902 (Build 11406.20002)</span></span><br/> 
+<span data-ttu-id="0751c-114">**25 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-114">**February 25, 2019**</span></span><br/> <span data-ttu-id="0751c-115">Версия 1902 (сборка 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="0751c-115">Version 1902 (Build 11414.20014)</span></span><br/> 
 
-<span data-ttu-id="9374c-116">**9 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-116">**February 9, 2019**</span></span><br/> <span data-ttu-id="9374c-117">Версия 1902 (сборка 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="9374c-117">Version 1902 (Build 11330.20014)</span></span><br/> 
+<span data-ttu-id="0751c-116">**12 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-116">**February 12, 2019**</span></span><br/> <span data-ttu-id="0751c-117">Версия 1902 (сборка 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="0751c-117">Version 1902 (Build 11406.20002)</span></span><br/> 
 
-<span data-ttu-id="9374c-118">**30 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-118">**January 30, 2019**</span></span><br/> <span data-ttu-id="9374c-119">Версия 1902 (сборка 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="9374c-119">Version 1902 (Build 11326.20000)</span></span><br/> 
+<span data-ttu-id="0751c-118">**9 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-118">**February 9, 2019**</span></span><br/> <span data-ttu-id="0751c-119">Версия 1902 (сборка 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="0751c-119">Version 1902 (Build 11330.20014)</span></span><br/> 
 
-<span data-ttu-id="9374c-120">**25 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-120">**January 25, 2019**</span></span><br/> <span data-ttu-id="9374c-121">Версия 1902 (сборка 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="9374c-121">Version 1902 (Build 11316.20026)</span></span><br/> 
+<span data-ttu-id="0751c-120">**30 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-120">**January 30, 2019**</span></span><br/> <span data-ttu-id="0751c-121">Версия 1902 (сборка 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="0751c-121">Version 1902 (Build 11326.20000)</span></span><br/> 
 
-<span data-ttu-id="9374c-122">**22 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-122">**January 22, 2019**</span></span><br/> <span data-ttu-id="9374c-123">Версия 1902 (сборка 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="9374c-123">Version 1902 (Build 11310.20016)</span></span><br/> 
+<span data-ttu-id="0751c-122">**25 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-122">**January 25, 2019**</span></span><br/> <span data-ttu-id="0751c-123">Версия 1902 (сборка 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="0751c-123">Version 1902 (Build 11316.20026)</span></span><br/> 
 
-<span data-ttu-id="9374c-124">**17 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-124">**January 17, 2019**</span></span><br/> <span data-ttu-id="9374c-125">Версия 1902 (сборка 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="9374c-125">Version 1902 (Build 11231.20080)</span></span><br/>
+<span data-ttu-id="0751c-124">**22 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-124">**January 22, 2019**</span></span><br/> <span data-ttu-id="0751c-125">Версия 1902 (сборка 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="0751c-125">Version 1902 (Build 11310.20016)</span></span><br/> 
 
-<span data-ttu-id="9374c-126">**10 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="9374c-126">**January 10, 2019**</span></span><br/> <span data-ttu-id="9374c-127">Версия 1902 (сборка 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="9374c-127">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="0751c-126">**17 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-126">**January 17, 2019**</span></span><br/> <span data-ttu-id="0751c-127">Версия 1902 (сборка 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="0751c-127">Version 1902 (Build 11231.20080)</span></span><br/>
+
+<span data-ttu-id="0751c-128">**10 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="0751c-128">**January 10, 2019**</span></span><br/> <span data-ttu-id="0751c-129">Версия 1902 (сборка 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="0751c-129">Version 1902 (build 11231.20066)</span></span><br/> 
 
 
-## <a name="insider-community"></a><span data-ttu-id="9374c-128">Сообщество участников программы предварительной оценки</span><span class="sxs-lookup"><span data-stu-id="9374c-128">Insider community</span></span>
+## <a name="insider-community"></a><span data-ttu-id="0751c-130">Сообщество участников программы предварительной оценки</span><span class="sxs-lookup"><span data-stu-id="0751c-130">Insider community</span></span>
 
-<span data-ttu-id="9374c-129">![Изображение с демонстрацией сообщества участников программы предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="9374c-129">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="9374c-130">**Сообщество участников программы предварительной оценки**</span><span class="sxs-lookup"><span data-stu-id="9374c-130">**Office Insider community**</span></span><br/> <span data-ttu-id="9374c-131">Если вы хотите пообщаться с другими участниками программы предварительной оценки, создайте публикацию в нашем сообществе.</span><span class="sxs-lookup"><span data-stu-id="9374c-131">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="9374c-132"> 
-[Посетить сообщество](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="9374c-132"> 
+<span data-ttu-id="0751c-131">![Изображение с демонстрацией сообщества участников программы предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="0751c-131">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="0751c-132">**Сообщество участников программы предварительной оценки**</span><span class="sxs-lookup"><span data-stu-id="0751c-132">**Office Insider community**</span></span><br/> <span data-ttu-id="0751c-133">Если вы хотите пообщаться с другими участниками программы предварительной оценки, создайте публикацию в нашем сообществе.</span><span class="sxs-lookup"><span data-stu-id="0751c-133">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="0751c-134"> 
+[Посетить сообщество](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="0751c-134"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="9374c-133">![Изображение с иконкой Twitter.</span><span class="sxs-lookup"><span data-stu-id="9374c-133">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="9374c-134">**Программа предварительной оценки Office в Twitter**</span><span class="sxs-lookup"><span data-stu-id="9374c-134">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="9374c-135">В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.</span><span class="sxs-lookup"><span data-stu-id="9374c-135">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="9374c-136"> 
-[Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="9374c-136"> 
+<span data-ttu-id="0751c-135">![Изображение с иконкой Twitter.</span><span class="sxs-lookup"><span data-stu-id="0751c-135">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="0751c-136">**Программа предварительной оценки Office в Twitter**</span><span class="sxs-lookup"><span data-stu-id="0751c-136">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="0751c-137">В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.</span><span class="sxs-lookup"><span data-stu-id="0751c-137">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="0751c-138"> 
+[Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="0751c-138"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="9374c-137">
+<span data-ttu-id="0751c-139">
   [
-  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="9374c-137">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="0751c-139">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="9374c-138">**Получайте новые возможности первыми**
-[Присоединяйтесь к программе предварительной оценки Office](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="9374c-138">**Get new features first**
+<span data-ttu-id="0751c-140">**Получайте новые возможности первыми**
+[Присоединяйтесь к программе предварительной оценки Office](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="0751c-140">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
