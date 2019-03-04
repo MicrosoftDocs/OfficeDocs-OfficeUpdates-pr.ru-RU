@@ -3,19 +3,19 @@ title: 'Журнал обновлений для канала программы
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/25/2019
+ms.date: 03/01/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 457201db47b2c4adcca335d8d24078af6a4acf30
-ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
+ms.openlocfilehash: bcda4695c35146289f5dbcbc8014775243688a15
+ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30247701"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361754"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -25,7 +25,9 @@ ms.locfileid: "30247701"
 
 Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. 
 
-Чтобы найти заметки о выпуске, см. [Заметки о выпуске для Office для настольных компьютеров с Windows](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
+Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://support.office.com/ru-RU/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
+
+**1 марта 2019 г.**<br/> Версия 1902 (сборка 11425.20036)<br/> 
 
 **25 февраля 2019 г.**<br/> Версия 1902 (сборка 11414.20014)<br/> 
 

@@ -3,19 +3,19 @@ title: Журнал обновлений для канала Office Monthly Chan
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/22/2019
+ms.date: 03/01/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 38dfeb237f513a1e8473c13f2bca43bb7034286d
-ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
+ms.openlocfilehash: f30eef0585fda90bc28737419386c84469c3ea6c
+ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30247711"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361734"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -24,6 +24,8 @@ ms.locfileid: "30247711"
 ## <a name="office-insider-versions-and-builds"></a>Версии и сборки Office Insider
 
 Если вы являетесь участником уровня Monthly Channel (Targeted), который ранее носил название «Предварительная оценка — поздний доступ», вы получаете обновления для компонентов Office приблизительно раз в месяц, а также получаете все последующие сборки с важными исправлениями или обновления для системы безопасности. Ниже перечислены последние версии и сборки для Monthly Channel (Targeted), а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. Чтобы найти заметки о выпуске, см. [Новые возможности для участников программы предварительной оценки Office](https://support.office.com/ru-RU/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**1 марта 2019 г.**<br/> Версия 1902 (сборка 11328.20140)<br/>
 
 **25 февраля 2019 г.**<br/> Версия 1902 (сборка 11328.20116)<br/>
 
