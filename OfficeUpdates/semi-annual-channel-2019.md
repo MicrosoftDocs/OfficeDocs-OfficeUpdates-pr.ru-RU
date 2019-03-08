@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
+ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954061"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466116"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -227,8 +227,12 @@ ms.locfileid: "29954061"
 - **Синхронизация диаграммы и источника.** Редактируя диаграмму визуализатора данных в Visio, вы можете обновлять связанные исходные данные Excel в соответствии с новым содержимым диаграммы.
 - **Шаблон аудита для визуализатора данных.** Импортируйте содержимое из Excel и создавайте схемы аудита финансовых транзакций, управления запасами и т. д.
 - **Начальные схемы.** В шаблоны "Организационная диаграмма", "Мозговой штурм" и SDL включены новые начальные схемы, с помощью которых вы быстро освоитесь и начнете работу.
- - **Создание документа Word из фигур Visio.** Автоматически добавляйте содержимое схем, включая фигуры и метаданные, в документы Word. Затем настраивайте документ для создания описаний процессов и руководств по эксплуатации. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Создание документа Word из фигур Visio.** Автоматически добавляйте содержимое схем, включая фигуры и метаданные, в документы Word. Затем настраивайте документ для создания описаний процессов и руководств по эксплуатации. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
+### <a name="office-suite-security-update"></a>Набор Office. Обновление для системы безопасности
+
+- 
+  **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время.
