@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379364"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509302"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -46,10 +46,10 @@ ms.locfileid: "30379364"
 
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
 
-- **Перерыв между собраниями.** Дайте участникам время передохнуть или перейти в другое место, задав время окончания собрания на 5–10 минут раньше по умолчанию. [Подробности здесь](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [и здесь](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- 
+  **Перерыв между собраниями.** Дайте участникам время передохнуть или перейти в другое место, задав время окончания собрания на 5–10 минут раньше по умолчанию. [Подробнее](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Использование функции чтения вслух для прослушивания писем.** Outlook может озвучивать ваши электронные письма, выделяя текст по мере чтения. Чтобы включить функцию чтения вслух, перейдите в параметры специальных возможностей. [Подробнее](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Шифрование сообщений: политика IRM "Только с шифрованием".** При использовании шифрования сообщений Office 365 появился новый параметр "Только с шифрованием". Он позволяет зашифровать сообщение и отправить его любому человеку внутри или за пределами организации. [Подробнее](https://aka.ms/omeoverview)
-- **Новый диапазон повторения по умолчанию.** В диалоговом окне "Повторение" для диапазона повторений использовался по умолчанию параметр "Нет даты окончания". Это способствует созданию длительных повторяющихся рядов, которые со временем могут быть повреждены. Параметр по умолчанию для диалогового окна "Повторение" изменен на значение "Дата окончания". Таким образом значение по умолчанию соответствует рекомендациям по ведению календаря.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
 
@@ -65,7 +65,8 @@ ms.locfileid: "30379364"
  
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/DeployOffice/teams-install)
+- 
+  **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Версия 1901: 12 февраля
 *Версия 1901 (сборка 11231.20174)* 
