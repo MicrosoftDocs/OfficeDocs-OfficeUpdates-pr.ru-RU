@@ -3,19 +3,19 @@ title: Журнал обновлений для продуктов Office 2010 "
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/16/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Предоставляет ИТ-специалистам историю обновлений для бессрочных версий Office 2010, использующих технология "нажми и работай"
-ms.openlocfilehash: 27982e9c60b7f6d32f17d52ac7847e7e74353496
-ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
+ms.openlocfilehash: b069b4ccaaf6c3750d9ef162961b108f419e8984
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/16/2019
-ms.locfileid: "30076954"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568182"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновлений для продуктов Office 2010 "нажми и работай"
 
@@ -30,7 +30,7 @@ ms.locfileid: "30076954"
 Если вы используете один из этих продуктов и хотите проверить, что у вас есть обновленные версии, проверьте номер версии Office и вручную обновите Office, если это необходимо.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7229.5000**, выпущенная 15 февраля 2019 г. 
+> Самая последняя версия Office 2010 — **14.0.7230.5000**, выпущенная 12 марта 2019. 
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +54,8 @@ ms.locfileid: "30076954"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019|15 февраля  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
+|2019|12 марта  <br/> |14.0.7230.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
+||15 февраля  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||8 января  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
 |2018|13 ноября  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
 ||9 октября  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |

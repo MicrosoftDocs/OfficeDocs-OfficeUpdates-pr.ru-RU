@@ -3,19 +3,23 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Неделя с 28 января 2019 г.
+## <a name="week-of-march-04-2019"></a>Неделя за 4 марта 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 1/31/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | изменено |
-| 1/31/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
-| 1/31/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
-| 1/31/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
-| 1/31/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
-| 2/1/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | введен |
-| 2/1/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | введен |
-| 2/1/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
+| 3/4/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
+| 3/4/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | изменено |
+| 3/4/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
+| 3/4/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | изменено |
+| 3/6/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | изменено |
+| 3/7/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+| 3/7/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
+| 3/8/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | изменено |
+| 3/8/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
+| 3/8/2019 | [Заметки о выПуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | изменено |
+| 3/8/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | изменено |
+| 3/8/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
 
 
 ## <a name="week-of-february-04-2019"></a>Неделя с 4 февраля 2019 г.
@@ -63,8 +67,8 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 2/20/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
-| 2/20/2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
+| 20.02.2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | изменено |
+| 20.02.2019 | [История обновлений Office для Mac](/OfficeUpdates/update-history-office-for-mac) | изменено |
 | 2/21/2019 | [Журнал обновлений для Office 2016 C2R и Office 2019](/OfficeUpdates/update-history-office-2019) | изменено |
 | 2/22/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | изменено |
 | 2/22/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | изменено |
