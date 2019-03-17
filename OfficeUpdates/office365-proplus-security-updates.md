@@ -3,19 +3,19 @@ title: Заметки о выпусках для обновлений систе
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 1/16/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 395767b1ebd1208c54e2bd07f6b75216d8b7fe24
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954031"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568192"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -23,7 +23,11 @@ ms.locfileid: "29954031"
  
 > [!NOTE]
 > - Кроме того, ниже представлены сведения об обновлениях для системы безопасности в Visio Pro для Office 365 и клиенте Project Online для настольных компьютеров.
-> - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
+> - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.
+
+## <a name="march-12-2019"></a>12 марта 2019 г.
+В этом месяце ни для одного канала нет обновлений системы безопасности.
+
 ## <a name="february-12-2019"></a>12 февраля 2019 г.
 Monthly Channel: версия 1901 (сборка 11231.20174)  
 Semi-Annual Channel (Targeted): версия 1808 (сборка 10730.20280)   

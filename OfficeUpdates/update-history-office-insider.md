@@ -3,19 +3,19 @@ title: 'Журнал обновлений для канала программы
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/08/2019
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
-ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
+ms.openlocfilehash: df55a06dc21013ee1d061f0031d5d9db312f45f8
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2019
-ms.locfileid: "30512798"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568152"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -32,6 +32,8 @@ ms.locfileid: "30512798"
 Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. 
 
 Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).
+
+**12 марта 2019 г.**<br/> Версия 1903 (сборка 11425.20096)<br/>
 
 **1 марта 2019 г.**<br/> Версия 1903 (сборка 11425.20036)<br/> 
 

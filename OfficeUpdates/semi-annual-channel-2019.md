@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466116"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568362"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -29,6 +29,25 @@ ms.locfileid: "30466116"
 > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
+
+## <a name="version-1808-march-12"></a>Версия 1808: 12 марта
+*Версия 1808 (сборка 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+
+- Исправлена ошибка, из-за которой VBA возвращает неправильный номер страницы.
+- Уменьшено время сохранения локального файла Word. 
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+- Предусмотрен раздел реестра для отключения параметра "Только с шифрованием" в меню шифрования сообщений Office 365.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+
+- Исправлена ошибка, из-за которой могла происходить задержка на некоторое время при попытке скачивания обновления Office.
+
+## <a name="version-1803-march-12"></a>Версия 1803: 12 марта 
+В этом месяце отсутствуют обновления.
 
 ## <a name="version-1808-february-12"></a>Версия 1808: 12 февраля
 *Версия 1808 (сборка 10730.20280)*
