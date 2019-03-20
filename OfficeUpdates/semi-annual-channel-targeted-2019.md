@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 4c8b3cfc3c02a83b9c20e3fe5ec7c2db27d6ef0e
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568102"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30691308"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -41,7 +41,6 @@ ms.locfileid: "30568102"
 ### <a name="excel-feature-updates"></a>Excel. Обновления функций
 
 - **Совместная работа с использованием примечаний.** Ведите беседу прямо на листе с помощью встроенного поля ответов. [Подробнее](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Привлечение внимания с помощью \@упоминаний.** Добавляйте \@упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие. Подробнее. Совместная работа с использованием примечаний. Ведите беседу прямо на листе с помощью встроенного поля ответов. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Новый вид значков на ленте.** Не волнуйтесь, ведь все работает точно так же. Кроме того, они великолепно смотрятся на экране любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Отображение того, что позади рисунка.** Добавьте рисунок на лист и выберите предопределенные параметры, после чего прозрачность изменится. Вот и все! [Подробнее](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
