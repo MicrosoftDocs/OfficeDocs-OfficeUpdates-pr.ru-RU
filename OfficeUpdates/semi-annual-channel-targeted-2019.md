@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/20/2019
-ms.locfileid: "30691308"
+ms.locfileid: "30697617"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -104,7 +104,7 @@ ms.locfileid: "30691308"
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 
 - **Сторонние приложения Office теперь поддерживают вставку формата SVG с помощью API Office.js.** В сторонних приложениях, также называемых надстройками в Office, теперь есть возможность вставки формата SVG. Пользователи теперь могут подключать собственные коллекции файлов SVG к Office. Разработчики могут использовать эту функцию с помощью API Office.js.
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с НОВЫМИ экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/DeployOffice/teams-install)
 
 
 ## <a name="version-1808-february-12"></a>Версия 1808: 12 февраля

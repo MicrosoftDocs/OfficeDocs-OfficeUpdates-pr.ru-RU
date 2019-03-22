@@ -3,19 +3,19 @@ title: Журнал обновлений для канала Office Monthly Chan
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/08/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
-ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
+ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2019
-ms.locfileid: "30512778"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30568402"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -28,6 +28,10 @@ ms.locfileid: "30512778"
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
 > - Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске
+
+**18 марта 2019 г.**<br/> Версия 1903 (сборка 11425.20140)<br/>
+
+**12 марта 2019 г.**<br/> Версия 1903 (сборка 11425.20096)<br/>
 
 **2 марта 2019 г.**<br/> Версия 1902 (сборка 11328.20146)<br/>
 
