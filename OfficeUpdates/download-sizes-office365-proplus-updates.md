@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/10/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568202"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737549"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -29,7 +29,7 @@ ms.locfileid: "30568202"
 
   
 > [!NOTE]
-> - Приблизительный размер файлов для скачивания, указанный в таблицах, относится только к англоязычной 32-разрядной версии Office 365 профессиональный плюс. 
+> - Приблизительный размер файлов для скачивания, указанный в таблицах, относится только к англоязычной 64-разрядной версии Office 365 профессиональный плюс. (Для всех выпусков до 13 марта 2019 г. показаны размеры для 32-разрядных версий).
 > - Размеры файлов для скачивания приблизительные. Фактические размеры файлов для скачивания могут отличаться не более чем на 50 МБ. 
 > - Даты выпуска и номера сборки, которые указаны курсивом и заключены в "\< \>", могут меняться. 
 > - Указаны только выпуски за последние четыре месяца.
