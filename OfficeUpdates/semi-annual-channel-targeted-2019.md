@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/19/2019
+ms.date: 3/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 05050765ac9666d9559bb496820cc9fd3920725e
-ms.sourcegitcommit: 484c4d70dc2898a7c100ebf898f70da5318c4316
+ms.openlocfilehash: 54e892e82d0c758c1271c2431d94079ab1414dac
+ms.sourcegitcommit: 7e32729e84e323c338e7086e47fc6c50e0802b5f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30741243"
+ms.lasthandoff: 03/23/2019
+ms.locfileid: "30789292"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -88,6 +88,8 @@ ms.locfileid: "30741243"
 - **Новый вид значков на ленте.** Не волнуйтесь, ведь все работает точно так же. Кроме того, они великолепно смотрятся на экране любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Отображение того, что позади рисунка.** Добавьте рисунок на лист и выберите предопределенные параметры, после чего прозрачность изменится. Вот и все! [Подробнее](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Улучшена поддержка дисплеев высокой четкости**. Приложения Office теперь выглядят четко на каждом из подключенных мониторов и на док-станции в виде ноутбука, даже если настройки масштаба на дисплеях отличаются. [Подробнее](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **Составление прекрасного резюме с помощью LinkedIn.** Благодаря помощнику по составлению резюме просматривайте для заданной роли опыт работы, рекомендуемые навыки и не только. [Дополнительные сведения](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
 
 ### <a name="project-feature-updates"></a>Project. Обновления функций
 
