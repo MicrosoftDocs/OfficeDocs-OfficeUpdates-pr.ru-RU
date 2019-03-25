@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2018 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697627"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737569"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Заметки о выпусках Monthly Channel в 2018 г.
 
@@ -184,7 +184,7 @@ ms.locfileid: "30697627"
 
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
 - **Кнопка "Ожидается в ближайшее время".** Попробуйте предварительные версии новых функций и поделитесь своим мнением. [Подробнее](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Просмотр URL-адресов, скрытых функцией "Безопасные ссылки".** Функция "Безопасные ссылки" помогает защитить компьютер от вредоносных URL-адресов, полученных по электронной почте, скрывая исходный URL-адрес. Теперь вы можете просто навести указатель мыши на URL-адрес, чтобы увидеть исходник, даже в случае ссылок, скрытых функцией "Безопасные ссылки".
+- **Просмотр URL-адресов, скрытых функцией "Безопасные ссылки".** Функция "Безопасные ссылки" защищает компьютер от вредоносных URL-адресов, полученных по электронной почте, скрывая исходный URL-адрес. Чтобы увидеть оригинал, наведите указатель мыши на URL-адрес. Требуется лицензия с расширенной защитой от угроз. [Подробнее](https://products.office.com/ru-RU/exchange/advance-threat-protection)
 - **Получение предложений для поиска.** После выполнения поиска Outlook будет предлагать поисковые запросы с исправленной орфографией.
 - **Новый вид значков на ленте.** Не волнуйтесь, ведь все работает точно так же. Кроме того, они великолепно смотрятся на экране любого размера. [Подробнее](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
