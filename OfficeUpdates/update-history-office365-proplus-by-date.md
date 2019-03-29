@@ -3,19 +3,19 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 3/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: bdeda2a65da84453bca46099ca054b6c2e8d64a0
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: dab70023b36ea0e6456db4c7b9b969f0b59c656d
+ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568258"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936859"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "30568258"
  
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1902 <br/> |11328.20158 <br/> | 12 марта 2019 г. <br/> |Выпуска версии 1903 <br/>|
+|Monthly  <br/> |1902 <br/> |11328.20222 <br/> | 25 марта 2019 г. <br/> |Выпуска версии 1903 <br/>|
 |Semi-Annual (Targeted)  <br/> |1902  <br/> |11328.20158 <br/> |  12 марта 2019 г. <br/> | 10 сентября 2019 г. <br/>|
 |Semi-Annual <br/> |1808  <br/> | 10730.20304<br/> | 12 марта 2019 г.  <br/> |  10 марта 2020 года <br/>|
 |Semi-Annual <br/> |1803  <br/> | 9126.2356  <br/> | 12 февраля 2019 г.  <br/> |  10 сентября 2019 г. <br/>|
@@ -44,6 +44,7 @@ ms.locfileid: "30568258"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|25 марта |[Версия 1902 (сборка 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12 марта |[Версия 1902 (сборка 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Версия 1902 (сборка 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Версия 1808 (сборка 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019|4 марта  |[Версия 1902 (сборка 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
 |2019|12 февраля |[Версия 1901 (сборка 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[Версия 1808 (сборка 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Версия 1808 (сборка 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Версия 1803 (сборка 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Версия 1708 (сборка 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
