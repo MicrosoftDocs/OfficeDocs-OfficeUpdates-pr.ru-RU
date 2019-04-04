@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
-ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
+ms.openlocfilehash: 304c86783abb240362319ea6879cdcdfa2d486b1
+ms.sourcegitcommit: 1a0efd6558305dbc2cc48f4f73061b4faed34c73
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/03/2019
-ms.locfileid: "31043435"
+ms.locfileid: "31411948"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -25,7 +25,7 @@ ms.locfileid: "31043435"
   
 Наша цель — предоставлять информацию о размере обновлений за неделю до выпуска, но иногда такая информация недоступна заранее. Выпуски для Semi-Annual Channel и Semi-Annual Channel (Targeted) запланированы на второй вторник каждого месяца. Для выпусков Monthly Channel нет определенного расписания.
 
-Сведения о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск, см. в статье [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md).
+Дополнительные сведения о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск, см. в статье [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
@@ -59,7 +59,7 @@ ms.locfileid: "31043435"
 
 ### <a name="monthly-channel"></a>Monthly Channel
 
-Ожидаемый выпуск — версия 1903 (сборка 11425.20202). 
+Самый свежий выпуск — версия 1903 (сборка 11425.20202). 
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
