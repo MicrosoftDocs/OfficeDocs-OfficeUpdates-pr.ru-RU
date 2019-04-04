@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
+ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936849"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31043435"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -35,6 +35,36 @@ ms.locfileid: "30936849"
 > - Указаны только выпуски за последние четыре месяца.
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ.
+
+
+### <a name="semi-annual-channel"></a>Semi-Annual Channel
+
+Ожидаемый выпуск — версия 1808 (сборка 10730.20334).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1808 (сборка 10730.20304)  <br/> |12 марта 2019 г.  <br/> |81<br/> |
+|Версия 1808 (сборка 10730.20280) <br/> |12 февраля 2019 г.  <br/> |81<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
+
+Ожидаемый выпуск — версия 1902 (сборка 11328.20230).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1902 (сборка 11328.20158)  <br/> |12 марта 2019 г.  <br/> |68 <br/> |
+|Версия 1808 (сборка 10730.20280)  <br/> |12 февраля 2019 г.  <br/> |307 <br/> |
+
+## <a name="april-1-2019"></a>1 апреля 2019 г.
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Ожидаемый выпуск — версия 1903 (сборка 11425.20202). 
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1902 (сборка 11328.20158)  <br/> |12 марта 2019 г.  <br/> |204<br/> |
+|Версия 1902 (сборка 11328.20222)  <br/> |25 марта 2019 г.  <br/> |205<br/> |
 
 ## <a name="march-25-2019"></a>25 марта 2019 г.
 
@@ -315,8 +345,8 @@ ms.locfileid: "30936849"
     
 ## <a name="related-topics"></a>Статьи по теме
 
-- [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [История обновлений Office 365 профессиональный плюс (по дате)](update-history-office365-proplus-by-date.md)
+- [Обзор каналов обновления Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
