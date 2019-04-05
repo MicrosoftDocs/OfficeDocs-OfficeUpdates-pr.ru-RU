@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 304c86783abb240362319ea6879cdcdfa2d486b1
-ms.sourcegitcommit: 1a0efd6558305dbc2cc48f4f73061b4faed34c73
+ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31411948"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478566"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -25,7 +25,7 @@ ms.locfileid: "31411948"
   
 Наша цель — предоставлять информацию о размере обновлений за неделю до выпуска, но иногда такая информация недоступна заранее. Выпуски для Semi-Annual Channel и Semi-Annual Channel (Targeted) запланированы на второй вторник каждого месяца. Для выпусков Monthly Channel нет определенного расписания.
 
-Дополнительные сведения о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск, см. в статье [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md).
+Сведения о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск, см. в статье [Информация о выпуске обновлений для Office 365 профессиональный плюс](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
