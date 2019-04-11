@@ -1,320 +1,360 @@
 ---
-title: Заметки о выПуске для участников программы предварительной оценки Office
+title: Заметки о выпуске для участников программы предварительной оценки Office
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 3/22/2019
+ms.date: 4/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Обеспечивает быструю аудиторию для участников с последним списком основных новых функций, исправлений и известных проблем
-ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
-ms.translationtype: MT
+description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
+ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478546"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516074"
 ---
-# <a name="release-notes-for-office-insiders"></a><span data-ttu-id="fb442-103">Заметки о выПуске для участников программы предварительной оценки Office</span><span class="sxs-lookup"><span data-stu-id="fb442-103">Release Notes for Office Insiders</span></span>
+# <a name="release-notes-for-office-insiders"></a><span data-ttu-id="d20f3-103">Заметки о выпуске для участников программы предварительной оценки Office</span><span class="sxs-lookup"><span data-stu-id="d20f3-103">Release Notes for Office Insiders</span></span>
 
-<span data-ttu-id="fb442-104">В этой статье содержатся заметки о выпуске для участников программы предварительной оценки для настольных систем Word, Excel, PowerPoint, Outlook, Access и Project для Windows.</span><span class="sxs-lookup"><span data-stu-id="fb442-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="fb442-105">Каждую неделю мы выделим интересные новые функции, важные исправления и все важные проблемы, о которых нужно знать.</span><span class="sxs-lookup"><span data-stu-id="fb442-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="fb442-106">Обратите внимание на то, что мы часто выгрузим компоненты (а иногда и даже исправления) для участников в течение определенного периода времени.</span><span class="sxs-lookup"><span data-stu-id="fb442-106">Note that we often roll out features (and sometimes even fixes) to Insiders over a period of time.</span></span> <span data-ttu-id="fb442-107">Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа.</span><span class="sxs-lookup"><span data-stu-id="fb442-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="fb442-108">Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже.</span><span class="sxs-lookup"><span data-stu-id="fb442-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="d20f3-104">Эта статья содержит заметки о выпуске для сборок приложений Word, Excel, PowerPoint, Outlook, Access и Project для Windows, предоставляемых в рамках программы предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="d20f3-104">This article contains release notes for Insider builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="d20f3-105">Каждую неделю мы будем сообщать об интересных новых возможностях, важных исправлениях и существенных проблемах, о которых вам следует знать.</span><span class="sxs-lookup"><span data-stu-id="d20f3-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="d20f3-106">Обратите внимание на то, что развертывание возможностей (а иногда даже исправлений) для участников программы предварительной оценки зачастую занимает определенное время.</span><span class="sxs-lookup"><span data-stu-id="d20f3-106">We often roll out features (and sometimes even fixes) to Monthly over a period of time.</span></span> <span data-ttu-id="d20f3-107">Благодаря этому мы обеспечиваем стабильную работу возможностей до того, как они становятся доступны более широкой аудитории.</span><span class="sxs-lookup"><span data-stu-id="d20f3-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="d20f3-108">Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже.</span><span class="sxs-lookup"><span data-stu-id="d20f3-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!NOTE]
-> - <span data-ttu-id="fb442-109">Заметки о выПуске публикуются еженедельно и могут быть компиляцией нескольких сборок</span><span class="sxs-lookup"><span data-stu-id="fb442-109">Release notes are posted weekly and may be a compilation of multiple builds</span></span>
-> - <span data-ttu-id="fb442-110">Дата публикации заметок о выпуске не может отличаться от фактической даты выпуска сборки</span><span class="sxs-lookup"><span data-stu-id="fb442-110">The release notes publication date may not match the actual build release date</span></span>
+> - <span data-ttu-id="d20f3-109">Заметки о выпуске публикуются еженедельно и могут представлять собой компиляцию для нескольких сборок</span><span class="sxs-lookup"><span data-stu-id="d20f3-109">Release notes are posted weekly and may be a compilation of multiple builds</span></span>
+> - <span data-ttu-id="d20f3-110">Дата публикации заметок о выпуске могут не совпадать с фактической датой выпуска сборки</span><span class="sxs-lookup"><span data-stu-id="d20f3-110">The release notes publication date may not match the actual build release date</span></span>
 
-## <a name="march-22-2019"></a><span data-ttu-id="fb442-111">22 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-111">March 22, 2019</span></span>
-<span data-ttu-id="fb442-112">Версия 1904 (сборка 11514,20004)</span><span class="sxs-lookup"><span data-stu-id="fb442-112">Version 1904 (build 11514.20004)</span></span>
+## <a name="april-5th-2019"></a><span data-ttu-id="d20f3-111">5 апреля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-111">April 5th, 2019</span></span>
+<span data-ttu-id="d20f3-112">Версия 1904 (сборка 11527.20014)</span><span class="sxs-lookup"><span data-stu-id="d20f3-112">Version 1904 (build 11527.20014)</span></span>
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-113">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-113">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-113">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-113">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-114">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-114">Word</span></span> 
-- <span data-ttu-id="fb442-115">Исправлена ошибка, в результате которой пользовательский интерфейс постоянно выводит сообщение "Проверка изменений".</span><span class="sxs-lookup"><span data-stu-id="fb442-115">We fixed an issue where the UI would constantly display "Checking for Changes"</span></span>
+### <a name="all-applications"></a><span data-ttu-id="d20f3-114">Все приложения</span><span class="sxs-lookup"><span data-stu-id="d20f3-114">All Applications</span></span>
+ - <span data-ttu-id="d20f3-115">Мы исправили ошибку, когда значок приложения для Excel может отображаться неправильно в контекстном меню.</span><span class="sxs-lookup"><span data-stu-id="d20f3-115">We fixed an issue where the incorrect app icon could appear for Excel in contextual menus</span></span>
+- <span data-ttu-id="d20f3-116">Мы исправили ошибку, когда после установки обновления может исчезать кнопка меню "Файл".</span><span class="sxs-lookup"><span data-stu-id="d20f3-116">We fixed an issue where the File Menu button could disappear after installing an update</span></span>
+- <span data-ttu-id="d20f3-117">Исправлена проблема, в результате которой может измениться пользовательская лицензия.</span><span class="sxs-lookup"><span data-stu-id="d20f3-117">We fixed an issue which could change your user license</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-116">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-116">Excel</span></span>
-- <span data-ttu-id="fb442-117">Исправлена ошибка, из – за которой приложение может завершить работу после перемещения листа</span><span class="sxs-lookup"><span data-stu-id="fb442-117">We fixed an issue where the application could crash after moving a worksheet</span></span>
-- <span data-ttu-id="fb442-118">Исправлена ошибка, из-за которой приложение может аварийно завершить работу после сохранения в виде PDF-файла</span><span class="sxs-lookup"><span data-stu-id="fb442-118">We fixed an issue where the application could crash after saving as a PDF</span></span>
-- <span data-ttu-id="fb442-119">Исправлена ошибка, в результате которой диалоговое окно сохранения не принимает некоторые корейские символы</span><span class="sxs-lookup"><span data-stu-id="fb442-119">We fixed an issue where the save dialog would not accept some Korean characters</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-118">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-118">Word</span></span> 
+- <span data-ttu-id="d20f3-119">Исправлена проблема с неправильным отображением текста при определенных уровнях масштабирования.</span><span class="sxs-lookup"><span data-stu-id="d20f3-119">We fixed an issue where text would not render correctly at certain zoom levels</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-120">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-120">PowerPoint</span></span>
-- <span data-ttu-id="fb442-121">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-121">Various performance and stability fixes</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-120">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-120">Excel</span></span>
+- <span data-ttu-id="d20f3-121">Мы исправили ошибку, в результате которой пользователи могли не видеть запрос на сохранение книги после внесения изменений.</span><span class="sxs-lookup"><span data-stu-id="d20f3-121">We fixed an issue where users would not be prompted to save a workbook after making edits</span></span>
+- <span data-ttu-id="d20f3-122">Мы исправили ошибку, когда событие BeforeSave не запускалось, если пользователь предоставил общий доступ к книге.</span><span class="sxs-lookup"><span data-stu-id="d20f3-122">We fixed an issue where a BeforeSave event would not be triggered if the user shared the workbook.</span></span>
+- <span data-ttu-id="d20f3-123">Исправлена проблема, когда изменение размера столбца на менее чем 6 пикселей вызывает появление сообщения об ошибке.</span><span class="sxs-lookup"><span data-stu-id="d20f3-123">We fixed an issue where resizing a column to fewer than 6 pixels could throw an incorrect error message.</span></span>
+- <span data-ttu-id="d20f3-124">Исправлена ошибка, когда Excel игнорирует метку Application.Visible.</span><span class="sxs-lookup"><span data-stu-id="d20f3-124">We fixed an issue where Excel would ignore the Application.Visible flag</span></span>
+- <span data-ttu-id="d20f3-125">Исправлена ошибка, когда стрелки трассировки остаются на неактивных закрепленных областях.</span><span class="sxs-lookup"><span data-stu-id="d20f3-125">We fixed an issue where trace arrows would remain on non-active frozen panes</span></span>
+- <span data-ttu-id="d20f3-126">Исправлена ошибка, когда форматирование ячеек дат и валют может изменяться при открытии книги.</span><span class="sxs-lookup"><span data-stu-id="d20f3-126">We fixed an issue where cell formatting of dates an currency could change when opening a workbook</span></span>
+- <span data-ttu-id="d20f3-127">Мы исправили ошибку, когда подсказки могли неожиданно перемещаться</span><span class="sxs-lookup"><span data-stu-id="d20f3-127">We fixed an issue where tooltips would move unexpectedly</span></span>
+- <span data-ttu-id="d20f3-128">Мы исправили ошибки локализации редактора Power Query</span><span class="sxs-lookup"><span data-stu-id="d20f3-128">We fixed localization issues for the Power Query editor</span></span>
+- <span data-ttu-id="d20f3-129">Мы устранили проблему, когда рабочая книга могла удаляться из вложений при отправке по электронной почте.</span><span class="sxs-lookup"><span data-stu-id="d20f3-129">We fixed an issue where a workbook would be removed as an attachment when sending via e-mail</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-122">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-122">Outlook</span></span>
-- <span data-ttu-id="fb442-123">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-123">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-130">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-130">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-131">Мы устранили проблему с длительным временем, которое может требоваться на копирование форм.</span><span class="sxs-lookup"><span data-stu-id="d20f3-131">We fixed an issue where copying shapes would take longer than expected</span></span>
 
-### <a name="access"></a><span data-ttu-id="fb442-124">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-124">Access</span></span>
-- <span data-ttu-id="fb442-125">Мы зафиксировано сообщение об ошибке в Access, где был создан дополнительный ярлык для доступа</span><span class="sxs-lookup"><span data-stu-id="fb442-125">We fixed the error message in Access where an extra shortcut to Access was created</span></span>
-- <span data-ttu-id="fb442-126">Исправлена ошибка, из – за которой данные из связанного SharePoint отображались неправильно</span><span class="sxs-lookup"><span data-stu-id="fb442-126">We fixed an issue where data from a linked SharePoint would display incorrectly</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-132">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-132">Outlook</span></span>
+- <span data-ttu-id="d20f3-133">Мы устранили проблему с аварийным завершением работы Outlook при использовании инструмента рисования</span><span class="sxs-lookup"><span data-stu-id="d20f3-133">We fixed an issue where Outlook could crash while using the drawing tool</span></span>
+- <span data-ttu-id="d20f3-134">Устранена проблема локализации при составлении HTML-сообщений электронной почты</span><span class="sxs-lookup"><span data-stu-id="d20f3-134">We fixed a localization issue when composing html e-mails</span></span>
+- <span data-ttu-id="d20f3-135">Мы устранили проблему, когда пользователи сталкивались с трудностями при выборе нижней панели</span><span class="sxs-lookup"><span data-stu-id="d20f3-135">We fixed an issue where the user would have difficulty in selecting the lower pane</span></span>
 
-### <a name="project"></a><span data-ttu-id="fb442-127">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-127">Project</span></span>
-- <span data-ttu-id="fb442-128">Исправлена ошибка, из – за которой языковые параметры переключаются с китайского языка на английский</span><span class="sxs-lookup"><span data-stu-id="fb442-128">We fixed an issue where the language settings would switch from Chinese to English</span></span>
-- <span data-ttu-id="fb442-129">Исправлена ошибка, из – за которой приложение может аварийно завершить работу при синхронизации с SharePoint</span><span class="sxs-lookup"><span data-stu-id="fb442-129">We fixed an issue where the application could crash when synching to SharePoint</span></span>
+### <a name="access"></a><span data-ttu-id="d20f3-136">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-136">Access</span></span>
+- <span data-ttu-id="d20f3-137">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-137">Various performance and stability fixes</span></span>
 
-</BR></BR>
-
-## <a name="march-15-2019"></a><span data-ttu-id="fb442-130">15 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-130">March 15, 2019</span></span>
-<span data-ttu-id="fb442-131">Версия 1904 (сборка 11504,20000)</span><span class="sxs-lookup"><span data-stu-id="fb442-131">Version 1904 (build 11504.20000)</span></span>
-
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-132">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-132">Notable Fixes:</span></span>
-
-### <a name="word"></a><span data-ttu-id="fb442-133">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-133">Word</span></span> 
-- <span data-ttu-id="fb442-134">Исправлена ошибка, из-за которой изображения в документе, сохраняемые в виде PDF-файла, имеют неправильное разрешение</span><span class="sxs-lookup"><span data-stu-id="fb442-134">We fixed an issue where images in a document saved as a PDF would have the incorrect DPI</span></span>
-
-### <a name="excel"></a><span data-ttu-id="fb442-135">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-135">Excel</span></span>
-- <span data-ttu-id="fb442-136">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-136">Various performance and stability fixes</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="fb442-137">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-137">PowerPoint</span></span>
-- <span data-ttu-id="fb442-138">Исправлена ошибка, в результате которой область комментариев не открывалась или не закрывается должным образом</span><span class="sxs-lookup"><span data-stu-id="fb442-138">We fixed an issue where the comments pane would not open or close properly</span></span>
-- <span data-ttu-id="fb442-139">Исправлена ошибка, в результате которой при удалении видеоролика может произойти сбой приложения</span><span class="sxs-lookup"><span data-stu-id="fb442-139">We fixed an issue where the application could crash when deleting a video</span></span>
-- <span data-ttu-id="fb442-140">Исправлена ошибка, в результате которой не удается запустить приложение в некоторых экземплярах</span><span class="sxs-lookup"><span data-stu-id="fb442-140">We fixed an issue where in some instances the application would fail to launch</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="fb442-141">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-141">Outlook</span></span>
-- <span data-ttu-id="fb442-142">Исправлена ошибка, из-за которой уведомления о прочтении были неправильными при просмотре на японском языке</span><span class="sxs-lookup"><span data-stu-id="fb442-142">We fixed an issue where read receipts were incorrect when viewed in Japanese</span></span>
-
-### <a name="access"></a><span data-ttu-id="fb442-143">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-143">Access</span></span>
-- <span data-ttu-id="fb442-144">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-144">Various performance and stability fixes</span></span>
-
-### <a name="project"></a><span data-ttu-id="fb442-145">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-145">Project</span></span>
-- <span data-ttu-id="fb442-146">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-146">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="d20f3-138">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-138">Project</span></span>
+- <span data-ttu-id="d20f3-139">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-139">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
-## <a name="march-8-2019"></a><span data-ttu-id="fb442-147">8 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-147">March 8, 2019</span></span> 
-<span data-ttu-id="fb442-148">Версия 1903 (сборка 11425,20036)</span><span class="sxs-lookup"><span data-stu-id="fb442-148">Version 1903 (build 11425.20036)</span></span>
+## <a name="march-22-2019"></a><span data-ttu-id="d20f3-140">22 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-140">March 22, 2019</span></span>
+<span data-ttu-id="d20f3-141">Версия 1904 (сборка 11514.20004)</span><span class="sxs-lookup"><span data-stu-id="d20f3-141">Version 1904 (build 11514.20004)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="fb442-149">Новые возможности:</span><span class="sxs-lookup"><span data-stu-id="fb442-149">What's New:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-142">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-142">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-150">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-150">Word</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-143">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-143">Word</span></span> 
+- <span data-ttu-id="d20f3-144">Устранена ошибка, при которой в интерфейсе пользователя постоянно отображается "Проверка изменений".</span><span class="sxs-lookup"><span data-stu-id="d20f3-144">We fixed an issue where the UI would constantly display "Checking for Changes"</span></span>
 
-### <a name="find-what-youre-looking-for-with-microsoft-search"></a><span data-ttu-id="fb442-151">Поиск того, что вы ищете, с помощью службы поиска Майкрософт</span><span class="sxs-lookup"><span data-stu-id="fb442-151">Find What You're Looking For with Microsoft Search</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-145">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-145">Excel</span></span>
+- <span data-ttu-id="d20f3-146">Устранена ошибка, при которой приложение аварийно завершало работу после перемещения листа</span><span class="sxs-lookup"><span data-stu-id="d20f3-146">We fixed an issue where the application could crash after moving a worksheet</span></span>
+- <span data-ttu-id="d20f3-147">Устранена ошибка, при которой приложение аварийно завершало работу после сохранения в формате PDF</span><span class="sxs-lookup"><span data-stu-id="d20f3-147">We fixed an issue where the application could crash after saving as a PDF</span></span>
+- <span data-ttu-id="d20f3-148">Устранена ошибка, при которой диалоговое окно сохранения не воспринимало некоторые корейские символы</span><span class="sxs-lookup"><span data-stu-id="d20f3-148">We fixed an issue where the save dialog would not accept some Korean characters</span></span>
 
-<span data-ttu-id="fb442-152">С помощью службы поиска Майкрософт можно найти все файлы, действия, людей и помощь по выполнению работы.</span><span class="sxs-lookup"><span data-stu-id="fb442-152">With Microsoft Search, you can find all the files, actions, people, and help you need to get work done.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-149">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-149">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-150">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-150">Various performance and stability fixes</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="fb442-153">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="fb442-153">Getting Started:</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-151">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-151">Outlook</span></span>
+- <span data-ttu-id="d20f3-152">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-152">Various performance and stability fixes</span></span>
 
-- <span data-ttu-id="fb442-154">Эта функция отображается в верхней части ПОЛЬЗОВАТЕЛЬСКОГО интерфейса в заголовке.</span><span class="sxs-lookup"><span data-stu-id="fb442-154">The feature is prominently displayed on top of the UI in the header.</span></span>
+### <a name="access"></a><span data-ttu-id="d20f3-153">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-153">Access</span></span>
+- <span data-ttu-id="d20f3-154">Исправлено сообщение об ошибке в Access, при которой создавался дополнительный ярлык для Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-154">We fixed the error message in Access where an extra shortcut to Access was created</span></span>
+- <span data-ttu-id="d20f3-155">Устранена ошибка, при которой данные со связанного сайта SharePoint отображались неправильно</span><span class="sxs-lookup"><span data-stu-id="d20f3-155">We fixed an issue where data from a linked SharePoint would display incorrectly</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="fb442-155">Сценарии для попытки:</span><span class="sxs-lookup"><span data-stu-id="fb442-155">Scenarios to Try:</span></span>
+### <a name="project"></a><span data-ttu-id="d20f3-156">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-156">Project</span></span>
+- <span data-ttu-id="d20f3-157">Устранена ошибка, при которой языковые параметры менялись с китайского на английский язык</span><span class="sxs-lookup"><span data-stu-id="d20f3-157">We fixed an issue where the language settings would switch from Chinese to English</span></span>
+- <span data-ttu-id="d20f3-158">Устранена ошибка, при которой приложение аварийно завершало работу при синхронизации с SharePoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-158">We fixed an issue where the application could crash when synching to SharePoint</span></span>
 
-- <span data-ttu-id="fb442-156">Поиск колледжа, недавно свежего документа или поиск наиболее часто используемых команд ленты</span><span class="sxs-lookup"><span data-stu-id="fb442-156">Search for a college, a recent document or search for the ribbon commands you use most often</span></span>
-- <span data-ttu-id="fb442-157">Поиск темы или темы для получения дополнительных сведений</span><span class="sxs-lookup"><span data-stu-id="fb442-157">Look up a topic or subject to get more information on it</span></span>
+</BR></BR>
+
+## <a name="march-15-2019"></a><span data-ttu-id="d20f3-159">15 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-159">March 15, 2019</span></span>
+<span data-ttu-id="d20f3-160">Версия 1904 (сборка 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="d20f3-160">Version 1904 (Build 11504.20000)</span></span>
+
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-161">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-161">Notable Fixes:</span></span>
+
+### <a name="word"></a><span data-ttu-id="d20f3-162">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-162">Word</span></span> 
+- <span data-ttu-id="d20f3-163">Исправлена проблема, из-за которой изображения в документе, сохраненном в формате PDF, имели неправильное значение точек на дюйм</span><span class="sxs-lookup"><span data-stu-id="d20f3-163">We fixed an issue where images in a document saved as a PDF would have the incorrect DPI</span></span>
+
+### <a name="excel"></a><span data-ttu-id="d20f3-164">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-164">Excel</span></span>
+- <span data-ttu-id="d20f3-165">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-165">Various performance and stability fixes</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-166">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-166">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-167">Исправлена проблема, из-за которой область примечаний открывалась и закрывалась неправильно</span><span class="sxs-lookup"><span data-stu-id="d20f3-167">We fixed an issue where the comments pane would not open or close properly</span></span>
+- <span data-ttu-id="d20f3-168">Исправлена проблема, из-за которой приложение могло аварийно завершать работу при удалении видео</span><span class="sxs-lookup"><span data-stu-id="d20f3-168">We fixed an issue where the application could crash when deleting a video</span></span>
+- <span data-ttu-id="d20f3-169">Исправлена проблема, когда некоторые экземпляры приложения не запускались.</span><span class="sxs-lookup"><span data-stu-id="d20f3-169">We fixed an issue where in some instances the application would fail to launch</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="d20f3-170">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-170">Outlook</span></span>
+- <span data-ttu-id="d20f3-171">Исправлена проблема с неправильными уведомлениями о прочтении при просмотре на японском языке.</span><span class="sxs-lookup"><span data-stu-id="d20f3-171">We fixed an issue where read receipts were incorrect when viewed in Japanese</span></span>
+
+### <a name="access"></a><span data-ttu-id="d20f3-172">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-172">Access</span></span>
+- <span data-ttu-id="d20f3-173">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-173">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="d20f3-174">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-174">Project</span></span>
+- <span data-ttu-id="d20f3-175">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-175">Various performance and stability fixes</span></span>
+
+</BR></BR>
+
+## <a name="march-8-2019"></a><span data-ttu-id="d20f3-176">8 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-176">March 8, 2019</span></span> 
+<span data-ttu-id="d20f3-177">Версия 1903 (сборка 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="d20f3-177">Version 1903 (Build 11425.20036)</span></span>
+
+## <a name="whats-new"></a><span data-ttu-id="d20f3-178">Новые возможности:</span><span class="sxs-lookup"><span data-stu-id="d20f3-178">What's new</span></span>
+
+### <a name="word"></a><span data-ttu-id="d20f3-179">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-179">Word</span></span>
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a><span data-ttu-id="d20f3-180">Находите нужные элементы с помощью Поиска (Майкрософт)</span><span class="sxs-lookup"><span data-stu-id="d20f3-180">Find What You're Looking For with Microsoft Search</span></span>
+
+<span data-ttu-id="d20f3-181">С помощью поиска Майкрософт можно найти все файлы, команды и пользователей, которые необходимы для выполнения работы.</span><span class="sxs-lookup"><span data-stu-id="d20f3-181">With Microsoft Search, you can find all the files, actions, people, and help you need to get work done.</span></span>
+
+#### <a name="getting-started"></a><span data-ttu-id="d20f3-182">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="d20f3-182">Getting started</span></span>
+
+- <span data-ttu-id="d20f3-183">Эта функция выделяется вверху пользовательского интерфейса в заголовке.</span><span class="sxs-lookup"><span data-stu-id="d20f3-183">The feature is prominently displayed on top of the UI in the header.</span></span>
+
+#### <a name="scenarios-to-try"></a><span data-ttu-id="d20f3-184">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="d20f3-184">Scenarios to Try:</span></span>
+
+- <span data-ttu-id="d20f3-185">Поиск учебного заведения, недавнего документа или часто используемых команд ленты</span><span class="sxs-lookup"><span data-stu-id="d20f3-185">Search for a college, a recent document or search for the ribbon commands you use most often</span></span>
+- <span data-ttu-id="d20f3-186">Поиск статьи или темы и получение дополнительных сведений о ней</span><span class="sxs-lookup"><span data-stu-id="d20f3-186">Look up a topic or subject to get more information on it</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-158">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-158">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-187">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-187">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-159">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-159">Word</span></span> 
-- <span data-ttu-id="fb442-160">Исправлена ошибка, возникающая при нажатии клавиши "ESC" в меню "Параметры"</span><span class="sxs-lookup"><span data-stu-id="fb442-160">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
-- <span data-ttu-id="fb442-161">Исправлена ошибка, возникающая при ответе на комментарии</span><span class="sxs-lookup"><span data-stu-id="fb442-161">We fixed a crashing issue that occurred when replying to comments</span></span>
-- <span data-ttu-id="fb442-162">Исправлена ошибка, связанная с копированием _Амп_ при вставке из Word в PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="fb442-162">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-188">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-188">Word</span></span> 
+- <span data-ttu-id="d20f3-189">Решена проблема со сбоем, происходившим при нажатии клавиши ESC в параметрах</span><span class="sxs-lookup"><span data-stu-id="d20f3-189">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
+- <span data-ttu-id="d20f3-190">Решена проблема со сбоем, происходившим при ответе на примечания</span><span class="sxs-lookup"><span data-stu-id="d20f3-190">We fixed a crashing issue that occurred when replying to comments</span></span>
+- <span data-ttu-id="d20f3-191">Исправлена проблема с копированием и вставкой из Word в PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="d20f3-191">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-163">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-163">Excel</span></span>
-- <span data-ttu-id="fb442-164">Исправлена ошибка, из – за которой при открытии защищенного документа и редактируемого документа при копировании ячейки в Excel возникла высокая загрузка ЦП</span><span class="sxs-lookup"><span data-stu-id="fb442-164">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-192">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-192">Excel</span></span>
+- <span data-ttu-id="d20f3-193">Исправлена проблема, из-за которой копирование ячейки в Excel приводило к высокой загрузке ЦП при открытом защищенном документе и документе с возможностью редактирования</span><span class="sxs-lookup"><span data-stu-id="d20f3-193">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-165">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-165">PowerPoint</span></span>
-- <span data-ttu-id="fb442-166">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-166">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-194">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-194">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-195">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-195">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-167">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-167">Outlook</span></span>
-- <span data-ttu-id="fb442-168">Исправлена ошибка, из – за которой служба поиска Outlook не прошла обработку выбранных хронологических сортировок</span><span class="sxs-lookup"><span data-stu-id="fb442-168">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
-- <span data-ttu-id="fb442-169">Исправлена ошибка, из-за которой кнопка ленты "открыть эту задачу" не отвечает на определенные сообщения электронной почты</span><span class="sxs-lookup"><span data-stu-id="fb442-169">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
-- <span data-ttu-id="fb442-170">Исправлена ошибка, из – за которой Outlook не проводил очистку в локальных комнатах после того, как пользователи выбирали доступное место в Finder помещений</span><span class="sxs-lookup"><span data-stu-id="fb442-170">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-196">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-196">Outlook</span></span>
+- <span data-ttu-id="d20f3-197">Исправлена проблема, из-за которой поиск Outlook не учитывал выбранную сортировку в хронологическом порядке</span><span class="sxs-lookup"><span data-stu-id="d20f3-197">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
+- <span data-ttu-id="d20f3-198">Исправлена проблема, из-за которой кнопка ленты "Открыть эту задачу" для рабочего процесса не срабатывала в некоторых сообщениях электронной почты.</span><span class="sxs-lookup"><span data-stu-id="d20f3-198">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
+- <span data-ttu-id="d20f3-199">Исправлена проблема, из-за которой Outlook не очищал помещения после выбора пользователем доступного помещения в средстве "Поиск комнаты"</span><span class="sxs-lookup"><span data-stu-id="d20f3-199">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
 
-### <a name="access"></a><span data-ttu-id="fb442-171">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-171">Access</span></span>
-- <span data-ttu-id="fb442-172">Мы зафиксировано сохраненное диалоговое окно импорта и экспорта с белым текстом на белом фоне в темной теме</span><span class="sxs-lookup"><span data-stu-id="fb442-172">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
-- <span data-ttu-id="fb442-173">Исправлена ошибка, из-за которой не удалось задать свойство DisplayControl для поля "да/нет" в конструкторе таблиц</span><span class="sxs-lookup"><span data-stu-id="fb442-173">We fixed an issue where users could not set the DisplayControl property for a Yes/No field to Textbox in table design</span></span>
+### <a name="access"></a><span data-ttu-id="d20f3-200">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-200">Access</span></span>
+- <span data-ttu-id="d20f3-201">Исправлено диалоговое окно импорта и экспорта, в котором применялся белый текст на белом фоне в темной теме</span><span class="sxs-lookup"><span data-stu-id="d20f3-201">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
+- <span data-ttu-id="d20f3-202">Исправлена проблема, из-за которой пользователи не могли присвоить свойству DisplayControl для логического поля значение "Текстовое поле" в конструкторе таблиц</span><span class="sxs-lookup"><span data-stu-id="d20f3-202">We fixed an issue where users could not set the DisplayControl property for a Yes/No field to Textbox in table design</span></span>
 
-### <a name="project"></a><span data-ttu-id="fb442-174">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-174">Project</span></span>
-- <span data-ttu-id="fb442-175">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-175">Various performance and stability fixes</span></span>
-
-
-## <a name="march-1-2019"></a><span data-ttu-id="fb442-176">1 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-176">March 1, 2019</span></span> 
-<span data-ttu-id="fb442-177">Версия 1903 (сборка 11414,20014)</span><span class="sxs-lookup"><span data-stu-id="fb442-177">Version 1903 (build 11414.20014)</span></span>
+### <a name="project"></a><span data-ttu-id="d20f3-203">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-203">Project</span></span>
+- <span data-ttu-id="d20f3-204">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-204">Various performance and stability fixes</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-178">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-178">Notable Fixes:</span></span>
+## <a name="march-1-2019"></a><span data-ttu-id="d20f3-205">1 марта 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-205">March 1, 2019</span></span> 
+<span data-ttu-id="d20f3-206">Версия 1903 (сборка 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="d20f3-206">Version 1903 (Build 11414.20014)</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-179">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-179">Word</span></span> 
-- <span data-ttu-id="fb442-180">Исправлена ошибка, возникающая при нажатии клавиши "ESC" в меню "Параметры"</span><span class="sxs-lookup"><span data-stu-id="fb442-180">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
-- <span data-ttu-id="fb442-181">Исправлена ошибка, связанная с копированием _Амп_ при вставке из Word в PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="fb442-181">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-182">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-182">Excel</span></span>
-- <span data-ttu-id="fb442-183">Исправлена ошибка, из – за которой при открытии защищенного документа и редактируемого документа при копировании ячейки в Excel возникла высокая загрузка ЦП</span><span class="sxs-lookup"><span data-stu-id="fb442-183">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-207">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-207">Notable Fixes:</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-184">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-184">PowerPoint</span></span>
-- <span data-ttu-id="fb442-185">Исправлена ошибка при использовании @Mentions размера изображения слайда в PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-185">We fixed an issue with slide image size when using @Mentions in PowerPoint</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-208">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-208">Word</span></span> 
+- <span data-ttu-id="d20f3-209">Решена проблема со сбоем, происходившим при нажатии клавиши ESC в параметрах</span><span class="sxs-lookup"><span data-stu-id="d20f3-209">We fixed a crashing issue that occurred when pressing ‘ESC’ while in Options</span></span>
+- <span data-ttu-id="d20f3-210">Исправлена проблема с копированием и вставкой из Word в PowerPoint Online</span><span class="sxs-lookup"><span data-stu-id="d20f3-210">We fixed an issue with copy & paste from Word to PowerPoint Online</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-186">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-186">Outlook</span></span>
-- <span data-ttu-id="fb442-187">Исправлена ошибка, из – за которой служба поиска Outlook не прошла обработку выбранных хронологических сортировок</span><span class="sxs-lookup"><span data-stu-id="fb442-187">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
-- <span data-ttu-id="fb442-188">Исправлена ошибка, из-за которой кнопка ленты "открыть эту задачу" не отвечает на определенные сообщения электронной почты</span><span class="sxs-lookup"><span data-stu-id="fb442-188">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
-- <span data-ttu-id="fb442-189">Исправлена ошибка, из – за которой Outlook не проводил очистку в локальных комнатах после того, как пользователи выбирали доступное место в Finder помещений</span><span class="sxs-lookup"><span data-stu-id="fb442-189">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-211">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-211">Excel</span></span>
+- <span data-ttu-id="d20f3-212">Исправлена проблема, из-за которой копирование ячейки в Excel приводило к высокой загрузке ЦП при открытом защищенном документе и документе с возможностью редактирования</span><span class="sxs-lookup"><span data-stu-id="d20f3-212">We fixed an issue where copying a cell in Excel caused high CPU usage when protected document and editable document were opened</span></span>
 
-### <a name="access"></a><span data-ttu-id="fb442-190">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-190">Access</span></span>
-- <span data-ttu-id="fb442-191">Мы обновили текст приглашения, который отображался при подтверждении перекомпоновки таблиц с помощью DataSource</span><span class="sxs-lookup"><span data-stu-id="fb442-191">We updated the prompt text that showed when confirming the relinking tables with a datasource</span></span>
-- <span data-ttu-id="fb442-192">Мы зафиксировано сохраненное диалоговое окно импорта и экспорта с белым текстом на белом фоне в темной теме</span><span class="sxs-lookup"><span data-stu-id="fb442-192">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
-- <span data-ttu-id="fb442-193">Исправлена ошибка, из-за которой пользователи не могут задать свойство Display для поля "да/нет" для элемента TextBox в конструкторе таблиц</span><span class="sxs-lookup"><span data-stu-id="fb442-193">We fixed an issue where users could not set the Display Control property for a Yes/No field to Textbox in table design</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-213">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-213">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-214">Исправлена проблема с размером изображения слайда при использовании @Mentions в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="d20f3-214">We fixed an issue with slide image size when using @Mentions in PowerPoint</span></span>
 
-### <a name="project"></a><span data-ttu-id="fb442-194">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-194">Project</span></span>
-- <span data-ttu-id="fb442-195">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-195">Various performance and stability fixes</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-215">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-215">Outlook</span></span>
+- <span data-ttu-id="d20f3-216">Исправлена проблема, из-за которой поиск Outlook не учитывал выбранную сортировку в хронологическом порядке</span><span class="sxs-lookup"><span data-stu-id="d20f3-216">We fixed an issue where Outlook Search was not honoring the selected chronological sorting</span></span>
+- <span data-ttu-id="d20f3-217">Исправлена проблема, из-за которой кнопка ленты "Открыть эту задачу" для рабочего процесса не срабатывала в некоторых сообщениях электронной почты.</span><span class="sxs-lookup"><span data-stu-id="d20f3-217">We fixed an issue where the "Open this task" workflow ribbon button was unresponsive for certain emails</span></span>
+- <span data-ttu-id="d20f3-218">Исправлена проблема, из-за которой Outlook не очищал помещения после выбора пользователем доступного помещения в средстве "Поиск комнаты"</span><span class="sxs-lookup"><span data-stu-id="d20f3-218">We fixed an issue where Outlook did not clear on premise rooms after users selected an available room in Room Finder</span></span>
+
+### <a name="access"></a><span data-ttu-id="d20f3-219">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-219">Access</span></span>
+- <span data-ttu-id="d20f3-220">Обновлен текст запроса, отображаемый для подтверждения обновления связей таблицы с источником данных</span><span class="sxs-lookup"><span data-stu-id="d20f3-220">We updated the prompt text that showed when confirming the relinking tables with a datasource</span></span>
+- <span data-ttu-id="d20f3-221">Исправлено диалоговое окно импорта и экспорта, в котором применялся белый текст на белом фоне в темной теме</span><span class="sxs-lookup"><span data-stu-id="d20f3-221">We fixed the saved import/export dialog that had white text on white background in Dark Theme</span></span>
+- <span data-ttu-id="d20f3-222">Исправлена проблема, из-за которой пользователи не могли присвоить свойству "Тип элемента управления" для логического поля значение "Текстовое поле" в конструкторе таблиц</span><span class="sxs-lookup"><span data-stu-id="d20f3-222">We fixed an issue where users could not set the Display Control property for a Yes/No field to Textbox in table design</span></span>
+
+### <a name="project"></a><span data-ttu-id="d20f3-223">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-223">Project</span></span>
+- <span data-ttu-id="d20f3-224">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-224">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
 
 
-## <a name="february-15-2019"></a><span data-ttu-id="fb442-196">15 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-196">February 15, 2019</span></span> 
-<span data-ttu-id="fb442-197">Версия 1903 (сборка 11310,20016)</span><span class="sxs-lookup"><span data-stu-id="fb442-197">Version 1903 (build 11310.20016)</span></span>
+## <a name="february-15-2019"></a><span data-ttu-id="d20f3-225">15 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-225">February 15, 2019</span></span> 
+<span data-ttu-id="d20f3-226">Версия 1903 (сборка 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="d20f3-226">Version 1903 (build 11310.20016)</span></span>
 
-## <a name="whats-new"></a><span data-ttu-id="fb442-198">Новые возможности:</span><span class="sxs-lookup"><span data-stu-id="fb442-198">What's New:</span></span>
+## <a name="whats-new"></a><span data-ttu-id="d20f3-227">Новые возможности:</span><span class="sxs-lookup"><span data-stu-id="d20f3-227">What's new</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-199">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-199">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-228">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-228">PowerPoint</span></span>
 
 
-### <a name="morph-transition-enhancements---morph-by-name"></a><span data-ttu-id="fb442-200">Расширения преобразования "трансформация" — трансформация по имени</span><span class="sxs-lookup"><span data-stu-id="fb442-200">Morph Transition Enhancements - Morph by Name</span></span>
+### <a name="morph-transition-enhancements---morph-by-name"></a><span data-ttu-id="d20f3-229">Улучшения перехода "Трансформация" — трансформация по имени</span><span class="sxs-lookup"><span data-stu-id="d20f3-229">Morph Transition Enhancements - Morph by Name</span></span>
 
-<span data-ttu-id="fb442-201">Указание фигур для трансформации</span><span class="sxs-lookup"><span data-stu-id="fb442-201">Specify the shapes you want to morph</span></span>
+<span data-ttu-id="d20f3-230">Укажите фигуры, которые нужно трансформировать</span><span class="sxs-lookup"><span data-stu-id="d20f3-230">Specify the shapes you want to morph</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="fb442-202">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="fb442-202">Getting Started:</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="d20f3-231">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="d20f3-231">Getting started</span></span>
 
-- <span data-ttu-id="fb442-203">Чтобы получить трансФормацию для обработки двух объектов в виде одного объекта, пользователь может переименовать эти фигуры с помощью области выделения.</span><span class="sxs-lookup"><span data-stu-id="fb442-203">To get Morph to treat two objects as the same object, the user can rename the shapes using the Selection Pane.</span></span>
-- <span data-ttu-id="fb442-204">Имя должно иметь приставку "!!"</span><span class="sxs-lookup"><span data-stu-id="fb442-204">The name must be prefaced with “!!”</span></span> <span data-ttu-id="fb442-205">(два восклицательных знака), чтобы использовать его для переопределения поведения согласования по умолчанию, например "!! Расширением</span><span class="sxs-lookup"><span data-stu-id="fb442-205">(two exclamation points) for Morph to use it to override our default matching behavior, e.g. “!!Name”</span></span>
-- <span data-ttu-id="fb442-206">Пользователи могут продолжать переименовывать фигуры с любым именем, которое не начинается с "!!"</span><span class="sxs-lookup"><span data-stu-id="fb442-206">Users can continue to rename shapes with any name that doesn’t start with “!!”</span></span> <span data-ttu-id="fb442-207">не волнуйтесь, что изменится принцип работы оператора</span><span class="sxs-lookup"><span data-stu-id="fb442-207">without worrying that it will change the way Morph works</span></span>
+- <span data-ttu-id="d20f3-232">Чтобы при переходе "Трансформация" два объекта обрабатывались как одинаковые, пользователь может переименовать фигуры с помощью области выделения.</span><span class="sxs-lookup"><span data-stu-id="d20f3-232">To get Morph to treat two objects as the same object, the user can rename the shapes using the Selection Pane.</span></span>
+- <span data-ttu-id="d20f3-233">Имя должно начинаться с двух восклицательных знаков</span><span class="sxs-lookup"><span data-stu-id="d20f3-233">The name must be prefaced with “!!”</span></span> <span data-ttu-id="d20f3-234">("!!"), чтобы использовать его при трансформации для переопределения стандартного сопоставления, например "!!Имя".</span><span class="sxs-lookup"><span data-stu-id="d20f3-234">(two exclamation points) for Morph to use it to override our default matching behavior, e.g. “!!Name”</span></span>
+- <span data-ttu-id="d20f3-235">Пользователи могут продолжать переименовывать фигуры, используя любые имена, которые не начинаются с "!!",</span><span class="sxs-lookup"><span data-stu-id="d20f3-235">Users can continue to rename shapes with any name that doesn’t start with “!!”</span></span> <span data-ttu-id="d20f3-236">не беспокоясь о том, что это изменит работу перехода "Трансформация".</span><span class="sxs-lookup"><span data-stu-id="d20f3-236">without worrying that it will change the way Morph works</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="fb442-208">Сценарии для попытки:</span><span class="sxs-lookup"><span data-stu-id="fb442-208">Scenarios to Try:</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="d20f3-237">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="d20f3-237">Scenarios to Try:</span></span>
 
-- <span data-ttu-id="fb442-209">Вставка фигуры в слайд, пусть, например, прямоугольника</span><span class="sxs-lookup"><span data-stu-id="fb442-209">Insert a Shape in a slide, let's say Rectangle</span></span>
-- <span data-ttu-id="fb442-210">Создание нового слайда</span><span class="sxs-lookup"><span data-stu-id="fb442-210">Create a new slide</span></span>
-- <span data-ttu-id="fb442-211">Вставка другой фигуры в 2-й слайд, пусть — треугольник</span><span class="sxs-lookup"><span data-stu-id="fb442-211">Insert a different shape in the 2nd slide, let's say Triangle</span></span>
-- <span data-ttu-id="fb442-212">Откройте Селектионпане, переименуйте прямоугольник в слайде 1 на "!! фигуру и переименуйте треугольник в слайде 2 на "!! всплывающ</span><span class="sxs-lookup"><span data-stu-id="fb442-212">Open SelectionPane, rename the Rectangle in slide 1 to "!!shape", and rename the Triangle in slide 2 to "!!shape"</span></span>
-- <span data-ttu-id="fb442-213">Применение трансформации на 2-м слайде</span><span class="sxs-lookup"><span data-stu-id="fb442-213">Apply Morph on the 2nd slide</span></span>
+- <span data-ttu-id="d20f3-238">Вставьте фигуру на слайд, например прямоугольник</span><span class="sxs-lookup"><span data-stu-id="d20f3-238">Insert a Shape in a slide, let's say Rectangle</span></span>
+- <span data-ttu-id="d20f3-239">Создайте новый слайд</span><span class="sxs-lookup"><span data-stu-id="d20f3-239">Create a new .</span></span>
+- <span data-ttu-id="d20f3-240">Вставьте другую фигуру на втором слайде, например треугольник</span><span class="sxs-lookup"><span data-stu-id="d20f3-240">Insert a different shape in the 2nd slide, let's say Triangle</span></span>
+- <span data-ttu-id="d20f3-241">Откройте область выделения и присвойте имя "!!фигура" прямоугольнику на слайде 1 и треугольнику на слайде 2.</span><span class="sxs-lookup"><span data-stu-id="d20f3-241">Open SelectionPane, rename the Rectangle in slide 1 to "!!shape", and rename the Triangle in slide 2 to "!!shape"</span></span>
+- <span data-ttu-id="d20f3-242">Примените переход "Трансформация" ко второму слайду</span><span class="sxs-lookup"><span data-stu-id="d20f3-242">Apply Morph on the 2nd slide</span></span>
 
 </BR>
 
-### <a name="morph-transition-enhancements---smartart"></a><span data-ttu-id="fb442-214">Улучшенные переходы по элементу SmartArt</span><span class="sxs-lookup"><span data-stu-id="fb442-214">Morph Transition Enhancements - SmartArt</span></span>
+### <a name="morph-transition-enhancements---smartart"></a><span data-ttu-id="d20f3-243">Улучшения перехода "Трансформация" — графические элементы SmartArt</span><span class="sxs-lookup"><span data-stu-id="d20f3-243">Morph Transition Enhancements - SmartArt</span></span>
 
-<span data-ttu-id="fb442-215">Элемент SmartArt с более гладкими переходами</span><span class="sxs-lookup"><span data-stu-id="fb442-215">SmartArt morph with smoother transitions</span></span>
+<span data-ttu-id="d20f3-244">Трансформация графических элементов SmartArt с более плавными переходами</span><span class="sxs-lookup"><span data-stu-id="d20f3-244">SmartArt morph with smoother transitions</span></span>
 
-#### <a name="getting-started"></a><span data-ttu-id="fb442-216">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="fb442-216">Getting Started:</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="d20f3-245">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="d20f3-245">Getting started</span></span>
 
-<span data-ttu-id="fb442-217">Использование элемента "трансформация" точно так же, как и для SmartArt</span><span class="sxs-lookup"><span data-stu-id="fb442-217">Use Morph the same way you would with SmartArt</span></span>
+<span data-ttu-id="d20f3-246">Аналогичное использование перехода "Трансформация" при применении графических элементов SmartArt</span><span class="sxs-lookup"><span data-stu-id="d20f3-246">Use Morph the same way you would with SmartArt</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="fb442-218">Сценарии для попытки:</span><span class="sxs-lookup"><span data-stu-id="fb442-218">Scenarios to Try:</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="d20f3-247">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="d20f3-247">Scenarios to Try:</span></span>
 
-- <span data-ttu-id="fb442-219">Вставка элемента SmartArt в слайд</span><span class="sxs-lookup"><span data-stu-id="fb442-219">Insert a SmartArt in a slide</span></span>
-- <span data-ttu-id="fb442-220">Дублирование слайда</span><span class="sxs-lookup"><span data-stu-id="fb442-220">Duplicate the Slide</span></span>
-- <span data-ttu-id="fb442-221">Изменение или изменение размера и перемещение элемента SmartArt на дубликате слайда</span><span class="sxs-lookup"><span data-stu-id="fb442-221">Resize/Change/Move the SmartArt on the duplicated slide</span></span>
-- <span data-ttu-id="fb442-222">Применение трансформации на дублированном слайде</span><span class="sxs-lookup"><span data-stu-id="fb442-222">Apply Morph on the duplicated slide</span></span>
-
-</BR>
-
-### <a name="morph-transition-enhancements---tables"></a><span data-ttu-id="fb442-223">Расширения преобразования «трансформация» — таблицы</span><span class="sxs-lookup"><span data-stu-id="fb442-223">Morph Transition Enhancements - Tables</span></span>
-
-<span data-ttu-id="fb442-224">Таблицы с более гладкими переходами</span><span class="sxs-lookup"><span data-stu-id="fb442-224">Tables morph with smoother transitions</span></span>
-
-#### <a name="getting-started"></a><span data-ttu-id="fb442-225">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="fb442-225">Getting Started:</span></span>
-<span data-ttu-id="fb442-226">Используйте элемент "трансформация" точно так же, как и с таблицами</span><span class="sxs-lookup"><span data-stu-id="fb442-226">Use Morph the same way you would with tables</span></span>
-
-#### <a name="scenarios-to-try"></a><span data-ttu-id="fb442-227">Сценарии для попытки:</span><span class="sxs-lookup"><span data-stu-id="fb442-227">Scenarios to Try:</span></span>
-
-- <span data-ttu-id="fb442-228">Вставка таблицы в слайд</span><span class="sxs-lookup"><span data-stu-id="fb442-228">Insert a Table in a slide</span></span>
-- <span data-ttu-id="fb442-229">Дублирование слайда</span><span class="sxs-lookup"><span data-stu-id="fb442-229">Duplicate the slide</span></span>
-- <span data-ttu-id="fb442-230">Изменение или изменение размера и перемещение таблицы на дубликате слайда</span><span class="sxs-lookup"><span data-stu-id="fb442-230">Resize/Change/Move the Table on the duplicated slide</span></span>
-- <span data-ttu-id="fb442-231">Применение трансформации на дублированном слайде</span><span class="sxs-lookup"><span data-stu-id="fb442-231">Apply Morph on the duplicated slide</span></span>
+- <span data-ttu-id="d20f3-248">Вставьте графический элемент SmartArt на слайд</span><span class="sxs-lookup"><span data-stu-id="d20f3-248">Insert a SmartArt in a slide</span></span>
+- <span data-ttu-id="d20f3-249">Продублируйте слайд</span><span class="sxs-lookup"><span data-stu-id="d20f3-249">Duplicate the Slide</span></span>
+- <span data-ttu-id="d20f3-250">Поменяйте размер, измените или переместите графический элемент SmartArt на дублированном слайде</span><span class="sxs-lookup"><span data-stu-id="d20f3-250">Resize/Change/Move the SmartArt on the duplicated slide</span></span>
+- <span data-ttu-id="d20f3-251">Примените переход "Трансформация" к дублированному слайду</span><span class="sxs-lookup"><span data-stu-id="d20f3-251">Apply Morph on the duplicated slide</span></span>
 
 </BR>
 
-### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a><span data-ttu-id="fb442-232">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher _Амп_ Visio</span><span class="sxs-lookup"><span data-stu-id="fb442-232">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio</span></span>
+### <a name="morph-transition-enhancements---tables"></a><span data-ttu-id="d20f3-252">Улучшения перехода "Трансформация" — таблицы</span><span class="sxs-lookup"><span data-stu-id="d20f3-252">Morph Transition Enhancements - Tables</span></span>
 
-### <a name="seamlessly-switch-between-accounts"></a><span data-ttu-id="fb442-233">Простота переключения между учетными записями</span><span class="sxs-lookup"><span data-stu-id="fb442-233">Seamlessly Switch Between Accounts</span></span>
+<span data-ttu-id="d20f3-253">Трансформация таблиц с более плавными переходами</span><span class="sxs-lookup"><span data-stu-id="d20f3-253">Tables morph with smoother transitions</span></span>
 
-<span data-ttu-id="fb442-234">Новый диспетчер учетных записей показывает все ваши рабочие и личные учетные записи в одном месте, а также управляет переключением между ними.</span><span class="sxs-lookup"><span data-stu-id="fb442-234">The new account manager shows all of your work and personal accounts in one place, and puts you in control of switching between them.</span></span> <span data-ttu-id="fb442-235">Этот обновленный интерфейс позволяет понять, как вы выполнили вход, и теперь вы можете переключаться между рабочими и личными учетными записями, не выполняя выход из сложных диалоговых окон или исходить их.</span><span class="sxs-lookup"><span data-stu-id="fb442-235">This updated experience makes it clear how you're logged in, and now you can toggle between work and personal accounts without having to sign out first or deal with complex dialogs.</span></span>
+#### <a name="getting-started"></a><span data-ttu-id="d20f3-254">Начало работы:</span><span class="sxs-lookup"><span data-stu-id="d20f3-254">Getting started</span></span>
+<span data-ttu-id="d20f3-255">Аналогичное использование перехода "Трансформация" при применении таблиц</span><span class="sxs-lookup"><span data-stu-id="d20f3-255">Use Morph the same way you would with tables</span></span>
 
+#### <a name="scenarios-to-try"></a><span data-ttu-id="d20f3-256">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="d20f3-256">Scenarios to Try:</span></span>
 
-![Мемокк. png](Images/MeMock.png)
+- <span data-ttu-id="d20f3-257">Вставьте таблицу на слайд</span><span class="sxs-lookup"><span data-stu-id="d20f3-257">Insert a Table in a slide</span></span>
+- <span data-ttu-id="d20f3-258">Продублируйте слайд</span><span class="sxs-lookup"><span data-stu-id="d20f3-258">Duplicate the slide</span></span>
+- <span data-ttu-id="d20f3-259">Поменяйте размер, измените или переместите таблицу на дублированном слайде</span><span class="sxs-lookup"><span data-stu-id="d20f3-259">Resize/Change/Move the Table on the duplicated slide</span></span>
+- <span data-ttu-id="d20f3-260">Примените переход "Трансформация" к дублированному слайду</span><span class="sxs-lookup"><span data-stu-id="d20f3-260">Apply Morph on the duplicated slide</span></span>
 
-#### <a name="scenarios-to-try"></a><span data-ttu-id="fb442-237">Сценарии для попытки:</span><span class="sxs-lookup"><span data-stu-id="fb442-237">Scenarios to Try:</span></span>
-- <span data-ttu-id="fb442-238">Переключение между учетными записями</span><span class="sxs-lookup"><span data-stu-id="fb442-238">Switch between accounts</span></span>
-- <span data-ttu-id="fb442-239">Добавление новой учетной записи [Note: сначала перейдите в раздел File | Учетная запись | Подключенные службы и удаляются все персональные службы, подключенные к рабочим учетным записям, и наоборот).</span><span class="sxs-lookup"><span data-stu-id="fb442-239">Add a new account [Note: you may want to first go to File | Account | Connected Services and remove any personal services connected to work accounts or vice versa]</span></span>
-- <span data-ttu-id="fb442-240">Выход из учетной записи</span><span class="sxs-lookup"><span data-stu-id="fb442-240">Sign out from an account</span></span>
 </BR>
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-241">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-241">Notable Fixes:</span></span>
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a><span data-ttu-id="d20f3-261">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher и Visio</span><span class="sxs-lookup"><span data-stu-id="d20f3-261">Word, Excel, PowerPoint, OneNote, Access, Project, Publisher & Visio</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-242">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-242">Word</span></span> 
-- <span data-ttu-id="fb442-243">Исправлена ошибка, связанная с предварительным просмотром в контексте таблиц _Амп_ Images</span><span class="sxs-lookup"><span data-stu-id="fb442-243">We fixed an issue with context preview for tables & images</span></span>
+### <a name="seamlessly-switch-between-accounts"></a><span data-ttu-id="d20f3-262">Легкое переключение между учетными записями</span><span class="sxs-lookup"><span data-stu-id="d20f3-262">Seamlessly Switch Between Accounts</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-244">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-244">Excel</span></span>
-- <span data-ttu-id="fb442-245">Исправлена ошибка, из-за которой текст в поле поиска с автофильтром белый в черной теме</span><span class="sxs-lookup"><span data-stu-id="fb442-245">We fixed an issue where text in autofilter Search field is white in Black theme</span></span>
-- <span data-ttu-id="fb442-246">Мы зафиксированы вопросы ПОЛЬЗОВАТЕЛЬСКОГО интерфейса согласия с новой надстройкой Office</span><span class="sxs-lookup"><span data-stu-id="fb442-246">We fixed a consent UI issue with New Office Add-in</span></span>
+<span data-ttu-id="d20f3-263">Новый диспетчер учетных записей отображает все рабочие и личные учетные записи в одном месте и позволяет управлять переключением между ними.</span><span class="sxs-lookup"><span data-stu-id="d20f3-263">The new account manager shows all of your work and personal accounts in one place, and puts you in control of switching between them.</span></span> <span data-ttu-id="d20f3-264">Этот обновленный интерфейс уточняет способ выполненного входа и обеспечивает возможность переключения между рабочими и личными учетными записями без выхода из системы или появления сложных диалоговых окон.</span><span class="sxs-lookup"><span data-stu-id="d20f3-264">This updated experience makes it clear how you're logged in, and now you can toggle between work and personal accounts without having to sign out first or deal with complex dialogs.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-247">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-247">PowerPoint</span></span>
-- <span data-ttu-id="fb442-248">Исправлена ошибка, связанная с автоматическим расширением экрана при показе слайдов на ноутбуках или планшетах.</span><span class="sxs-lookup"><span data-stu-id="fb442-248">We fixed an issue with automatically extending display when presenting SlideShows on laptops or tablets.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-249">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-249">Outlook</span></span>
-- <span data-ttu-id="fb442-250">Исправлена ошибка, связанная с отображением на кнопке "отправить в OneNote"</span><span class="sxs-lookup"><span data-stu-id="fb442-250">We fixed an issue with the Send to OneNote button display</span></span>
+![MeMock.png](Images/MeMock.png)
 
-### <a name="access"></a><span data-ttu-id="fb442-251">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-251">Access</span></span>
-- <span data-ttu-id="fb442-252">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-252">Various performance and stability fixes</span></span>
+#### <a name="scenarios-to-try"></a><span data-ttu-id="d20f3-266">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="d20f3-266">Scenarios to Try:</span></span>
+- <span data-ttu-id="d20f3-267">Переключение между учетными записями</span><span class="sxs-lookup"><span data-stu-id="d20f3-267">Switch between accounts</span></span>
+- <span data-ttu-id="d20f3-268">Добавление новой учетной записи [Примечание. Рекомендуется сначала открыть "Файл" | "Учетная запись" | "Подключенные службы" и удалить все личные службы, подключенные к рабочей учетной записи и наоборот]</span><span class="sxs-lookup"><span data-stu-id="d20f3-268">Add a new account [Note: you may want to first go to File | Account | Connected Services and remove any personal services connected to work accounts or vice versa]</span></span>
+- <span data-ttu-id="d20f3-269">Выход из учетной записи</span><span class="sxs-lookup"><span data-stu-id="d20f3-269">Sign out from an account</span></span>
+</BR>
 
-### <a name="project"></a><span data-ttu-id="fb442-253">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-253">Project</span></span>
-- <span data-ttu-id="fb442-254">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-254">Various performance and stability fixes</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-270">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-270">Notable Fixes:</span></span>
+
+### <a name="word"></a><span data-ttu-id="d20f3-271">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-271">Word</span></span> 
+- <span data-ttu-id="d20f3-272">Исправлена проблема с предварительным просмотром контекста для таблиц и изображений</span><span class="sxs-lookup"><span data-stu-id="d20f3-272">We fixed an issue with context preview for tables & images</span></span>
+
+### <a name="excel"></a><span data-ttu-id="d20f3-273">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-273">Excel</span></span>
+- <span data-ttu-id="d20f3-274">Исправлена ошибка, из-за которой при использовании темы "Черная" текст в поле поиска автофильтра был белого цвета</span><span class="sxs-lookup"><span data-stu-id="d20f3-274">We fixed an issue where text in autofilter Search field is white in Black theme</span></span>
+- <span data-ttu-id="d20f3-275">Исправлена проблема с согласованным пользовательским интерфейсом для новой надстройки Office</span><span class="sxs-lookup"><span data-stu-id="d20f3-275">We fixed a consent UI issue with New Office Add-in</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-276">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-276">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-277">Исправлена проблема с автоматическим расширением области отображения во время презентации на ноутбуках и планшетах.</span><span class="sxs-lookup"><span data-stu-id="d20f3-277">We fixed an issue with automatically extending display when presenting SlideShows on laptops or tablets.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="d20f3-278">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-278">Outlook</span></span>
+- <span data-ttu-id="d20f3-279">Исправлена проблема с отображением кнопки "Отправить в OneNote"</span><span class="sxs-lookup"><span data-stu-id="d20f3-279">We fixed an issue with the Send to OneNote button display</span></span>
+
+### <a name="access"></a><span data-ttu-id="d20f3-280">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-280">Access</span></span>
+- <span data-ttu-id="d20f3-281">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-281">Various performance and stability fixes</span></span>
+
+### <a name="project"></a><span data-ttu-id="d20f3-282">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-282">Project</span></span>
+- <span data-ttu-id="d20f3-283">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-283">Various performance and stability fixes</span></span>
 
 
 </BR></BR>
-## <a name="february-11-2019"></a><span data-ttu-id="fb442-255">11 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-255">February 11, 2019</span></span>
-<span data-ttu-id="fb442-256">Версия 1903 (сборка 11330,20014)</span><span class="sxs-lookup"><span data-stu-id="fb442-256">Version 1903 (build 11330.20014)</span></span>
+## <a name="february-11-2019"></a><span data-ttu-id="d20f3-284">11 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-284">Week of February 11, 2019</span></span>
+<span data-ttu-id="d20f3-285">Версия 1903 (сборка 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="d20f3-285">Version 1903 (Build 11330.20014)</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-257">Существенные исправления:</span><span class="sxs-lookup"><span data-stu-id="fb442-257">Notable Fixes:</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-286">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-286">Notable Fixes:</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-258">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-258">Word</span></span> 
-- <span data-ttu-id="fb442-259">Исправлена ошибка, из-за которой не удалось применить некоторые специальные стили к Word Online</span><span class="sxs-lookup"><span data-stu-id="fb442-259">We fixed an issue where some customized styles could not be applied to word online</span></span>
-- <span data-ttu-id="fb442-260">Исправлены проблемы с предварительным предварительным просмотром контекста в Word</span><span class="sxs-lookup"><span data-stu-id="fb442-260">We fixed Context Preview issues with rich objects in Word</span></span>
-- <span data-ttu-id="fb442-261">Исправлена ошибка, в результате которой при вставке списков произойдет сбой Word</span><span class="sxs-lookup"><span data-stu-id="fb442-261">We fixed an issue where pasting lists  would result in Word crashing</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-287">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-287">Word</span></span> 
+- <span data-ttu-id="d20f3-288">Исправлена ошибка, из-за которой некоторые настроенные стили нельзя было применить в Word Online</span><span class="sxs-lookup"><span data-stu-id="d20f3-288">We fixed an issue where some customized styles could not be applied to word online</span></span>
+- <span data-ttu-id="d20f3-289">Исправлены проблемы предварительного просмотра контекста, связанные с форматированными объектами в Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-289">We fixed Context Preview issues with rich objects in Word</span></span>
+- <span data-ttu-id="d20f3-290">Исправлена ошибка, из-за которой при вставке списков происходил сбой Word.</span><span class="sxs-lookup"><span data-stu-id="d20f3-290">We fixed an issue where pasting lists  would result in Word crashing</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-262">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-262">Excel</span></span>
-- <span data-ttu-id="fb442-263">Исправлена ошибка, из-за которой добавленные пробелы после числовых форматов больше не отображаются при отсутствии символа валюты</span><span class="sxs-lookup"><span data-stu-id="fb442-263">We fixed an issue where appended spaces after number formats are no longer showing when there is no currency symbol</span></span>
-- <span data-ttu-id="fb442-264">Исправлена ошибка, связанная с автоматическим обнаружением для акций</span><span class="sxs-lookup"><span data-stu-id="fb442-264">We fixed an issue with auto detect for stocks</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-291">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-291">Excel</span></span>
+- <span data-ttu-id="d20f3-292">Исправлена ошибка, из-за которой добавляемые пробелы после числовых форматов не отображались при отсутствии обозначения денежной единицы</span><span class="sxs-lookup"><span data-stu-id="d20f3-292">We fixed an issue where appended spaces after number formats are no longer showing when there is no currency symbol</span></span>
+- <span data-ttu-id="d20f3-293">Исправлена проблема с автоматическим определением акций</span><span class="sxs-lookup"><span data-stu-id="d20f3-293">We fixed an issue with auto detect for stocks</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-265">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-265">PowerPoint</span></span>
-- <span data-ttu-id="fb442-266">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-266">Various performance and stability fixes</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-294">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-294">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-295">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-295">Various performance and stability fixes</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-267">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-267">Outlook</span></span>
-- <span data-ttu-id="fb442-268">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-268">Various performance and stability fixes</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-296">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-296">Outlook</span></span>
+- <span data-ttu-id="d20f3-297">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-297">Various performance and stability fixes</span></span>
 
-### <a name="access"></a><span data-ttu-id="fb442-269">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-269">Access</span></span>
-- <span data-ttu-id="fb442-270">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-270">Various performance and stability fixes</span></span>
+### <a name="access"></a><span data-ttu-id="d20f3-298">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-298">Access</span></span>
+- <span data-ttu-id="d20f3-299">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-299">Various performance and stability fixes</span></span>
 
-### <a name="project"></a><span data-ttu-id="fb442-271">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-271">Project</span></span>
-- <span data-ttu-id="fb442-272">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-272">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="d20f3-300">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-300">Project</span></span>
+- <span data-ttu-id="d20f3-301">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-301">Various performance and stability fixes</span></span>
 
 </BR></BR>
 
 
-## <a name="february-1-2019"></a><span data-ttu-id="fb442-273">1 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="fb442-273">February 1, 2019</span></span> 
-<span data-ttu-id="fb442-274">Версия 1902 (сборка 11326,20000)</span><span class="sxs-lookup"><span data-stu-id="fb442-274">Version 1902 (build 11326.20000)</span></span>
+## <a name="february-1-2019"></a><span data-ttu-id="d20f3-302">1 февраля 2019 г.</span><span class="sxs-lookup"><span data-stu-id="d20f3-302">February 1, 2019</span></span> 
+<span data-ttu-id="d20f3-303">Версия 1902 (сборка 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="d20f3-303">Version 1902 (Build 11326.20000)</span></span>
 
 
-## <a name="notable-fixes"></a><span data-ttu-id="fb442-275">Существенные исправления</span><span class="sxs-lookup"><span data-stu-id="fb442-275">Notable Fixes</span></span>
+## <a name="notable-fixes"></a><span data-ttu-id="d20f3-304">Важные исправления:</span><span class="sxs-lookup"><span data-stu-id="d20f3-304">Notable Fixes</span></span>
 
-### <a name="word"></a><span data-ttu-id="fb442-276">Word</span><span class="sxs-lookup"><span data-stu-id="fb442-276">Word</span></span> 
-- <span data-ttu-id="fb442-277">Исправлена ошибка, связанная с изменением размера ячеек во внедренной таблице Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-277">We fixed an issue with resizing cells in an embedded Excel table</span></span>
-- <span data-ttu-id="fb442-278">Исправлена ошибка при копировании и вставке фигур на полотне</span><span class="sxs-lookup"><span data-stu-id="fb442-278">We fixed an issue with copy/paste of shapes in a Drawing Canvas</span></span>
+### <a name="word"></a><span data-ttu-id="d20f3-305">Word</span><span class="sxs-lookup"><span data-stu-id="d20f3-305">Word</span></span> 
+- <span data-ttu-id="d20f3-306">Устранена проблема с изменением размера ячеек во внедренной таблице Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-306">We fixed an issue with resizing cells in an embedded Excel table</span></span>
+- <span data-ttu-id="d20f3-307">Устранена проблема с копированием и вставкой фигур на полотне</span><span class="sxs-lookup"><span data-stu-id="d20f3-307">We fixed an issue with copy/paste of shapes in a Drawing Canvas</span></span>
 
-### <a name="excel"></a><span data-ttu-id="fb442-279">Excel</span><span class="sxs-lookup"><span data-stu-id="fb442-279">Excel</span></span>
-- <span data-ttu-id="fb442-280">Исправлена ошибка при открытии файлов из Excel Web App</span><span class="sxs-lookup"><span data-stu-id="fb442-280">We fixed an issue with opening files from the Excel Web app</span></span>
-- <span data-ttu-id="fb442-281">Исправлена ошибка, из-за которой сохраняется CSV-файл. XLSX завершился с ошибками из-за размера имени файла</span><span class="sxs-lookup"><span data-stu-id="fb442-281">We fixed an issue where saving a CSV file as .XLSX was failing due to file name size</span></span>
-- <span data-ttu-id="fb442-282">Мы зафиксированы контекстное меню, чтобы отобразить параметры контекстного меню.</span><span class="sxs-lookup"><span data-stu-id="fb442-282">We fixed the context menu to display the context menu options</span></span>
+### <a name="excel"></a><span data-ttu-id="d20f3-308">Excel</span><span class="sxs-lookup"><span data-stu-id="d20f3-308">Excel</span></span>
+- <span data-ttu-id="d20f3-309">Исправлена ошибка с открытием файлов из Excel Web App</span><span class="sxs-lookup"><span data-stu-id="d20f3-309">We fixed an issue with opening files from the Excel Web app</span></span>
+- <span data-ttu-id="d20f3-310">Исправлена ошибка, вызывавшая сбой при сохранении CSV-файла в формате XLSX из-за длины имени файла</span><span class="sxs-lookup"><span data-stu-id="d20f3-310">We fixed an issue where saving a CSV file as .XLSX was failing due to file name size</span></span>
+- <span data-ttu-id="d20f3-311">Исправлено контекстное меню для отображения параметров контекстного меню</span><span class="sxs-lookup"><span data-stu-id="d20f3-311">We fixed the context menu to display the context menu options</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="fb442-283">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="fb442-283">PowerPoint</span></span>
-- <span data-ttu-id="fb442-284">Исправлена ошибка, из-за которой пользователи не могли использовать сочетание клавиш Ctrl + Alt + 7/Ctrl + Alt + 8, чтобы вводить квадратные скобки.</span><span class="sxs-lookup"><span data-stu-id="fb442-284">We fixed an issued where users were unable to use the keyboard shortcut ctrl+alt+7/ctrl+alt+8 to enter square brackets</span></span>
-- <span data-ttu-id="fb442-285">Исправлена ошибка, из-за которой при вставке локального видео в PPT будет уменьшено дисковое пространство "C".</span><span class="sxs-lookup"><span data-stu-id="fb442-285">We fixed an issue where inserting a local video into the PPT would reduce the ‘C’ drive disk space</span></span>
-- <span data-ttu-id="fb442-286">Мы зафиксирована кнопка опубликовать в Microsoft Stream, которая не отображается для некоторых пользователей</span><span class="sxs-lookup"><span data-stu-id="fb442-286">We fixed the Publish to Microsoft Stream button which was not displaying to some users</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d20f3-312">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d20f3-312">PowerPoint</span></span>
+- <span data-ttu-id="d20f3-313">Устранена проблема, из-за которой пользователи не могли использовать сочетания клавиш CTRL+ALT+7 и CTRL+ALT+8 для ввода квадратных скобок</span><span class="sxs-lookup"><span data-stu-id="d20f3-313">We fixed an issued where users were unable to use the keyboard shortcut ctrl+alt+7/ctrl+alt+8 to enter square brackets</span></span>
+- <span data-ttu-id="d20f3-314">Исправлена ошибка, из-за которой при вставке локального видео в файл PPT уменьшалось место на диске "C"</span><span class="sxs-lookup"><span data-stu-id="d20f3-314">We fixed an issue where inserting a local video into the PPT would reduce the ‘C’ drive disk space</span></span>
+- <span data-ttu-id="d20f3-315">Исправлена кнопка "Публикация в Microsoft Stream", не отображавшаяся у некоторых пользователей</span><span class="sxs-lookup"><span data-stu-id="d20f3-315">We fixed the Publish to Microsoft Stream button which was not displaying to some users</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="fb442-287">Outlook</span><span class="sxs-lookup"><span data-stu-id="fb442-287">Outlook</span></span>
-- <span data-ttu-id="fb442-288">Исправлена ошибка, из — неправильное отображение темы задачи в представлении "Календарь"</span><span class="sxs-lookup"><span data-stu-id="fb442-288">We fixed an issue where the task view in calendar was  not correctly showing the task subject</span></span>
+### <a name="outlook"></a><span data-ttu-id="d20f3-316">Outlook</span><span class="sxs-lookup"><span data-stu-id="d20f3-316">Outlook</span></span>
+- <span data-ttu-id="d20f3-317">Исправлена ошибка, из-за которой в представлении задач в календаре неправильно отображалась тема задачи.</span><span class="sxs-lookup"><span data-stu-id="d20f3-317">We fixed an issue where the task view in calendar was  not correctly showing the task subject</span></span>
 
-### <a name="access"></a><span data-ttu-id="fb442-289">Access</span><span class="sxs-lookup"><span data-stu-id="fb442-289">Access</span></span>
-- <span data-ttu-id="fb442-290">Исправлена ошибка масштабирования диаграмм</span><span class="sxs-lookup"><span data-stu-id="fb442-290">We fixed a scaling issue with charts</span></span>
+### <a name="access"></a><span data-ttu-id="d20f3-318">Access</span><span class="sxs-lookup"><span data-stu-id="d20f3-318">Access</span></span>
+- <span data-ttu-id="d20f3-319">Исправлена проблема с масштабированием диаграмм</span><span class="sxs-lookup"><span data-stu-id="d20f3-319">We fixed a scaling issue with charts</span></span>
 
-### <a name="project"></a><span data-ttu-id="fb442-291">Проект</span><span class="sxs-lookup"><span data-stu-id="fb442-291">Project</span></span>
-- <span data-ttu-id="fb442-292">Различные проблемы с производительностью и стабильностью</span><span class="sxs-lookup"><span data-stu-id="fb442-292">Various performance and stability fixes</span></span>
+### <a name="project"></a><span data-ttu-id="d20f3-320">Project</span><span class="sxs-lookup"><span data-stu-id="d20f3-320">Project</span></span>
+- <span data-ttu-id="d20f3-321">Устранен ряд проблем производительности и стабильности</span><span class="sxs-lookup"><span data-stu-id="d20f3-321">Various performance and stability fixes</span></span>
