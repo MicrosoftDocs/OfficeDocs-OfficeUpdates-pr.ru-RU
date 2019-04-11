@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478576"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745551"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -27,6 +27,18 @@ ms.locfileid: "31478576"
 > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
+
+## <a name="version-1808-april-9"></a>Версия 1808: 9 апреля
+*Версия 1808 (сборка 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+
+- Исправлена ошибка, когда пользователь мог анонимно открыть документы в Internet Explorer или Microsoft Edge.
+- Исправлена ошибка, когда при форматировании цвета выделения текста в любом верхнем/нижнем колонтитуле СТРАНИЦЫ и/или в поле с НУМЕРАЦИЕЙ СТРАНИЦ документа Word отображалось поле черного цвета, а не цвета, указанного для выделения текста.
+- Мы добавили поддержку надстройки мастера открыток для Word на японском языке для нового японского летоисчисления. 
+
+## <a name="version-1803-april-9"></a>Версия 1803: 9 апреля
+В этом месяце отсутствуют обновления.
 
 ## <a name="version-1808-march-12"></a>Версия 1808: 12 марта
 *Версия 1808 (сборка 10730.20304)*

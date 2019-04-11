@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478556"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751500"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -27,6 +27,26 @@ ms.locfileid: "31478556"
  
 > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
+
+## <a name="version-1902-april-9"></a>Версия 1902: 9 апреля
+*Версия 1902 (сборка 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+- Устранена ошибка, приводившая к сбою при загрузке пользователями изображений на карточке контакта.
+- Устранена ошибка, приводившая к сбою при запуске некоторыми пользователями приложений Office.
+- Исправлена проблема, из-за которой окно отображалось в неправильном месте, когда системная панель задач сохранена в левой или верхней части экрана.
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+
+- Исправлена проблема, чтобы обеспечить отображение интерфейса сохранения, если файл открыт в режиме только для чтения и нажимается кнопка "Сохранить как" в области "Сведения".
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+
+- Исправлена проблема, приводившая к появлению повторяющихся запросов на вход на устройствах с Windows 10 (версия 1803 или более поздняя).
+- Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
+- Исправлена размытость больших EMF-файлов, вставленных в Word, Excel и PowerPoint.
+- Исправлена ошибка в логике анализа журнала версий, приводившая в нескольких случаях к открытию документов в режиме только для чтения.
 
 ## <a name="version-1902-march-12"></a>Версия 1902: 12 марта
 *Версия 1902 (сборка 11328.20158)*

@@ -3,7 +3,7 @@ title: Обновления SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 03/13/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 0cd017a3cc8ad2178f51bc55215e83e07985bb65
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: bbc40c301cbbe833dafcd675521b10be427fc182
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568342"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745571"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -29,33 +29,35 @@ ms.locfileid: "30568342"
 
 <a name="BKMK_2016"> </a>
   
-## <a name="sharepoint-2019-update-history"></a>Журнал обновлений SharePoint 2019
+## <a name="sharepoint-2019-update-history"></a>Журнал обновлений SharePoint 2019
 
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
-|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/ru-RU/help/4462199)  <br/> |Март 2019 г.  <br/> |
-|SharePoint Server 2019  <br/> Языковое исправление для SharePoint Server 2019  <br/> |[KB 4462171](https://support.microsoft.com/ru-RU/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/ru-RU/help/4462170) <br/> |Февраль 2019 г.  <br/> |
-|SharePoint Server 2019  <br/> Языковое исправление для SharePoint Server 2019  <br/> |[KB 4461634](https://support.microsoft.com/ru-RU/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/ru-RU/help/4461514) <br/> |Январь 2019 г.  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/ru-RU/help/4461548)  <br/> |Декабрь 2018 г.  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/ru-RU/help/4461513)  <br/> |Ноябрь 2018 г.  <br/> |
+|SharePoint Server 2019  <br/> Языковое исправление для SharePoint Server 2019  <br/> |[KB 4464518](https://support.microsoft.com/en-us/help/4464518) <br/> [KB 4462221](https://support.microsoft.com/en-us/help/4462221) <br/> |Апрель 2019 г.  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/en-us/help/4462199)  <br/> |Март 2019 г.  <br/> |
+|SharePoint Server 2019  <br/> Языковое исправление для SharePoint Server 2019  <br/> |[KB 4462171](https://support.microsoft.com/en-us/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/en-us/help/4462170) <br/> |Февраль 2019 г.  <br/> |
+|SharePoint Server 2019  <br/> Языковое исправление для SharePoint Server 2019  <br/> |[KB 4461634](https://support.microsoft.com/en-us/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/en-us/help/4461514) <br/> |Январь 2019 г.  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/en-us/help/4461548)  <br/> |Декабрь 2018 г.  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/en-us/help/4461513)  <br/> |Ноябрь 2018 г.  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>Журнал обновлений SharePoint 2016
 
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
-|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/ru-RU/help/4462211) <br/>  |Март 2019 г.  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/ru-RU/help/4462155) <br/>  |Февраль 2019 г.  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/ru-RU/help/4461598) <br/>  |Январь 2019 г.  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/ru-RU/help/4461541) <br/>  |Декабрь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/ru-RU/help/4461501) <br/>  |Ноябрь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4461447](https://support.microsoft.com/ru-RU/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/ru-RU/help/4092463) <br/> |Октябрь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/ru-RU/help/4092459) <br/>  |Сентябрь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4032256](https://support.microsoft.com/ru-RU/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/ru-RU/help/4022231) <br/> |Август 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/ru-RU/help/4022228)  <br/> |Июль 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4022173](https://support.microsoft.com/ru-RU/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/ru-RU/help/4022178) <br/> |Июнь 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018381](https://support.microsoft.com/ru-RU/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/ru-RU/help/4018386) <br/> |Май 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018336](https://support.microsoft.com/ru-RU/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/ru-RU/help/4018340) <br/> |Апрель 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018293](https://support.microsoft.com/ru-RU/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/ru-RU/help/4011687) <br/> |Март 2018 г.  <br/> |
-|SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> |Февраль 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4464510](https://support.microsoft.com/en-us/help/4464510) <br/> [KB 4461507](https://support.microsoft.com/en-us/help/4461507) <br/> |Апрель 2019 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/en-us/help/4462211) <br/>  |Март 2019 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/en-us/help/4462155) <br/>  |Февраль 2019 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/en-us/help/4461598) <br/>  |Январь 2019 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/en-us/help/4461541) <br/>  |Декабрь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/en-us/help/4461501) <br/>  |Ноябрь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |Октябрь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Сентябрь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Август 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Июль 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |Июнь 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |Май 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018336](https://support.microsoft.com/en-us/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/en-us/help/4018340) <br/> |Апрель 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4018293](https://support.microsoft.com/en-us/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/en-us/help/4011687) <br/> |Март 2018 г.  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> |Февраль 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4011642](https://support.microsoft.com/help/4011642) <br/> [KB 4011645](https://support.microsoft.com/help/4011645) <br/> |Январь 2018 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4011576](https://support.microsoft.com/help/4011576) <br/> [KB 4011578](https://support.microsoft.com/help/4011578) <br/> |Декабрь 2017 г.  <br/> |
 |SharePoint Server 2016  <br/> Языковое исправление для SharePoint Server 2016  <br/> |[KB 4011244](https://support.microsoft.com/help/4011244) <br/> [KB 4011243](https://support.microsoft.com/help/4011243) <br/> |Ноябрь 2017 г.  <br/> |
@@ -93,19 +95,20 @@ ms.locfileid: "30568342"
     
 |**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462217](https://support.microsoft.com/ru-RU/help/4462217) <br/> [KB 4462219](https://support.microsoft.com/ru-RU/help/4462219) <br/> |Март 2019 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/ru-RU/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/ru-RU/help/4462152) <br/> |Февраль 2019 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/ru-RU/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/ru-RU/help/4461605) <br/> |Январь 2019 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/ru-RU/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/ru-RU/help/4461555) <br/> |Декабрь 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/ru-RU/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/ru-RU/help/4461510) <br/> |Ноябрь 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/ru-RU/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/ru-RU/help/4461458) <br/> |Октябрь 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/ru-RU/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/ru-RU/help/4092476) <br/> |Сентябрь 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/ru-RU/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/ru-RU/help/4032247) <br/> |Август 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/ru-RU/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/ru-RU/help/4022241) <br/> |Июль 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/ru-RU/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/ru-RU/help/4022187) <br/> |Июнь 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/ru-RU/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/ru-RU/help/4018397) <br/> |Май 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/ru-RU/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/ru-RU/help/4018348) <br/> |Апрель 2018 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/ru-RU/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/ru-RU/help/4018302) <br/> |Март 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4464512](https://support.microsoft.com/en-us/help/4464512) <br/> [KB 4464514](https://support.microsoft.com/en-us/help/4464514) <br/> |Апрель 2019 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462217](https://support.microsoft.com/en-us/help/4462217) <br/> [KB 4462219](https://support.microsoft.com/en-us/help/4462219) <br/> |Март 2019 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/en-us/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/en-us/help/4462152) <br/> |Февраль 2019 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/en-us/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/en-us/help/4461605) <br/> |Январь 2019 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/en-us/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/en-us/help/4461555) <br/> |Декабрь 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/en-us/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/en-us/help/4461510) <br/> |Ноябрь 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |Октябрь 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Сентябрь 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Август 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Июль 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/en-us/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/en-us/help/4022187) <br/> |Июнь 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/en-us/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/en-us/help/4018397) <br/> |Май 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/en-us/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/en-us/help/4018348) <br/> |Апрель 2018 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/en-us/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/en-us/help/4018302) <br/> |Март 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011693](https://support.microsoft.com/help/4011693) <br/> [KB 4011696](https://support.microsoft.com/help/4011696) <br/> |Февраль 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011649](https://support.microsoft.com/help/4011649) <br/> [KB 4011652](https://support.microsoft.com/help/4011652) <br/> |Январь 2018 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011588](https://support.microsoft.com/help/4011588) <br/> [KB 4011593](https://support.microsoft.com/help/4011593) <br/> |Декабрь 2017 г.  <br/> |
@@ -148,45 +151,46 @@ ms.locfileid: "30568342"
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2882999](https://support.microsoft.com/kb/2882999) <br/> [KB 2882989](https://support.microsoft.com/kb/2882989) <br/> |Июль 2014 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2881063](https://support.microsoft.com/kb/2881063) <br/> [KB 2881061](https://support.microsoft.com/kb/2881061) <br/> |Июнь 2014 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2863892](https://support.microsoft.com/kb/2863892) <br/> [KB 2878240](https://support.microsoft.com/kb/2878240) <br/> |Май 2014 г.  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2880551 (SP1)](https://support.microsoft.com/kb/2880551) <br/> [KB 2880552 (SP1)](https://support.microsoft.com/kb/2880552) <br/> |Пакет обновления 1          Апрель 2014 г.  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2880551 (пакет обновления 1 — SP1)](https://support.microsoft.com/kb/2880551) <br/> [KB 2880552 (пакет обновления 1 — SP1)](https://support.microsoft.com/kb/2880552) <br/> |Пакет обновления 1          Апрель 2014 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2849961](https://support.microsoft.com/kb/2849961) <br/> [KB 2850024](https://support.microsoft.com/kb/2850024) <br/> |Декабрь 2013 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2825674](https://support.microsoft.com/kb/2825674) <br/> [KB 2825647](https://support.microsoft.com/kb/2825647) <br/> |Октябрь 2013 г.  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2817517](https://support.microsoft.com/kb/2817517) <br/> [KB 2817616](https://support.microsoft.com/kb/2817616) <br/> |Август 2013 г.  <br/> |
    
 <a name="BKMK_2010"> </a>
 
-## <a name="sharepoint-2010-update-history"></a>Журнал обновлений SharePoint 2010
+## <a name="sharepoint-2010-update-history"></a>Журнал обновлений SharePoint 2010
 
-|**Название пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
+|**Имя пакета**|**Номер статьи в базе знаний**|**Дата выпуска**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4464528](https://support.microsoft.com/help/4464528) <br/> [KB 4464523](https://support.microsoft.com/help/4464523) <br/> |Апрель 2019 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4462231](https://support.microsoft.com/help/4462231) <br/> [KB 4462228](https://support.microsoft.com/help/4462228) <br/> |Март 2019 г.  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461630](https://support.microsoft.com/help/4461630) <br/> [KB 4462181](https://support.microsoft.com/help/4462181) <br/> |Февраль 2019 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/ru-RU/help/4461622) <br/> |Январь 2019 г.  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461580](https://support.microsoft.com/help/4461580) <br/> [KB 4461575](https://support.microsoft.com/help/4461575) <br/> |Декабрь 2018 г.  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461630](https://support.microsoft.com/help/4461630) <br/> [KB 4462181](https://support.microsoft.com/help/4462181) <br/> |Февраль 2019 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/en-us/help/4461622) <br/> |Январь 2019 г.  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461580](https://support.microsoft.com/help/4461580) <br/> [KB 4461575](https://support.microsoft.com/help/4461575) <br/> |Декабрь 2018 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> |Ноябрь 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/ru-RU/help/4461464) <br/> |Октябрь 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/ru-RU/help/4227169) <br/> |Сентябрь 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/ru-RU/help/4032221) <br/> |Август 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/ru-RU/help/4022204) <br/> |Июнь 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/ru-RU/help/4022143) <br/> |Май 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/ru-RU/help/4018361) <br/> |Апрель 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/ru-RU/help/4011710) <br/> |Март 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |Октябрь 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Сентябрь 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Август 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Июнь 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/en-us/help/4022143) <br/> |Май 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/en-us/help/4018361) <br/> |Апрель 2018 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/en-us/help/4011710) <br/> |Март 2018 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 3141547](https://support.microsoft.com/help/3141547) <br/> [KB 4011616](https://support.microsoft.com/help/4011616) <br/> |Январь 2018 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4011272](https://support.microsoft.com/help/4011272) <br/> |Ноябрь 2017 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4011195](https://support.microsoft.com/help/4011195) <br/> |Октябрь 2017 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB4011058](https://support.microsoft.com/help/4011058) <br/> |Сентябрь 2017 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB2920815](https://support.microsoft.com/help/2920815) <br/> |Август 2017 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4011272](https://support.microsoft.com/help/4011272) <br/> |Ноябрь 2017 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4011195](https://support.microsoft.com/help/4011195) <br/> |Октябрь 2017 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB4011058](https://support.microsoft.com/help/4011058) <br/> |Сентябрь 2017 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB2920815](https://support.microsoft.com/help/2920815) <br/> |Август 2017 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3213634](https://support.microsoft.com/help/3213634) <br/> |Июль 2017 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3191905](https://support.microsoft.com/help/3191905) <br/> |Июнь 2017 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3191846](https://support.microsoft.com/help/3191846) <br/> |Апрель 2017 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB3141545](https://support.microsoft.com/help/3141545) <br/> |Март 2017 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB3141545](https://support.microsoft.com/help/3141545) <br/> |Март 2017 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3118391](https://support.microsoft.com/kb/3118391) <br/> [KB3128036](https://support.microsoft.com/help/3128036) <br/> |Декабрь 2016 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3127957](https://support.microsoft.com/kb/3127957) <br/> |Ноябрь 2016 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3118387](https://support.microsoft.com/kb/3118387) <br/> |Октябрь 2016 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3115473](https://support.microsoft.com/kb/3115473) <br/> |Сентябрь 2016 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3114890](https://support.microsoft.com/kb/3114890) <br/> [KB3115319](https://support.microsoft.com/kb/3115319) <br/> |Июль 2016 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB3115245](https://support.microsoft.com/kb/3115245) <br/> |Июнь 2016 г.  <br/> |
-|SharePoint Server 2010  <br/> |[KB3115126](https://support.microsoft.com/kb/3115126) <br/> |Май 2016 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB3115245](https://support.microsoft.com/kb/3115245) <br/> |Июнь 2016 г.  <br/> |
+|SharePoint Server 2010  <br/> |[KB3115126](https://support.microsoft.com/kb/3115126) <br/> |Май 2016 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3114995](https://support.microsoft.com/kb/3114995) <br/> |Апрель 2016 г.  <br/> |
 |SharePoint Server 2010  <br/> |[KB3114882](https://support.microsoft.com/kb/3114882) <br/> |Март 2016 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3114567](https://support.microsoft.com/kb/3114567) <br/> [KB3114558](https://support.microsoft.com/kb/3114558) <br/> |Февраль 2016 г.  <br/> |
@@ -212,7 +216,7 @@ ms.locfileid: "30568342"
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2849990](https://support.microsoft.com/kb/2849990) <br/> [KB 2849971](https://support.microsoft.com/kb/2849971) <br/> |Декабрь 2013 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2825824](https://support.microsoft.com/kb/2825824) <br/> [KB 2825786](https://support.microsoft.com/kb/2825786) <br/> |Октябрь 2013 г.  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2817594](https://support.microsoft.com/kb/2817594) <br/> [KB 2817570](https://support.microsoft.com/kb/2817570) <br/> |Август 2013 г.  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2687464 (SP2)](https://support.microsoft.com/kb/2687464) <br/> [KB 2687453 (SP2)](https://support.microsoft.com/kb/2687453) <br/> |Пакет обновления 2          Июль 2013 г.  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2687464 (пакет обновления 2 — SP2)](https://support.microsoft.com/kb/2687464) <br/> [KB 2687453 (пакет обновления 2 — SP2)](https://support.microsoft.com/kb/2687453) <br/> |Пакет обновления 2          Июль 2013 г.  <br/> |
    
 ## <a name="additional-information"></a>Дополнительные сведения
 
@@ -222,7 +226,7 @@ ms.locfileid: "30568342"
   
 - Windows Server AppFabric с SharePoint
   
-  - [AppFabric](https://msdn.microsoft.com/ru-RU/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/en-us/library/aa139641.aspx)
   - [AppFabric с SharePoint: основные понятия](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [Обновления AppFabric](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -232,10 +236,10 @@ ms.locfileid: "30568342"
   - [Обновления Workflow Manager](https://blogs.msdn.microsoft.com/workflowteam/)
    
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Статьи по теме
 
-- [Установка обновления программного обеспечения для SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [Обзор обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [Подготовка к развертыванию обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Установка обновления программного обеспечения для SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
+- [Обзор обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [Подготовка к развертыванию обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
 - [Обновления для Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [Обновления для Project Server](project-server-updates.md)
