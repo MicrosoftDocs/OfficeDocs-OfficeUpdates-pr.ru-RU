@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 4a8c42ea3cfc6e80aea0d898854398c150f1b9f2
-ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31763737"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818506"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -46,7 +46,7 @@ ms.locfileid: "31763737"
 
 - **Расширение доступа к содержимому:** нужно сделать презентации доступными для людей с ограниченными возможностями? Доверьте это средству проверки читаемости, которое не будет вас отвлекать. Проверьте, как это работает, выбрав пункт меню Рецензирование > Проверка читаемости, и получайте требующие вашего внимания уведомления в строке состояния.
 
-- **Зачем придумывать что-то заново, если можно пользоваться тем, что уже есть?**  Экономьте время, повторно используя слайды, которые создали вы или которыми с вами поделились другие пользователи. [Дополнительные сведения](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- **Зачем придумывать что-то заново, если можно пользоваться тем, что уже есть?**  Экономьте время, повторно используя слайды, которые создали вы или которыми с вами поделились другие пользователи.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 
