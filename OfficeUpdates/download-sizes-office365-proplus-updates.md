@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/3/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: ec4cd8df8f0d3fdd4e3abc957024af699d6058f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478566"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31763727"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -36,10 +36,20 @@ ms.locfileid: "31478566"
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ.
 
+## <a name="april-9-2019"></a>9 апреля 2019 г.
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1903 (сборка 11425.20204). 
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1903 (сборка 11425.20202)  <br/> |1 апреля 2019 г.  <br/> |307<br/> |
+|Версия 1902 (сборка 11328.20158)  <br/> |12 марта 2019 г.  <br/> |204<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Semi-Annual Channel
 
-Ожидаемый выпуск — версия 1808 (сборка 10730.20334).
+Самый свежий выпуск — версия 1808 (сборка 10730.20334).
 
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
@@ -48,7 +58,7 @@ ms.locfileid: "31478566"
 
 ### <a name="semi-annual-channel-targeted"></a>Semi-Annual Channel (Targeted)
 
-Ожидаемый выпуск — версия 1902 (сборка 11328.20230).
+Самый свежий выпуск — версия 1902 (сборка 11328.20230).
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
