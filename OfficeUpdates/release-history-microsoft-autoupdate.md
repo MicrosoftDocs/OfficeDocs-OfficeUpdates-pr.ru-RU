@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/14/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: a4b0d70349ba1e6dfb8fc587b606b007298fdae8
-ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
+ms.openlocfilehash: 9f162b040f05b1fb845bef0a0d3a8de251abe3a4
+ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641404"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31924347"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,7 +31,8 @@ ms.locfileid: "30641404"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|:-----|
-|14 марта 2019 г. <br/>|4.9.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#march-2019-release) <br/> |[Скачать автоматическое обновление (Майкрософт) версии 4.9.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16 апреля 2019 г. <br/>|4.10 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#April-2019-release) <br/> |[Скачать MAU 4.10](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14 марта 2019 г. <br/>|4.9.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |26 февраля 2019 г. <br/>|4.8.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |16 января 2019 г. <br/>|4.7.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 декабря 2018 г. <br/>|4.6.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#december-2018-release) <br/> ||
