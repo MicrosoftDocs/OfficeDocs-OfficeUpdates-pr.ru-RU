@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
 ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958140"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438913"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
