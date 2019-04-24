@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Предоставление ИТ-специалистам списка текущих MSP-файлов для бессрочных версий Office 2016, использующих установщик Windows (MSI)
 ms.openlocfilehash: 8ccebf9a8eee47a862d8e3cf3847a8bac4538c2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745521"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438824"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Список актуальных MSP-файлов для продуктов Office 2016
 
@@ -51,7 +51,7 @@ ms.locfileid: "31745521"
 |MSP filename * * * *|Product * * * *|Дата выпуска не для обеспечения безопасности * * * *|Статья, не относящаяся к безопасности KB * * * *|Дата выпуска для системы безопасности * * * *|Статья о выпуске для системы безопасности (KB) * * * *|Заменяется в КБ безопасности * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Access — x — нет  <br/> |Access 2016  <br/> |5 марта 2019 г.  <br/> |[4462192](https://support.microsoft.com/help/4462192) <br/> |10 июля 2018 г.  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
-|ACE — x — нет  <br/> |Office 2016  <br/> |5 сентября 2017 г.  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |9 апреля 2019 г.  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
+|ACE — x — нет  <br/> |Office 2016  <br/> |5 сентября 2017 г.  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |9 апреля 2019 г.  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
 |ацевсс — x — нет  <br/> |Office 2016  <br/> |7 ноября 2017 г.  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |Диаграмма — x — нет  <br/> |Office 2016  <br/> |2 апреля 2019 г.  <br/> |[4464501](https://support.microsoft.com/en-us/help/4464501) <br/> |10 апреля 2018 г.  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
 |"счет" x — нет  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |12 сентября 2017 г.  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -59,7 +59,7 @@ ms.locfileid: "31745521"
 |ксисинкклиент — x — нет  <br/> |Office 2016  <br/> |4 октября 2016 г.  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ДКФ — x — нет  <br/> |Office 2016  <br/> |2 января 2019 год  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |EQNEDT32 — x — нет  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |9 января 2018 г.  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|Excel — x — нет  <br/> |Excel 2016  <br/> |5 марта 2019 г.  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |9 апреля 2019 г.  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
+|Excel — x — нет  <br/> |Excel 2016  <br/> |5 марта 2019 г.  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |9 апреля 2019 г.  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
 |ексцелпп — x — нет  <br/> |Office 2016  <br/> |5 декабря 2017 г.  <br/> |[4011218](https://support.microsoft.com/help/4011218) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
 |експпдф — x — нет  <br/> |Office 2016  <br/> |5 апреля 2016 г.  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
 |филтерпакк — x — нет  <br/> |Office 2016  <br/> |8 декабря 2015 г.  <br/> |[2920684](https://support.microsoft.com/help/2920684) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
@@ -73,7 +73,7 @@ ms.locfileid: "31745521"
 |Lync — x — нет  <br/> |Skype для бизнеса 2016  <br/> |2 апреля 2019 г.  <br/> |[4462234](https://support.microsoft.com/en-us/help/4462234) <br/> |13 ноября 2018 г.  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
 |мскомктлоккс — x — нет  <br/> |Office 2016  <br/> |Не применимо  <br/> |Неприменимо  <br/> |12 января 2016 г.  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Неприменимо  <br/> |
 |мсмипк — x — нет  <br/> |Office 2016  <br/> |4 апреля 2017 г.  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
-|MSO – x — нет  <br/> |Office 2016  <br/> |5 марта 2019 г.  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |9 апреля 2019 г.  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
+|MSO – x — нет  <br/> |Office 2016  <br/> |5 марта 2019 г.  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |9 апреля 2019 г.  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
 |msodll20 — x — нет  <br/> |Office 2016  <br/> |4 сентября 2018 г.  <br/> |[4011670](https://support.microsoft.com/help/4011670) <br/> |13 июня 2017 г.  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |Неприменимо  <br/> |
 |msodll30 — x — нет  <br/> |Office 2016  <br/> |5 марта 2019 г.  <br/> |[4462195](https://support.microsoft.com/en-us/help/4462195) <br/> |12 сентября 2017 г.  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui — x — нет  <br/> |Office 2016  <br/> |2 октября 2018 г.  <br/> |[4461442](https://support.microsoft.com/en-us/help/4461442) <br/> |10 мая 2016 г.  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Неприменимо  <br/> |
