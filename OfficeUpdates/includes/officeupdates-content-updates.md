@@ -72,7 +72,7 @@
 | 4/9/2019 | [Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)](/OfficeUpdates/outlook-updates-msi) | Изменено |
 | 4/9/2019 | [Обновления для Project Server](/OfficeUpdates/project-server-updates) | Изменено |
 | 4/9/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | Изменено |
-| 4/9/2019 | [Обновления SharePoint](/OfficeUpdates/sharepoint-updates) | Изменено |
+| 4/9/2019 | [Обновления для SharePoint](/OfficeUpdates/sharepoint-updates) | Изменено |
 | 4/9/2019 | [Журнал обновления продуктов Office 2010 "нажми и работай"](/OfficeUpdates/update-history-office-2010-click-to-run) | Изменено |
 | 4/9/2019 | [История обновлений Office 2013](/OfficeUpdates/update-history-office-2013) | Изменено |
 | 4/9/2019 | [Журнал обновлений для Office 2016 C2R и Office 2019](/OfficeUpdates/update-history-office-2019) | Изменено |

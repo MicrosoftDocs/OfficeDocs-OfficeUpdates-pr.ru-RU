@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
 ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
-ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33234901"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370201"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
