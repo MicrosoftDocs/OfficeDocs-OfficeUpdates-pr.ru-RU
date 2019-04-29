@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: 63d199cc11c73571d8f4836ada25e74e4d01a481
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 32d09a4ffa32c356c16711e7745d16b3bff1fe64
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958100"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370211"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
   
@@ -36,7 +36,7 @@ ms.locfileid: "31958100"
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)
 
 ### <a name="april-16-2019"></a>16 апреля 2019 г.
-Версия 16.24.1 (19041401)
+Версия 16.24 (19041401)
  
 |**Application**|**Ссылки для скачивания**|**Хэш SHA-256 для пакета установки**|
 |:-----|:-----|:-----|
@@ -71,7 +71,7 @@ ms.locfileid: "31958100"
   
 |**Дата выпуска**|**Версия**|**Установочный пакет**|**Пакеты обновления**|
 |:-----|:-----|:-----|:-----|:-----|
-16 апреля 2019 г.  <br/> |16.24.1 (190401401)  <br/> | [Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.24.19041401_BusinessPro_Installer.pkg) <br/> <br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.24.19041401_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.24.19041401_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.24.19041401_Updater.pkg) <br/>
+16 апреля 2019 г.  <br/> |16.24 (19041401)  <br/> | [Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.24.19041401_BusinessPro_Installer.pkg) <br/> <br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.24.19041401_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.24.19041401_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.24.19041401_Updater.pkg) <br/>
 27 марта 2019 г. <br/> | 16.23.1 (19032603)  <br/> | [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19032603_Updater.pkg)
 12 марта 2019 г.  <br/> |16.23.0 (19030902)  <br/> | [Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_BusinessPro_Installer.pkg) <br/> <br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.23.19030902_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.23.19030902_Updater.pkg) <br/>
 20 февраля 2019 г.  <br/> |16.22 (19022000)  <br/> |[Outlook](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> |  [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) |

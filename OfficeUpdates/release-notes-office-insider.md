@@ -3,19 +3,19 @@ title: Заметки о выпуске для участников програ
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438913"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370191"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -24,6 +24,32 @@ ms.locfileid: "32438913"
 > [!NOTE]
 > - Заметки о выпуске публикуются еженедельно и могут представлять собой компиляцию для нескольких сборок
 > - Дата публикации заметок о выпуске может не совпадать с фактической датой выпуска сборки
+
+## <a name="april-26-2019"></a>26 апреля 2019 г.
+Версия 1905 (сборка 11617.20002)
+
+## <a name="notable-fixes"></a>Важные исправления:
+
+### <a name="word"></a>Word 
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="excel"></a>Excel
+- Устранена проблема, которая приводила к невозможности запуска макросов надстройки "Поиск решения"
+- Устранена проблема, которая могла препятствовать импорту файлов Excel в SharePoint
+
+### <a name="powerpoint"></a>PowerPoint
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="outlook"></a>Outlook
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="access"></a>Access
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="project"></a>Project
+- Устранен ряд проблем производительности и стабильности
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>19 апреля 2019 г.
 Версия 1905 (сборка 11609.20002)
