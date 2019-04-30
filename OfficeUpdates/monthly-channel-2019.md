@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912575"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370291"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,6 +27,11 @@ ms.locfileid: "31912575"
 
  > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
+
+## <a name="version-1903-april-23"></a>Версия 1903: 23 апреля
+*Версия 1903 (сборка 11425.20244)*
+
+- Исправления различных ошибок и улучшения производительности.
 
 ## <a name="version-1903-april-17"></a>Версия 1903: 17 апреля
 *Версия 1903 (сборка 11425.20228)*
@@ -41,9 +46,12 @@ ms.locfileid: "31912575"
 ## <a name="version-1903-april-9"></a>Версия 1903: 9 апреля
 *Версия 1903 (сборка 11425.20204)* 
 
-Обновления для системы безопасности перечислены [здесь](office365-proplus-security-updates.md)
+- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1903-april-01"></a>Версия 1903: 1 апреля 
+### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
+- Исправлена ошибка в Lync (Skype для бизнеса), из-за которой могло исчезать окно для любого собрания по сети с количеством участников более 7.
+
+## <a name="version-1903-april-01"></a>Версия 1903: 1 апреля
 *Версия 1903 (сборка 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: обновления функций

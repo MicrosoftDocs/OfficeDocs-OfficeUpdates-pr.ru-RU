@@ -3,19 +3,19 @@ title: Размеры скачиваемых обновлений для Office 
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 9f631b58e9828ba60a1950f2f2b95581890c671b
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: 4d636864a4fc00efcdd232e47bd36cb5e7401ce2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912585"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370221"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -35,6 +35,17 @@ ms.locfileid: "31912585"
 > - Указаны только выпуски за последние четыре месяца.
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ.
+
+## <a name="april-22-2019"></a>22 апреля 2019 г.
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1903 (сборка 11425.20244). 
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1903 (сборка 11425.20228)  <br/> |17 апреля 2019 г.  <br/> |204<br/> |
+|Версия 1903 (сборка 11425.20218)  <br/> |16 апреля 2019 г.  <br/> |186<br/> |
+
 
 ## <a name="april-17-2019"></a>17 апреля 2019 г.
 ### <a name="monthly-channel"></a>Monthly Channel
