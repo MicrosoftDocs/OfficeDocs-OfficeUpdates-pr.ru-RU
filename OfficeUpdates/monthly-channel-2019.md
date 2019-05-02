@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370291"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480092"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,6 +27,30 @@ ms.locfileid: "33370291"
 
  > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md). 
+
+## <a name="version-1904-april-29"></a>Версия 1904: 29 апреля
+*Версия 1904 (сборка 11601.20144)* 
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+
+- **Быстрый поиск файла.** Ищете файл, с которым недавно работали? Просто воспользуйтесь полем поиска на странице "Файл" > "Главная", чтобы найти нужный файл.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- **Быстрый поиск файла.** Ищете файл, с которым недавно работали? Просто воспользуйтесь полем поиска на странице "Файл" > "Главная", чтобы найти нужный файл.
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- **Быстрый поиск файла.** Ищете файл, с которым недавно работали? Просто воспользуйтесь полем поиска на странице "Файл" > "Главная", чтобы найти нужный файл.
+
+### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
+
+- **Инструменты для обеспечения конфиденциальности.** Новые, обновленные и улучшенные элементы управления для диагностических данных и сетевых функций. [Подробнее](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **Новые значки приложений Office.** Обновленные значки приложений, которые отражают простоту, функциональность и интеллектуальные возможности Office.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+Исправлена проблема с неправильным определением названия новой эры "Рэйва" в хирагана и кандзи как выражения с опечаткой или грамматической ошибкой.
 
 ## <a name="version-1903-april-23"></a>Версия 1903: 23 апреля
 *Версия 1903 (сборка 11425.20244)*
