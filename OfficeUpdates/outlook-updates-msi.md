@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
 ms.openlocfilehash: 882dc4c4d0767b4f0260d552f30b96e036130127
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745491"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438754"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -33,29 +33,29 @@ ms.locfileid: "31745491"
     
 - Требования к системе для локальных развертываний Exchange зависят от используемой версии Outlook.
     
-  - [Требования к системе для Exchange 2016](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Требования к системе для Exchange 2016](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
-  - [Требования к системе для Exchange 2013](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Требования к системе для Exchange 2013](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Требования к системе для Exchange 2010](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Требования к системе для Exchange 2010](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Обновления для Outlook 2016
 
-|**Последний пакет обновления (SP)**|**Минимально необходимое обновление**|**Последнее общедоступное обновление (PU)**|
+|**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
 |Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за апрель 2019 г. <br/>[KB4464502](https://support.microsoft.com/help/4464502) 
 
 ## <a name="outlook-2013-updates"></a>Обновления для Outlook 2013
 
-|**Последний пакет обновления (SP)**|**Минимально необходимое обновление**|**Последнее общедоступное обновление (PU)**|
+|**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
 |SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Общедоступное обновление за декабрь 2015 г. <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Общедоступное обновление за апрель 2019 г. <br/>[KB4464507](https://support.microsoft.com/help/4464507)  |
    
 ## <a name="outlook-2010-updates"></a>Обновления для Outlook 2010
 
-|**Последний пакет обновления (SP)**|**Минимально необходимое обновление**|**Последнее общедоступное обновление (PU)**|
+|**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за март 2019 г. <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/ru-RU/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за март 2019 г. <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
    
 

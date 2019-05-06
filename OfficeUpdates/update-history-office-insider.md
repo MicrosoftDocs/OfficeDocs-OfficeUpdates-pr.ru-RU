@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 37b6cbb8b21027a8a968cf599812974055468f7c
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b712cfa202b81ffc6aa20e276b531586a61326f5
+ms.sourcegitcommit: 23402d182410f18c88dca96874d05635b7761c4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480111"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33560085"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -34,6 +34,9 @@ ms.locfileid: "33480111"
 Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**2 мая 2019 г.**<br/>
+Версия 1905 (сборка 11629.20008)<br/>
 
 **29 апреля 2019 г.**<br/>
 Версия 1905 (сборка 11624.20000)<br/>
