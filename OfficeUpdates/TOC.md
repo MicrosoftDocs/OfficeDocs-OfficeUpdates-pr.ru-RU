@@ -43,6 +43,7 @@
 ## [Обновления для Office 2010 (C2R)](update-history-office-2010-click-to-run.md)
 ## [Обновления для Office 2010, 2013 и 2016 (MSI)](office-updates-msi.md)
 ## [Обновления для Outlook 2010, 2013 и 2016 (MSI)](outlook-updates-msi.md)
+## [Обновления для Office, не связанные с безопасностью (MSI)](office-MSI-non-security-updates.md)
 ## [MSP-файлы для Office 2016 (MSI)](msp-files-office-2016.md)
 ## [MSP-файлы для Office 2013 (MSI)](msp-files-office-2013.md)
 ## [Обновления для Skype для бизнеса (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
