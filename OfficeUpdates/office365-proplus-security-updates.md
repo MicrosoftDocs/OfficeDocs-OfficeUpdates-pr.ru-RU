@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
+ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438788"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33639620"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -24,6 +24,8 @@ ms.locfileid: "32438788"
 > [!NOTE]
 > - Кроме того, ниже представлены сведения об обновлениях для системы безопасности в Visio Pro для Office 365 и клиенте Project Online для настольных компьютеров.
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.
+
+[//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)
 ## <a name="april-09-2019"></a>9 апреля 2019 г.
 Monthly Channel: версия 1903 (сборка 11425.20204)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20230)  
