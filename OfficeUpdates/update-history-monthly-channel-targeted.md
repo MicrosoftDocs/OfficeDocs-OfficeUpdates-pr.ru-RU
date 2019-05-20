@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
+ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834808"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34107678"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -30,6 +30,12 @@ ms.locfileid: "33834808"
 > - Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**16 мая 2019 г.**<br/>
+Версия 1905 (сборка 11629.20136)<br/>
+
+**14 мая 2019 г.**<br/>
+Версия 1904 (сборка 11601.20204)<br/>
 
 **8 мая 2019 г.**<br/>
 Версия 1904 (сборка 11601.20178)<br/>
@@ -99,7 +105,7 @@ ms.locfileid: "33834808"
 
 
   [
-  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ru-RU/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Получайте новые возможности первыми**
