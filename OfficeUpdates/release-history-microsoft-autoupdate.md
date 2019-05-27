@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 9f162b040f05b1fb845bef0a0d3a8de251abe3a4
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: b33d9718ce92494b25b294de4618ec6dd8132c7c
+ms.sourcegitcommit: 38b3f8be8686cd853e481c1e93b89040637a9748
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438800"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "34419153"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,7 +31,8 @@ ms.locfileid: "32438800"
   
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**|**Ссылка для скачивания пакета обновления**|
 |:-----|:-----|:-----|:-----|
-|16 апреля 2019 г. <br/>|4.10 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#April-2019-release) <br/> |[Скачать MAU 4.10](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14 мая 2019 г. <br/>|4.11 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#May-2019-release) <br/> |[Скачать MAU 4.11](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16 апреля 2019 г. <br/>|4.10 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
 |14 марта 2019 г. <br/>|4.9.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |26 февраля 2019 г. <br/>|4.8.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |16 января 2019 г. <br/>|4.7.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> | |

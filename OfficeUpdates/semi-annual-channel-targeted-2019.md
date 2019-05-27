@@ -3,18 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034500"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337113"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -32,6 +33,13 @@ ms.locfileid: "34034500"
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
  -  Исправлена ошибка, которая могла приводить к зависанию электронной таблицы при использовании средства "Камера" в Excel.
+ - Исправлена ошибка, вызывавшая сбой при использовании колесика прокрутки мыши в активном окне с листом диаграммы. 
+ - Решена проблема, приводившая к появлению сообщения "Непредвиденная ошибка" при импорте электронной таблицы в SharePoint.
+ - Решена проблема, вызывавшая сбой Excel при открытии книги, содержащей условное форматирование, в котором используется "Имя" для правила, и применении настраиваемого представления.
+ - Макросы, использующие проверку данных с помощью формул длиной более 255 символов, могли вызывать ошибки во время выполнения. Эта проблема исправлена.
+ - Проблема, приводившая к медленной загрузке файлов, содержащих сводные таблицы, связанные с другими книгами, решена.
+ - Решена проблема, приводившая к появлению ошибки "Формат и расширение файла не совпадают" при открытии HTML-файлов.
+ - Внесено изменение для устранения проблем с прокруткой колесика мыши в неактивных окнах.  
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
  - Устранена ошибка, из-за которой пользователи не могли изменять некоторые поля перенесенных элементов.

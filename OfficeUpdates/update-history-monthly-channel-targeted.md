@@ -3,19 +3,19 @@ title: Журнал обновлений для канала Office Monthly Chan
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/23/2019
+ms.date: 05/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
-ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
+ms.openlocfilehash: 29252d82acf2c8c87ac422c9dde48a34d7c3a728
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34107678"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403564"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -30,6 +30,8 @@ ms.locfileid: "34107678"
 > - Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**22 мая 2019 г.**<br/> Версия 1905 (сборка 11629.20164)<br/>
 
 **16 мая 2019 г.**<br/>
 Версия 1905 (сборка 11629.20136)<br/>
