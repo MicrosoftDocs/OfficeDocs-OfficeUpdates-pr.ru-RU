@@ -3,19 +3,19 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337113"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432427"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -60,6 +60,8 @@ ms.locfileid: "34337113"
  - Исправлена ошибка, приводившая к появлению диалогового окна "Не удалось загрузить ресурс" при запуске Word.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+ - Исправление проблемы, из-за которой не удается сохранить файлы в папках Apache WebDAV.
+ - Исправление проблемы, приводящей к внезапному закрытию Office, когда пользователи открывают некоторые файлы, хранящиеся в облаке.
  - Исправлена проблема с неправильным определением названия новой эры "Рэйва" в хирагана и кандзи как выражения с опечаткой или грамматической ошибкой.
  - Исправлена проблема, из-за которой список последних файлов отображался пустым для многих пользователей в Windows 10.
  - Исправлена проблема, приводившая к отображению для пользователей рабочей панели обновления Office, несмотря на выполнение обновления, запущенного администратором.
