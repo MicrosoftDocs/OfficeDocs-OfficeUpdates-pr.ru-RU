@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549736"
+ms.locfileid: "34550890"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -43,8 +43,8 @@ ms.locfileid: "34549736"
   
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 1904 (сборка 11601.20230)  <br/> |22 мая 2019 г.  <br/> |193<br/> |
-|Версия 1904 (сборка 11601.20204)  <br/> |14 мая 2019 г.  <br/> |60<br/> |
+|Версия 1904 (сборка 11601.20230)  <br/> |22 мая 2019 г.  <br/> |188<br/> |
+|Версия 1904 (сборка 11601.20204)  <br/> |14 мая 2019 г.  <br/> |193<br/> |
 
 ## <a name="may-22-2019"></a>22 мая 2019 г.
 *Версия 1904 (сборка 11601.20230)*
