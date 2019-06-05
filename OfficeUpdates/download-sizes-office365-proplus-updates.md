@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: b849b50792988a4640597749d5b4f33b99fac150
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550890"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684015"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -35,7 +35,18 @@ ms.locfileid: "34550890"
 > - В таблицах перечислены только предыдущие выпуски. При обновлении более старого выпуска размер файла для скачивания будет больше.
 > - Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления будет значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой составляет не менее 1 ГБ.
 
-## <a name="may-29-2019"></a>29 мая 2019 г.
+## <a name="june-3-2019"></a>3 июня 2019 г.
+*Версия 1905 (сборка 11629.20214)*
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1905 (сборка 11629.20214).
+  
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1905 (сборка 11629.20196)  <br/> |29 мая 2019 г.  <br/> |291<br/> |
+|Версия 1904 (сборка 11601.20230)  <br/> |22 мая 2019 г.  <br/> |190<br/> |
+
+## <a name="may-29-2019"></a>29 мая 2019 г.
 *Версия 1905 (сборка 11629.20196)*
 ### <a name="monthly-channel"></a>Monthly Channel
 

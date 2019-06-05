@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550900"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683995"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,7 +27,12 @@ ms.locfileid: "34550900"
  > [!NOTE]
 > - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
 
-## <a name="version-1905-may-29"></a>Версия 1905: 29 мая
+## <a name="version-1905-june-03"></a>Версия 1905: 3 июня
+*Версия 1905 (сборка 11629.20214)*
+
+ - Устранена проблема, из-за которой некоторые надстройки создавали непредвиденные ошибки вокруг фигур в диаграммах.
+
+## <a name="version-1905-may-29"></a>Версия 1905: 29 мая
 *Версия 1905 (сборка 11629.20196)*
 
 ### <a name="access-feature-updates"></a>Access. Обновления функций
