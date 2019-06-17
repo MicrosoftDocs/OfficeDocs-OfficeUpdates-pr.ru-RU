@@ -3,19 +3,19 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857749"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910389"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -113,7 +113,9 @@ ms.locfileid: "34857749"
 ## <a name="version-1904-may-22"></a>Версия 1904: 22 мая
 *Версия 1904 (сборка 11601.20230)*
 
-Исправлена ошибка, из-за которой пользователи видят запрос, связанный с конфиденциальностью, при запуске каждого приложения даже после того, как уровень конфиденциальности был выбран и применен.
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+
+- Исправлена ошибка, из-за которой пользователи видят запрос, связанный с конфиденциальностью, при запуске каждого приложения даже после того, как уровень конфиденциальности был выбран и применен.
 
 ## <a name="version-1904-may-14"></a>Версия 1904: 14 мая 
 *Версия 1904 (сборка 11601.20204)*

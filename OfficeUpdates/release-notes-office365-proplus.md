@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 739f393f003db9d0486013158109f16cb1c2b666
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770100"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948785"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
@@ -32,8 +32,8 @@ ms.locfileid: "27770100"
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Заметки о выпусках Office 365 профессиональный плюс
 
 Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.
- - Monthly: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
- - Semi-Annual (Targeted): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - Monthly: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Semi-Annual (Targeted): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semi-Annual: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Информация о выпусках Office для Mac
@@ -45,7 +45,7 @@ ms.locfileid: "27770100"
 
 ## <a name="related-topics"></a>Связанные статьи
 
-- [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Развертывание Office](https://docs.microsoft.com/deployoffice/)
 - [Новые возможности Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Стратегический план Office 365](https://products.office.com/business/office-365-roadmap)

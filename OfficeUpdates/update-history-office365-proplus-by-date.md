@@ -3,18 +3,19 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684005"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935911"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,10 +32,10 @@ ms.locfileid: "34684005"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|1905<br/>|11629.20214<br/>|3 июня 2019 г.<br/>|Выпуск версии 1906<br/>|
-|Semi-Annual (Targeted)<br/>|1902<br/>|11328.20286<br/>|14 мая 2019 г.<br/>|10 сентября 2019 г.<br/>|
-|Semi-Annual<br/>|1808<br/>|10730.20344<br/>|14 мая 2019 г.<br/>|10 марта 2020 года<br/>|
-|Semi-Annual<br/>|1803<br/>|9126.2387<br/>|14 мая 2019 г.<br/>|10 сентября 2019 г.<br/>|
+|Monthly<br/>|1905<br/>|11629.20246<br/>|11 июня 2019 г.<br/>|Выпуска версии 1906<br/>|
+|Semi-Annual (Targeted)<br/>|1902<br/>|11328.20318<br/>|11 июня 2019 г.<br/>|10 сентября 2019 г.<br/>|
+|Semi-Annual<br/>|1808<br/>|10730.20348<br/>|11 июня 2019 г.<br/>|10 марта 2020 года<br/>|
+|Semi-Annual<br/>|1803<br/>|9126.2388<br/>|11 июня 2019 г.<br/>|10 сентября 2019 г.<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +48,7 @@ ms.locfileid: "34684005"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|11 июня|[Версия 1905 (сборка 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Версия 1902 (сборка 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Версия 1808 (сборка 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Версия 1803 (сборка 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|3 июня|[Версия 1905 (сборка 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 мая |[Версия 1905 (сборка 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 мая |[Версия 1904 (сборка 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
@@ -184,12 +186,6 @@ ms.locfileid: "34684005"
 ||9 февраля  <br/> |[Версия 1511 (сборка 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |[Версия 1509 (сборка 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[Версия 1509 (сборка 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||25 января  <br/> |[Версия 1511 (сборка 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||12 января  <br/> |[Версия 1511 (сборка 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |[Версия 1509 (сборка 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015|11 декабря  <br/> |[Версия 1511 (сборка 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
-||8 декабря  <br/> |[Версия 1509 (сборка 6001.1043)](monthly-channel-2015.md#version-1509-december-8)  <br/> |[Версия 1509 (сборка 6001.1043)](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
-||10 ноября  <br/> |[Версия 1509 (сборка 6001.1038)](monthly-channel-2015.md#version-1509-november-10)  <br/> |[Версия 1509 (сборка 6001.1038)](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
-||21 октября  <br/> |[Версия 1509 (сборка 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[Версия 1509 (сборка 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
-||5 октября  <br/> |[Версия 1509 (сборка 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[Версия 1509 (сборка 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
-||22 сентября  <br/> |[Версия 1509 (сборка 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[Версия 1509 (сборка 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
 
 [//]: # (HISTORYTABLEEND)
 
