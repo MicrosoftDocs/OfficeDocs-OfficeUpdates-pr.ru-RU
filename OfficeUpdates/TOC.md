@@ -34,7 +34,7 @@
 # Office для Mac
 ## [Журнал обновлений (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Заметки о выпуске (Office 365, 2019)](release-notes-office-for-mac.md)
-## [Заметки о выпуске (2016)](release-notes-office-2016-mac.md)
+## [Журнал обновлений (2016)](release-notes-office-2016-mac.md)
 ## [Журнал выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md)
 
 # Office (бессрочный)
