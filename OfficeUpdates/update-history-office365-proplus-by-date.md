@@ -3,19 +3,18 @@ title: Журнал обновлений для Office 365 профессион�
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017379"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203708"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -32,10 +31,8 @@ ms.locfileid: "35017379"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|1905<br/>|11629.20246<br/>|11 июня 2019 г.<br/>|Выпуска версии 1906<br/>|
-|Semi-Annual (Targeted)<br/>|1902<br/>|11328.20318<br/>|11 июня 2019 г.<br/>|10 сентября 2019 г.<br/>|
-|Semi-Annual<br/>|1808<br/>|10730.20348<br/>|11 июня 2019 г.<br/>|10 марта 2020 года<br/>|
-|Semi-Annual<br/>|1803<br/>|9126.2388<br/>|11 июня 2019 г.<br/>|10 сентября 2019 г.<br/>|
+|Monthly<br/>|1906<br/>|11727.20210<br/>|24 июня 2019 г.<br/>|Выпуска версии 1907<br/>|
+|Semi-Annual<br/>|1808<br/>|10730.20348<br/>|11 июня 2019 г.<br/>|10 марта 2020 г.<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -48,6 +45,7 @@ ms.locfileid: "35017379"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|24 июня|[Версия 1906 (сборка 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
 |2019|11 июня|[Версия 1905 (сборка 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Версия 1902 (сборка 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Версия 1808 (сборка 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Версия 1803 (сборка 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|3 июня |[Версия 1905 (сборка 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 мая |[Версия 1905 (сборка 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
