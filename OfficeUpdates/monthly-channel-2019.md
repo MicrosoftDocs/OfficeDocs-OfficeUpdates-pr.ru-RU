@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203718"
+ms.locfileid: "35226869"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -26,7 +26,7 @@ ms.locfileid: "35203718"
 > - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+> - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
 ## <a name="version-1906-june-24"></a>Версия 1906: 24 июня
 *Версия 1906 (сборка 11727.20210)*
@@ -54,7 +54,7 @@ ms.locfileid: "35203718"
 - **Мы обновили интерфейс Outlook для вас.** Упрощенный интерфейс, ранее доступный для предпросмотра с помощью функции "Ожидается в ближайшее время", чтобы вы могли сосредоточиться на самом важном. 
   [Подробнее](https://support.office.com/ru-RU/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Рукописный ввод в вашем электронном письме!** В сообщениях электронной почты Outlook теперь можно рисовать и создавать примечания к изображениям. 
+- **Рисование.** Рисуйте поверх изображений или добавьте полотно, чтобы отправить свои идеи с помощью рукописного ввода. 
   [Подробнее](https://support.office.com/ru-RU/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
@@ -67,7 +67,7 @@ ms.locfileid: "35203718"
 
 - Правильная обрезка видео в собрании на мониторах 4K при включенном параметре "Обрезать и центрировать мое видео на собраниях"
 
-- Разрешено переносить файлы в устаревшие клиенты Office Communicator с компьютера под управлением Windows 10 с помощью нескольких сетевых адаптеров. [Подробнее] (https://support.microsoft.com/help/4508477)
+- Разрешено переносить файлы в устаревшие клиенты Office Communicator с компьютера под управлением Windows 10 с помощью нескольких сетевых адаптеров. [Подробнее](https://support.microsoft.com/help/4508477)
 
 - Улучшен интерфейс взаимодействия между участниками, использующими Skype для бизнеса и Microsoft Teams
 
