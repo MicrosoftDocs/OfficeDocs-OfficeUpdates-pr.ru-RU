@@ -3,19 +3,19 @@ title: Заметки о выпуске для участников програ
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130648"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393343"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -27,6 +27,41 @@ ms.locfileid: "35130648"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="june-28-2019"></a>28 июня 2019 г.
+Версия 1907 (сборка 11819.20002)
+
+## <a name="whats-new"></a>Новые возможности:
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint и Visio
+
+#### <a name="recommended-documents"></a>Рекомендуемые документы
+
+Находите рекомендуемые вам документы с важными действиями.
+
+## <a name="notable-fixes"></a>Важные исправления:
+
+### <a name="word"></a>Word 
+- Исправлена проблема, из-за которой не удавалось открыть некоторые DOC-файлы
+- Исправлена проблема, которая могла мешать правильной загрузке примечаний
+
+### <a name="excel"></a>Excel
+- Улучшена производительность запросов Power Query
+
+### <a name="powerpoint"></a>PowerPoint
+- Исправлена проблема, связанная с использованием пера на устройстве Surface, которая могла приводить к мерцанию экрана
+
+### <a name="outlook"></a>Outlook
+- Исправлена проблема, из-за которой могло изменяться состояние доступности встречи при преобразовании в собрание
+- Исправлена проблема с отображением неправильного шаблона и описания, если сообщение защищено с помощью специального шаблона
+
+### <a name="access"></a>Access
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="project"></a>Project
+- Устранен ряд проблем производительности и стабильности
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>21 июня 2019 г.
 Версия 1907 (сборка 11815.20002)
