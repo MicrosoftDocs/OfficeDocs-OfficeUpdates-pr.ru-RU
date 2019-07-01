@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226869"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345586"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,6 +27,25 @@ ms.locfileid: "35226869"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="version-1906-june-27"></a>Версия 1906: 27 июня
+*Версия 1906 (сборка 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+- В этой статье описана проблема, из-за которой у подмножества пользователей POP3 сообщения электронной почты выводятся в виде обычного текста, независимо от настроек.  Это исправление восстановит сообщения в формате HTML.
+
+## <a name="version-1906-june-26"></a>Версия 1906: 26 июня
+*Версия 1906 (сборка 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
+
+- Устранена проблема в Excel, из-за которой при выполнении макросов, присвоенных фигурам или элементам управления формы, выводятся неправильные сообщения об ошибке или эти макросы работают в неправильном целевом диапазоне.
+- Устранена проблема, из-за которой вырезание и вставка в таблице не выполняются при совместном редактировании.
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+- В этой статье описана проблема, из-за которой менеджеры не могли установить, ответил ли участник на приглашение на собрание.
 
 ## <a name="version-1906-june-24"></a>Версия 1906: 24 июня
 *Версия 1906 (сборка 11727.20210)*
