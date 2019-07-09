@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Неделя с 27 мая 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 5/27/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | Изменено |
-| 5/29/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | Изменено |
-| 5/29/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | Изменено |
-| 5/29/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
-| 5/29/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
-| 5/29/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
-| 5/31/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
-| 5/31/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
-
-
 ## <a name="week-of-june-03-2019"></a>Неделя с 3 июня 2019 г.
 
 
@@ -100,3 +85,12 @@
 | 6/27/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | Изменено |
 | 6/28/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | Изменено |
 | 6/28/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
+
+
+## <a name="week-of-july-01-2019"></a>Неделя с 01 июля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 7/2/2019 | [Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)](/OfficeUpdates/office-msi-non-security-updates) | Изменено |
+| 7/5/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
