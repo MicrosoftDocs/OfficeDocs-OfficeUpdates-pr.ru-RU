@@ -1,5 +1,5 @@
 ---
-title: Заметки о выпусках Office 2016 для Mac
+title: Журнал обновлений Office 2016 для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпуске Office 2016 для Mac за сентябрь 2018 г. и более поздних, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935901"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110781"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Заметки о выпусках Office 2016 для Mac
+# <a name="update-history-for-office-2016-for-mac"></a>Журнал обновлений Office 2016 для Mac
 
 Office 2016 для Mac — это версия Office, которую можно приобрести в розничном магазине или через соглашение о корпоративном лицензировании. Она будет поддерживаться путем выпуска обновлений для системы безопасности и исправлений ошибок до 13 октября 2020 года. Минимальная поддерживаемая версия macOS для Office 2016 для Mac — 10.10 (Yosemite).
 

@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 0755b5b95b3ca4f232d35f1c7fe804d5c22c639d
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 940ae1f99faeb4a95d0266a0290ec135a7e026c1
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745561"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594627"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Большинство продуктов Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5127.1000**, выпущенная 9 апреля 2019 г. 
+> Последняя версия Office 2013 — **15.0.5153.1001**, выпущенная 9 июля 2019 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -44,22 +44,42 @@ ms.locfileid: "31745561"
 > Статьи базы знаний, перечисленные ниже, приведены только для справки. Обновления с технологией "нажми и работай" включают все исправления, указанные в статьях базы знаний. Вам не нужно скачивать отдельные обновления, указанные в статьях.
 
   
-|**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительная информация**|
+|**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019|9 апреля   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/en-us/help/4495300)  |
-||12 марта   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/en-us/help/4491754)  |
-||12 февраля   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/en-us/help/4488446)  |
-||8 января   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/en-us/help/4484800)  |
-|2018|19 декабря   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/en-us/help/4477615)  |
-||13 ноября   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/en-us/help/4469617)  |
-||9 октября   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
-| |11 сентября   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
-||14 августа   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
-||10 июля   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
-||12 июня   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
-||8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
-||10 апреля   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
-||13 марта   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
+|2019|9 июля   |15.0.5153.1001   |
+  [KB 4509295](https://support.microsoft.com/ru-RU/help/4509295)  |
+||11 июня   |15.0.5145.1001   |
+  [KB 4505743](https://support.microsoft.com/ru-RU/help/4505743)  |
+||14 мая   |15.0.5137.1000   |
+  [KB 4501270](https://support.microsoft.com/ru-RU/help/4501270)  |
+||9 апреля   |15.0.5127.1000   |
+  [KB 4495300](https://support.microsoft.com/ru-RU/help/4495300)  |
+||12 марта   |15.0.5119.1000   |
+  [KB 4491754](https://support.microsoft.com/ru-RU/help/4491754)  |
+||12 февраля   |15.0.5111.1001   |
+  [KB 4488446](https://support.microsoft.com/ru-RU/help/4488446)  |
+||8 января   |15.0.5101.1002   |
+  [KB 4484800](https://support.microsoft.com/ru-RU/help/4484800)  |
+|2018|19 декабря   |15.0.5093.1001   |
+  [KB 4477615](https://support.microsoft.com/ru-RU/help/4477615)  |
+||13 ноября   |15.0.5085.1000   |
+  [KB 4469617](https://support.microsoft.com/ru-RU/help/4469617)  |
+||9 октября   |15.0.5075.1001   |
+  [KB 4464656](https://support.microsoft.com/ru-RU/help/4464656)  |
+| |11 сентября   |15.0.5067.1000   |
+  [KB 4459402](https://support.microsoft.com/ru-RU/help/4459402)  |
+||14 августа   |15.0.5059.1000   |
+  [KB 4346823](https://support.microsoft.com/ru-RU/help/4346823)  |
+||10 июля   |15.0.5049.1000   |
+  [KB 4340798](https://support.microsoft.com/ru-RU/help/4340798)  |
+||12 июня   |15.0.5041.1001   |
+  [KB 4299875](https://support.microsoft.com/ru-RU/help/4299875)  |
+||8 мая   |15.0.5031.1000   |
+  [KB 4133083](https://support.microsoft.com/ru-RU/help/4133083)  |
+||10 апреля   |15.0.5023.1000   |
+  [KB 4098622](https://support.microsoft.com/ru-RU/help/4098622)  |
+||13 марта   |15.0.5015.1000   |
+  [KB 4090988](https://support.microsoft.com/ru-RU/help/4090988)  |
 ||13 февраля   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||9 января   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017   |12 декабря   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |

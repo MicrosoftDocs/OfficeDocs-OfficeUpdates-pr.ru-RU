@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345586"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601518"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,6 +27,15 @@ ms.locfileid: "35345586"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="version-1906-july-09"></a>Версия 1906: 09 июля
+*Версия 1906 (сборка 11727.20244)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+ - Устранена проблема, которая приводила к периодическому сбою поиска в текущей папке.
 
 ## <a name="version-1906-june-27"></a>Версия 1906: 27 июня
 *Версия 1906 (сборка 11727.20230)*
