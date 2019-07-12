@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605588"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612148"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -29,8 +29,7 @@ ms.locfileid: "35605588"
 
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля
 *Версия 1902 (сборка 11328.20368)*
-
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access. Обновления функций
@@ -196,6 +195,26 @@ ms.locfileid: "35605588"
 - Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
 - Исправлена размытость больших EMF-файлов, вставленных в Word, Excel и PowerPoint.
 - Исправлена ошибка в логике анализа журнала версий, приводившая в нескольких случаях к открытию документов в режиме только для чтения.
+
+
+## <a name="version-1808-july-09"></a>Версия 1808: 09 июля
+*Версия 1808 (сборка 10730.20360)*
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+
+- Повышена производительность при включении экспресс-блоков в свойствах документа.
+- Устранена проблема с удалением подписи при извлечении файла.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+
+- Устранена проблема, связанная с приложениями Office, работающими в виртуализированной системе Windows.
+
+
+## <a name="version-1803-july-09"></a>Версия 1803: 09 июля
+*Версия 1803 (сборка 9126.2428)*
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Версия 1808: 11 июня
