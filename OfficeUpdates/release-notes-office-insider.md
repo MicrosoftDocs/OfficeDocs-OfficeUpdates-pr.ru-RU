@@ -3,19 +3,19 @@ title: Заметки о выпуске для участников програ
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607373"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643041"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -27,6 +27,39 @@ ms.locfileid: "35607373"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="july-12-2019"></a>12 июля 2019 г.
+Версия 1907 (сборка 11901.20038)
+
+## <a name="whats-new"></a>Новые возможности:
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>Воспроизведение рукописного ввода в презентациях
+ 
+Используйте анимацию воспроизведения для рукописного ввода в PowerPoint для большей наглядности презентаций. 
+
+## <a name="notable-fixes"></a>Важные исправления:
+
+### <a name="word"></a>Word 
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="excel"></a>Excel
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="powerpoint"></a>PowerPoint
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="outlook"></a>Outlook
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="access"></a>Access
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="project"></a>Project
+- Устранен ряд проблем производительности и стабильности
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>5 июля 2019 г.
 Версия 1907 (сборка 11901.20018)
