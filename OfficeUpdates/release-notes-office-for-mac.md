@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390977"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759459"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -37,6 +37,38 @@ ms.locfileid: "35390977"
 
   **Примечание.** Сведения о выпуске функции автоматического обновления (Майкрософт) перемещены на страницу [История выпусков функции автоматического обновления (Майкрософт)](https://docs.microsoft.com/ru-RU/officeupdates/release-history-microsoft-autoupdate).<br/>
 
+## <a name="july-16-2019-release"></a>Выпуск от 16 июля 2019 г.
+*Версия 16.27 (сборка 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- Устранены различные проблемы с производительностью.
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+
+- Устранены различные проблемы с производительностью.
+
+
+### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+
+- [CVE-2019-1110:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+- [CVE-2019-1111:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- Устранены различные проблемы с производительностью.
+
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- **Обмен вложениями из облачных файлов**: с легкостью вкладывайте облачные файлы в сообщения электронной почты для расширенной совместной работы.<br/>
+
+### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): уязвимость Microsoft Exchange, связанная с раскрытием информации<br/><br/>
 ## <a name="june-11-2019-release"></a>Выпуск от 11 июня 2019 г.
 *Версия 16.26 (сборка 19060901)*
 
