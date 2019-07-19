@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 7/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
+ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759399"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35795545"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -28,10 +28,12 @@ ms.locfileid: "35759399"
 > 
 > - Здесь приведены ссылки для скачивания только самого последнего выпуска функции автоматического обновления (Майкрософт)
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
-  
+
+Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+
 ## <a name="july-2019-release"></a>Выпуск за июль 2019 г.
 
-**Дата выпуска:** 16 июля 2019 г.
+**Дата выпуска:** 18 июля 2019 г.
 
 *Функция автоматического обновления (Майкрософт) версии 4.13*
 
@@ -43,23 +45,23 @@ ms.locfileid: "35759399"
 
 **Ссылка для обновления функции MAU:**
 
-[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.13](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.13](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071800_Updater.pkg)<br/>
 <br/>
-**Хэш SHA-1 / SHA-256:**
+**Хэш SHA-256:**
 
-2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
+9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
 
 ## <a name="release-history"></a>Журнал выпусков
 
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**||
 |:-----|:-----|:-----|:-----|
-|16 июля 2019 г. <br/>|4.13 <br/> |  [Заметки о выпуске](release-notes-office-for-mac.md) <br/> ||
-|11 июня 2019 г. <br/>|4.12 <br/> |  <br/> ||
-|14 мая 2019 г. <br/>|4.11 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
-|16 апреля 2019 г. <br/>|4.10 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
+|18 июля 2019 г. <br/>|4.13 <br/> |  <br/> ||
+|11 июня 2019 г. <br/>|4.12 <br/> | <br/> ||
+|14 мая 2019 г. <br/>|4.11 <br/> |  <br/> | <br/> |
+|16 апреля 2019 г. <br/>|4.10 <br/> |  <br/> |<br/> |
 |14 марта 2019 г. <br/>|4.9.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
-|26 февраля 2019 г. <br/>|4.8.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
+|26 февраля 2019 г. <br/>|4.8.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#february-2019-release) <br/> |<br/> |
 |16 января 2019 г. <br/>|4.7.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 декабря 2018 г. <br/>|4.6.0 <br/> | [Заметки о выпуске](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |14 ноября 2018 г. <br/> |4.5.0 <br/> |[Заметки о выпуске](release-notes-office-for-mac.md#november-2018-release) <br/> | |
