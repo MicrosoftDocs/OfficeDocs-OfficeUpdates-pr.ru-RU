@@ -1,35 +1,34 @@
 # Office 365 профессиональный плюс
+## [Информация о выпуске](release-notes-office365-proplus.md)
+## [Обновления для системы безопасности](office365-proplus-security-updates.md)
 ## [Журнал обновлений (по дате)](update-history-office365-proplus-by-date.md)
 ## [Размеры обновлений](download-sizes-office365-proplus-updates.md)
 
-## [Заметки о выпуске](release-notes-office365-proplus.md)
 
-### [Обновления для системы безопасности](office365-proplus-security-updates.md)
-
-### Monthly Channel
-#### [2019](monthly-channel-2019.md)
-#### [2018](monthly-channel-2018.md)
-#### [2017](monthly-channel-2017.md)
-#### [2016](monthly-channel-2016.md)
+## Ежемесячный канал
+### [2019](monthly-channel-2019.md)
+### [2018](monthly-channel-2018.md)
+### [2017](monthly-channel-2017.md)
+### [2016](monthly-channel-2016.md)
 
 
-### Semi-Annual Channel
-#### [2019](semi-annual-channel-2019.md)
-#### [2018](semi-annual-channel-2018.md)
-#### [2017](semi-annual-channel-2017.md)
-#### [2016](semi-annual-channel-2016.md)
+## Semi-Annual Channel
+### [2019](semi-annual-channel-2019.md)
+### [2018](semi-annual-channel-2018.md)
+### [2017](semi-annual-channel-2017.md)
+### [2016](semi-annual-channel-2016.md)
 
-### Semi-Annual Channel (Targeted)
-#### [2019](semi-annual-channel-targeted-2019.md)
-#### [2018](semi-annual-channel-targeted-2018.md)
-#### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016](semi-annual-channel-targeted-2016.md)
+## Semi-Annual Channel (Targeted)
+### [2019](semi-annual-channel-targeted-2019.md)
+### [2018](semi-annual-channel-targeted-2018.md)
+### [2017](semi-annual-channel-targeted-2017.md)
+### [2016](semi-annual-channel-targeted-2016.md)
 
 
-### Программа предварительной оценки Office  
-#### [Журнал обновлений канала программы предварительной оценки](update-history-office-insider.md)
-#### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
-####[Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
+## Программа предварительной оценки Office  
+### [Журнал обновлений канала программы предварительной оценки](update-history-office-insider.md)
+### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
+###[Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
 
 # Office для Mac
 ## [Журнал обновлений (Office 365, 2019)](update-history-office-for-mac.md)
