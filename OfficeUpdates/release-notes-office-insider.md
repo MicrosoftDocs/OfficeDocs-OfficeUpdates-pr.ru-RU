@@ -3,19 +3,19 @@ title: Заметки о выпуске для участников програ
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803166"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916972"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -27,6 +27,44 @@ ms.locfileid: "35803166"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="july-26-2019"></a>26 июля 2019 г.
+Версия 1908 (сборка 11916.20000)
+
+## <a name="whats-new"></a>Новые возможности:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>Создание более удобных для чтения PDF-документов
+
+Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.
+
+## <a name="notable-fixes"></a>Важные исправления:
+
+### <a name="all"></a>Все
+
+- Исправлена проблема, из-за которой при обновлении Office иногда могли возникать ошибки с сопоставлением типов файлов и значками для Office
+
+### <a name="word"></a>Word 
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="excel"></a>Excel
+- Исправлена проблема, из-за которой перемещение диаграммы иногда могло приводить к сбою
+- Исправлена проблема, из-за которой получение объекта Workbook из объекта Chart после изменения типов диаграмм иногда могло приводить к ошибке
+
+### <a name="powerpoint"></a>PowerPoint
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="outlook"></a>Outlook
+- Исправлена проблема, из-за которой на упрощенной ленте отключенный элемент управления иногда не затенялся
+
+### <a name="access"></a>Доступ
+- Устранен ряд проблем производительности и стабильности
+
+### <a name="project"></a>Project
+- Устранен ряд проблем производительности и стабильности
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>19 июля 2019 г.
 Версия 1908 (сборка 11911.20000)
