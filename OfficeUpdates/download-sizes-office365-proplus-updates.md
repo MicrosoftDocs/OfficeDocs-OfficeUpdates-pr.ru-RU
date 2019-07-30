@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 618ba47e894e43df22fced1370f24c05421d0a19
-ms.sourcegitcommit: 75261a0a6da741286e89750a6035e398c041972c
+ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
+ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35834259"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35924916"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -33,11 +33,27 @@ ms.locfileid: "35834259"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
+## <a name="july-29-2019"></a>29 июля 2019 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)29 июля 2019 г.)
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1907 (сборка 11901.20176).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1906 (сборка 11727.20244) <br/> |9 июля 2019 г. <br/> |195<br/> |
+|Версия 1906 (сборка 11727.20230) <br/> |27 июня 2019 г. <br/> |200<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)29 июля 2019 г.)
+
 ## <a name="july-9-2019"></a>9 июля 2019 г.
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)9 июня 2019 г.)
 
-### <a name="monthly-channel"></a>Ежемесячный канал
+### <a name="monthly-channel"></a>Monthly Channel
 
 Самый свежий выпуск — версия 1906 (сборка 11727.20244).
 
