@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
+ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607363"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054811"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -189,6 +189,7 @@ ms.locfileid: "35607363"
 - **Отображение того, что позади рисунка.** Добавьте рисунок на лист и выберите предопределенные параметры, после чего прозрачность изменится. Вот и все! [Подробнее](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Новость для всех поклонников функции "Получение и преобразование".** Если вы часто используете "Получение и преобразование", то будете рады узнать, что функция столбца из примера улучшена. Кроме того, улучшено множество соединителей. [Подробнее](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Улучшена поддержка дисплеев высокой четкости**. Приложения Office теперь выглядят четко на каждом из подключенных мониторов и на док-станции в виде ноутбука, даже если настройки масштаба на дисплеях отличаются. [Подробнее](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **Быстрый поиск.** Мы оптимизировали поиск значений с помощью функций ВПР, ГПР и ПОИСКПОЗ. [Подробнее](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
 
