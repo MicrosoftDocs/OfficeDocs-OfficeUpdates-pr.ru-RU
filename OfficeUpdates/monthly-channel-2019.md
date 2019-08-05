@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931169"
+ms.locfileid: "35936341"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -261,11 +261,13 @@ ms.locfileid: "35931169"
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 
-- **Экспорт схем процессов в Word.** Автоматически добавляйте содержимое схем, например фигуры и метаданные, в документ Word. Затем настройте документ для создания руководств по обработке и использованию. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **Синхронизированные цвета для отслеживания изменений, примечаний и совместной работы в режиме реального времени.** Исправления в наших продуктах теперь обеспечивают отображение одинаковым цветом примечаний, изменений и указателя мыши при совместной работе.
 
 - **Быстрый поиск файла.** Ищете файл, с которым недавно работали? Просто воспользуйтесь полем поиска на странице "Файл" > "Главная", чтобы найти нужный файл.
+
+### <a name="visio-feature-updates"></a>Visio. Обновления функций
+
+- **Экспорт схем процессов в Word.** Автоматически добавляйте содержимое схем, например фигуры и метаданные, в документ Word. Затем настройте документ для создания руководств по обработке и использованию. [Подробнее](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 

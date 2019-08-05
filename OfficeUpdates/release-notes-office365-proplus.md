@@ -3,31 +3,39 @@ title: Информация о выпуске обновлений для Office
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков для Office 365 профессиональный плюс для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948785"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823958"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Информация о выпуске обновлений для Office 365 профессиональный плюс
 
-> [!NOTE]
-> - Таблица, в которой указаны поддерживаемые версии каждого канала обновления, перемещена на страницу [Журнал обновлений для Office 365 профессиональный плюс (с датами)](update-history-office365-proplus-by-date.md).
 
+## <a name="security-updates-for-office-365-proplus-releases"></a>Обновления системы безопасности для выпусков Office 365 профессиональный плюс
+
+Полный список обновлений системы безопасности см. в следующей статье:
+ - [Обновления системы безопасности для Office 365 профессиональный плюс](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Журнал обновлений для выпусков Office 365 профессиональный плюс
 
-Полный список выпусков см. в указанных ниже статьях.
- - [Журнал обновлений для Office 365 профессиональный плюс (с датами)](update-history-office365-proplus-by-date.md)
+Полный список выпусков и поддерживаемые версии для каждого канала см. в следующей статье:
+ - [История обновлений Office 365 профессиональный плюс (по дате)](update-history-office365-proplus-by-date.md)
+
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Размеры обновлений для выпусков Office 365 профессиональный плюс
+
+Полный список размеров выпусков обновлений см. в указанной ниже статье:
+ - [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Заметки о выпусках Office 365 профессиональный плюс
 
@@ -41,6 +49,7 @@ ms.locfileid: "34948785"
 Информацию об обновлениях Office для Mac, который входит в любой план подписки на Office 365, включающий Office 365 профессиональный плюс, см. в следующих статьях:
  - [История обновлений Office для Mac](update-history-office-for-mac.md)
  - [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md)
+ - [Журнал выпусков функции автоматического обновления (Майкрософт)](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>Связанные статьи
