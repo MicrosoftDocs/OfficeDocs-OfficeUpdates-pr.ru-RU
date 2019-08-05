@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759459"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937627"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -65,7 +65,7 @@ ms.locfileid: "35759459"
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
 
 - **Обмен вложениями из облачных файлов**: с легкостью вкладывайте облачные файлы в сообщения электронной почты для расширенной совместной работы.<br/>
-
+- **Поддержка темного режима в области чтения**: теперь полученные сообщения отображаются на темном фоне для облегчения просмотра при низкой освещенности. Требуется macOS Mojave. 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): уязвимость Microsoft Exchange, связанная с раскрытием информации<br/><br/>
