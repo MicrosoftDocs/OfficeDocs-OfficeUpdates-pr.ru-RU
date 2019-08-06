@@ -3,24 +3,6 @@
 
 
 
-## <a name="week-of-june-24-2019"></a>Неделя с 24 июня 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 6/24/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | Изменено |
-| 6/24/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
-| 6/24/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
-| 6/24/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
-| 6/24/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | Изменено |
-| 6/25/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
-| 6/27/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
-| 6/27/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
-| 6/27/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | Изменено |
-| 6/28/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | Изменено |
-| 6/28/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
-
-
 ## <a name="week-of-july-01-2019"></a>Неделя с 01 июля 2019 г.
 
 
@@ -89,3 +71,22 @@
 | 7/23/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
 | 7/25/2019 | [Журнал обновлений для канала Office Monthly Channel (Targeted)](/OfficeUpdates/update-history-monthly-channel-targeted) | Изменено |
 | 7/26/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
+
+
+## <a name="week-of-july-29-2019"></a>Неделя с 29 июля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 7/29/2019 | [История обновлений Office 365 профессиональный плюс (по дате)](/OfficeUpdates/update-history-office365-proplus-by-date) | Изменено |
+| 7/29/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
+| 7/29/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
+| 7/30/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
+| 7/30/2019 | [История выпусков функции автоматического обновления (Майкрософт)](/OfficeUpdates/release-history-microsoft-autoupdate) | Изменено |
+| 7/30/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
+| 7/30/2019 | [Заметки о выпусках Office для Mac](/OfficeUpdates/release-notes-office-for-mac) | Изменено |
+| 7/31/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
+| 7/31/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
+| 8/1/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | Изменено |
+| 8/1/2019 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.](/OfficeUpdates/semi-annual-channel-targeted-2019) | Изменено |
+| 8/2/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
