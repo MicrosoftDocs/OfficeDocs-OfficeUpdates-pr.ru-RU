@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: b9e3c357eb120e488249f5688b2bdd72876d9508
-ms.sourcegitcommit: 953b8e82778004b820cb31152ff52fe3c8781f96
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204341"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222967"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -274,10 +274,12 @@ ms.locfileid: "36204341"
 
 - **Инструменты для обеспечения конфиденциальности.** Новые, обновленные и улучшенные элементы управления для диагностических данных и сетевых функций. [Подробнее](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Новые значки приложений Office.** Обновленные значки приложений, которые отражают простоту, функциональность и интеллектуальные возможности Office.
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+
+- Исправлена проблема, приводящая к отображению темы с крайне маленьким шрифтом.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
-Исправлена проблема с неправильным определением названия новой эры "Рэйва" в хирагана и кандзи как выражения с опечаткой или грамматической ошибкой.
+- Исправлена проблема с неправильным определением названия новой эры "Рэйва" в хирагана и кандзи как выражения с опечаткой или грамматической ошибкой.
 
 ## <a name="version-1903-april-23"></a>Версия 1903: 23 апреля
 *Версия 1903 (сборка 11425.20244)*
