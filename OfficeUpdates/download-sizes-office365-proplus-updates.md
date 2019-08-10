@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
-ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
+ms.openlocfilehash: 5b5f4f92db3b767c557506bc755c5755bdd0f938
+ms.sourcegitcommit: b8462ca4bb2759e492f6dac4b1f9e9e32fa5aa0e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045001"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36210687"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -32,6 +32,32 @@ ms.locfileid: "36045001"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="august-6-2019"></a>6 августа 2019 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ПРОГНОЗА (НАЧАЛО))
+
+### <a name="semi-annual-channel"></a>Semi-Annual Channel
+
+<i>Ожидаемый выпуск — версия 1902 (сборка 11328.20388)</i>.
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1902 (сборка 11328.20368) <br/> |9 июля 2019 г. <br/> |61<br/> |
+|Версия 1808 (сборка 10730.20348) <br/> |11 июня 2019 г. <br/> |307<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Semi-Annual (Targeted) Channel
+
+<i>Ожидаемый выпуск — версия 1902 (сборка 11328.20388)</i>.
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1902 (сборка 11328.20368) <br/> |9 июля 2019 г. <br/> |61<br/> |
+|Версия 1902 (сборка 11328.20318) <br/> |11 июня 2019 г. <br/> |73<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ПРОГНОЗА (КОНЕЦ))
 
 ## <a name="july-29-2019"></a>29 июля 2019 г.
 
