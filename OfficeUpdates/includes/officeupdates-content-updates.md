@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Неделя с 01 июля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 7/2/2019 | [Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)](/OfficeUpdates/office-msi-non-security-updates) | Изменено |
-| 7/5/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
-
-
 ## <a name="week-of-july-08-2019"></a>Неделя с 8 июля 2019 г.
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [Заметки о выпусках Semi-Annual Channel в 2019 г.](/OfficeUpdates/semi-annual-channel-2019) | Изменено |
 | 8/1/2019 | [Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.](/OfficeUpdates/semi-annual-channel-targeted-2019) | Изменено |
 | 8/2/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
+
+
+## <a name="week-of-august-05-2019"></a>Неделя с 5 августа 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 8/5/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
+| 8/6/2019 | [Журнал обновлений для канала программы предварительной оценки Office](/OfficeUpdates/update-history-office-insider) | Изменено |
+| 8/6/2019 | [Размеры скачиваемых обновлений для Office 365 профессиональный плюс](/OfficeUpdates/download-sizes-office365-proplus-updates) | Изменено |
+| 8/6/2019 | [Заметки о выпусках Monthly Channel в 2019 г.](/OfficeUpdates/monthly-channel-2019) | Изменено |
+| 8/6/2019 | [Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)](/OfficeUpdates/office-msi-non-security-updates) | Изменено |
+| 8/7/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
+| 8/9/2019 | [Заметки о выпуске для участников программы предварительной оценки Office](/OfficeUpdates/release-notes-office-insider) | Изменено |
