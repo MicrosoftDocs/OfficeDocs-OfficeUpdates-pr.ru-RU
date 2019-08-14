@@ -3,19 +3,18 @@ title: Заметки о выпуске для участников програ
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302488"
+ms.locfileid: "36393224"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -299,6 +298,7 @@ ms.locfileid: "36302488"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Параметр "Печать номеров слайдов на раздаточных материалах" перемещен в меню печати для облегчения доступа.** Он находится в раскрывающемся меню "Печать > Макет печати", когда выбран макет раздаточных материалов. Это также позволяет легко включать и отключать этот параметр для отдельных презентаций. 
+  [Подробнее](https://support.office.com/ru-RU/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Важные исправления
 

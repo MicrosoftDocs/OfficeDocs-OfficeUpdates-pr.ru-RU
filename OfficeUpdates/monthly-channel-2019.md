@@ -3,19 +3,18 @@ title: Заметки о выпусках Monthly Channel в 2019 г.
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302478"
+ms.locfileid: "36393214"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,6 +26,18 @@ ms.locfileid: "36302478"
 
  > [!NOTE]
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
+*Версия 1907 (сборка 11901.20218)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
+
+ - Исправлена проблема, из-за которой могло происходить изменение способа сортировки сводной таблицы и ее обновление в сеансе совместного редактирования с другими пользователями.
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+  - Исправлена проблема, из-за которой обновление в почтовых ящиках пользователей обычной проверки подлинности до современной приводило к привязыванию неправильной учетной записи к профилю Outlook.
 
 ## <a name="version-1907-july-29"></a>Версия 1907: 29 июля
 *Версия 1907 (сборка 11901.20176)*
@@ -60,6 +71,7 @@ ms.locfileid: "36302478"
   [Подробнее](https://support.office.com/ru-RU/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **Параметр "Печать номеров слайдов на раздаточных материалах" перемещен в меню печати для облегчения доступа.** Он находится в раскрывающемся меню "Печать > Макет печати", когда выбран макет раздаточных материалов. Это также позволяет легко включать и отключать этот параметр для отдельных презентаций. 
+  [Подробнее](https://support.office.com/ru-RU/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 
