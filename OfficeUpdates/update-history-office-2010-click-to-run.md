@@ -3,19 +3,19 @@ title: Журнал обновления продуктов Office 2010 "наж
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: f12da7b89401b95d154dceba4cac27b25bff42a9
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594567"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384550"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -30,7 +30,7 @@ ms.locfileid: "35594567"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7235.5000**, выпущенная 9 июля 2019 г.
+> Самая последняя версия Office 2010 — **14.0.7236.5000**, выпущенная 13 августа 2019.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +54,8 @@ ms.locfileid: "35594567"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019|9 июля  <br/> |14.0.7235.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+|2019|13 августа  <br/> |14.0.7236.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
+||9 июля  <br/> |14.0.7235.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
 ||11 июня  <br/> |14.0.7234.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
 ||14 мая  <br/> |14.0.7233.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
 ||9 апреля  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
