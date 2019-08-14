@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937627"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396603"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -36,6 +36,55 @@ ms.locfileid: "35937627"
 
 
   **Примечание.** Сведения о выпуске функции автоматического обновления (Майкрософт) перемещены на страницу [История выпусков функции автоматического обновления (Майкрософт)](https://docs.microsoft.com/ru-RU/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="august-13-2019-release"></a>Выпуск от 13 августа 2019 г.
+*Версия 16.28 (сборка 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации. [Подробнее](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Точное стирание.** Выберите один из двух размеров ластика, чтобы исправить небольшие недочеты рукописных фрагментов. [Подробнее](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте. [Подробнее](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации. [Подробнее](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Сосредоточьтесь на оставшихся задачах.** Выберите параметр для закрытия цепочки, чтобы свернуть примечания и обратиться к открытым элементам.
+- **Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте. [Подробнее](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации. [Подробнее](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Постоянный рукописный ввод во время слайд-шоу.** Рисуйте на слайдах во время презентации, и перо останется активным до ее завершения. Вы также можете сохранить примечания. [Подробнее](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте. [Подробнее](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- **Обмен вложениями из облачных файлов.** С легкостью вкладывайте облачные файлы в сообщения электронной почты для расширенной совместной работы. [Подробнее](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): уязвимость графического компонента Майкрософт, связанная с раскрытием информации
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): уязвимость графического компонента Майкрософт, связанная с выполнением удаленного кода
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): уязвимость графического компонента Майкрософт, связанная с выполнением удаленного кода
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): уязвимость графического компонента Майкрософт, связанная с раскрытием информации
+
 
 ## <a name="july-16-2019-release"></a>Выпуск от 16 июля 2019 г.
 *Версия 16.27 (сборка 19071500)*
@@ -64,8 +113,8 @@ ms.locfileid: "35937627"
 
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
 
-- **Обмен вложениями из облачных файлов**: с легкостью вкладывайте облачные файлы в сообщения электронной почты для расширенной совместной работы.<br/>
-- **Поддержка темного режима в области чтения**: теперь полученные сообщения отображаются на темном фоне для облегчения просмотра при низкой освещенности. Требуется macOS Mojave. 
+- **Обмен вложениями из облачных файлов.** С легкостью вкладывайте облачные файлы в сообщения электронной почты для расширенной совместной работы.<br/>
+- **Поддержка темного режима в области чтения**. Теперь полученные сообщения отображаются на темном фоне для облегчения просмотра при низкой освещенности. Требуется macOS Mojave. 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): уязвимость Microsoft Exchange, связанная с раскрытием информации<br/><br/>
