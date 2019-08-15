@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393214"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404483"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -294,6 +294,8 @@ ms.locfileid: "36393214"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена проблема с неправильным определением названия новой эры "Рэйва" в хирагана и кандзи как выражения с опечаткой или грамматической ошибкой.
+
+- Устранена проблема, из-за которой обновления Office блокировались, если проверка подлинности прокси-сервера работала как системный процесс.
 
 ## <a name="version-1903-april-23"></a>Версия 1903: 23 апреля
 *Версия 1903 (сборка 11425.20244)*
