@@ -30,6 +30,8 @@
 ### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
 ###[Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
 
+## [Журнал выпусков средства развертывания Office](ODT-release-history.md)
+
 # Office для Mac
 ## [Журнал обновлений (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Заметки о выпуске (Office 365, 2019)](release-notes-office-for-mac.md)
