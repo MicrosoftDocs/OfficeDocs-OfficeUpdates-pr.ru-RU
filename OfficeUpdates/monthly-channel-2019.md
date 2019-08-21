@@ -9,23 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
-ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
+ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
+ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404483"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36473449"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
-В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2019 г., включая Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
+В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
  
  > [!NOTE]
-> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
-> - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. 
+  [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
- > [!NOTE]
-> - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
 ## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
 *Версия 1907 (сборка 11901.20218)*
