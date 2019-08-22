@@ -3,30 +3,49 @@ title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054811"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488521"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
-В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, которые включены в обновления Semi-Annual Channel (Targeted) для Office 365 ProPlus в 2019, включая Visio Pro для Office 365 и настольный клиент Project Online.
+В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Anual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
  
 > [!NOTE]
-> - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.
+> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Anual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. 
+  [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
-> [!NOTE]
-> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
+## <a name="version-1902-august-13"></a>Версия 1902: 13 августа
+*Версия 1902 (сборка 11328.20392)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой значок очистки фильтра отображался как для отфильтрованных, так и неотфильтрованных срезов в таблицах.
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой обновление обычной проверки подлинности до современной в почтовых ящиках пользователей приводило к привязыванию неправильной учетной записи
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой приложение могло неожиданно закрываться при совместной работе над документом с другими пользователями.
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+- Исправлена проблемы, из-за которой медленно обновлялись поля с помощью VBA.
+- Исправлена проблема, из-за которой при открытии некоторых файлов DOC появлялось сообщение, что они повреждены.
+- Исправлена проблема, из-за которой приложение могло неожиданно закрываться при совместной работе над документом с другими пользователями.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля
 *Версия 1902 (сборка 11328.20368)*
@@ -164,7 +183,7 @@ ms.locfileid: "36054811"
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 
 - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. 
-  [Подробнее]("https://docs.microsoft.com/ru-RU/windows/deployment/update/waas-delivery-optimization)
+  [Подробнее](https://docs.microsoft.com/ru-RU/windows/deployment/update/waas-delivery-optimization)
 - Исправлена ошибка, которая могла приводить к удалению продуктов или блокировке их активации, если Office был установлен с помощью средства развертывания Office и имелся несоответствия регистра.
 - Исправлена проблема, приводившая к появлению повторяющихся запросов на вход на устройствах с Windows 10 (версия 1803 или более поздняя).
 - Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
