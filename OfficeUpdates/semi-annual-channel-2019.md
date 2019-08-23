@@ -9,23 +9,61 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 65c4e73c6696d1d7056a1b15397b7256c448660a
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054821"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488513"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
-В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, которые включены в обновления Semi-Annual Channel для Office 365 ProPlus в 2019, включая Visio Pro для Office 365 и настольный клиент Project Online.
+В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Anual Channel для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
 
 > [!NOTE]
-> - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.
-
-> [!NOTE]
-> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут перечисляться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
+> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Anual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. 
+  [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
+
+## <a name="version-1902-august-13"></a>Версия 1902: 13 августа
+*Версия 1902 (сборка 11328.20392)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой значок очистки фильтра отображался как для отфильтрованных, так и неотфильтрованных срезов в таблицах.
+
+### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой обновление обычной проверки подлинности до современной в почтовых ящиках пользователей приводило к привязыванию неправильной учетной записи
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой приложение могло неожиданно закрываться при совместной работе над документом с другими пользователями.
+
+### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
+- Исправлена проблемы, из-за которой медленно обновлялись поля с помощью VBA.
+- Исправлена проблема, из-за которой при открытии некоторых файлов DOC появлялось сообщение, что они повреждены.
+- Исправлена проблема, из-за которой приложение могло неожиданно закрываться при совместной работе над документом с другими пользователями.
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+## <a name="version-1808-august-13"></a>Версия 1808: 13 августа
+*Версия 1808 (сборка 10730.20370)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+
+## <a name="version-1803-august-13"></a>Версия 1803: 13 августа
+*Версия 1803 (сборка 9126.2432)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
 
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля
 *Версия 1902 (сборка 11328.20368)*
