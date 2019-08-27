@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473449"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631241"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -25,6 +25,48 @@ ms.locfileid: "36473449"
   [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
+
+## <a name="version-1908-august-26"></a>Версия 1908: 26 августа
+*Версия 1908 (сборка 11929.20254)*
+* Исправления различных ошибок и улучшения производительности.
+
+### <a name="excel-feature-updates"></a>Excel. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей книге. 
+  [Подробнее](https://support.office.com/ru-RU/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Наслаждайтесь поиском.** Чтобы упростить поиск нужного значка, была добавлена функция "Поиск" к пункту "Вставка значков". Кнопка "Вставить" помогает узнать, сколько значков было выбрано. 
+  [Подробнее](https://support.office.com/ru-RU/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Сосредоточьтесь на оставшихся задачах.** Пометьте примечания как разрешенные, чтобы свернуть их и сделать открытые элементы более заметными.
+
+### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
+
+- **Новый дизайн значков Office.** Дизайн значков Office был изменен с целью отобразить простой, мощный и интеллектуальный интерфейс Office.
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- **Получение предложений по расположению.** Начните вводить текст в поле "Место" при планировании встреч и собраний, и Outlook предложит помещения, адреса и другие недавние места. 
+  [Подробнее](https://support.office.com/ru-RU/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **Наслаждайтесь поиском.** Чтобы упростить поиск нужного значка, была добавлена функция "Поиск" к пункту "Вставка значков". Кнопка "Вставить" помогает узнать, сколько значков было выбрано. 
+  [Подробнее](https://support.office.com/ru-RU/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации. 
+  [Подробнее](https://support.office.com/ru-RU/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Наслаждайтесь поиском.** Чтобы упростить поиск нужного значка, была добавлена функция "Поиск" к пункту "Вставка значков". Кнопка "Вставить" помогает узнать, сколько значков было выбрано. 
+  [Подробнее](https://support.office.com/ru-RU/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- **Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своем документе. 
+  [Подробнее](https://support.office.com/ru-RU/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Наслаждайтесь поиском.** Чтобы упростить поиск нужного значка, была добавлена функция "Поиск" к пункту "Вставка значков". Кнопка "Вставить" помогает узнать, сколько значков было выбрано. 
+  [Подробнее](https://support.office.com/ru-RU/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
 *Версия 1907 (сборка 11901.20218)*
