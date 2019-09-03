@@ -56,7 +56,6 @@ ms.locfileid: "35594447"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> 
-  [KB2956191](https://support.microsoft.com/ru-RU/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за июль 2019 г. <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/ru-RU/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за июль 2019 г. <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 
