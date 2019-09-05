@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758213"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -115,6 +115,7 @@ ms.locfileid: "36567209"
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 
 - **Привлечение внимания с помощью \@@упоминаний**. Добавляйте @упоминания в комментарии, чтобы сообщить другим пользователям, что нужно их участие.
+- **Улучшенные возможности совместного редактирования**. Улучшено быстродействие Word при совместном редактировании в документах.
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
 
