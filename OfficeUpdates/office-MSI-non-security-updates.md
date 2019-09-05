@@ -3,19 +3,19 @@ title: Последние обновления, не связанные с бе�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/07/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
+ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231594"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713542"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -27,7 +27,24 @@ ms.locfileid: "36231594"
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
-## <a name="august-6-2019"></a>6 августа 2019 г.
+## <a name="september-3-2019"></a>3 сентября 2019 г.
+
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB3114852](https://support.microsoft.com/help/3114852))<br/>
+Обновление для Microsoft Office 2016 ([KB4011629](https://support.microsoft.com/help/4011629))<br/>
+Обновление для Microsoft Office 2016 ([KB4464531](https://support.microsoft.com/help/4464531))<br/>
+Обновление для Microsoft Office 2016 ([KB4464584](https://support.microsoft.com/help/4464584))<br/>
+Обновление для Microsoft Office 2016 ([KB4475580](https://support.microsoft.com/help/4475580))<br/>
+Обновление для Microsoft Outlook 2016 ([KB4475593](https://support.microsoft.com/help/4475593))<br/>
+Обновление для Microsoft Word 2016 ([KB4475592](https://support.microsoft.com/help/4475592))<br/>
+Обновление для Skype для бизнеса 2016 ([KB4475577](https://support.microsoft.com/help/4475577))<br/>
+
+**Office 2013**<br/>
+Обновление для Microsoft Office 2013 ([KB4475562](https://support.microsoft.com/help/4475562))<br/><br/>
+
+
+
+## <a name="august-6-2019"></a>6 августа 2019 г.
 
 **Office 2016**<br/>
 Обновление для Microsoft Excel 2016 ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
