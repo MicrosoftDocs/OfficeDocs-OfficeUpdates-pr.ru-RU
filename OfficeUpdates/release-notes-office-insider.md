@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693886"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785416"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -29,6 +29,60 @@ ms.locfileid: "36693886"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
+
+## <a name="version-1910-september-06"></a>Версия 1910: 06 сентября
+*Версия 1910 (сборка 12030.20004)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="excel"></a>Excel
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/ru-RU/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/ru-RU/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/ru-RU/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="excel"></a>Excel
+
+- <div><span>Исправлена проблема, из-за которой имя шрифта на ленте могло отличаться от используемого шрифта</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Исправлена проблема, которая приводила к неправильному потреблению ресурсов в Outlook при отключении защищенного режима для ограниченных сайтов в Internet Explorer</span></div>
+
+
+- <div><span>Исправлена проблема, из-за которой при вставке текста из источника ANSI иногда появлялись символы Юникода</span></div>
+
+
+- <div><span>Исправлена проблема, из-за которой состояние некоторых пользователей неправильно отображалось как "Не в сети" в представлении расписания группы</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Исправлена проблема с сохранением форматирования таблиц</span></div>
+
+
+- <div><span>Исправлена проблема, которая могла приводить к сбою сочетания клавиш CTRL + V</span></div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1909-august-30"></a>Версия 1909: 30 августа
 *Версия 1909 (сборка 12026.20000)*
