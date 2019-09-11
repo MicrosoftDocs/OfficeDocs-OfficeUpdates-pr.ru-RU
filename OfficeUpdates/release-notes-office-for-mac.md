@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758213"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838246"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -34,6 +34,31 @@ ms.locfileid: "36758213"
 > - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Примечание.** Сведения о выпуске функции автоматического обновления (Майкрософт) перемещены на страницу [История выпусков функции автоматического обновления (Майкрософт)](https://docs.microsoft.com/ru-RU/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-10-2019-release"></a>Выпуск за сентябрь 10, 2019 г.
+*Версия 16.29 (сборка 19090802)*
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- Устранены различные проблемы с производительностью.
+### <a name="excel--feature-updates"></a>Excel. Обновления функций
+
+- **Ярлычки полноцветного листа:** при выборе цвета ярлычка для рабочего листа будет выделена весь ярлычок, для удобства его визуализации.
+
+- **Обновление данных из локальных файлов на компьютере Mac:** Обновляйте запросы Power Query на компьютере Mac из текстовых файлов, а также файлов CSV, XLSX, XML и JSON. 
+
+ ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1263): уязвимость Microsoft Excel, связанная с раскрытием информации
+- [CVE-2019-1297:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1297) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- Устранены различные проблемы с производительностью.
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- Устранены различные проблемы с производительностью.
 
 ## <a name="august-13-2019-release"></a>Выпуск от 13 августа 2019 г.
 *Версия 16.28 (сборка 19081202)*
