@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672909"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838300"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -23,6 +23,45 @@ ms.locfileid: "36672909"
 > [!NOTE]
 > - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1902-september-10"></a>Версия 1902: 10 сентября
+*Версия 1902 (сборка 11328.20420)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="access"></a>Access
+
+- Исправлена проблема, из-за которой некоторые запросы в Microsoft Access выполнялись медленнее, чем в предыдущих сборках.
+
+### <a name="outlook"></a>Outlook
+
+- Исправлена временная проблема службы, приводившая к отображению ошибки "Невозможно найти файл. Проверьте правильность его пути и имени" при использовании облачных вложений. [Подробнее](https://support.office.com/ru-RU/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- Исправлена проблема, из-за которой файлы, отправленные из Outlook в OneDrive или SharePoint, отображались с изменением имени, когда несколько символов заменялись знаками подчеркивания.
+
+### <a name="word"></a>Word
+
+- Исправлена проблема, из-за которой пользователи получали сообщения об ошибках при совместной работе над документом Word.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1808-september-10"></a>Версия 1808: 10 сентября
+*Версия 1808 (сборка 10730.20380)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="access"></a>Access
+
+- Исправлена проблема, из-за которой некоторые запросы в Microsoft Access выполнялись медленнее, чем в предыдущих сборках.
 
 ## <a name="version-1902-august-13"></a>Версия 1902: 13 августа
 *Версия 1902 (сборка 11328.20392)*
