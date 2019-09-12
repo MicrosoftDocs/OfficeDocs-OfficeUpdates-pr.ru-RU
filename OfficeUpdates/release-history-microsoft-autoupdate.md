@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429943"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838189"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,6 +31,26 @@ ms.locfileid: "36429943"
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="september-2019-release"></a>Выпуск за сентябрь 2019 г.
+
+**Дата выпуска:** 10 сентября 2019 г.
+
+*Функция автоматического обновления (Майкрософт) версии 4.15*
+
+ **Обновления компонентов:**
+
+- Теперь в уведомлениях о крайнем сроке обновления функции MAU время для конечных пользователей будет отображаться в формате, используемом на их локальных устройствах.
+- Управляющая программа автоматического обновления функции MAU теперь называется помощником по обновлению (Майкрософт).
+- Исправлена проблема, из-за которой у приложения переднего плана был забран фокус при запуске команды "msupdate".
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>Выпуск за август 2019 г.
 
 **Дата выпуска:** 13 августа 2019 г.
@@ -49,7 +69,7 @@ ms.locfileid: "36429943"
 <br/>
 **Хэш SHA-256:**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>Выпуск за июль 2019 г.
 
 **Дата выпуска:** 18 июля 2019 г.
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**Дата выпуска**|**Версия**|**Дополнительные сведения**||
 |:-----|:-----|:-----|:-----|
+|10 сентября 2019 г. <br/>|4.15 <br/> |  <br/> ||
+|13 августа 2019 г. <br/>|4.14 <br/> |  <br/> ||
 |18 июля 2019 г. <br/>|4.13 <br/> |  <br/> ||
 |27 июня 2019 г. <br/>9 июня 2019 г.|4.12 <br/> | <br/> ||
 |14 мая 2019 г. <br/>|4.11 <br/> |  <br/> | <br/> |
