@@ -465,8 +465,7 @@ ms.locfileid: "33568609"
 -   [CVE-2018-0950:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0950) уязвимость Microsoft Office, связанная с раскрытием информации
 -   [CVE-2018-1026:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1026) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-1030:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1030) уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   
-  **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Версия 1803: 27 марта
 *Версия 1803 (сборка 9126.2116)*
