@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841048"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972820"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -220,6 +220,8 @@ ms.locfileid: "36841048"
 ### <a name="word"></a>Word
 
 - Исправлена проблема, из-за которой пользователи получали сообщения об ошибках при совместной работе над документом Word.
+
+- Исправлена проблема, из-за которой пользователи получали сообщение "Не удалось предоставить общий доступ" при попытке поделиться файлами, хранящимися в SharePoint 2016.
 
 
 ### <a name="office-suite"></a>Набор Office
