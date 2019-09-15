@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972860"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980455"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -29,6 +29,44 @@ ms.locfileid: "36972860"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
+
+## <a name="version-1910-september-13"></a>Версия 1910: 13 сентября
+*Версия 1910 (сборка 12105.20000)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="excel"></a>Excel
+
+- <div><span>Исправлена проблема, которая могла мешать пользователям вставлять гиперссылки в некоторых защищенных листах</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Исправлена проблема, из-за которой пользовательский интерфейс мог зависать в компактном представлении</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Исправлена проблема, из-за которой у пользователя могла возникать ошибка при печати в PDF</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Исправлена проблема, из-за которой <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">изменение значения трудозатрат в суммарной задаче могло приводить к сбою при включенной функции защищенных значений трудозатрат</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">Исправлена проблема, которая могла блокировать возможность синхронизации событий с корпоративными календарями</font>
+
+
+### <a name="office-suite"></a>Набор Office
+
+- <div><span>Исправлена проблема, которая могла приводить к повторному предупреждению об удалении локальных версий файла</span></div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1910-september-06"></a>Версия 1910: 06 сентября
 *Версия 1910 (сборка 12030.20004)*
