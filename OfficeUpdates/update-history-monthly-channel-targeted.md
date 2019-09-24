@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
+ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998625"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131671"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -33,6 +33,9 @@ ms.locfileid: "36998625"
 > - Microsoft Teams в существующих установках Office 365 профессиональный плюс, начиная с июня, Microsoft Teams будет включен в существующие установки Office 365 профессиональный плюс (и Office 365 для бизнеса) после обновления этих установок. Дата, когда будут добавляться Teams, зависит от того, какой канал обновления вы используете. Ознакомьтесь со статьей [развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/en-us/deployoffice/teams-install) для получения дополнительных сведений.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**23 сентября 2019 г.**<br/>
+Версия 1909 (сборка 12026,20248)<br/>
 
 **16 сентября 2019 г.**<br/>
 Версия 1909 (сборка 12026,20190)<br/>
