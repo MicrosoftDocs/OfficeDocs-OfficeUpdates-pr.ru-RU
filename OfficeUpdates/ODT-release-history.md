@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: b0f53ad140880f7ef173efc544892d56f0658bb1
-ms.sourcegitcommit: 917d87752cde322a74251b6d23b12815587d1e51
+ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444953"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275490"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -60,6 +60,6 @@ ODT предоставляет более широкие возможности 
 - Улучшения ведения журнала и телеметрии для развертывания конфигурации.
 
 
-## <a name="related-links"></a>Связанные ссылки
+## <a name="related-links"></a>См. также
 
-[Примечания к выпуску ODT](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+[Центр загрузки средства развертывания Office](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
