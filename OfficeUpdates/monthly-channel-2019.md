@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329257"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350270"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -87,13 +87,8 @@ ms.locfileid: "37329257"
 - <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Устранена проблема, мешавшая вставке гиперссылок в некоторых защищенных листах.</span><br></div>
 
 
-- <div>Подключены более 16 надстроек для отображения&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;"> при просмотре в приложениях.</span></div>
-
-
-### <a name="insights-services"></a>Службы аналитики
-
+- <div>Поддерживается отображение более 16 надстроек&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;"> при просмотре в диспетчере надстроек.</span></div>
 - <div>Устранена проблема в функции "Идеи" для Excel, приводившая к ошибке при загрузке надстройки путем нажатия на кнопку "Идеи" в клиенте Win32.&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
