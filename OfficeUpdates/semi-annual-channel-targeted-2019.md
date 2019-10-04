@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972820"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391273"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
  
 > [!NOTE]
-> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
@@ -453,6 +453,7 @@ ms.locfileid: "36972820"
 - **Публикация в Microsoft Stream.** Безопасно делитесь презентациями как видеофайлами в пределах своей организации с помощью Microsoft Stream. [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Экспорт в видео с разрешением 4K.** При экспорте презентации в видео теперь можно использовать разрешение 4K.  [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Большие файлы теперь открываются быстрее.** Изображения, видео и крупные элементы теперь скачиваются в фоновом режиме при открытии файлов, сохраненных в OneDrive или SharePoint.
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838300"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391323"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
 
 > [!NOTE]
-> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
@@ -159,6 +159,7 @@ ms.locfileid: "36838300"
 - **Публикация в Microsoft Stream.** Безопасно делитесь презентациями как видеофайлами в пределах своей организации с помощью Microsoft Stream. [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Экспорт в видео с разрешением 4K.** При экспорте презентации в видео теперь можно использовать разрешение 4K.  [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Большие файлы теперь открываются быстрее.** Изображения, видео и крупные элементы теперь скачиваются в фоновом режиме при открытии файлов, сохраненных в OneDrive или SharePoint.
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 
@@ -263,7 +264,7 @@ ms.locfileid: "36838300"
  - Исправлена проблема, из-за которой список последних файлов отображался пустым для многих пользователей в Windows 10.
  - Исправлена проблема, приводившая к отображению для пользователей рабочей панели обновления Office, несмотря на выполнение обновления, запущенного администратором.
  - Исправлены проблемы, связанные с периодическим появлением пустых запросов на вход.
- - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее]("https://docs.microsoft.com/ru-RU/windows/deployment/update/waas-delivery-optimization)
+ - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
 - Исправлена ошибка, которая могла приводить к удалению продуктов или блокировке их активации, если Office был установлен с помощью средства развертывания Office и имелся несоответствия регистра.
 - Исправлена проблема, приводившая к появлению повторяющихся запросов на вход на устройствах с Windows 10 (версия 1803 или более поздняя).
 - Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
@@ -563,7 +564,7 @@ ms.locfileid: "36838300"
 
 ### <a name="office-suite-security-update"></a>Набор Office. Обновление для системы безопасности
 
-- **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/ru-RU/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+- **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время.
