@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391273"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427699"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
- 
+
 > [!NOTE]
 > - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
- 
+## <a name="version-1908-october-08"></a>Версия 1908: 8 октября
+*Версия 1908 (сборка 11929.20388)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="excel"></a>Excel
+
+- Устранена проблема, мешавшая вставке гиперссылок в некоторых защищенных листах.
+
+- Исправлена проблема, не позволявшая отображать более 16 надстроек при просмотре в диспетчере надстроек.
+
+- Устранена проблема в функции "Идеи" для Excel, приводившая к ошибке при загрузке надстройки путем нажатия кнопки "Идеи" в клиенте Win32.
+
+### <a name="outlook"></a>Outlook
+
+- Обработана проблема, из-за которой URL-адреса не открывались при простом наведении на некоторые безопасные ссылки.
+
+- Обновлена логика блокировки вложений в Outlook, чтобы также блокировать вложения Python.
+
+- Исправлена проблема, из-за которой пользователи наблюдали утечку памяти в процессе Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена проблема, которая могла приводить к потере данных в сеансах, включающих как совместное редактирование, так и редактирование в автономном режиме в PowerPoint.
+
+### <a name="office-suite"></a>Набор приложений Office
+
+- Исправлена проблема, из-за которой пользователи могли столкнуться со сбоем при открытии файла.
+
+- Исправлена проблема, из-за которой сведения о специальных возможностях не отображались в области сведений представления Backstage.
+
+- Повышена надежность при скачивании обновлений Office путем продолжения скачивания, которое могло прерываться.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
 ## <a name="version-1908-september-10"></a>Версия 1908: 10 сентября
 *Версия 1908 (сборка 11929.20300)*
 

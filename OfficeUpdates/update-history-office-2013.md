@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/14/2019
+ms.date: 10/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: e789c85d34d4720a02039265e424e73eae28398b
-ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
+ms.openlocfilehash: 58e6801b9c053108b2f2c942bf1fc4205b45efcf
+ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384570"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37423884"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Большинство продуктов Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5163.1000**, выпущенная 13 августа 2019 г.
+> Последняя версия Office 2013 — **15.0.5179.1000**, выпущенная 8 октября 2019 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,7 +46,9 @@ ms.locfileid: "36384570"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019|13 августа   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/ru-RU/help/4514418)  |
+|2019|8 октября   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/ru-RU/help/4522242 )  |
+||10 сентября   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/ru-RU/help/4517986 )  |
+||13 августа   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/ru-RU/help/4514418)  |
 ||9 июля   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/ru-RU/help/4509295)  |
 ||11 июня   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/ru-RU/help/4505743)  |
 ||14 мая   |15.0.5137.1000   |[KB 4501270](https://support.microsoft.com/ru-RU/help/4501270)  |

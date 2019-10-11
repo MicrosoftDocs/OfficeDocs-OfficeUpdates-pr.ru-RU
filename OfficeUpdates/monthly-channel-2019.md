@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400138"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427689"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -24,10 +24,31 @@ ms.locfileid: "37400138"
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
-## <a name="version-1909-september-30"></a>Версия 1909:30 сентября
+## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
+*Версия 1909 (сборка 12026.20320)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема c логикой блокировки вложений в Outlook, чтобы также блокировать вложения Python.
+
+- Исправлена проблема, из-за которой пользователи не могли открывать некоторые вхождения повторяющихся элементов календаря.
+
+- Исправлена проблема, из-за которой пользователи наблюдали утечку памяти в процессе Outlook.
+
+- Исправлена проблема, из-за которой пользователи сталкивались со сбоем при создании профиля.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1909-september-30"></a>Версия 1909: 30 сентября
 *Версия 1909 (сборка 12026.20264)*
 * Исправление ряда ошибок и улучшение производительности.
-
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -240,7 +261,7 @@ ms.locfileid: "37400138"
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
- - Устранена проблема, которая приводила к периодическому сбою поиска в текущей папке.
+- Устранена проблема, которая приводила к периодическому сбою поиска в текущей папке.
 
 ## <a name="version-1906-june-27"></a>Версия 1906: 27 июня
 *Версия 1906 (сборка 11727.20230)*
