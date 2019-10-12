@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427699"
+ms.locfileid: "37437671"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -59,6 +59,8 @@ ms.locfileid: "37427699"
 - Исправлена проблема, из-за которой сведения о специальных возможностях не отображались в области сведений представления Backstage.
 
 - Повышена надежность при скачивании обновлений Office путем продолжения скачивания, которое могло прерываться.
+
+- Чтобы защитить пользователей Office, обновления Microsoft Office теперь подписываются исключительно с использованием алгоритма SHA-2.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
