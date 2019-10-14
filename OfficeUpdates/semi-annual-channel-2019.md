@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391323"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453589"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -25,6 +25,39 @@ ms.locfileid: "37391323"
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1902-october-08"></a>Версия 1902: 8 октября
+*Версия 1902 (сборка 11328.20438)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="excel"></a>Excel
+
+- Устранена проблема, мешавшая вставке гиперссылок в некоторых защищенных листах.
+
+### <a name="project"></a>Project
+
+- Устранена ошибка, при которой XPS-файл не создается из PDF-файла при выполнении таких действий:</div><ul><li>Вы открываете проект.</li><li>Вы щелкаете меню "Файл", затем команду "Экспорт" и нажимаете кнопку <b>Создать PDF/XPS</b>.</li><li>В диалоговом окне "Обзор" вы вводите имя файла и нажимаете кнопку "ОК".</li></ul>
+
+### <a name="word"></a>Word
+
+- Устранена проблема, из-за которой программа JAWS в текущих сборках Windows не произносит слова при использовании клавиш CAPS LOCK+СТРЕЛКА ВПРАВО.
+
+### <a name="office-suite"></a>Набор Office
+
+- Теперь пользователи смогут сохранить файлы Office, синхронизированные с помощью клиента синхронизации OneDrive, в котором отсутствуют требуемые свойства. Свойства документа можно будет просмотреть и изменить в представлении Backstage, выполнив команду "Файл" > "Сведения". Это изменение позволит повысить производительность.
+
+- Устранена проблема, из-за которой уведомление &quot;Исправить мою учетную запись&quot; не исчезает после успешного входа.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1808-october-08"></a>Версия 1808: 8 октября
+*Версия 1808 (сборка 10730.20386)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>Версия 1902: 10 сентября
 *Версия 1902 (сборка 11328.20420)*
