@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
-ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
+ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37437671"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508854"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -23,6 +23,25 @@ ms.locfileid: "37437671"
 > [!NOTE]
 > - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+
+## <a name="version-1908-october-14"></a>Версия 1908: 14 октября
+*Версия 1908 (сборка 11929.20396)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="excel"></a>Excel
+
+- <div>Решена проблема, при которой содержимое диалогового окна "Поиск и замена" изменялось, если курсор находился в нем после нахождения первого элемента.</div>
+
+### <a name="office-suite"></a>Набор Office
+
+- Решена проблема, из-за которой пользователям не удается сохранять документы Word, Excel и PowerPoint.  Эта проблема возникает у пользователей, создающих файл и использующих параметр "Сохранить как модельное диалоговое окно" после щелчка по значку "Сохранить" или нажатия клавиш CTRL+S.
+
+- Решена проблема, из-за которой при определенных обстоятельствах ярлыки Office могут исчезнуть после обновления.  Это обновление повышает надежность при публикации ярлыков Office.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-october-08"></a>Версия 1908: 8 октября
 *Версия 1908 (сборка 11929.20388)*
