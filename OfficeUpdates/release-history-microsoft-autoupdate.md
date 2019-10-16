@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838189"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523105"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,6 +31,24 @@ ms.locfileid: "36838189"
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="october-2019-release"></a>Выпуск за октябрь 2019 г.
+
+**Дата выпуска:** 15 октября 2019 г.
+
+*Функция автоматического обновления (Майкрософт) версии 4.16*
+
+ **Обновления компонентов:**
+
+- Начиная с версии 4.16 функции автоматического обновления (Майкрософт) новые и улучшенные возможности доступны всем пользователям.
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.16](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>Выпуск за сентябрь 2019 г.
 
 **Дата выпуска:** 10 сентября 2019 г.
