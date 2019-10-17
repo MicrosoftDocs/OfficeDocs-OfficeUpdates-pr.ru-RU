@@ -3,19 +3,19 @@ title: Заметки о выпуске Office для Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040697"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523145"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -31,9 +31,36 @@ ms.locfileid: "37040697"
 > - Начиная с выпуска 16.17 в сентябре 2018 г., эти заметки о выпуске также относятся к Office 2019 для Mac, который представляет собой версию Office для Mac, доступную для разовой покупки в розничных магазинах или в рамках соглашения о корпоративном лицензировании. Тем не менее некоторые функции, указанные в заметках о выпуске, доступны, только если у вас есть подписка на Office 365.
 > - Заметки о выпуске для версии 16.16 и более ранних версий также относятся к Office 2016 для Mac, который представляет собой версию Office для Mac, доступную для разовой покупки. Более ранние версии до 16.16 включительно можно активировать с помощью корпоративной лицензии Office 2016 для Mac. Версию 16.17 или более позднюю нельзя активировать с помощью корпоративной лицензии Office 2016 для Mac. Информацию о выпусках Office 2016 для Mac за сентябрь и позже см. в [заметках о выпусках Office 2016 для Mac](release-notes-office-2016-mac.md).
 > > 
-> - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/ru-RU/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени. Это позволяет убедиться в том, что все прекрасно работает, прежде чем выпускать функцию для широкого доступа. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Примечание.** Сведения о выпуске функции автоматического обновления (Майкрософт) перемещены на страницу [История выпусков функции автоматического обновления (Майкрософт)](https://docs.microsoft.com/ru-RU/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="october-15-2019-release"></a>Выпуск за октябрь 15, 2019 г.
+*Версия 16.30 (сборка 19101301)*
+
+### <a name="word-feature-updates"></a>Word. Обновления функций
+
+- **Правка PDF-файлов в Word:** Откройте PDF-файл, преобразуйте его в документ Word и приступите к редактированию.
+### <a name="excel--feature-updates"></a>Excel. Обновления функций
+
+- **Надстройка Excel для визуализации данных Visio.** Быстро и легко визуализируйте свои данные, превращая их в привлекательные схемы Visio в Excel. [Подробнее](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
+
+- [CVE-2019-1327:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1327) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+- [CVE-2019-1331:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1331) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint. Обновления функций
+
+- **Воспроизведение рисунка. **Анимируйте рисунок от руки, и при показе слайдов он будет двигаться вперед-назад. [Подробнее](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
+
+- Устранены различные проблемы с производительностью.<br/><br/>
 
 ## <a name="september-18-2019-release"></a>Выпуск от 18 сентября 2019 г.
 *Версия 16.29.1 (сборка 19091700)*

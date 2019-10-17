@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: b21507a1d6802326f4888bebe7f2d2351bfe4842
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508864"
+ms.locfileid: "37523115"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -24,6 +24,14 @@ ms.locfileid: "37508864"
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
+## <a name="version-1909-october-15"></a>Версия 1909: 15 октября
+*Версия 1908 (сборка 11929.20396)*
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+
+### <a name="office-suite"></a>Набор Office
+- Диалоговое окно "Сохранить в облаке" временно отключено, чтобы устранить ошибку сохранения, опубликованную 14 октября 2019 г. Эта функция будет снова включена по истечении 7-дневного периода кэширования.
+
 ## <a name="version-1909-october-14"></a>Версия 1909: 14 октября
 *Версия 1909 (сборка 12026.20334)*
 
@@ -31,7 +39,7 @@ ms.locfileid: "37508864"
 
 ### <a name="office-suite"></a>Набор Office
 
-- Решена проблема, из-за которой пользователям не удается сохранять документы Word, Excel и PowerPoint.  Эта проблема возникает у пользователей, создающих файл и использующих параметр "Сохранить как модельное диалоговое окно" после щелчка по значку "Сохранить" или нажатия клавиш CTRL+S.
+- Решена проблема, из-за которой пользователям не удается сохранять документы Word, Excel и PowerPoint.  Эта проблема возникает у пользователей, создающих файл и использующих параметр "Сохранить как диалоговое окно", после щелчка по значку "Сохранить" или нажатия клавиш CTRL+S.
 
 
 ## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
