@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523145"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564760"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -43,7 +43,7 @@ ms.locfileid: "37523145"
 - **Правка PDF-файлов в Word:** Откройте PDF-файл, преобразуйте его в документ Word и приступите к редактированию.
 ### <a name="excel--feature-updates"></a>Excel. Обновления функций
 
-- **Надстройка Excel для визуализации данных Visio.** Быстро и легко визуализируйте свои данные, превращая их в привлекательные схемы Visio в Excel. [Подробнее](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- Устранены различные проблемы с производительностью.
 
 
 
