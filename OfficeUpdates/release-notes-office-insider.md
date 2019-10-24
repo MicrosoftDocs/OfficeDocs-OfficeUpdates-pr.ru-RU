@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595327"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653442"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -78,13 +78,7 @@ ms.locfileid: "37595327"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Обнаружена проблема, из-за которой пропорции при предварительном просмотре слайда блокировались или разблокировались неправильно.</span>
-
-
-### <a name="security"></a>Безопасность
-
-- <div><span>Обнаружена проблема, из-за которой приветственное сообщение содержит неправильную ссылку</span></div>
-
+- <div><span>Обнаружена проблема, из-за которой пропорции при предварительном просмотре слайда блокировались или разблокировались неправильно.</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ ms.locfileid: "37595327"
 - <div><span>Исправлена проблема, из-за которой обновление могло блокироваться неверным сообщением об ошибке &quot;Уже запущен другой процесс установки&quot;</span></div>
 
 - <div><span>Обнаружена проблема, которая может влиять на синхронизацию локального ресурса с облачным</span></div>
+
+- <div><span>Обнаружена проблема, из-за которой приветственное сообщение содержит неправильную ссылку</span></div>
+
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
