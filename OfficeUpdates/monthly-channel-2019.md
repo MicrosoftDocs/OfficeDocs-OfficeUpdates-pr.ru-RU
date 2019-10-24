@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553826"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644190"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -24,12 +24,31 @@ ms.locfileid: "37553826"
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
 
+## <a name="version-1909-october-22"></a>Версия 1909: 22 октября
+*Версия 1909 (сборка 12026.20344)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
+### <a name="project"></a>Project
+- Исправлена проблема, из-за которой пользователи могли получать несколько сообщений при открытии проекта только для чтения.
+
+### <a name="office-suite"></a>Набор Office
+
+- Чтобы защитить пользователей Office, обновления Microsoft Office теперь подписываются исключительно с использованием алгоритма SHA-2.<br></div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+
 ## <a name="october-15"></a>15 октября
 
 ### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
 
 ### <a name="office-suite"></a>Набор Office
 - Мы временно отключили диалоговое окно "Сохранение в облаке", чтобы устранить ошибку сохранения (сведения о которой мы опубликовали 14 октября 2019 г.) для сборок, предшествовавших сборке 12130.20184. Эта функция будет снова включена в ближайшее время.
+
 
 ## <a name="version-1909-october-14"></a>Версия 1909: 14 октября
 *Версия 1909 (сборка 12026.20334)*

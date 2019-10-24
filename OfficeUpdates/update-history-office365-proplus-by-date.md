@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508874"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644180"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -22,7 +22,7 @@ ms.locfileid: "37508874"
 
 > [!NOTE]
 > - Эти номера версий и сборок также относятся к Office 365 бизнес, Visio Pro для Office 365, а также клиенту Project Online для настольных ПК. Office 365 бизнес — версия Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум.
-> - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый). 
+> - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
 > - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления.
@@ -31,7 +31,7 @@ ms.locfileid: "37508874"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Ежемесячно<br/>|1909<br/>|12026.20334<br/>|14 октября 2019 г.<br/>|Выпуска версии 1910<br/>|
+|Ежемесячно<br/>|1909<br/>|12026.20344<br/>|22 октября 2019 г.<br/>|Выпуска версии 1910<br/>|
 |Semi-Annual (Targeted)<br/>|1908<br/>|11929.20396<br/>|14 октября 2019 г.<br/>|10 марта 2020 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20438<br/>|8 октября 2019 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1808<br/>|10730.20386<br/>|8 октября 2019 г.<br/>|10 марта 2020 г.<br/>|
@@ -46,6 +46,7 @@ ms.locfileid: "37508874"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|22 октября|[Версия 1909 (сборка 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|14 октября|[Версия 1909 (сборка 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[Версия 1908 (сборка 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|8 октября|[Версия 1909 (сборка 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[Версия 1908 (сборка 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[Версия 1902 (сборка 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[Версия 1808 (сборка 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
 |2019|30 сентября|[Версия 1909 (сборка 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
