@@ -9,162 +9,165 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
-ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
+ms.openlocfilehash: f71d7b915162a8e2198089bec9204de646090cb2
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37501807"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644200"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="2cf29-103">Журнал обновлений для канала программы предварительной оценки Office </span><span class="sxs-lookup"><span data-stu-id="2cf29-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="4fe47-103">Журнал обновлений для канала программы предварительной оценки Office </span><span class="sxs-lookup"><span data-stu-id="4fe47-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="2cf29-p101">Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="2cf29-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="4fe47-p101">Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="4fe47-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="2cf29-107">В этом журнале обновлений перечислены все выпущенные сборки</span><span class="sxs-lookup"><span data-stu-id="2cf29-107">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="2cf29-108">Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске.</span><span class="sxs-lookup"><span data-stu-id="2cf29-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="4fe47-107">В этом журнале обновлений перечислены все выпущенные сборки</span><span class="sxs-lookup"><span data-stu-id="4fe47-107">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="4fe47-108">Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске.</span><span class="sxs-lookup"><span data-stu-id="4fe47-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="2cf29-109">Версии и сборки Office Insider</span><span class="sxs-lookup"><span data-stu-id="2cf29-109">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="4fe47-109">Версии и сборки Office Insider</span><span class="sxs-lookup"><span data-stu-id="4fe47-109">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="2cf29-p102">Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках.</span><span class="sxs-lookup"><span data-stu-id="2cf29-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
+<span data-ttu-id="4fe47-p102">Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках.</span><span class="sxs-lookup"><span data-stu-id="4fe47-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
 
-<span data-ttu-id="2cf29-113">Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).</span><span class="sxs-lookup"><span data-stu-id="2cf29-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).</span></span>
+<span data-ttu-id="4fe47-113">Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).</span><span class="sxs-lookup"><span data-stu-id="4fe47-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ)
 
-<span data-ttu-id="2cf29-115">**14 октября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-115">**October 14, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-116">Версия 1911 (сборка 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="2cf29-116">Version 1911 (Build 12209.20010)</span></span><br/>
+<span data-ttu-id="4fe47-115">**21 октября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-115">**October 21, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-116">Версия 1911 (сборка 12215.20006)</span><span class="sxs-lookup"><span data-stu-id="4fe47-116">Version 1911 (Build 12209.20010)</span></span><br/>
 
-<span data-ttu-id="2cf29-117">**8 октября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-117">**October 08, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-118">Версия 1910 (сборка 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="2cf29-118">Version 1910 (Build 12130.20112)</span></span><br/>
+<span data-ttu-id="4fe47-117">**14 октября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-117">**October 14, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-118">Версия 1911 (сборка 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="4fe47-118">Version 1911 (Build 12209.20010)</span></span><br/>
 
-<span data-ttu-id="2cf29-119">**30 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-119">**September 30, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-120">Версия 1910 (сборка 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-120">Version 1910 (Build 12126.20000)</span></span><br/>
+<span data-ttu-id="4fe47-119">**8 октября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-119">**October 08, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-120">Версия 1910 (сборка 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="4fe47-120">Version 1910 (Build 12130.20112)</span></span><br/>
 
-<span data-ttu-id="2cf29-121">**23 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-121">**September 23, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-122">Версия 1910 (сборка 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-122">Version 1910 (Build 12119.20000)</span></span><br/>
+<span data-ttu-id="4fe47-121">**30 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-121">**September 30, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-122">Версия 1910 (сборка 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-122">Version 1910 (Build 12126.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-123">**16 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-123">**September 16, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-124">Версия 1910 (сборка 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-124">Version 1910 (Build 12112.20000)</span></span><br/>
+<span data-ttu-id="4fe47-123">**23 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-123">**September 23, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-124">Версия 1910 (сборка 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-124">Version 1910 (Build 12119.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-125">**10 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-125">**September 10, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-126">Версия 1910 (сборка 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-126">Version 1910 (Build 12105.20000)</span></span><br/>
+<span data-ttu-id="4fe47-125">**16 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-125">**September 16, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-126">Версия 1910 (сборка 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-126">Version 1910 (Build 12112.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-127">**4 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-127">**September 04, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-128">Версия 1910 (сборка 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="2cf29-128">Version 1910 (Build 12030.20004)</span></span><br/>
+<span data-ttu-id="4fe47-127">**10 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-127">**September 10, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-128">Версия 1910 (сборка 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-128">Version 1910 (Build 12105.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-129">**28 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-129">**August 28, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-130">Версия 1909 (сборка 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-130">Version 1909 (Build 12026.20000)</span></span><br/>
+<span data-ttu-id="4fe47-129">**4 сентября 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-129">**September 04, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-130">Версия 1910 (сборка 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="4fe47-130">Version 1910 (Build 12030.20004)</span></span><br/>
 
-<span data-ttu-id="2cf29-131">**26 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-131">**August 26, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-132">Версия 1909 (сборка 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-132">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="4fe47-131">**28 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-131">**August 28, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-132">Версия 1909 (сборка 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-132">Version 1909 (Build 12026.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-133">**19 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-133">**August 19, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-134">Версия 1909 (сборка 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="2cf29-134">Version 1909 (Build 12015.20004)</span></span><br/>
+<span data-ttu-id="4fe47-133">**26 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-133">**August 26, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-134">Версия 1909 (сборка 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-134">Version 1909 (Build 12022.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-135">**15 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-135">**August 15, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-136">Версия 1909 (сборка 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-136">Version 1909 (Build 12013.20000)</span></span><br/>
+<span data-ttu-id="4fe47-135">**19 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-135">**August 19, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-136">Версия 1909 (сборка 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="4fe47-136">Version 1909 (Build 12015.20004)</span></span><br/>
 
-<span data-ttu-id="2cf29-137">**13 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-137">**August 13, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-138">Версия 1909 (сборка 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-138">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="4fe47-137">**15 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-137">**August 15, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-138">Версия 1909 (сборка 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-138">Version 1909 (Build 12013.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-139">**5 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-139">**August 05, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-140">Версия 1909 (сборка 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-140">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="4fe47-139">**13 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-139">**August 13, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-140">Версия 1909 (сборка 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-140">Version 1909 (Build 12008.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-141">**31 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-141">**July 31, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-142">Версия 1908 (сборка 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-142">Version 1908 (Build 11929.20002)</span></span><br/>
+<span data-ttu-id="4fe47-141">**5 августа 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-141">**August 05, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-142">Версия 1909 (сборка 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-142">Version 1909 (Build 12001.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-143">**29 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-143">**July 29, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-144">Версия 1908 (сборка 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="2cf29-144">Version 1908 (Build 11924.20004)</span></span><br/>
+<span data-ttu-id="4fe47-143">**31 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-143">**July 31, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-144">Версия 1908 (сборка 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-144">Version 1908 (Build 11929.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-145">**22 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-145">**July 22, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-146">Версия 1908 (сборка 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-146">Version 1908 (build 11916.20000)</span></span><br/>
+<span data-ttu-id="4fe47-145">**29 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-145">**July 29, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-146">Версия 1908 (сборка 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="4fe47-146">Version 1908 (Build 11924.20004)</span></span><br/>
 
-<span data-ttu-id="2cf29-147">**15 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-147">**July 15, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-148">Версия 1908 (сборка 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-148">Version 1908 (build 11911.20000)</span></span><br/>
+<span data-ttu-id="4fe47-147">**22 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-147">**July 22, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-148">Версия 1908 (сборка 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-148">Version 1908 (Build 11916.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-149">**9 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-149">**July 9, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-150">Версия 1907 (сборка 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="2cf29-150">Version 1907 (build 11901.20038)</span></span><br/>
+<span data-ttu-id="4fe47-149">**15 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-149">**July 15, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-150">Версия 1908 (сборка 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-150">Version 1908 (Build 11911.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-151">**3 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-151">**July 3, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-152">Версия 1907 (сборка 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="2cf29-152">Version 1907 (build 11901.20018)</span></span><br/>
+<span data-ttu-id="4fe47-151">**9 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-151">**July 9, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-152">Версия 1907 (сборка 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="4fe47-152">Version 1907 (Build 11901.20038)</span></span><br/>
 
-<span data-ttu-id="2cf29-153">**1 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-153">**July 1, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-154">Версия 1907 (сборка 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-154">Version 1907 (Build 11827.20002)</span></span><br/>
+<span data-ttu-id="4fe47-153">**3 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-153">**July 3, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-154">Версия 1907 (сборка 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="4fe47-154">Version 1907 (Build 11901.20018)</span></span><br/>
 
-<span data-ttu-id="2cf29-155">**24 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-155">**June 24, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-156">Версия 1907 (сборка 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-156">Version 1907 (build 11819.20002)</span></span><br/>
+<span data-ttu-id="4fe47-155">**1 июля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-155">**July 1, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-156">Версия 1907 (сборка 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-156">Version 1907 (Build 11827.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-157">**19 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-157">**June 19, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-158">Версия 1907 (сборка 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-158">Version 1907 (build 11815.20002)</span></span><br/>
+<span data-ttu-id="4fe47-157">**24 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-157">**June 24, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-158">Версия 1907 (сборка 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-158">Version 1907 (Build 11819.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-159">**11 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-159">**June 11, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-160">Версия 1907 (сборка 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-160">Version 1907 (build 11807.20000)</span></span><br/>
+<span data-ttu-id="4fe47-159">**19 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-159">**June 19, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-160">Версия 1907 (сборка 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-160">Version 1907 (Build 11815.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-161">**4 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-161">**June 04, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-162">Версия 1906 (сборка 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="2cf29-162">Version 1906 (Build 11727.20224)</span></span><br/>
+<span data-ttu-id="4fe47-161">**11 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-161">**June 11, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-162">Версия 1907 (сборка 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-162">Version 1907 (Build 11807.20000)</span></span><br/>
+
+<span data-ttu-id="4fe47-163">**4 июня 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-163">**June 04, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-164">Версия 1906 (сборка 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="4fe47-164">Version 1906 (Build 11727.20064)</span></span><br/>
 
 
-<span data-ttu-id="2cf29-163">**29 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-163">**May 29, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-164">Версия 1906 (сборка 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="2cf29-164">Version 1906 (build 11722.20008)</span></span><br/>
+<span data-ttu-id="4fe47-165">**29 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-165">**May 29, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-166">Версия 1906 (сборка 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="4fe47-166">Version 1906 (Build 11722.20008)</span></span><br/>
 
-<span data-ttu-id="2cf29-165">**22 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-165">**May 22, 2019**</span></span><br/> <span data-ttu-id="2cf29-166">Версия 1906 (сборка 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-166">Version 1906 (build 11715.20002)</span></span><br/> 
+<span data-ttu-id="4fe47-167">**22 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-167">**May 22, 2019**</span></span><br/> <span data-ttu-id="4fe47-168">Версия 1906 (сборка 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-168">Version 1906 (Build 11715.20002)</span></span><br/> 
 
-<span data-ttu-id="2cf29-167">**14 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-167">**May 14, 2019**</span></span><br/> <span data-ttu-id="2cf29-168">Версия 1906 (сборка 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="2cf29-168">Version 1906 (build 11708.20006)</span></span><br/>
+<span data-ttu-id="4fe47-169">**14 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-169">**May 14, 2019**</span></span><br/> <span data-ttu-id="4fe47-170">Версия 1906 (сборка 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="4fe47-170">Version 1906 (Build 11708.20006)</span></span><br/>
 
-<span data-ttu-id="2cf29-169">**6 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-169">**May 06, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-170">Версия 1906 (сборка 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-170">Version 1906 (Build 11702.20000)</span></span><br/>
+<span data-ttu-id="4fe47-171">**6 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-171">**May 06, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-172">Версия 1906 (сборка 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-172">Version 1906 (Build 11702.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-171">**2 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-171">**May 02, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-172">Версия 1905 (сборка 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="2cf29-172">Version 1905 (Build 11629.20008)</span></span><br/>
+<span data-ttu-id="4fe47-173">**2 мая 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-173">**May 02, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-174">Версия 1905 (сборка 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="4fe47-174">Version 1905 (Build 11629.20008)</span></span><br/>
 
-<span data-ttu-id="2cf29-173">**29 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-173">**April 29, 2019**</span></span><br/>
-<span data-ttu-id="2cf29-174">Версия 1905 (сборка 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-174">Version 1905 (Build 11624.20000)</span></span><br/>
+<span data-ttu-id="4fe47-175">**29 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-175">**April 29, 2019**</span></span><br/>
+<span data-ttu-id="4fe47-176">Версия 1905 (сборка 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-176">Version 1905 (Build 11624.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-175">**23 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-175">**April 23, 2019**</span></span><br/> <span data-ttu-id="2cf29-176">Версия 1905 (сборка 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-176">Version 1905 (Build 11617.20002)</span></span><br/>
+<span data-ttu-id="4fe47-177">**23 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-177">**April 23, 2019**</span></span><br/> <span data-ttu-id="4fe47-178">Версия 1905 (сборка 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-178">Version 1905 (Build 11617.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-177">**15 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-177">**April 15, 2019**</span></span><br/> <span data-ttu-id="2cf29-178">Версия 1905 (сборка 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-178">Version 1905 (Build 11609.20002)</span></span><br/>
+<span data-ttu-id="4fe47-179">**15 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-179">**April 15, 2019**</span></span><br/> <span data-ttu-id="4fe47-180">Версия 1905 (сборка 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-180">Version 1905 (Build 11609.20002)</span></span><br/>
 
-<span data-ttu-id="2cf29-179">**7 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-179">**April 7, 2019**</span></span><br/> <span data-ttu-id="2cf29-180">Версия 1904 (сборка 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="2cf29-180">Version 1904 (Build 11601.20042)</span></span><br/>
+<span data-ttu-id="4fe47-181">**7 апреля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-181">**April 7, 2019**</span></span><br/> <span data-ttu-id="4fe47-182">Версия 1904 (сборка 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="4fe47-182">Version 1904 (Build 11601.20042)</span></span><br/>
 
-<span data-ttu-id="2cf29-181">**18 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-181">**March 18, 2019**</span></span><br/> <span data-ttu-id="2cf29-182">Версия 1904 (сборка 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="2cf29-182">Version 1904 (Build 11520.20004)</span></span><br/>
+<span data-ttu-id="4fe47-183">**18 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-183">**March 18, 2019**</span></span><br/> <span data-ttu-id="4fe47-184">Версия 1904 (сборка 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="4fe47-184">Version 1904 (Build 11520.20004)</span></span><br/>
 
-<span data-ttu-id="2cf29-183">**11 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-183">**March 11, 2019**</span></span><br/> <span data-ttu-id="2cf29-184">Версия 1904 (сборка 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-184">Version 1904 (Build 11504.20000)</span></span><br/>
+<span data-ttu-id="4fe47-185">**11 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-185">**March 11, 2019**</span></span><br/> <span data-ttu-id="4fe47-186">Версия 1904 (сборка 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-186">Version 1904 (Build 11504.20000)</span></span><br/>
 
-<span data-ttu-id="2cf29-185">**1 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-185">**March 1, 2019**</span></span><br/> <span data-ttu-id="2cf29-186">Версия 1903 (сборка 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="2cf29-186">Version 1903 (Build 11425.20036)</span></span><br/> 
+<span data-ttu-id="4fe47-187">**1 марта 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-187">**March 1, 2019**</span></span><br/> <span data-ttu-id="4fe47-188">Версия 1903 (сборка 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="4fe47-188">Version 1903 (Build 11425.20036)</span></span><br/> 
 
-<span data-ttu-id="2cf29-187">**25 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-187">**February 25, 2019**</span></span><br/> <span data-ttu-id="2cf29-188">Версия 1903 (сборка 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="2cf29-188">Version 1903 (Build 11414.20014)</span></span><br/> 
+<span data-ttu-id="4fe47-189">**25 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-189">**February 25, 2019**</span></span><br/> <span data-ttu-id="4fe47-190">Версия 1903 (сборка 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="4fe47-190">Version 1903 (Build 11414.20014)</span></span><br/> 
 
-<span data-ttu-id="2cf29-189">**12 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-189">**February 12, 2019**</span></span><br/> <span data-ttu-id="2cf29-190">Версия 1903 (сборка 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="2cf29-190">Version 1903 (Build 11406.20002)</span></span><br/> 
+<span data-ttu-id="4fe47-191">**12 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-191">**February 12, 2019**</span></span><br/> <span data-ttu-id="4fe47-192">Версия 1903 (сборка 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="4fe47-192">Version 1903 (Build 11406.20002)</span></span><br/> 
 
-<span data-ttu-id="2cf29-191">**9 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-191">**February 9, 2019**</span></span><br/> <span data-ttu-id="2cf29-192">Версия 1903 (сборка 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="2cf29-192">Version 1903 (Build 11330.20014)</span></span><br/> 
+<span data-ttu-id="4fe47-193">**9 февраля 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-193">**February 9, 2019**</span></span><br/> <span data-ttu-id="4fe47-194">Версия 1903 (сборка 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="4fe47-194">Version 1903 (Build 11330.20014)</span></span><br/> 
 
-<span data-ttu-id="2cf29-193">**30 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-193">**January 30, 2019**</span></span><br/> <span data-ttu-id="2cf29-194">Версия 1902 (сборка 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="2cf29-194">Version 1902 (Build 11326.20000)</span></span><br/> 
+<span data-ttu-id="4fe47-195">**30 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-195">**January 30, 2019**</span></span><br/> <span data-ttu-id="4fe47-196">Версия 1902 (сборка 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="4fe47-196">Version 1902 (Build 11326.20000)</span></span><br/> 
 
-<span data-ttu-id="2cf29-195">**25 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-195">**January 25, 2019**</span></span><br/> <span data-ttu-id="2cf29-196">Версия 1902 (сборка 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="2cf29-196">Version 1902 (Build 11316.20026)</span></span><br/> 
+<span data-ttu-id="4fe47-197">**25 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-197">**January 25, 2019**</span></span><br/> <span data-ttu-id="4fe47-198">Версия 1902 (сборка 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="4fe47-198">Version 1902 (Build 11316.20026)</span></span><br/> 
 
-<span data-ttu-id="2cf29-197">**22 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-197">**January 22, 2019**</span></span><br/> <span data-ttu-id="2cf29-198">Версия 1902 (сборка 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="2cf29-198">Version 1902 (Build 11310.20016)</span></span><br/> 
+<span data-ttu-id="4fe47-199">**22 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-199">**January 22, 2019**</span></span><br/> <span data-ttu-id="4fe47-200">Версия 1902 (сборка 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="4fe47-200">Version 1902 (Build 11310.20016)</span></span><br/> 
 
-<span data-ttu-id="2cf29-199">**17 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-199">**January 17, 2019**</span></span><br/> <span data-ttu-id="2cf29-200">Версия 1902 (сборка 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="2cf29-200">Version 1902 (Build 11231.20080)</span></span><br/>
+<span data-ttu-id="4fe47-201">**17 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-201">**January 17, 2019**</span></span><br/> <span data-ttu-id="4fe47-202">Версия 1902 (сборка 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="4fe47-202">Version 1902 (Build 11231.20080)</span></span><br/>
 
-<span data-ttu-id="2cf29-201">**10 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="2cf29-201">**January 10, 2019**</span></span><br/> <span data-ttu-id="2cf29-202">Версия 1902 (сборка 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="2cf29-202">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="4fe47-203">**10 января 2019 г.**</span><span class="sxs-lookup"><span data-stu-id="4fe47-203">**January 10, 2019**</span></span><br/> <span data-ttu-id="4fe47-204">Версия 1902 (сборка 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="4fe47-204">Version 1902 (build 11231.20066)</span></span><br/> 
 
-## <a name="insider-community"></a><span data-ttu-id="2cf29-203">Сообщество участников программы предварительной оценки</span><span class="sxs-lookup"><span data-stu-id="2cf29-203">Insider community</span></span>
+## <a name="insider-community"></a><span data-ttu-id="4fe47-205">Сообщество участников программы предварительной оценки</span><span class="sxs-lookup"><span data-stu-id="4fe47-205">Insider community</span></span>
 
-<span data-ttu-id="2cf29-204">![Изображение с демонстрацией сообщества участников программы предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="2cf29-204">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="2cf29-205">**Сообщество участников программы предварительной оценки**</span><span class="sxs-lookup"><span data-stu-id="2cf29-205">**Office Insider community**</span></span><br/> <span data-ttu-id="2cf29-206">Если вы хотите пообщаться с другими участниками программы предварительной оценки, создайте публикацию в нашем сообществе.</span><span class="sxs-lookup"><span data-stu-id="2cf29-206">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="2cf29-207"> 
-[Посетить сообщество](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="2cf29-207"> 
+<span data-ttu-id="4fe47-206">![Изображение с демонстрацией сообщества участников программы предварительной оценки.</span><span class="sxs-lookup"><span data-stu-id="4fe47-206">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="4fe47-207">**Сообщество участников программы предварительной оценки**</span><span class="sxs-lookup"><span data-stu-id="4fe47-207">**Office Insider community**</span></span><br/> <span data-ttu-id="4fe47-208">Если вы хотите пообщаться с другими участниками программы предварительной оценки, создайте публикацию в нашем сообществе.</span><span class="sxs-lookup"><span data-stu-id="4fe47-208">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="4fe47-209"> 
+[Посетить сообщество](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="4fe47-209"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="2cf29-208">![Изображение с иконкой Twitter.</span><span class="sxs-lookup"><span data-stu-id="2cf29-208">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="2cf29-209">**Программа предварительной оценки Office в Twitter**</span><span class="sxs-lookup"><span data-stu-id="2cf29-209">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="2cf29-210">В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.</span><span class="sxs-lookup"><span data-stu-id="2cf29-210">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="2cf29-211"> 
-[Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="2cf29-211"> 
+<span data-ttu-id="4fe47-210">![Изображение с иконкой Twitter.</span><span class="sxs-lookup"><span data-stu-id="4fe47-210">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="4fe47-211">**Программа предварительной оценки Office в Twitter**</span><span class="sxs-lookup"><span data-stu-id="4fe47-211">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="4fe47-212">В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.</span><span class="sxs-lookup"><span data-stu-id="4fe47-212">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="4fe47-213"> 
+[Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="4fe47-213"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="2cf29-212">[
-  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="2cf29-212">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+<span data-ttu-id="4fe47-214">[
+  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="4fe47-214">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="2cf29-213">**Получайте новые возможности первыми**
-[Присоединяйтесь к программе предварительной оценки Office](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="2cf29-213">**Get new features first**
+<span data-ttu-id="4fe47-215">**Получайте новые возможности первыми**
+[Присоединяйтесь к программе предварительной оценки Office](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="4fe47-215">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
