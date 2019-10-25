@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 64ecf80779831fc0f036e37e30436b0d47e7938a
+ms.sourcegitcommit: 23ba33ee213c0321adcffd12fea37e6fd119a40a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644140"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37663635"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -34,7 +34,10 @@ ms.locfileid: "37644140"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
-**22 октября 2019 г.**<br/>
+**24 октября 2019 г.**<br/>
+Версия 1910 (сборка 12130,20238)<br/>
+
+**22 октября 2019 г.**<br/>
 Версия 1910 (сборка 12130,20210)<br/>
 
 **14 октября 2019 г.**<br/>
