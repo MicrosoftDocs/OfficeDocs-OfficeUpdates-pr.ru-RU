@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733000"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890038"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -131,8 +131,6 @@ ms.locfileid: "37733000"
 - **Перерыв между собраниями.** Дайте участникам время передохнуть или перейти в другое место, задав время окончания собрания на 5–10 минут раньше по умолчанию.
 
 - **Все смогут понять, что вы имели в виду.** Если текста или статических изображений недостаточно, воспользуйтесь файлами GIF с анимацией, чтобы донести свою идею. [Подробнее](https://support.office.com/ru-RU/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **Параметры сортировки почты на разных устройствах остаются одинаковыми.** Настройки сортировки почты теперь хранятся в облаке. Наслаждайтесь знакомым интерфейсом при использовании Outlook для Windows на любом компьютере и Outlook в Интернете. [Подробнее](https://support.office.com/ru-RU/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Мы обновили интерфейс Outlook для вас.** Упрощенный интерфейс, ранее доступный для предпросмотра с помощью функции "Ожидается в ближайшее время", чтобы вы могли сосредоточиться на самом важном. [Подробнее](https://support.office.com/ru-RU/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
