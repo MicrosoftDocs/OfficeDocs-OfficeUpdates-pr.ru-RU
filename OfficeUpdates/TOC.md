@@ -29,6 +29,7 @@
 ### [Журнал обновлений канала программы предварительной оценки](update-history-office-insider.md)
 ### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
 ###[Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
+### [Заметки о выпуске для канала Monthly Channel (Targeted)](release-notes-monthly-channel-targeted.md)
 
 ## [Журнал выпусков средства развертывания Office](ODT-release-history.md)
 

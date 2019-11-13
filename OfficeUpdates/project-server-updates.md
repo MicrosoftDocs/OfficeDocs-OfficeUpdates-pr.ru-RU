@@ -3,7 +3,7 @@ title: Обновления для Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: a6bd8b68cd841f1e1e142dc2d2fc31428dbca157
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 18c878a03339e1e830e0b28f37340959dd20ba63
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424074"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282157"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -30,7 +30,8 @@ ms.locfileid: "37424074"
   
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
-|Октябрь 2019 г.  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
+|Ноябрь 2019 г.  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
+|Октябрь 2019 г.  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
 |Сентябрь 2019 г.  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
 |Август 2019 г.  <br/> |[KB4475560](https://support.microsoft.com/kb/4475560) <br/>|
 |Июль 2019 г.  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
@@ -93,7 +94,8 @@ ms.locfileid: "37424074"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
-|Октябрь 2019 г.  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
+|Ноябрь 2019 г.  <br/>  |[KB4484161](https://support.microsoft.com/kb/4484161) <br/>|
+|Октябрь 2019 г.  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
 |Сентябрь 2019 г.  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|
 |Август 2019 г.  <br/>  |[KB4475570](https://support.microsoft.com/kb/4475570) <br/>|
 |Июль 2019 г.  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
