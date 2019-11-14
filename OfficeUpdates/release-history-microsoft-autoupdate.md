@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523105"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289657"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -30,6 +30,26 @@ ms.locfileid: "37523105"
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="november-2019-release"></a>Выпуск за ноябрь 2019 г.
+
+**Дата выпуска**: 12 ноября 2019 г.
+
+*Функция автоматического обновления (Майкрософт) версии 4.17*
+
+ **Обновления компонентов:**
+
+- Новые возможности в каждом существенном обновлении теперь можно просмотреть на панели мониторинга функции автоматического обновления (Майкрософт).
+- Минимальным требованием к операционной системе для обновлений Office 2019 после выпуска macOS Catalina является macOS 10.13, и мы уведомляем пользователей о необходимости обновить свою версию для получения последних обновлений Office.
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.17](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
 ## <a name="october-2019-release"></a>Выпуск за октябрь 2019 г.
 
