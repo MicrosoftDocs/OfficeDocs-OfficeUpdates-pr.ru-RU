@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289839"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312139"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -256,8 +256,6 @@ ms.locfileid: "38289839"
 ### <a name="office-suite"></a>Набор Office
 
 - **Установка Microsoft Teams.** Приложение Teams добавляется в существующие установки Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/deployoffice/teams-install)
-
-- **Предоставление общего доступа и отправка документов с помощью новых доступных кнопок в области сведений.** Ранее кнопки "Общий доступ", "Копировать путь в буфер обмена" и "Открыть расположение файла" были доступны только позади пути сохранения документа. Теперь их хорошо видно в области сведений! На вкладке "Файл" перейдите в "Сведения" и вы должны увидеть эти новые кнопки.
 
 - **Сохранение изменений по мере внесения.** Отправляйте свои файлы в OneDrive, чтобы обеспечить автоматическое сохранение всех обновлений.
 
