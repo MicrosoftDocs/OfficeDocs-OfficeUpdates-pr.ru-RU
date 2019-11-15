@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289819"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402445"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -304,7 +304,7 @@ ms.locfileid: "38289819"
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
 - Устранена проблема, в результате которой у клиентов создавалось впечатление, что задачи исчезали при добавлении второго условия для группировки.
-- Устранена проблема, из-за которой пользователи не могли редактировать некоторые поля перенесенных элементов. 
+- Устранена проблема, из-за которой пользователи не могли редактировать некоторые поля перенесенных элементов.
 - Исправлена проблема, из-за которой окно отображалось в неправильном месте, когда системная панель задач сохранена в левой или верхней части экрана.
 - Устранена ошибка, приводившая к сбою при загрузке пользователями изображений на карточке контакта.
 - Устранена ошибка, приводившая к сбою при запуске некоторыми пользователями приложений Office.
