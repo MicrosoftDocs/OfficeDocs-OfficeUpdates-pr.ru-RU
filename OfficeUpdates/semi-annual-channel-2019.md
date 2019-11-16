@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402445"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669828"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -49,7 +49,11 @@ ms.locfileid: "38402445"
 
 - Исправление проблем с надежностью. Устранена проблема, из-за которой надстройка стороннего поставщика могла вызывать сбой PowerPoint.
 
-### <a name="office-suite"></a>Набор Office
+### <a name="word"></a>Word
+
+- Исправлена проблема с изменением шрифта на MS Mincho при попытке завершения работы с некоторыми специальными символами.
+
+### <a name="office-suite"></a>Набор приложений Office
 
 - Устранена проблема с быстродействием Win7, из-за которой вставленная коллекция фигур с ленты во всех приложениях отображалась примерно через 4 секунды.
 - Устранена проблема, из-за которой ярлыки меню "Пуск" и расширения файлов Office неожиданно исчезали после обновления.
