@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: ba390c354d68846503dac452b4506bf4f648821a
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: dd654660405dd48dbff683dc2d27c2103ff1e118
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289869"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704478"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "38289869"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly Channel<br/>|1910<br/>|12130.20344<br/>|12 ноября 2019 г.<br/>|Выпуска версии 1911<br/>|
+|Monthly Channel<br/>|1910<br/>|12130.20390<br/>|18 ноября 2019 г.<br/>|Выпуска версии 1911<br/>|
 |Semi-Annual (Targeted)<br/>|1908<br/>|11929.20436<br/>|12 ноября 2019 г.<br/>|10 марта 2020 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20468<br/>|12 ноября 2019 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1808<br/>|10730.20416<br/>|12 ноября 2019 г.<br/>|10 марта 2020 г.<br/>|
@@ -46,6 +46,7 @@ ms.locfileid: "38289869"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|18 ноября|[Версия 1910 (сборка 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
 |2019|12 ноября|[Версия 1910 (сборка 12130.20344)](monthly-channel-2019.md#version-1910-november-12) |[Версия 1908 (сборка 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[Версия 1902 (сборка 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[Версия 1808 (сборка 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
 |2019|30 октября|[Версия 1910 (сборка 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
 |2019|22 октября|[Версия 1909 (сборка 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
