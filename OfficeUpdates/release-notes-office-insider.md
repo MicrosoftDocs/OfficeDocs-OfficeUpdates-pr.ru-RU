@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669838"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704498"
 ---
 # <a name="release-notes-for-office-insiders"></a>Заметки о выпуске для участников программы предварительной оценки Office
 
@@ -54,7 +54,7 @@ ms.locfileid: "38669838"
 - <div><span>Функция «Текст в столбец» может не работать для некоторых вариантов локализации</span></div>
 
 
-- <h5>Редактирование формул динамического массива в ячейке может привести к выравниванию текста за границами ячейки<br></h5>
+- <div>Редактирование формул динамического массива в ячейке может привести к выравниванию текста за границами ячейки</div>
 
 
 ### <a name="outlook"></a>Outlook
