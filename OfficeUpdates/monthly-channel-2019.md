@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 354a0b0310cfcc84bcadc9e5b4f34581026fbd6f
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704468"
+ms.locfileid: "38724057"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -22,7 +22,7 @@ ms.locfileid: "38704468"
  
  > [!NOTE]
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/ru-RU/deployoffice/teams-install).
+>- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/teams-install).
 
 ## <a name="version-1910-november-18"></a>Версия 1910: 18 ноября
 *Версия 1910 (сборка 12130.20390)*
@@ -44,7 +44,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1910-november-12"></a>Версия 1910: 12 ноября
 *Версия 1910 (сборка 12130.20344)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -106,7 +106,7 @@ ms.locfileid: "38704468"
 
 ### <a name="office-suite"></a>Набор приложений Office
 
-- **Установка Microsoft Teams для существующих экземпляров Office 365 профессиональный плюс**. С конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье "Развертывание Microsoft Teams с Office 365 профессиональный плюс". [Подробнее](https://docs.microsoft.com/ru-RU/deployoffice/teams-install)
+- **Установка Microsoft Teams для существующих экземпляров Office 365 профессиональный плюс**. С конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье "Развертывание Microsoft Teams с Office 365 профессиональный плюс". [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -149,7 +149,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
 *Версия 1909 (сборка 12026.20320)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -261,7 +261,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1908-september-10"></a>Версия 1908: 10 сентября
 *Версия 1908 (сборка 11929.20300)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -327,16 +327,18 @@ ms.locfileid: "38704468"
 ## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
 *Версия 1907 (сборка 11901.20218)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
- - Исправлена проблема, из-за которой могло происходить изменение способа сортировки сводной таблицы и ее обновление в сеансе совместного редактирования с другими пользователями.
+- Исправлена проблема, из-за которой могло происходить изменение способа сортировки сводной таблицы и ее обновление в сеансе совместного редактирования с другими пользователями.
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
-  - Исправлена проблема, из-за которой обновление в почтовых ящиках пользователей обычной проверки подлинности до современной приводило к привязыванию неправильной учетной записи к профилю Outlook.
+
+- Исправлена проблема, из-за которой обновление в почтовых ящиках пользователей обычной проверки подлинности до современной приводило к привязыванию неправильной учетной записи к профилю Outlook.
 
 ## <a name="version-1907-july-29"></a>Версия 1907: 29 июля
+
 *Версия 1907 (сборка 11901.20176)*
 * Исправления различных ошибок и улучшения производительности.
 
@@ -379,7 +381,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1906-july-09"></a>Версия 1906: 9 июля
 *Версия 1906 (сборка 11727.20244)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
@@ -445,7 +447,7 @@ ms.locfileid: "38704468"
 
 ## <a name="version-1905-june-11"></a>Версия 1905: 11 июня
 *Версия 1905 (сборка 11629.20246)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
@@ -535,7 +537,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1904-may-14"></a>Версия 1904: 14 мая 
 *Версия 1904 (сборка 11601.20204)*
 
- - Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>Версия 1904: 8 мая
 *Версия 1904 (сборка 11601.20178)*
@@ -600,7 +602,7 @@ ms.locfileid: "38704468"
 ## <a name="version-1903-april-9"></a>Версия 1903: 9 апреля
 *Версия 1903 (сборка 11425.20204)* 
 
-- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 - Исправлена ошибка в Lync (Skype для бизнеса), из-за которой могло исчезать окно для любого собрания по сети с количеством участников более 7.
@@ -685,7 +687,7 @@ ms.locfileid: "38704468"
  
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/deployoffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Версия 1901: 12 февраля
 *Версия 1901 (сборка 11231.20174)* 
