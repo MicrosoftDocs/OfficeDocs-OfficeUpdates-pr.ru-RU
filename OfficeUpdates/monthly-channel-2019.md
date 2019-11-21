@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724057"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753796"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -26,18 +26,20 @@ ms.locfileid: "38724057"
 
 ## <a name="version-1910-november-18"></a>Версия 1910: 18 ноября
 *Версия 1910 (сборка 12130.20390)*
-* Исправления различных ошибок и улучшения производительности.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
+
+### <a name="access"></a>Access
+
+- Исправлена проблема, из-за которой при выполнении запроса на обновление неправильно возникало сообщение об ошибке "Запрос поврежден".
+
 ### <a name="outlook"></a>Outlook
 
 - Исправлена проблема, из-за которой пользователи наблюдали неожиданное изменение поля расположения в собрании.
 
 - Исправлена проблема, приводившая к отображению для пользователей пустого окна сообщения с кнопкой &quot;ОК&quot; при обращении в службу поддержки в контексте создания учетной записи.
-
-
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -68,7 +70,6 @@ ms.locfileid: "38724057"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="feature-updates"></a>Обновления функций
-
 
 ### <a name="excel"></a>Excel
 
