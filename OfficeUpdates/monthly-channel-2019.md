@@ -9,20 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
-ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
+ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "38793847"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204338"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
- 
+
  > [!NOTE]
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1910-november-22"></a>Версия 1910: 22 ноября
+*Версия 1910 (сборка 12130.20410)*
+* Исправления различных ошибок и улучшения производительности.
 
 ## <a name="version-1910-november-18"></a>Версия 1910: 18 ноября
 *Версия 1910 (сборка 12130.20390)*

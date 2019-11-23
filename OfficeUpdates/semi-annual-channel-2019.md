@@ -9,27 +9,57 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669828"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204328"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, настольный клиент Project Online и Office 365 бизнес.
 
 > [!NOTE]
-> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1902-november-22"></a>Версия 1902: 22 ноября
+*Версия 1902 (сборка 11328.20480)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="access"></a>Access
+
+- Это обновление исправляет проблему в Microsoft Access, которая может приводить к ошибке &quot;Запрос поврежден&quot; при выполнении запроса на обновление или использовании оператора UPDATE в SQL.
+
+### <a name="outlook"></a>Outlook
+
+- Решена проблема, из-за которой пользователи сталкивались с утечками памяти при включении всплывающих уведомлений.
+
+### <a name="office-suite"></a>Набор Office
+
+- Благодаря этому изменению синхронизация не будет регулироваться при ошибках синхронизации, не связанных с регулированием.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1808-november-22"></a>Версия 1808: 22 ноября
+*Версия 1808 (сборка 10730.20422)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+- Исправления различных ошибок и улучшения производительности.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1902-november-12"></a>Версия 1902: 12 ноября
 *Версия 1902 (сборка 11328.20468)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -64,7 +94,7 @@ ms.locfileid: "38669828"
 ## <a name="version-1808-november-12"></a>Версия 1808: 12 ноября
 *Версия 1808 (сборка 10730.20416)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -84,7 +114,7 @@ ms.locfileid: "38669828"
 ## <a name="version-1902-october-08"></a>Версия 1902: 8 октября
 *Версия 1902 (сборка 11328.20438)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -112,12 +142,12 @@ ms.locfileid: "38669828"
 ## <a name="version-1808-october-08"></a>Версия 1808: 8 октября
 *Версия 1808 (сборка 10730.20386)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>Версия 1902: 10 сентября
 *Версия 1902 (сборка 11328.20420)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -128,7 +158,7 @@ ms.locfileid: "38669828"
 
 ### <a name="outlook"></a>Outlook
 
-- Исправлена временная проблема службы, приводившая к отображению ошибки "Невозможно найти файл. Проверьте правильность его пути и имени" при использовании облачных вложений. [Подробнее](https://support.office.com/ru-RU/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- Исправлена временная проблема службы, приводившая к отображению ошибки "Невозможно найти файл. Проверьте правильность его пути и имени" при использовании облачных вложений. [Подробнее](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - Исправлена проблема, из-за которой файлы, отправленные из Outlook в OneDrive или SharePoint, отображались с изменением имени, когда несколько символов заменялись знаками подчеркивания.
 
@@ -141,7 +171,7 @@ ms.locfileid: "38669828"
 ## <a name="version-1808-september-10"></a>Версия 1808: 10 сентября
 *Версия 1808 (сборка 10730.20380)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -154,7 +184,7 @@ ms.locfileid: "38669828"
 ## <a name="version-1902-august-13"></a>Версия 1902: 13 августа
 *Версия 1902 (сборка 11328.20392)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 - Исправлена проблема, из-за которой значок очистки фильтра отображался как для отфильтрованных, так и неотфильтрованных срезов в таблицах.
@@ -171,12 +201,12 @@ ms.locfileid: "38669828"
 - Исправлена проблема, из-за которой приложение могло неожиданно закрываться при совместной работе над документом с другими пользователями.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
-- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1808-august-13"></a>Версия 1808: 13 августа
 *Версия 1808 (сборка 10730.20370)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -185,7 +215,7 @@ ms.locfileid: "38669828"
 ## <a name="version-1803-august-13"></a>Версия 1803: 13 августа
 *Версия 1803 (сборка 9126.2432)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -193,7 +223,7 @@ ms.locfileid: "38669828"
 
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля
 *Версия 1902 (сборка 11328.20368)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access. Обновления функций
@@ -225,7 +255,7 @@ ms.locfileid: "38669828"
 - **Новый диапазон повторения по умолчанию.** В диалоговом окне "Повторение" для диапазона повторений использовался по умолчанию параметр "Нет даты окончания". Это способствует созданию длительных повторяющихся рядов, которые со временем могут быть повреждены. Параметр по умолчанию для диалогового окна "Повторение" изменен на значение "Дата окончания". Таким образом значение по умолчанию соответствует рекомендациям по ведению календаря.
 - **Присоединение к собраниям Teams из диалогового окна "Напоминания" в Outlook.** Когда Outlook напоминает пользователям о предстоящем собрании, представляющем собой собрание по сети в Teams, в окне отображается кнопка "Подключиться к собранию по сети". Это аналогично присоединению к собранию Skype для бизнеса из диалогового окна "Напоминания" в Outlook.
 - **Отмена напоминаний о прошедших событиях.** Вы можете настроить в календаре автоматическое закрытие напоминаний о прошедших событиях. [Подробнее](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Просмотр URL-адресов, скрытых функцией "Безопасные ссылки".** Функция "Безопасные ссылки" защищает компьютер от вредоносных URL-адресов, полученных по электронной почте, скрывая исходный URL-адрес. Чтобы увидеть оригинал, наведите указатель мыши на URL-адрес. Требуется лицензия с расширенной защитой от угроз. [Подробнее](https://products.office.com/ru-RU/exchange/advance-threat-protection)
+- **Просмотр URL-адресов, скрытых функцией "Безопасные ссылки".** Функция "Безопасные ссылки" защищает компьютер от вредоносных URL-адресов, полученных по электронной почте, скрывая исходный URL-адрес. Чтобы увидеть оригинал, наведите указатель мыши на URL-адрес. Требуется лицензия с расширенной защитой от угроз. [Подробнее](https://products.office.com/exchange/advance-threat-protection)
 - **Изменение масштаба и его сохранение.** Не нужно настраивать масштаб каждый раз заново. Выберите настройку по умолчанию при чтении сообщения, и она будет применяться для всех ваших сообщений. [Подробнее](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Шифрование сообщений: политика "Только с шифрованием IRM".** Появился новый параметр "Только с шифрованием" в меню "Параметры" > "Разрешения" для пользователей службы шифрования сообщений Office 365. Этот параметр позволяет зашифровать сообщение и отправить его любому пользователю внутри или за пределами организации.
 - **Предупреждение о наличии скрытых копий.** Подсказка о скрытой копии предупредит вас перед случайной отправкой письма всем адресатам скрытой копии.
@@ -277,7 +307,7 @@ ms.locfileid: "38669828"
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 
 - **Сторонние приложения Office теперь поддерживают вставку формата SVG с помощью API Office.js.** В сторонних приложениях, также называемых надстройками в Office, теперь есть возможность вставки формата SVG. Пользователи теперь могут подключать собственные коллекции файлов SVG к Office. Разработчики могут использовать эту функцию с помощью API Office.js.
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с НОВЫМИ экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/ru-RU/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с НОВЫМИ экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype для бизнеса: Обновления функций
 
@@ -352,7 +382,7 @@ ms.locfileid: "38669828"
  - Исправлена проблема, из-за которой список последних файлов отображался пустым для многих пользователей в Windows 10.
  - Исправлена проблема, приводившая к отображению для пользователей рабочей панели обновления Office, несмотря на выполнение обновления, запущенного администратором.
  - Исправлены проблемы, связанные с периодическим появлением пустых запросов на вход.
- - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+ - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Исправлена ошибка, которая могла приводить к удалению продуктов или блокировке их активации, если Office был установлен с помощью средства развертывания Office и имелся несоответствия регистра.
 - Исправлена проблема, приводившая к появлению повторяющихся запросов на вход на устройствах с Windows 10 (версия 1803 или более поздняя).
 - Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
@@ -362,7 +392,7 @@ ms.locfileid: "38669828"
 
 ## <a name="version-1808-july-09"></a>Версия 1808: 09 июля
 *Версия 1808 (сборка 10730.20360)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
@@ -377,12 +407,12 @@ ms.locfileid: "38669828"
 
 ## <a name="version-1803-july-09"></a>Версия 1803: 09 июля
 *Версия 1803 (сборка 9126.2428)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Версия 1808: 11 июня
 *Версия 1808 (сборка 10730.20348)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
  - Устранена проблема с удалением подписи при извлечении файла.
@@ -392,7 +422,7 @@ ms.locfileid: "38669828"
 
 ## <a name="version-1803-june-11"></a>Версия 1803: 11 июня
 *Версия 1803 (сборка 9126.2388)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates) 
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
 
 ## <a name="version-1808-may-14"></a>Версия 1808: 14 мая
 *Версия 1808 (сборка 10730.20344)*   
@@ -468,7 +498,7 @@ ms.locfileid: "38669828"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 
-- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/ru-RU/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
+- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
 
 
 ## <a name="version-1803-february-12"></a>Версия 1803: 12 февраля
@@ -501,7 +531,7 @@ ms.locfileid: "38669828"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 
-- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/ru-RU/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
+- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
 
 ## <a name="version-1708-february-12"></a>Версия 1708: 12 февраля
 *Версия 1708 (сборка 8431.2372)*
@@ -510,7 +540,7 @@ ms.locfileid: "38669828"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 
-- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/ru-RU/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
+- Исправлена проблема, из-за которой надстройки, развернутые с помощью [централизованного развертывания O365 Office](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment), зависали и не работали.
 
 
 ## <a name="version-1808-january-8"></a>Версия 1808: 8 января
@@ -652,7 +682,7 @@ ms.locfileid: "38669828"
 
 ### <a name="office-suite-security-update"></a>Набор Office. Обновление для системы безопасности
 
-- **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+- **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время.
