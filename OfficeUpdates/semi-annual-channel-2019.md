@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204328"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254368"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -35,7 +35,7 @@ ms.locfileid: "39204328"
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="access"></a>Access
 
-- Это обновление исправляет проблему в Microsoft Access, которая может приводить к ошибке &quot;Запрос поврежден&quot; при выполнении запроса на обновление или использовании оператора UPDATE в SQL.
+- Исправлена проблема, из-за которой при выполнении запроса на обновление неправильно возникало сообщение об ошибке "Запрос поврежден".
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ ms.locfileid: "39204328"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-- Исправления различных ошибок и улучшения производительности.
+### <a name="access"></a>Access
+
+- Исправлена проблема, из-за которой при выполнении запроса на обновление неправильно возникало сообщение об ошибке "Запрос поврежден".
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 

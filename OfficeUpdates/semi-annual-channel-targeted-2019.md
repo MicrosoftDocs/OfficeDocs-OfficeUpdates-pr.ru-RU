@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204348"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254348"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -31,6 +31,11 @@ ms.locfileid: "39204348"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
+
+### <a name="access"></a>Access
+
+- Исправлена проблема, из-за которой при выполнении запроса на обновление неправильно возникало сообщение об ошибке "Запрос поврежден".
+
 ### <a name="excel"></a>Excel
 
 - Проблема низкой производительности при нажатии кнопки "Цвет шрифта", если в файле широко используется условное форматирование.
