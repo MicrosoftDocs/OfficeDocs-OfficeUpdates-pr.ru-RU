@@ -3,19 +3,19 @@ title: Журнал обновлений для Office 2016 C2R и Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 11/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9b5fe442ee64a0b820d99b0be217a82522966cc2
+ms.sourcegitcommit: 35a8d41cd61fc1a27cc543b06f5d715c7913ac11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282267"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39621394"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -57,6 +57,8 @@ ms.locfileid: "38282267"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|22 ноября 2019 г.   |Версия 1910 (сборка 12130.20410)  |Исправления различных ошибок и улучшения производительности.<br/>  |
+|18 ноября 2019 г.   |Версия 1910 (сборка 12130.20390)  |Исправления различных ошибок и улучшения производительности.<br/>  |
 |12 ноября 2019 г.   |Версия 1910 (сборка 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 октября 2019 г.   |Версия 1909 (сборка 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 сентября 2019 г.   |Версия 1908 (сборка 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1297) <br/>  |
