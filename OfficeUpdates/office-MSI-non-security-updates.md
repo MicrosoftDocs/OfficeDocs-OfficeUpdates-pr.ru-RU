@@ -3,19 +3,19 @@ title: Последние обновления, не связанные с бе�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/06/2019
+ms.date: 12/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: dfb3e62d922774dce989bc6fadca93e1b80bc126
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
+ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993704"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39678651"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -26,6 +26,13 @@ ms.locfileid: "37993704"
 > - Информация в этой статье не относится к версиям Office, входящим в состав Office 365, например Office 365 профессиональный плюс.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="december-3-2019"></a>3 декабря 2019 г.
+
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4484170](https://support.microsoft.com/help/4484170)) <br/>
+Обновление для Microsoft Outlook 2016 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
+Обновление для Skype для бизнеса 2016 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
 ## <a name="november-5-2019"></a>5 ноября 2019 г.
 
@@ -117,17 +124,3 @@ ms.locfileid: "37993704"
 **Office 2010**<br/>
 Обновление для Microsoft Filter Pack 2.0 ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Обновление для Microsoft Office 2010 ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
 
-## <a name="june-4-2019"></a>4 июня 2019 г.
-
-**Office 2016**<br/>
-Обновление для Microsoft Excel 2016 ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
-Обновление для Microsoft Office 2016 ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
-Обновление для Microsoft Office 2016 ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
-Обновление для пакета интерфейса пользователя Microsoft Office 2016 ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
-Обновление для Microsoft Outlook 2016 ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
-Обновление для Microsoft Project 2016 ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
-Обновление для Skype для бизнеса 2016 ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
-
-**Office 2013**<br/>
-Обновление для Skype для бизнеса 2015 ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
-<br/>
