@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: edf447e781009bd7fa137e12f754f657fbc36160
-ms.sourcegitcommit: 9651345dd5885fa89677b9043f435ad61cb1c15f
+ms.openlocfilehash: 3db5ba0c8d91eb0150385b7a91f38890cc72c51b
+ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810887"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39818769"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -29,6 +29,22 @@ ms.locfileid: "39810887"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="december-3-2019"></a>3 декабря 2019 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)3 декабря 2019 г.)
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самый свежий выпуск — версия 1911 (сборка 12228.20332).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 1910 (сборка 12130.20410) <br/> |22 ноября 2019 г. <br/> |240<br/> |
+|Версия 1910 (сборка 12130.20390) <br/> |18 ноября 2019 г. <br/> |239<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)3 декабря 2019 г.)
 
 ## <a name="december-3-2019"></a>3 декабря 2019 г.
 
