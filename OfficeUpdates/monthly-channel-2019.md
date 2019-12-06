@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818779"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857847"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -76,8 +76,6 @@ ms.locfileid: "39818779"
 - Решена проблема, из-за которой обновления Office могли неожиданно скачать файлы из Office CDN вместо намеченного источника, такого как локальная или сетевая папка или расположение, предоставленное Configuration Manager.
 
 - Исправлена проблема с параметром крайнего срока обновления в GPO и средстве ODT, из-за которой относительный крайний срок соблюдается только при его первой настройке. Это исправление позволяет применять относительный крайний срок для последующих обновлений.
-
-- Решена проблема, из-за которой обновления Office могли неожиданно скачать файлы из Office CDN вместо намеченного источника, такого как локальная или сетевая папка или расположение, предоставленное Configuration Manager.
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 

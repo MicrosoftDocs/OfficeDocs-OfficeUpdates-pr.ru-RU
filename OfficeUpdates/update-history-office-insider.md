@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: b688ed09e0b704a3c8bda37a95341338a346d1d7
-ms.sourcegitcommit: eb8e5c5006c44c15eed4e5442e42b6373ad6a4af
+ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39837217"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857867"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -28,7 +28,7 @@ ms.locfileid: "39837217"
 
 Если вы участвуете в программе на уровне предварительной оценки, вы будете получать частые обновления с новыми и улучшенными возможностями. Список ниже содержит журнал последних версий и сборок для участников программы предварительной оценки, а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках.
 
-Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/ru-RU/OfficeUpdates/release-notes-office-insider).
+Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (НЕ УДАЛЯТЬ)
 
