@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254348"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890453"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -42,6 +42,10 @@ ms.locfileid: "39254348"
 
 - Исправлена проблема, из-за которой при предварительном просмотре неправильно отображалась область печати.
 
+- При изменении защищенного файла из ненадежного сетевого ресурса могут возникать проблемы в Excel.
+
+- Решена проблема, из-за которой мог происходить сбой при поиске последних файлов с неоткрытой книгой.
+
 ### <a name="outlook"></a>Outlook
 
 - Исправлена проблема, приводившая к отображению для пользователей пустого окна сообщения с кнопкой &quot;ОК&quot; при обращении в службу поддержки в контексте создания учетной записи.
@@ -51,6 +55,8 @@ ms.locfileid: "39254348"
 - Исправлена проблема, вызывавшая сбой поиска в современных группах.
 
 - Исправлена проблема, приводившая к сбою при попытке пользователей создать правило на основе сообщения о &quot;пропущенной беседе&quot;.
+
+- Исправлена проблема, вызывавшая сбой поиска в современных группах.
 
 ### <a name="word"></a>Word
 
