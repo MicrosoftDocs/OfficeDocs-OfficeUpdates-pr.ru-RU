@@ -3,19 +3,19 @@ title: Журнал обновления продуктов Office 2010 "наж
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: fde1f5a6ddc491caa8b2c949c0a95f70e76a1921
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 679c94fb42683f97b7b866874bee27faca15a573
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282177"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961946"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -30,7 +30,7 @@ ms.locfileid: "38282177"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7241.5000**, выпущенная 12 ноября 2019.
+> Самая последняя версия Office 2010 — **14.0.7243.5000**, выпущенная 10 декабря 2019.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +54,8 @@ ms.locfileid: "38282177"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019|12 ноября  <br/> |14.0.7241.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
+|2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4532624](https://support.microsoft.com/en-us/help/4532624) <br/> |
+||12 ноября  <br/> |14.0.7241.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
 ||8 октября  <br/> |14.0.7239.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4522242](https://support.microsoft.com/en-us/help/4522242) <br/> |
 ||10 сентября  <br/> |14.0.7237.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4517986](https://support.microsoft.com/en-us/help/4517986) <br/> |
 ||13 августа  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
