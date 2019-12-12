@@ -3,7 +3,7 @@ title: Обновления для Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,23 +13,24 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 18c878a03339e1e830e0b28f37340959dd20ba63
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: a2a4245543ac485ea5dd77e5a6370be027d4cb25
+ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282157"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39982249"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
 Воспользуйтесь ссылками на этой странице, чтобы узнать больше об обновлениях для Project Server 2013 и Project Server 2010 и скачать сами обновления. 
 > [!NOTE]
-> Чтобы узнать об обновлениях для Project Server 2016, просмотрите [обновления для SharePoint](sharepoint-updates.md), так как Project Server 2016 входит в SharePoint Server 2016 Enteprise Edition.
+> Чтобы узнать об обновлениях для Project Server 2016, просмотрите [обновления для SharePoint](sharepoint-updates.md), так как Project Server 2016 входит в SharePoint Server 2016 Enterprise Edition.
   
 ## <a name="project-server-2013-update-history"></a>История обновлений Project Server 2013
   
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Декабрь 2019 г.  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
 |Ноябрь 2019 г.  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
 |Октябрь 2019 г.  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
 |Сентябрь 2019 г.  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
@@ -94,6 +95,7 @@ ms.locfileid: "38282157"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Декабрь 2019 г.  <br/>  |[KB4484194](https://support.microsoft.com/kb/4484194) <br/>|
 |Ноябрь 2019 г.  <br/>  |[KB4484161](https://support.microsoft.com/kb/4484161) <br/>|
 |Октябрь 2019 г.  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
 |Сентябрь 2019 г.  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254368"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961986"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -26,9 +26,47 @@ ms.locfileid: "39254368"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
+
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1902-december-10"></a>Версия 1902: 10 декабря
+*Версия 1902 (сборка 11328.20492)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Это изменение обходит проблему, связанную с некоторыми графическими драйверами Intel, благодаря использованию программной отрисовки.
+
+### <a name="outlook"></a>Outlook
+
+- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/ru-RU/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- Исправлена проблема, приводившая к сбою при попытке пользователей создать правило на основе сообщения о &quot;пропущенной беседе&quot;.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена проблема, связанная с печатью на странице заметок, из-за которой в некоторых случаях возникали проблемы с разметкой.
+
+## <a name="version-1808-december-10"></a>Версия 1808: 10 декабря
+*Версия 1808 (сборка 10730.20426)*
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/ru-RU/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
 ## <a name="version-1902-november-22"></a>Версия 1902: 22 ноября
 *Версия 1902 (сборка 11328.20480)*
-
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
