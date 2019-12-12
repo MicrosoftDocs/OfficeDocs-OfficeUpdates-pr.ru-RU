@@ -3,19 +3,19 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289657"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961804"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -30,6 +30,25 @@ ms.locfileid: "38289657"
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="december-2019-release"></a>Выпуск за декабрь 2019 г.
+
+**Дата выпуска:** 10 декабря 2019 г.
+
+*Функция автоматического обновления (Майкрософт) версии 4.18*
+
+ **Обновления компонентов:**
+
+- Канал для приложения. Администраторы Mac теперь могут подписаться на различные каналы или круги проверки для каждого приложения. 
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>Выпуск за ноябрь 2019 г.
 
