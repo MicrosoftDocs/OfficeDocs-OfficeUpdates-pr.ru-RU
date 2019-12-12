@@ -3,19 +3,19 @@ title: Журнал обновлений Office 2016 для Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпуске Office 2016 для Mac за сентябрь 2018 г. и более поздних, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 52c3c6244c2cd1d8ae3c002a874d71205cb79333
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289687"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962216"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Журнал обновлений Office 2016 для Mac
 
@@ -34,17 +34,34 @@ Office 2016 для Mac — это версия Office, которую можно
 
 В таблице ниже перечислены последние пакеты для Office 2016 для Mac и для отдельных приложений, например Word или Excel. Все пакеты 64-разрядные. Дата сборки указана в скобках в формате ГГММДД после номера версии. Если у вас еще не установлено соответствующее приложение, используйте установочный пакет. Для обновления установленного приложения используйте пакет обновления.
 
-### <a name="november-12-2019"></a>12 ноября 2019 г.
-Версия 16.16.16 (19111100)
+### <a name="december-10-2019"></a>10 декабря 2019 г.
+Версия 16.16.17 (19120800)
 
 |**Приложение**|**Ссылки для скачивания**|**Хэш SHA256 для пакета установки**|
 |:-----|:-----|:-----|:-----|
-|Набор Office (все приложения)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | E412F8E82EC7E5CA3650CCF7A98956C93553928EE3CE4B0ECB7760F527834B66 <br/> |
-|Word  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19111100_Updater.pkg) <br/> | 70007A789AA03F31E443DD660F5957B429D33592A356F35F18121B00C640C185 <br/>|
-|Excel  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19111100_Updater.pkg) <br/> | D9A138F87D59179937FE398D9D9556A01AACFA63F6E2FBC1FCDE064ADC667A72 <br/>  |
-|PowerPoint  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19111100_Updater.pkg) <br/> | 90C7F39685FAA8E6CAAD7C2AACEB651FCDADA044148724C67E4E5FB36344D0D5 <br/> |
-|Outlook  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19111100_Updater.pkg) <br/> |  0D849BDDE5DD7A41A4CEAB7D16153CF1E7FB6855D21E58DFD83BA82749BC1384 <br/> |
-|OneNote  <br/> |[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19111100_Updater.pkg) <br/> | Неприменимо <br/> |
+|Набор Office (все приложения)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | A47B8E1B985699111FF2A8287D194BAE9605E6FD30A279ABE9A3123FE8230E3B <br/> |
+|Word  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19120800_Updater.pkg) <br/> | 90788C3CBCDBF8065C1DB801FCD3FED29B5B26D0CB32CD5E450398A605B96BA6 <br/>|
+|Excel  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19120800_Updater.pkg) <br/> | FA3423EB2C1CDF314392362CEE7E3460F070A881F5662D00849CC19AD153C909 <br/>  |
+|PowerPoint  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19120800_Updater.pkg) <br/> | 20CFC1F25883F8925969EA7C510B5B9C566AE4A26441BA6BEB7D38EA7AC7E359 <br/> |
+|Outlook  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19120800_Updater.pkg) <br/> |  1A04BBBE77DB92483D2B00312C2EBCB6F0DA15DAA99C3775CE05062A65F23D04 <br/> |
+|OneNote  <br/> |[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19120800_Updater.pkg) <br/> | Неприменимо <br/> |
+
+## <a name="december-2019-release"></a>Выпуск за декабрь 2019 г.
+
+ **Дата выпуска:** 10 декабря 2019 г. 
+  
+ *Версия 16.16.17 (сборка 19120800)* 
+  
+Этот выпуск включает указанные ниже обновления.
+  
+|**Приложение**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Word  <br/> | |[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19120800_Updater.pkg) <br/>|
+|Excel  <br/> | [CVE-2019-1464](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1464)<br/>|[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19120800_Updater.pkg) <br/>|
+|PowerPoint  <br/> |[CVE-2019-1462](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1462)|[Пакет обновления для PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19120800_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19120800_Updater.pkg) <br/>|
+|OneNote <br/> ||[Пакет обновления OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19120800_Updater.pkg)|
+|Набор Office  <br/> | <br/>||
 
 ## <a name="november-2019-release"></a>Выпуск за ноябрь 2019 г.
 
