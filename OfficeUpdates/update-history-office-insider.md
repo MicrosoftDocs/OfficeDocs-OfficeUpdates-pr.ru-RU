@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857867"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023770"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
@@ -31,6 +31,9 @@ ms.locfileid: "39857867"
 Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**12 декабря 2019 г.**<br/>
+Версия 2001 (сборка 12410.20000)<br/>
 
 **2 декабря 2019 г.**<br/>
 Версия 1912 (сборка 12325.20012)<br/>
@@ -177,8 +180,7 @@ ms.locfileid: "39857867"
 **Программа предварительной оценки Office в Twitter**<br/> В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.<br/> 
 [Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Получайте новые возможности первыми**

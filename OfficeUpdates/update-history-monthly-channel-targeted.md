@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961956"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023574"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -22,7 +22,7 @@ ms.locfileid: "39961956"
 
 ## <a name="office-insider-versions-and-builds"></a>Версии и сборки Office Insider
 
-Если вы являетесь участником уровня Monthly Channel (Targeted), который ранее носил название «Предварительная оценка — поздний доступ», вы получаете обновления для компонентов Office приблизительно раз в месяц, а также получаете все последующие сборки с важными исправлениями или обновления для системы безопасности. Ниже перечислены последние версии и сборки для Monthly Channel (Targeted), а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. Чтобы найти заметки о выпуске, см. [Новые возможности для участников программы предварительной оценки Office](https://support.office.com/ru-RU/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Если вы являетесь участником уровня Monthly Channel (Targeted), который ранее носил название «Предварительная оценка — поздний доступ», вы получаете обновления для компонентов Office приблизительно раз в месяц, а также получаете все последующие сборки с важными исправлениями или обновления для системы безопасности. Ниже перечислены последние версии и сборки для Monthly Channel (Targeted), а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. Чтобы найти заметки о выпуске, см. [Новые возможности для участников программы предварительной оценки Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
@@ -30,6 +30,9 @@ ms.locfileid: "39961956"
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**12 декабря 2019 г.**<br/>
+Версия 1912 (сборка 12325.20172)<br/>
 
 **10 декабря 2019 г.**<br/>
 Версия 1911 (сборка 12228.20364)<br/>
@@ -198,8 +201,7 @@ ms.locfileid: "39961956"
 **Программа предварительной оценки Office в Twitter**<br/> В @OfficeInsider мы часто публикуем информацию о выпусках для участников программы предварительной оценки и проводим специальные мероприятия.<br/> 
 [Следите за нами в Твиттере](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![Изображение с иконкой Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Получайте новые возможности первыми**
