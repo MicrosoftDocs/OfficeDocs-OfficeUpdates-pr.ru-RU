@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961986"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023730"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -35,7 +35,7 @@ ms.locfileid: "39961986"
 ## <a name="version-1902-december-10"></a>Версия 1902: 10 декабря
 *Версия 1902 (сборка 11328.20492)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -47,7 +47,7 @@ ms.locfileid: "39961986"
 
 ### <a name="outlook"></a>Outlook
 
-- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/ru-RU/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - Исправлена проблема, приводившая к сбою при попытке пользователей создать правило на основе сообщения о &quot;пропущенной беседе&quot;.
 
@@ -61,7 +61,7 @@ ms.locfileid: "39961986"
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="outlook"></a>Outlook
 
-- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/ru-RU/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- В элементах календаря Outlook на следующий год может отображаться неправильное время. [Подробнее](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -249,7 +249,7 @@ ms.locfileid: "39961986"
 Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
-- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1803-august-13"></a>Версия 1803: 13 августа
@@ -258,7 +258,7 @@ ms.locfileid: "39961986"
 Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
-- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/ru-RU/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Исправлена проблема, из-за которой API настроек не работал в библиотеке JavaScript для Office при определенных сценариях. [Подробнее](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля

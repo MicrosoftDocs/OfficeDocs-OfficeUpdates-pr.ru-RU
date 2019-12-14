@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961764"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023564"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -64,11 +64,11 @@ ms.locfileid: "39961764"
 
 [Обновления системы безопасности и другие обновления за июнь 2019 г.: KB4505743](https://support.microsoft.com/help/4505743)
 
-[Обновления для системы безопасности и другие обновления за май 2019 г.: KB4501270 ](https://support.microsoft.com/ru-RU/help/4501270)
+[Обновления для системы безопасности и другие обновления за май 2019 г.: KB4501270 ](https://support.microsoft.com/help/4501270)
 
-[Обновления для системы безопасности и другие обновления за апрель 2019 г.: KB4495300](https://support.microsoft.com/ru-RU/help/4495300)
+[Обновления для системы безопасности и другие обновления за апрель 2019 г.: KB4495300](https://support.microsoft.com/help/4495300)
 
-[Обновления для системы безопасности и другие обновления за март 2019 г.: KB 4491754](https://support.microsoft.com/ru-RU/help/4491754) 
+[Обновления для системы безопасности и другие обновления за март 2019 г.: KB 4491754](https://support.microsoft.com/help/4491754) 
 
 [Обновления для системы безопасности и другие обновления за февраль 2019 г.: KB 4488446](https://support.microsoft.com/help/4488446)
 

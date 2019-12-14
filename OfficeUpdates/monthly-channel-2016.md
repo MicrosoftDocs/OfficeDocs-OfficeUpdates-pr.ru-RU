@@ -1,5 +1,5 @@
 ---
-title: Заметки о выПуске ежемесячных выпусков маркетинговых программ в 2016
+title: Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для ежемесячных выпусков Office 365 профессиональный плюс в 2016
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438774"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023594"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Заметки о выПуске ежемесячных выпусков маркетинговых программ в 2016
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2016
 
 Эти заметки о выпусках содержат сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, которые включены в ежемесячные обновления для Office 365 профессиональный плюс в 2016.
  
@@ -632,7 +632,7 @@ ms.locfileid: "32438774"
 *Версия 1605 (сборка 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel. Обновления функций
--   **Улучшения при получении преобразования _амп_:** Новые или улучшенные функции преобразования данных и подключения к данным для Power Query. Если она вредоносная, пользователь перенаправляется на страницу предупреждения, а не на целевой URL-адрес.[Дополнительные сведения](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Улучшения & преобразования:** Новые или улучшенные функции преобразования данных и подключения к данным для Power Query. Если она вредоносная, пользователь перенаправляется на страницу предупреждения, а не на целевой URL-адрес.[Дополнительные сведения](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 -   Устранена проблема, в результате которой раскрывающиеся списки проверки данных повреждались и дублировались в книгах с несколькими листами.
@@ -931,7 +931,7 @@ ms.locfileid: "32438774"
 -   Исправлена ошибка, из-за которой использование Application.OnKey() для записи нажатий клавиш приводит к сбою Excel.
 
 ### <a name="word-non-security-updates"></a>Word. Обновления, не связанные с безопасностью
--   Исправлена ошибка, из-за которой элементы форматирования документа при редактировании в Word отображаются неправильно. [Дополнительные сведения об этой проблеме](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   Исправлена ошибка, из-за которой элементы форматирования документа при редактировании в Word отображаются неправильно. [Дополнительные сведения об этой проблеме](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
