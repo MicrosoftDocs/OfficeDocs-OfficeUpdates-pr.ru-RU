@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023604"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302978"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -154,8 +154,6 @@ ms.locfileid: "40023604"
 - **Применение меток конфиденциальности к документам и электронным письмам.** Применяйте метки конфиденциальности к своим файлам и электронным письмам, чтобы они соответствовали политикам защиты данных вашей организации. [Подробнее](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Предложение обновления Outlook после возникновения ошибки**. Если в Outlook возникает ошибка, исправленная в более поздней версии, Outlook предлагает пользователям выполнить обновление и получить исправление
 
 - **Применение меток конфиденциальности к документам и электронным письмам.** Применяйте метки конфиденциальности к своим файлам и электронным письмам, чтобы они соответствовали политикам защиты данных вашей организации. [Подробнее](https://aka.ms/officemipdocs)
 

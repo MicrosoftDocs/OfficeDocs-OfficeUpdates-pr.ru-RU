@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023730"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302968"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -422,7 +422,7 @@ ms.locfileid: "40023730"
  - Исправлена проблема, из-за которой список последних файлов отображался пустым для многих пользователей в Windows 10.
  - Исправлена проблема, приводившая к отображению для пользователей рабочей панели обновления Office, несмотря на выполнение обновления, запущенного администратором.
  - Исправлены проблемы, связанные с периодическим появлением пустых запросов на вход.
- - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Исправлена ошибка, из-за которой части обновления Office не использовали одноранговое кэширование оптимизации доставки. [Подробнее](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Исправлена ошибка, которая могла приводить к удалению продуктов или блокировке их активации, если Office был установлен с помощью средства развертывания Office и имелся несоответствия регистра.
 - Исправлена проблема, приводившая к появлению повторяющихся запросов на вход на устройствах с Windows 10 (версия 1803 или более поздняя).
 - Исправлена регрессия, вызывавшая зависания при скачивании связанных изображений.
