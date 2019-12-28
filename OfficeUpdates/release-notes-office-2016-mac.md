@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпуске Office 2016 для Mac за сентябрь 2018 г. и более поздних, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962216"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889284"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Журнал обновлений Office 2016 для Mac
 
 Office 2016 для Mac — это версия Office, которую можно приобрести в розничном магазине или через соглашение о корпоративном лицензировании. Она будет поддерживаться путем выпуска обновлений для системы безопасности и исправлений ошибок до 13 октября 2020 года. Минимальная поддерживаемая версия macOS для Office 2016 для Mac — 10.10 (Yosemite).
 
 > [!NOTE]
-> - Из соображений безопасности корпорация Майкрософт прекратила использование SHA-1. [Подробнее](https://docs.microsoft.com/ru-RU/security-updates/SecurityAdvisories/2017/4010323)
+> - Из соображений безопасности корпорация Майкрософт прекратила использование SHA-1. [Подробнее](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Заметки о выпусках Office 2016 для Mac до сентября 2018 года см. в статье [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md).  
 > - Информацию о выпусках Office для Mac, версии, которой входит в состав подписок на Office 365, см. в [заметках о выпусках](release-notes-office-for-mac.md) и [истории обновлений](update-history-office-for-mac.md) Office для Mac.
 > - Office 2019 для Mac — самая последняя версия, которая приобретается единоразово. Информацию о выпусках Office 2019 для Mac см. в [заметках о выпусках](release-notes-office-for-mac.md) и [истории обновлений](update-history-office-for-mac.md) Office для Mac.

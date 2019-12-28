@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: c572d3ffb93b4d0c8c9e970234ff134e291a3da2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023740"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889334"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -258,7 +258,7 @@ ms.locfileid: "40023740"
   
 - Windows Server AppFabric с SharePoint
   
-  - [AppFabric](https://msdn.microsoft.com/ru-RU/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
   - [AppFabric с SharePoint: основные понятия](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [Обновления AppFabric](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -270,7 +270,7 @@ ms.locfileid: "40023740"
 
 ## <a name="related-topics"></a>Связанные статьи
 
-- [Установка обновления программного обеспечения для SharePoint Server 2019](https://docs.microsoft.com/ru-RU/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [Установка обновления программного обеспечения для SharePoint Server 2019](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [Установка обновления программного обеспечения для SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [Обзор обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [Подготовка к развертыванию обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
