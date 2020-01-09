@@ -3,19 +3,19 @@ title: Последние обновления, не связанные с бе�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/04/2019
+ms.date: 1/08/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
-ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
+ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39678651"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961656"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -26,6 +26,21 @@ ms.locfileid: "39678651"
 > - Информация в этой статье не относится к версиям Office, входящим в состав Office 365, например Office 365 профессиональный плюс.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="january-7-2020"></a>7 января 2020 г.
+
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
+Обновление для Microsoft Office 2016 ([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
+Обновление для Microsoft Office 2016 ([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
+Обновление для Microsoft Outlook 2016 ([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
+Обновление для Microsoft PowerPoint 2016 ([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
+Обновление для Microsoft Project 2016 ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
+Обновление для Microsoft Visio 2016 ([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
+Обновление для Microsoft Visio Viewer 2016 ([KB2920709](https://support.microsoft.com/help/2920709)) <br/>
+Обновление для Microsoft Word 2016 ([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
+Обновление для Skype для бизнеса 2016 ([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
+
 
 ## <a name="december-3-2019"></a>3 декабря 2019 г.
 
