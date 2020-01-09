@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: c029ad7f9eeac950a9d704a158075f4774f4b9c4
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6bbaffa6d39dae9f4a35ad382fd7f6ec4efd8b7c
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962296"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995539"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "39962296"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly Channel<br/>|1911<br/>|12228.20364<br/>|10 декабря 2019 г.<br/>|Выпуск версии 1912<br/>|
+|Monthly Channel<br/>|1912<br/>|12325.20288<br/>|8 января 2020 г.<br/>|Выпуска версии 2001<br/>|
 |Semi-Annual (Targeted)<br/>|1908<br/>|11929.20516<br/>|10 декабря 2019 г.<br/>|10 марта 2020 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20492<br/>|10 декабря 2019 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1808<br/>|10730.20426<br/>|10 декабря 2019 г.<br/>|10 марта 2020 г.<br/>|
@@ -46,9 +46,10 @@ ms.locfileid: "39962296"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019 г.|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Версия 1908 (сборка 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
-|2019 г.|3 декабря|[Версия 1911 (сборка 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
-|2019 г.|22 ноября|[Версия 1910 (сборка 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Версия 1908 (сборка 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Версия 1902 (сборка 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Версия 1808 (сборка 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
+|2020|8 января|[Версия 1912 (сборка 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
+|2019|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Версия 1908 (сборка 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
+|2019|3 декабря|[Версия 1911 (сборка 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
+|2019|22 ноября|[Версия 1910 (сборка 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Версия 1908 (сборка 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Версия 1902 (сборка 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Версия 1808 (сборка 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 ноября|[Версия 1910 (сборка 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
 |2019|12 ноября|[Версия 1910 (сборка 12130.20344)](monthly-channel-2019.md#version-1910-november-12) |[Версия 1908 (сборка 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[Версия 1902 (сборка 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[Версия 1808 (сборка 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
 |2019|30 октября|[Версия 1910 (сборка 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
