@@ -3,26 +3,26 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: f20d59daf68b01110c0bca39db28646f2c738dba
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: d4d3ca95f2bdca89936b047b407a3662eb75e619
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023760"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122068"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5197.1000**, выпущенная 10 декабря 2019 г.
+> Последняя версия Office 2013 — **15.0.5207.1000**, выпущенная 14 января 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,7 +46,8 @@ ms.locfileid: "40023760"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2019 г.|10 декабря   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
+|2020|14 января   |15.0.5207.1000   |[KB 4536554   ](https://support.microsoft.com/help/4536554)  |
+|2019|10 декабря   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
 ||12 ноября   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/help/4527848)  |
 ||8 октября   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/help/4522242)  |
 ||10 сентября   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/help/4517986)  |

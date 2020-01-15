@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961784"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122018"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -25,6 +25,30 @@ ms.locfileid: "39961784"
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.  
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="january-14-2020"></a>14 января 2020 г.
+Monthly Channel: версия 1912 (сборка 12325.20298)  
+Semi-Annual Channel (Targeted): версия 1908 (сборка 11929.20562)  
+Semi-Annual Channel: версия 1908 (сборка 11929.20562)  
+Semi-Annual Channel: версия 1902 (сборка 11328.20512)  
+Semi-Annual Channel: версия 1808 (сборка 10730.20432)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="december-10-2019"></a>10 декабря 2019 г.
 Monthly Channel: версия 1911 (сборка 12228.20364)  

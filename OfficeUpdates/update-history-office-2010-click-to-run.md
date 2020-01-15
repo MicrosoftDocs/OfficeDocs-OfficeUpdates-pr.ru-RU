@@ -3,19 +3,19 @@ title: Журнал обновления продуктов Office 2010 "наж
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 19b6f375a0c21a3adab2c5442a331f5f69b993ec
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: d7d821be6ec1e5c525a2b627bf74f516b78be494
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023750"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122318"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -30,7 +30,7 @@ ms.locfileid: "40023750"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7243.5000**, выпущенная 10 декабря 2019.
+> Самая последняя версия Office 2010 — **14.0.7244.5000**, выпущенная 14 января 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,6 +54,7 @@ ms.locfileid: "40023750"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
+|2020|14 января  <br/> |14.0.7244.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4536554](https://support.microsoft.com/help/4536554) <br/> |
 |2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||12 ноября  <br/> |14.0.7241.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||8 октября  <br/> |14.0.7239.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4522242](https://support.microsoft.com/help/4522242) <br/> |

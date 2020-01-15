@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995559"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122008"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -30,35 +30,35 @@ ms.locfileid: "40995559"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
+## <a name="version-2001-january-14"></a>Версия 2001: 14 января
+*Версия 2001 (сборка 12430.20050)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
 ## <a name="version-1912-january-08"></a>Версия 1912: 8 января
 *Версия 1912 (сборка 12325.20288)*
 
 ## <a name="version-1912-january-07"></a>Версия 1912: 7 января
 *Версия 1912 (сборка 12325.20280)*
 
-
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="outlook"></a>Outlook
 
-- <div>Исправлена проблема, из-за которой пользователи иногда наблюдали отправку сообщений на адрес, не соответствующий отображавшемуся SMTP-адресу.</div>
-
-
+- Исправлена проблема, из-за которой пользователи иногда наблюдали отправку сообщений на адрес, не соответствующий отображавшемуся SMTP-адресу.</div>
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1912-january-06"></a>Версия 1912: 6 января
 *Версия 1912 (сборка 12325.20264)*
 
-
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/ru-RU/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
+- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 

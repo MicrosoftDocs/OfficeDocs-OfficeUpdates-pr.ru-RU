@@ -3,19 +3,19 @@ title: Журнал обновлений для Office 2016 C2R и Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: c3469634c0e6182b3d43c353aab23ccf44bf85a7
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f06fabf6b50544b1d0a8776767da3a1843312277
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962306"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122308"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -39,12 +39,13 @@ ms.locfileid: "39962306"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|14 января 2020 г.   |Версия 1808 (сборка 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |10 декабря 2019 г.   |Версия 1808 (сборка 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1464) <br/> |
 |12 ноября 2019 г.   |Версия 1808 (сборка 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 октября 2019 г.   |Версия 1808 (сборка 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 сентября 2019 г.   |Версия 1808 (сборка 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |13 августа 2019 г.   |Версия 1808 (сборка 10349.20017)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1205) <br/>  |
-|9 июля 2019 г.   |Версия 1808 (сборка 10348.20020)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1112) <br/>|
+
 
 
 
@@ -57,6 +58,8 @@ ms.locfileid: "39962306"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|14 января 2020 г.   |Версия 1912 (сборка 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652) <br/>  |
+|8 января 2020 г.   |Версия 1912 (сборка 12325.20288)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |10 декабря 2019 г.   |Версия 1911 (сборка 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1464) <br/> |
 |22 ноября 2019 г.   |Версия 1910 (сборка 12130.20410)  |Исправления различных ошибок и улучшения производительности.<br/>  |
 |18 ноября 2019 г.   |Версия 1910 (сборка 12130.20390)  |Исправления различных ошибок и улучшения производительности.<br/>  |
@@ -64,7 +67,7 @@ ms.locfileid: "39962306"
 |8 октября 2019 г.   |Версия 1909 (сборка 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 сентября 2019 г.   |Версия 1908 (сборка 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |13 августа 2019 г.   |Версия 1907 (сборка 11901.20218)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1205) <br/>  |
-|9 июля 2019 г.   |Версия 1906 (сборка 11727.20244)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1112) <br/>|
+
 
 
 
