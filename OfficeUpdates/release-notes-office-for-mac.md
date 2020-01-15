@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982269"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122298"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -33,6 +33,45 @@ ms.locfileid: "39982269"
 
 
 
+[//]: # (НЕ УДАЛЯТЬ)
+
+
+## <a name="january-14-2020"></a>14 января 2020 г.
+*Версия 16.33 (сборка 20011301)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="excel"></a>Excel
+
+- **Ввод формулы, возвращающей несколько значений.** Теперь вы можете быстро ввести формулу, возвращающую несколько значений, которые автоматически переносятся в смежные ячейки. [Подробнее](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Создание запросов и управление ими с помощью VBA для Mac.** Создавайте запросы Power Query для поддерживаемых источников и управляйте ими на компьютере Mac с помощью VBA.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **Встроенные специальные возможности: поддержка High Sierra.** Мы добавили поддержку High Sierra, включая язык, ссылки и таблицы, в ротор, а также улучшили поиск поддержки. 
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="security-updates"></a>Обновления для системы безопасности
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="december-10-2019"></a>10 декабря 2019 г.
 *Версия 16.32 (сборка 19120802)*
