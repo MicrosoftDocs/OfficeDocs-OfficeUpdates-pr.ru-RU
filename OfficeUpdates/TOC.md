@@ -28,7 +28,7 @@
 ### [Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
 ### [Заметки о выпуске для канала Monthly Channel (Targeted)](release-notes-monthly-channel-targeted.md)
 
-## [Журнал обновлений Office в Windows 7](update-history-office-Win7.md)
+## [Журнал обновлений Windows 7](update-history-office-Win7.md)
 
 ## [Журнал выпусков средства развертывания Office](ODT-release-history.md)
 
