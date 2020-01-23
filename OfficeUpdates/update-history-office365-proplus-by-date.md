@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: df1e3c5c12943e5cc6474d50200c329689b9af25
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
+ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122358"
+ms.lasthandoff: 01/23/2020
+ms.locfileid: "41475236"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "41122358"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly Channel<br/>|1912<br/>|12325.20298<br/>|14 января 2020 г.<br/>|Выпуска версии 2001<br/>|
+|Monthly Channel<br/>|1912<br/>|12325.20344<br/>|22 января 2020 г.<br/>|Выпуска версии 2001<br/>|
 |Semi-Annual (Targeted)<br/>|1908<br/>|11929.20562<br/>|14 января 2020 г.<br/>|10 марта 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20562<br/>|14 января 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20512<br/>|14 января 2020 г.<br/>|8 сентября 2020 г.<br/>|
@@ -47,6 +47,7 @@ ms.locfileid: "41122358"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|22 января|[Версия 1912 (сборка 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|14 января|[Версия 1912 (сборка 12325.20298)](monthly-channel-2020.md#version-1912-january-14) |[Версия 1908 (сборка 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Версия 1902 (сборка 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Версия 1808 (сборка 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|8 января|[Версия 1912 (сборка 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
 |2019|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Версия 1908 (сборка 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
