@@ -1,5 +1,5 @@
 ---
-title: Заметки о выПуске для полугодовых выпусков (целевых) каналов в 2016
+title: Заметки о выпуске для полугодовых выпусков (целевых) каналов в 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков (целевых) каналов для Office 365 профессиональный плюс в 2016
-ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439004"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629236"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Заметки о выПуске для полугодовых выпусков (целевых) каналов в 2016
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Заметки о выпуске для полугодовых выпусков (целевых) каналов в 2016
 
 Эти заметки о выпусках содержат сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, которые включены в полугодовые (целевые) обновления для Office 365 профессиональный плюс в 2016.
  
@@ -52,7 +52,7 @@ ms.locfileid: "32439004"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Устранена проблема с формами VBA, из-за которой рамки по оси z перестают работать или отображаются неправильно.
--   Исправлена ошибка, из-за которой при обновлении, запускаемом диспетчером System Center Configuration Manager, в реестре устанавливается недопустимое значение параметра UpdateChannel.
+-   Исправлена ошибка, из-за которой при обновлении обновлении запускаемом диспетчером в диспетчере конфигураций параметр UpdateChannel в реестре изменяется на что-либо, что не является допустимым каналом обновления.
 -   Исправлена ошибка, из-за которой при синхронизации файлов с сайта OneDrive для бизнеса на локальный компьютер с помощью клиента синхронизации OneDrive сохранение файла, открытого из URL-адреса, приводит к зависанию Word, Excel или PowerPoint.
 
 
@@ -418,7 +418,7 @@ ms.locfileid: "32439004"
 *Версия 1605 (сборка 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel. Обновления функций
--   **Улучшения при получении преобразования _амп_:** Новые или улучшенные функции преобразования данных и подключения к данным для Power Query. [Дополнительные сведения](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Улучшения & преобразования:** Новые или улучшенные функции преобразования данных и подключения к данным для Power Query. [Дополнительные сведения](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Дополнительные подключения к данным** Запрос данных из источников JSON и хранилища данных SQL Azure.
 -   **Улучшения Power Query:** Были улучшены существующие и добавлены новые функции преобразования и подключения данных. [Дополнительные сведения](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Поддержка больших адресов:** 32-разрядные версии Excel могут использовать больше памяти (если доступно).[Дополнительные сведения](https://support.microsoft.com/kb/3160741)
@@ -834,7 +834,7 @@ ms.locfileid: "32439004"
 -   **Возможность сортировки при выборе элементов "Файл" \> "Открыть".** Сортируйте по имени или дате изменения, выбрав элементы "Файл" \> "Открыть" во всех приложениях, кроме Outlook. В Word, Excel и PowerPoint сортировка также доступна при выборе элементов "Файл" \> "Сохранить как".
 -   **Folder browse capability in File \> Save As:** Use full folder navigation in File \> Save As in Word, Excel, and PowerPoint for OneDrive folders, OneDrive for Business folders, and This PC.
 -   **Варианты отправки.** Отправка документа в виде вложения или в виде PDF-файла из области "Общий доступ" в Word или PowerPoint.
--   **API вставки рисунков:**  Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки [](https://msdn.microsoft.com/library/office/mt598674.aspx)встроенных рисунков в тексте, а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков:**  Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-081](https://technet.microsoft.com/library/security/ms15-081). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3080790).

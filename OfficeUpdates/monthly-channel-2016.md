@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для ежемесячных выпусков Office 365 профессиональный плюс в 2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023594"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629246"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2016
 
@@ -131,7 +131,7 @@ ms.locfileid: "40023594"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Устранена проблема с формами VBA, из-за которой рамки по оси z перестают работать или отображаются неправильно.
--   Исправлена ошибка, из-за которой при обновлении, запускаемом диспетчером System Center Configuration Manager, в реестре устанавливается недопустимое значение параметра UpdateChannel.
+-   Исправлена ошибка, из-за которой при обновлении обновлении запускаемом диспетчером в диспетчере конфигураций параметр UpdateChannel в реестре изменяется на что-либо, что не является допустимым каналом обновления.
 
 
 

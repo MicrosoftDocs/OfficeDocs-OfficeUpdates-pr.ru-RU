@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для ежемесячных выпусков Office 365 профессиональный плюс в 2017
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375825"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629256"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2017
 
@@ -72,7 +72,7 @@ ms.locfileid: "37375825"
 -   **Быстрый доступ к сайтам и группам.** Используйте меню "Файл" для работы с документами, хранящимися на часто используемых сайтах и в часто используемых группах.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
--   Если включен объект Office COM, вариант "Обновить сейчас" скрыт в разделе "Файл \> Учетная запись \> Параметры обновления". Таким образом, обновлениями клиента Office 365 управляет System Center Configuration Manager.
+-   Параметр Обновить сейчас скрыто в разделе Параметры обновления \> учетных записей \> , когда COM-объект Office включен таким образом, что Управление обновлениями клиентов Office 365 осуществляется с помощью Configuration Manager.
 
 
 ## <a name="version-1710-november-27"></a>Версия 1710:27 ноября

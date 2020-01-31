@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
-ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
+ms.openlocfilehash: 2102838b298c0a0ef27ba36e7bfd101697b2651e
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41231862"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576582"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,45 @@ ms.locfileid: "41231862"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2001-january-27"></a>Версия 2001: 27 января
+*Версия 2001 (сборка 12430.20170)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="excel"></a>Excel
+
+- **Быстрое прочтение и ответ.** Отвечайте на примечания и упоминания прямо в сообщении электронной почты, не открывая книгу.
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Профилирование данных в редакторе запросов.** Получайте быстрый анализ данных в столбцах, выявляйте ошибки и пустые значения, просматривайте гистограммы распределения и т. д.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Подготовка, настройка, рисование.** С ручкой Surface вы готовы к рисованию. [Подробнее](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="access"></a>Access
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">Это обновление исправляет проблему, из-за которой Microsoft Access не удавалось определить столбец идентификаторов в связанной таблице SQL Server, что могло приводить к неправильному указанию строк как удаленных</span></span></div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2001-january-17"></a>Версия 2001: 17 января
 *Версия 2001 (сборка 12430.20120)*

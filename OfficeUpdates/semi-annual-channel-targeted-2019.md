@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2384ed54f8e18e89981cdd875d46bfd9ba7e95a5
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961976"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576576"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -27,7 +27,7 @@ ms.locfileid: "39961976"
 ## <a name="version-1908-december-10"></a>Версия 1908: 10 декабря
 *Версия 1908 (сборка 11929.20516)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -365,7 +365,7 @@ ms.locfileid: "39961976"
 
 - **Новый дизайн значков Office.** Дизайн значков Office был изменен с целью отобразить простой, мощный и интеллектуальный интерфейс Office.
 
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается для существующих экземпляров Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -695,7 +695,7 @@ ms.locfileid: "39961976"
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 
 - **Сторонние приложения Office теперь поддерживают вставку формата SVG с помощью API Office.js.** В сторонних приложениях, также называемых надстройками в Office, теперь есть возможность вставки формата SVG. Пользователи теперь могут подключать собственные коллекции файлов SVG к Office. Разработчики могут использовать эту функцию с помощью API Office.js.
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с НОВЫМИ экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается для существующих экземпляров Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype для бизнеса: Обновления функций
 

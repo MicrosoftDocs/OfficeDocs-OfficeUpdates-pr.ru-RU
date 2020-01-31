@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
-ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
+ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "41214543"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576592"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -148,7 +148,7 @@ ms.locfileid: "41214543"
 
 - **Новый дизайн значков Office.** Дизайн значков Office был изменен с целью отобразить простой, мощный и интеллектуальный интерфейс Office.
 
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается с новыми экземплярами Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается для существующих экземпляров Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 

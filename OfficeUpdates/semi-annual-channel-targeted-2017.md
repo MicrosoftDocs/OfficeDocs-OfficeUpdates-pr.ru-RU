@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков (целевых) каналов для Office 365 профессиональный плюс в 2017
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439134"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629276"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Заметки о выпуске для полугодовых выпусков (целевых) каналов в 2017
 
@@ -375,7 +375,7 @@ ms.locfileid: "32439134"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
--   Исправлена ошибка, из-за которой не выполняются автоматические обновления Office 2013 до Office 2016 при использовании System Center Configuration Manager.
+-   Исправлена ошибка, которая приводит к сбою автоматического обновления Office 2013 до Office 2016 при использовании диспетчера конфигураций.
 -   Исправлена ошибка, из-за которой не загружаются устаревшие надстройки, развернутые из магазина через корпоративный каталог.
 
 
@@ -909,7 +909,7 @@ ms.locfileid: "32439134"
 -   Исправлена ошибка, из-за которой после вставки SVG-изображения в документ Office оно исчезает при сохранении и повторном открытии документа.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Устранена проблема с формами VBA, из-за которой рамки по оси z перестают работать или отображаются неправильно.
--   Исправлена ошибка, из-за которой при обновлении, запускаемом диспетчером System Center Configuration Manager, в реестре устанавливается недопустимое значение параметра UpdateChannel.
+-   Исправлена ошибка, из-за которой при обновлении обновлении запускаемом диспетчером в диспетчере конфигураций параметр UpdateChannel в реестре изменяется на что-либо, что не является допустимым каналом обновления.
 
 
 

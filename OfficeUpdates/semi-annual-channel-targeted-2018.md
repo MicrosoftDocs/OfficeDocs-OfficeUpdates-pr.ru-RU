@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439104"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629306"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2018 г.
 
@@ -299,7 +299,7 @@ ms.locfileid: "32439104"
 -   [CVE-2018-0950:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0950) уязвимость Microsoft Office, связанная с раскрытием информации
 -   [CVE-2018-1026:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1026) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1030): уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/ru-RU/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -  Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время.
@@ -350,7 +350,7 @@ ms.locfileid: "32439104"
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время. 
 -   Исправлена ошибка, которая приводила к сбоям тестов SVG.
--   Исправлена ошибка, из-за которой при развертывании обновлений с помощью System Center Configuration Manager на клиенте с запущенными приложениями Office обновление не применяется после перезапуска устройства.
+-   Исправлена ошибка, из-за которой при развертывании обновлений с помощью Configuration Manager на клиенте с запущенными приложениями Office обновление не применяется после перезапуска устройства.
 
 
 ## <a name="version-1803-june-12"></a>Версия 1803: 12 июня
@@ -375,7 +375,7 @@ ms.locfileid: "32439104"
 -   Исправлена ошибка, из-за которой в диалоговом окне добавления существующих задач на временную шкалу отображаются только задачи из первой суммарной задачи.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
--   Исправлена ошибка, из-за которой при развертывании обновлений с помощью System Center Configuration Manager на клиенте с запущенными приложениями Office обновление не применяется после перезапуска устройства.
+-   Исправлена ошибка, из-за которой при развертывании обновлений с помощью Configuration Manager на клиенте с запущенными приложениями Office обновление не применяется после перезапуска устройства.
 
 
 
@@ -714,7 +714,7 @@ ms.locfileid: "32439104"
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой при открытии приложения может появиться сообщение о запуске в безопасном режиме, после чего происходит сбой и приложение не открывается.
--   Если включен объект Office COM, вариант "Обновить сейчас" скрыт в разделе "Файл \> Учетная запись \> Параметры обновления". Таким образом, обновлениями клиента Office 365 управляет System Center Configuration Manager.
+-   Если включен объект Office COM, вариант "Обновить сейчас" скрыт в разделе "Файл \> Учетная запись \> Параметры обновления". Таким образом, обновлениями клиента Office 365 управляет Configuration Manager.
 -   Исправлена ошибка, из-за которой приложение Office дает сбой при попытке активировать его с помощью диалогового окна "Активация Office".
 -   Устранена проблема, связанная с масштабированием надстроек Office в динамичной среде DPI.
 -   Устранена проблема, из-за которой узел CurrentStatus  для поставщика службы конфигурации Office возвращает пустую строку, даже если установлен Office 365 профессиональный плюс.
