@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
-ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
+ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41475236"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650827"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -47,6 +47,7 @@ ms.locfileid: "41475236"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|30 января|[Версия 2001 (сборка 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | |
 |2020|22 января|[Версия 1912 (сборка 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|14 января|[Версия 1912 (сборка 12325.20298)](monthly-channel-2020.md#version-1912-january-14) |[Версия 1908 (сборка 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Версия 1902 (сборка 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Версия 1808 (сборка 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|8 января|[Версия 1912 (сборка 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
