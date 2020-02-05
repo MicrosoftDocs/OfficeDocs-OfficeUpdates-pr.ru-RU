@@ -3,19 +3,19 @@ title: Последние обновления, не связанные с бе�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/08/2020
+ms.date: 2/05/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961656"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721820"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -26,6 +26,12 @@ ms.locfileid: "40961656"
 > - Информация в этой статье не относится к версиям Office, входящим в состав Office 365, например Office 365 профессиональный плюс.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="february-4-2020"></a>4 февраля 2020 г.
+
+**Office 2016**<br/>
+Обновление для Microsoft Project 2016 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
+Обновление для Microsoft Word 2016 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
 ## <a name="january-7-2020"></a>7 января 2020 г.
 

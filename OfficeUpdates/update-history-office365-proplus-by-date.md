@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 4a4c4de8c1fb0645a0ae630075cc07cf2035cc9e
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650827"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721810"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "41650827"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly Channel<br/>|1912<br/>|12325.20344<br/>|22 января 2020 г.<br/>|Выпуска версии 2001<br/>|
+|Monthly Channel<br/>|2001<br/>|12430.20184<br/>|30 января 2020 г.<br/>|Выпуска версии 2002<br/>|
 |Semi-Annual (Targeted)<br/>|1908<br/>|11929.20562<br/>|14 января 2020 г.<br/>|10 марта 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20562<br/>|14 января 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20512<br/>|14 января 2020 г.<br/>|8 сентября 2020 г.<br/>|
