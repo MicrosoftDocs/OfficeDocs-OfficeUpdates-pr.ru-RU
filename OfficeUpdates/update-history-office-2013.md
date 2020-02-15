@@ -3,26 +3,25 @@ title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: d4d3ca95f2bdca89936b047b407a3662eb75e619
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: cd64e687a638de8ae45c27407d04c7fe3198b6e5
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122068"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978787"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5207.1000**, выпущенная 14 января 2020 г.
+> Последняя версия Office 2013 — **15.0.5215.1000**, выпущенная 11 февраля 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -46,10 +45,11 @@ ms.locfileid: "41122068"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|14 января   |15.0.5207.1000   |[KB 4536554   ](https://support.microsoft.com/help/4536554)  |
-|2019|10 декабря   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
-||12 ноября   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/help/4527848)  |
-||8 октября   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/help/4522242)  |
+|2020|11 февраля   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
+||14 января   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
+|2019|10 декабря   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
+||12 ноября   |15.0.5189.1000   |[KB 4527848](https://support.microsoft.com/help/4527848)  |
+||8 октября   |15.0.5179.1000   |[KB 4522242](https://support.microsoft.com/help/4522242)  |
 ||10 сентября   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/help/4517986)  |
 ||13 августа   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/help/4514418)  |
 ||9 июля   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/help/4509295)  |
