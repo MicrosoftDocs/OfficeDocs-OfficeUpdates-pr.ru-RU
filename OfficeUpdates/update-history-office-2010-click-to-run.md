@@ -3,19 +3,18 @@ title: Журнал обновления продуктов Office 2010 "наж
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: d7d821be6ec1e5c525a2b627bf74f516b78be494
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 4ecc1e055aba8dc2c9058a5fe014a6c9e414b321
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122318"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978777"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -30,7 +29,7 @@ ms.locfileid: "41122318"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7244.5000**, выпущенная 14 января 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7245.5000**, выпущенная 11 февраля 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -54,7 +53,8 @@ ms.locfileid: "41122318"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|14 января  <br/> |14.0.7244.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4536554](https://support.microsoft.com/help/4536554) <br/> |
+|2020|11 февраля  <br/> |14.0.7245.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4538704](https://support.microsoft.com/help/4538704) <br/> |
+||14 января  <br/> |14.0.7244.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4536554](https://support.microsoft.com/help/4536554) <br/> |
 |2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||12 ноября  <br/> |14.0.7241.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||8 октября  <br/> |14.0.7239.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4522242](https://support.microsoft.com/help/4522242) <br/> |
