@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122018"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978627"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -25,6 +25,32 @@ ms.locfileid: "41122018"
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.  
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="february-11-2020"></a>11 февраля 2020 г.
+Месячный канал: версия 2001 (сборка 12430.20264)  
+Semi-Annual Channel (Targeted): версия 1908 (сборка 11929.20606)  
+Semi-Annual Channel: версия 1908 (сборка 11929.20606)  
+Semi-Annual Channel: версия 1902 (сборка 11328.20526)  
+Semi-Annual Channel: версия 1808 (сборка 10730.20438)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-0697](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0697)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="january-14-2020"></a>14 января 2020 г.
 Monthly Channel: версия 1912 (сборка 12325.20298)  
