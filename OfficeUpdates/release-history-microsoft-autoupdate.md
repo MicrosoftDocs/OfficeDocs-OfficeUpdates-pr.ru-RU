@@ -3,19 +3,18 @@ title: История выпусков функции автоматическо
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122288"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978727"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -30,6 +29,26 @@ ms.locfileid: "41122288"
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2020-release"></a>Выпуск за Февраль 2020 г.
+
+**Дата выпуска:** 11 февраля 2020 г.
+
+*Автоматическое обновление Майкрософт 4,20*
+
+ **Обновления компонентов:**
+
+- ИНТЕРФЕЙС автоматического обновления Майкрософт запустится только в том случае, если на устройстве зарегистрировано по крайней мере 1 приложение с помощью MAU
+- Исправления ошибок и улучшенные возможности
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет автоматического обновления Майкрософт 4,20](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
 
 ## <a name="january-2020-release"></a>Выпуск за январь 2020 г.
 
