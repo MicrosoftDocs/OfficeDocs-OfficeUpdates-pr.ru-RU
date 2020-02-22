@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 09f89fca4aa4dcbba075771c1fc4034f488a8a09
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 47fa4d07049434dde545f768b7e178552673e453
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978767"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228428"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -30,6 +30,12 @@ ms.locfileid: "41978767"
 > - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**21 февраля 2020 г.**<br/>
+Версия 2002 (сборка 12527.20174)<br/>
+
+**18 февраля 2020 г.**<br/>
+Версия 2002 (сборка 12527.20138)<br/>
 
 **11 февраля 2020 г.**<br/>
 Версия 2002 (сборка 12527,20092)<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 1ad62680409942dcde82cb27fd42a6c6139dc0fa
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978617"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228398"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -29,6 +29,22 @@ ms.locfileid: "41978617"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="february-19-2020"></a>19 февраля 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)19 февраля 2020 г.)
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Последний выпуск: версия 2001 (сборка 12430.20288).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2001 (сборка 12430.20264) <br/> |11 февраля 2020 г. <br/> |46<br/> |
+|Версия 2001 (сборка 12430.20184) <br/> |30 января 2020 г. <br/> |55<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)19 февраля 2020 г.)
 
 ## <a name="february-11-2020"></a>11 февраля 2020 г.
 
