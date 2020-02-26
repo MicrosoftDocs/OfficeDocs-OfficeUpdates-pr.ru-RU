@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
+ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228383"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260770"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,16 @@ ms.locfileid: "42228383"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-february-24"></a>Версия 2002: 24 февраля
+*Версия 2002 (сборка 12527.20194)*
+
+- Исправления различных ошибок и улучшения производительности.
+
+## <a name="version-2002-february-22"></a>Версия 2002: 22 февраля
+*Версия 2002 (сборка 12527.20186)*
+
+- Исправления различных ошибок и улучшения производительности.
 
 ## <a name="version-2002-february-21"></a>Версия 2002: 21 февраля
 *Версия 2002 (сборка 12527.20174)*
