@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: 9d848fcfeca988113987408e7f27f512e2475e24
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978797"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42282823"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -58,6 +58,7 @@ ms.locfileid: "41978797"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|25 февраля 2020 г.   |Версия 2002 (сборка 12527.20194)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |11 февраля 2020 г.   |Версия 2001 (сборка 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30 января 2020 г.   |Версия 2001 (сборка 12430.20184)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |22 января 2020 г.   |Версия 1912 (сборка 12325.20344)  |Исправления различных ошибок и улучшения производительности. <br/>  |
