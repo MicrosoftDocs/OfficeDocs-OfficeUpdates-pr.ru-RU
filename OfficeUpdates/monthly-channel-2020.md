@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
+ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282833"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322595"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Заметки о выпусках Monthly Channel в 2020 г.
 
@@ -33,18 +33,15 @@ ms.locfileid: "42282833"
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="excel"></a>Excel
 
- - **Теперь пользователи могут сохранять объекты в Word и Excel в формате SVG.** Пользователи могут сохранять такие объекты, как диаграммы, фигуры, рукописные фрагменты, значки, изображения и т. д. в формате SVG [Подробнее](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Теперь пользователи могут сохранять объекты в Word и Excel в формате SVG.** Пользователи могут сохранять такие объекты, как диаграммы, фигуры, рукописные фрагменты, значки, изображения и т. д. в формате SVG.  [Подробнее](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Статистика книги.** Мы считаем ячейки, формулы, диаграммы, таблицы и т. д. за вас.
 
 - **Профилирование данных в редакторе запросов.** Получайте быстрый анализ данных в столбцах, выявляйте ошибки и пустые значения, просматривайте гистограммы распределения и т. д.
 
-### <a name="outlook"></a>Outlook
-- **Обновления области папок Outlook.**  В новом списке папок из пакета Aesthetic версии 1 предусмотрен новый внешний вид и функции, а группы будут подняты в иерархии на уровень папок и избранного.
-
 ### <a name="word"></a>Word
 
-- **Теперь пользователи могут сохранять объекты в Word и Excel в формате SVG.** Пользователи могут сохранять такие объекты, как диаграммы, фигуры, рукописные фрагменты, значки, изображения и т. д. в формате SVG [Подробнее](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Теперь пользователи могут сохранять объекты в Word и Excel в формате SVG.** Пользователи могут сохранять такие объекты, как диаграммы, фигуры, рукописные фрагменты, значки, изображения и т. д. в формате SVG.  [Подробнее](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +83,7 @@ ms.locfileid: "42282833"
 ## <a name="version-2001-february-11"></a>Версия 2001: 11 февраля
 *Версия 2001 (сборка 12430,20264)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/ru-RU/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
