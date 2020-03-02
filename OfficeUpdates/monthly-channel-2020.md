@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
-ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
+ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322595"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345118"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Заметки о выпусках Monthly Channel в 2020 г.
 
@@ -24,6 +24,20 @@ ms.locfileid: "42322595"
 >
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-march-01"></a>Версия 2002: 1 марта
+*Версия 2002 (сборка 12527.20242)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- <div>Исправлена проблема, из-за которой сторонние приложения не могли отправлять электронную почту.</div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2002-february-25"></a>Версия 2002: 25 февраля
 *Версия 2002 (сборка 12527.20194)*

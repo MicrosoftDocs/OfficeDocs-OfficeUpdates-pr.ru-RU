@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
-ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
+ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260770"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345138"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,18 @@ ms.locfileid: "42260770"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-march-01"></a>Версия 2002: 1 марта
+*Версия 2002 (сборка 12527.20242)*
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- <div>Исправлена проблема, из-за которой сторонние приложения не могли отправлять электронную почту.</div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2002-february-24"></a>Версия 2002: 24 февраля
 *Версия 2002 (сборка 12527.20194)*
