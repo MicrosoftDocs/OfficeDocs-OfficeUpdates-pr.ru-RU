@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345138"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549180"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,31 @@ ms.locfileid: "42345138"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-march-05"></a>Версия 2002: 5 марта
+*Версия 2002 (сборка 12527.20278)*
+
+- Исправления различных ошибок и улучшения производительности.
+
+
+## <a name="version-2002-march-04"></a>Версия 2002: 4 марта
+*Версия 2002 (сборка 12527.20264)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+
+### <a name="project"></a>Project
+- <div>Исправлена проблема, из-за которой иногда неверно вычислялись даты суммарной задачи.</div>
+
+
+### <a name="office-suite"></a>Набор Office
+- <div>Исправлена проблема, возникавшая при открытии нескольких документов в Word, Excel или PowerPoint из одной библиотеки SharePoint, из-за которой только первый открывавшийся документ проверялся на соответствие политике.</div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2002-march-01"></a>Версия 2002: 1 марта
 *Версия 2002 (сборка 12527.20242)*
