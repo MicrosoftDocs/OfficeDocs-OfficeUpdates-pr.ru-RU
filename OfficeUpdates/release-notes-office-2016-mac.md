@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпуске Office 2016 для Mac за сентябрь 2018 г. и более поздних, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 3f9f18c0ea116c9a4540242229ef0f13e7c05c8e
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 4975c84b35b67cea4b8f6efbe5079774ba45c096
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978737"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586586"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Журнал обновлений Office 2016 для Mac
 
@@ -33,17 +33,34 @@ Office 2016 для Mac — это версия Office, которую можно
 
 В таблице ниже перечислены последние пакеты для Office 2016 для Mac и для отдельных приложений, например Word или Excel. Все пакеты 64-разрядные. Дата сборки указана в скобках в формате ГГММДД после номера версии. Если у вас еще не установлено соответствующее приложение, используйте установочный пакет. Для обновления установленного приложения используйте пакет обновления.
 
-### <a name="february-11-2020"></a>11 февраля 2020 г.
-Версия 16.16.19 (20021000)
+### <a name="march-10-2020"></a>10 марта 2020 г.
+Версия 16.16.20 (20030700)
 
 |**Application**|**Ссылки для скачивания**|**Хэш SHA256 для пакета установки**|
 |:-----|:-----|:-----|:-----|
-|Набор Office (все приложения)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  7861FB32589449B37FC2ABCA813BBACE09D17D6AFBD3DD46A2BCF2CB2D9EC438<br/> |
-|Word  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20021000_Updater.pkg) <br/> |8375C0FF312044F90318D1753A3EB9B17DEE4D954093CFA3F4DAFFAD105D6A60  <br/>|
-|Excel  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20021000_Updater.pkg) <br/> | B03BC79900EFC942095D2EA48643061797893E24DE3CBB0B3835CF45249A62A5 <br/>  |
-|PowerPoint  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20021000_Updater.pkg) <br/> |CADF6D6BDF9657EEC4C5A688BE3D68136432D1B5EA47E3127A2F54EF347FCE17  <br/> |
-|Outlook  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20021000_Updater.pkg) <br/> |01EC0F9DFB583EA7C3684A240CD21DD99BCDB233165FEF299EDEC5BC7D127891   <br/> |
-|OneNote  <br/> |[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20021000_Updater.pkg) <br/> | Неприменимо <br/> |
+|Набор Office (все приложения)  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  E6B38E17FECF5BF67CB08C5EF405BCEFE2079A079637D5800E1815B1FCB8E0B6<br/> |
+|Word  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20030700_Updater.pkg) <br/> | 1B60C30C16005DE9D88C93DF5371BEC856944F98B8337D5408DC96C90A808E86 <br/>|
+|Excel  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20030700_Updater.pkg) <br/> | 4634B23F41A57B02D27F71C37D87856786DEF3653A40FFFFCEDF43857E1D9754 <br/>  |
+|PowerPoint  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20030700_Updater.pkg) <br/> | B062BAD7FEE443EDA0F5804F4F7C6D90585F62D91B74BD47F9D1EDE29C13DFA8<br/> |
+|Outlook  <br/> |[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20030700_Updater.pkg) <br/> | 07E736079C55DC0EB6C355FF45A51A2987D5623F8D1F8F485F378EE721937980<br/> |
+|OneNote  <br/> |[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20030700_Updater.pkg) <br/> | Неприменимо <br/> |
+
+## <a name="march-2020-release"></a>Выпуск за март 2020 г.
+
+ **Дата выпуска:** 10 марта 2020 г. 
+  
+ *Версия 16.16.20 (сборка 20030700)* 
+  
+Этот выпуск включает указанные ниже обновления.
+  
+|**Приложение**|**Обновления для системы безопасности**|**Ссылка для скачивания пакета обновления**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-0850](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0850)<br/>[CVE-2020-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0852)<br/>[CVE-2020-0892](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0892) |[Пакет обновления Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20030700_Updater.pkg) <br/>|
+|Excel  <br/> | <br/>|[Пакет обновления Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20030700_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[Пакет обновления PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20030700_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Пакет обновления Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20030700_Updater.pkg) <br/>|
+|OneNote <br/> ||[Пакет обновления OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20030700_Updater.pkg)|
+|Набор Office  <br/> | <br/>||
 
 ## <a name="february-2020-release"></a>Выпуск за Февраль 2020 г.
 
