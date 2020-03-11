@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков Office 365 профессиональный плюс в 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439094"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549200"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Заметки о выпуске для полугодовых выпусков в 2016
 
 Эти заметки о выпусках содержат сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, которые включены в полугодовые обновления каналов для Office 365 профессиональный плюс в 2016. 
 > [!NOTE]
-> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
+> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и других обновлениях Visio Pro для Office 365 и клиента Project Online для настольных ПК.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
 > - Канал Semi-Annual Channel назывался Deferred Channel до января 2018 г.
 
@@ -582,7 +582,7 @@ ms.locfileid: "32439094"
 -   **Возможность сортировки при выборе элементов "Файл" \> "Открыть".** Сортируйте по имени или дате изменения, выбрав элементы "Файл" \> "Открыть" во всех приложениях, кроме Outlook. В Word, Excel и PowerPoint сортировка также доступна при выборе элементов "Файл" \> "Сохранить как".
 -   **Folder browse capability in File \> Save As:** Use full folder navigation in File \> Save As in Word, Excel, and PowerPoint for OneDrive folders, OneDrive for Business folders, and This PC.
 -   **Варианты отправки.** Отправка документа в виде вложения или в виде PDF-файла из области "Общий доступ" в Word или PowerPoint.
--   **API вставки рисунков:** Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки [](https://msdn.microsoft.com/library/office/mt598674.aspx)встроенных рисунков в тексте, а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков:** Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-081](https://technet.microsoft.com/library/security/ms15-081). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3080790).

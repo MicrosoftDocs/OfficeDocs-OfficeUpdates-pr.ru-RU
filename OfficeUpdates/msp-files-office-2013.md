@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Предоставление ИТ-специалистам списка текущих MSP-файлов для бессрочных версий Office 2013, использующих установщик Windows (MSI)
-ms.openlocfilehash: 53e0f474885d5f931efde243abc2ec50a6b47f85
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 73b970b260fde38e1d2511f3974913e1c722a49d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978667"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586456"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Список актуальных MSP-файлов для продуктов Office 2013
 
@@ -24,12 +24,12 @@ ms.locfileid: "41978667"
   
 ## <a name="most-recently-updated-msp-files"></a>Последние обновленные MSP-файлы
 
-В следующей таблице перечислены MSP-файлы, которые были обновлены в **феврале 2020**г. 
+В следующей таблице перечислены MSP-файлы, которые были обновлены в **марте 2020**. 
   
 |Обновления, не связанные с безопасностью * * * *|Обновления для системы безопасности * * * *|
 |:-----|:-----|
-|<br>|Excel — x — нет<br/>|
-|<br>|Outlook — x — нет<br/>|
+|Lync — x — нет<br>|Word — x — нет<br/>|
+
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "41978667"
 |дуетсервер — x — нет<sup>1</sup> <br/> |Office 2013  <br/> |14 апреля 2015 г.  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |Обнаружение электронных данных — x — нет<sup>2</sup> <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |EQNEDT32 — x — нет  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |9 января 2018 г.  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel — x — нет  <br/> |Excel 2013  <br/> |3 июля 2018 г.  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |11 февраля 2020 г.  <br/> |[4484265](https://support.microsoft.com/help/4484265) <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |
+|Excel — x — нет  <br/> |Excel 2013  <br/> |3 июля 2018 г.  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |11 февраля 2020 г.  <br/> |[4484265](https://support.microsoft.com/help/4484265) <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |
 |ексцелпп — x — нет  <br/> |Office 2013  <br/> |6 июня 2017 г.  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |експпдф — x — нет  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |филтерпакк — x — нет  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
@@ -70,7 +70,7 @@ ms.locfileid: "41978667"
 |InfoPath — x — нет  <br/> |InfoPath 2013  <br/> |3 мая 2016 г.  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8 марта 2016 г.  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
 |инфопаспк — x — нет  <br/> |Office 2013  <br/> |1 ноября 2016 г.  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ипедитор — x — нет  <br/> |InfoPath 2013  <br/> |11 декабря 2018 г.  <br/> |[4022181](https://support.microsoft.com/kb/4022181) <br/> |8 мая 2018 г.  <br/> |[3162075](https://support.microsoft.com/help/3162075) <br/> |Неприменимо  <br/> |
-|Lync — x — нет  <br/> |Lync 2013 (Skype для бизнеса)  <br/> |6 августа 2019 г.  <br/> |[4475564](https://support.microsoft.com/help/4475564) <br/> |9 июля 2019 г.  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
+|Lync — x — нет  <br/> |Lync 2013 (Skype для бизнеса)  <br/> |3 марта 2020 г.  <br/> |[4484097](https://support.microsoft.com/help/4484097) <br/> |9 июля 2019 г.  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
 |линчелп — *LL*  -  *CC* <sup>3</sup> <br/> |Lync 2013 (Skype для бизнеса)  <br/> |2 мая 2017 г.  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |12 сентября 2017 г.  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
 |mscomct2 — x — нет  <br/> |Office 2013  <br/> |Не применимо  <br/> |Неприменимо  <br/> |13.05.14  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |Неприменимо  <br/> |
 |мскомктлоккс — x — нет<sup>2</sup> <br/> |Office 2013  <br/> |Не применимо  <br/> |Неприменимо  <br/> |12 января 2016 г.  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
@@ -96,7 +96,7 @@ ms.locfileid: "41978667"
 |открунтимертл — x — нет  <br/> |Office 2013  <br/> |Не применимо  <br/> |Неприменимо  <br/> |8 марта 2016 г.  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |аутексум — x — нет  <br/> |Office 2013  <br/> |5 марта 2019 г.  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
 |Outlfltr – x — нет  <br/> |Office 2013  <br/> |2 августа 2016 г.  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
-|Outlook — x — нет  <br/> |Outlook 2013  <br/> |1 октября 2019 г.  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11 февраля 2020 г.  <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |
+|Outlook — x — нет  <br/> |Outlook 2013  <br/> |1 октября 2019 г.  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11 февраля 2020 г.  <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |
 |пеопледатахандлер — x — нет  <br/> |Office 2013  <br/> |8 сентября 2015 г.  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Не применимо  <br/> |Не применимо  <br/> |Неприменимо  <br/> |
 |PowerPoint — x — нет  <br/> |PowerPoint 2013  <br/> |7 августа 2018 г.  <br/> |[4018374](https://support.microsoft.com/help/4018374) <br/> |10 декабря 2019 г.  <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |[4461481](https://support.microsoft.com/help/4461481) <br/> |
 |ппаддин — x — нет  <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "41978667"
 |Visio — x — нет  <br/> |Visio 2013  <br/> |2 апреля 2019 г.  <br/> |[4464505](https://support.microsoft.com/help/4464505) <br/> |14 июня 2016 г.  <br/> |[3115020](https://support.microsoft.com/kb/3115020) <br/> |[3114489](https://support.microsoft.com/kb/3114489) <br/> |
 |ввиевер — x — нет  <br/> |Средство просмотра Visio 2013  <br/> |8 апреля 2014 г.  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |век — x — нет  <br/> |Office 2013  <br/> |7 ноября 2015 г.  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|Word — x — нет  <br/> |Word 2013  <br/> |2 июля 2019 г. <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |10 декабря 2019 г.  <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |[4475547](https://support.microsoft.com/help/4475547) <br/> |
+|Word — x — нет  <br/> |Word 2013  <br/> |2 июля 2019 г. <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |10 марта 2020 г.  <br/> |[4484231](https://support.microsoft.com/help/4484231) <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |
 |вордпиа — x — нет  <br/> |Word 2013  <br/> |7 ноября 2017 г.  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |вкспкоре — x — нет  <br/> |Office 2013  <br/> |8 марта 2016 г.  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |вкспнсе — x — нет  <br/> |Office 2013  <br/> |13 октября 2015 г.  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |

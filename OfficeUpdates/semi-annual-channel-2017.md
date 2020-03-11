@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков Office 365 профессиональный плюс в 2017
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629266"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549230"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Заметки о выпуске для полугодовых выпусков в 2017
 
 Эти заметки о выпусках содержат сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, которые включены в полугодовые обновления каналов для Office 365 профессиональный плюс в 2017. 
 > [!NOTE]
-> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
+> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и других обновлениях Visio Pro для Office 365 и клиента Project Online для настольных ПК.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
 > - Канал Semi-Annual Channel назывался Deferred Channel до января 2018 г.
 
@@ -64,7 +64,7 @@ ms.locfileid: "41629266"
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 -   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) уязвимость Microsoft Excel, связанная с обходом функций безопасности
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): уязвимость Microsoft Excel, связанная с повреждением памяти
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884). Уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
 -   [Рекомендация 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): обновление для системы многоуровневой защиты Microsoft Office
@@ -82,7 +82,7 @@ ms.locfileid: "41629266"
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 -   [CVE-2017-11877:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) уязвимость Microsoft Excel, связанная с обходом функций безопасности
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): уязвимость Microsoft Excel, связанная с повреждением памяти
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884). Уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
 -   [Рекомендация 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): обновление для системы многоуровневой защиты Microsoft Office
@@ -106,7 +106,7 @@ ms.locfileid: "41629266"
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): уязвимость Skype для бизнеса, связанная с несанкционированным повышением привилегий
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11826:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): уязвимость Microsoft Office, связанная с удаленным выполнением кода
@@ -125,7 +125,7 @@ ms.locfileid: "41629266"
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): уязвимость Skype для бизнеса, связанная с несанкционированным повышением привилегий
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-11826:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): уязвимость Microsoft Office, связанная с удаленным выполнением кода
@@ -160,9 +160,9 @@ ms.locfileid: "41629266"
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014). Обновление для системы безопасности Microsoft Office (3217868)
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-8501:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502). Уязвимость Microsoft Office, связанная с повреждением памяти
--   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631). Уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): уязвимость Microsoft Office, связанная с повреждением памяти
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
@@ -207,7 +207,7 @@ ms.locfileid: "41629266"
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507). Уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): уязвимость Microsoft Office, связанная с обходом функций безопасности
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
+-   [CVE-2017-8571:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) уязвимость Microsoft Office Outlook, связанная с обходом функций безопасности
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): уязвимость Microsoft Office Outlook, связанная с раскрытием информации
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): уязвимость Microsoft Office Outlook, связанная с повреждением памяти
 
@@ -296,7 +296,7 @@ ms.locfileid: "41629266"
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): уязвимость Windows, связанная с удаленным выполнением кода в Uniscribe
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): уязвимость Skype для бизнеса, связанная с удаленным выполнением кода
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): уязвимость Windows GDI+, связанная с раскрытием информации
+-   [CVE-2017-8676:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676) уязвимость GDI+ для Windows, связанная с раскрытием информации
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): уязвимость графического компонента, связанная с раскрытием информации
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): уязвимость графического компонента Майкрософт, связанная с удаленным выполнением кода
 
@@ -357,7 +357,7 @@ ms.locfileid: "41629266"
 -   **Распознавание фигур.** Автоматически преобразовывайте рисунки в фигуры с помощью команд "Рисование" \> "Преобразовать в фигуры". [Дополнительные сведения](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014). Обновление для системы безопасности Microsoft Office (3217868)
+-   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014): обновление для системы безопасности Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254). Уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): уязвимость Windows, связанная с удаленным выполнением кода в документах PDF
@@ -381,7 +381,7 @@ ms.locfileid: "41629266"
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2017-8570:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630). Уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744). Уязвимость Microsoft Office, связанная с повреждением памяти
 
@@ -707,7 +707,7 @@ ms.locfileid: "41629266"
 -   **Изменение цветов.** Используя помощник, вы можете задавать цвет шрифта, выделять текст, выполнять заливку фигур и другие действия. [Дополнительные сведения](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014): обновление для системы безопасности Microsoft Office (3217868)
+-   Бюллетень по безопасности (Майкрософт) [MS17-014](https://technet.microsoft.com/library/security/ms17-014). Обновление для системы безопасности Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254). Уязвимость Microsoft Office, связанная с повреждением памяти
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): уязвимость Windows, связанная с удаленным выполнением кода в документах PDF 
