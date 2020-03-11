@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978587"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586682"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -25,6 +25,49 @@ ms.locfileid: "41978587"
 >- Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 не включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает Office 365 с портала Office и устанавливает в Windows 10.
 
+
+
+
+## <a name="version-1908-march-10"></a>Версия 1908: 10 марта
+*Версия 1908 (сборка 11929.20648)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- <div><span>Исправлена проблема, из-за которой у некоторых пользователей появлялось несколько всплывающих окон при наличии внешних ссылок в книге.&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">Функция "Текст в столбец" может не работать для некоторых языков.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Исправлена проблемы с методом Shape.Paste: при копировании и вставке фигуры с помощью метода &nbsp;Shape.Paste&nbsp;<span style="font-size:13.3333px;display:inline !important;"> он меняет выделение на вставленную фигуру.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>Исправлена проблема, из-за которой в некоторых случаях при сохранении существующего файла всегда появлялось диалоговое окно "Сохранить как", а файл на самом деле не сохранялся<br></div>
+
+
+### <a name="office-suite"></a>Набор Office
+
+- <div><span>Это изменение исправляет медленное отображение некоторых точечных диаграмм с маркерами.</span></div>
+
+## <a name="version-1902-march-10"></a>Версия 1902: 10 марта
+*Версия 1902 (сборка 11328.20554)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-february-11"></a>Версия 1908: 11 февраля
 *Версия 1908 (сборка 11929,20606)*

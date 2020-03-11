@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 075b651912f81195921e102d847c3ca61f484a7b
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 07f6ab27d42a0f86a33e1f8b3ee9605e8a58257f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345088"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586685"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,11 +31,10 @@ ms.locfileid: "42345088"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2002<br/>|12527.20242<br/>|1 марта 2020 г.<br/>|Выпуска версии 2003<br/>|
-|Semi-Annual (Targeted)<br/>|1908<br/>|11929.20606<br/>|11 февраля 2020 г.<br/>|10 марта 2020 г.<br/>|
-|Semi-Annual<br/>|1908<br/>|11929.20606<br/>|11 февраля 2020 г.<br/>|9 марта 2021 г.<br/>|
-|Semi-Annual<br/>|1902<br/>|11328.20526<br/>|11 февраля 2020 г.<br/>|8 сентября 2020 г.<br/>|
-|Semi-Annual<br/>|1808<br/>|10730.20438<br/>|11 февраля 2020 г.<br/>|10 марта 2020 г.<br/>|
+|Monthly<br/>|2002<br/>|12527.20278<br/>|10 марта 2020 г.<br/>|Выпуска версии 2003<br/>|
+|Semi-Annual (Targeted)<br/>|2002<br/>|12527.20278<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
+|Semi-Annual<br/>|1908<br/>|11929.20648<br/>|10 марта 2020 г.<br/>|9 марта 2021 г.<br/>|
+|Semi-Annual<br/>|1902<br/>|11328.20554<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +46,7 @@ ms.locfileid: "42345088"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|10 марта|[Версия 2002 (сборка 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Версия 2002 (сборка 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Версия 1908 (сборка 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Версия 1902 (сборка 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|1 марта|[Версия 2002 (сборка 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|25 февраля|[Версия 2002 (сборка 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|19 февраля|[Версия 2001 (сборка 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |
