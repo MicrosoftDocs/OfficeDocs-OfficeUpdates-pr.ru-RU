@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 4ecc1e055aba8dc2c9058a5fe014a6c9e414b321
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 823951736ba1e8919362b845e6339af94ef61010
+ms.sourcegitcommit: 09d01a3a12518056aec19131ab8b0f6eea9d5cc9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978777"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42603935"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -29,7 +29,7 @@ ms.locfileid: "41978777"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7245.5000**, выпущенная 11 февраля 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7247.5000**, выпущенная 11 марта 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -53,11 +53,12 @@ ms.locfileid: "41978777"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|11 февраля  <br/> |14.0.7245.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4538704](https://support.microsoft.com/help/4538704) <br/> |
-||14 января  <br/> |14.0.7244.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4536554](https://support.microsoft.com/help/4536554) <br/> |
-|2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4532624](https://support.microsoft.com/help/4532624) <br/> |
-||12 ноября  <br/> |14.0.7241.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4527848](https://support.microsoft.com/help/4527848) <br/> |
-||8 октября  <br/> |14.0.7239.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4522242](https://support.microsoft.com/help/4522242) <br/> |
+|2020|11 марта  <br/> |14.0.7247.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+||11 февраля  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
+||14 января  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
+|2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
+||12 ноября  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
+||8 октября  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/help/4522242) <br/> |
 ||10 сентября  <br/> |14.0.7237.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4517986](https://support.microsoft.com/help/4517986) <br/> |
 ||13 августа  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/help/4514418) <br/> |
 ||9 июля  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/help/4509295) <br/> |
