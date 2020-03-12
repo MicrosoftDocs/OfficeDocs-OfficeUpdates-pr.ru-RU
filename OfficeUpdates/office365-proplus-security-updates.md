@@ -1,7 +1,7 @@
 ---
 title: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978627"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586672"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -25,6 +25,28 @@ ms.locfileid: "41978627"
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.  
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="march-10-2020"></a>10 марта 2020 г.
+Ежемесячный канал: версия 2002 (сборка 12527.20278)  
+Semi-Annual Channel (Targeted): версия 2002 (сборка 12527.20278)  
+Semi-Annual Channel: версия 1908 (сборка 11929.20648)  
+Semi-Annual Channel: версия 1902 (сборка 11328.20554)  
+Office 365 профессиональный плюс в Windows 7: версия 2002 (сборка 12527.20278)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="february-11-2020"></a>11 февраля 2020 г.
 Месячный канал: версия 2001 (сборка 12430.20264)  

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403798"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586496"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -29,6 +29,26 @@ ms.locfileid: "42403798"
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2020-release"></a>Выпуск за март 2020 г.
+
+**Дата выпуска:** 10 марта 2020 г.
+
+*Автоматическое обновление Майкрософт 4.21*
+
+ **Обновления компонентов:**
+
+- Восстановление состояния включено для Word, Excel и PowerPoint, работает без открытых окон или в состоянии Docstage, в режиме автоматического обновления Microsoft AutoUpdate. Теперь обновления будут еще тише для конечных пользователей в режиме автоматического обновления, так как им не нужно выходить из своих приложений, которые имеют право на обновление через восстановление состояния.
+
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет автоматического обновления (Майкрософт) 4,21](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>Выпуск за Февраль 2020 г.
 
