@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для ежемесячных выпусков Office 365 профессиональный плюс в 2016
 ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549250"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615124"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2016
 
