@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586576"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622133"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -35,8 +35,17 @@ ms.locfileid: "42586576"
 
 Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
-
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+### <a name="feature-updates"></a>Обновления компонентов
+### <a name="excel"></a>Excel
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ ms.locfileid: "42586576"
 - Это изменение исправляет ошибку во время выполнения в объектной модели и потенциальный сбой приложения (Excel, Word), если надстройки запрашивают элементы узла в документах или листах, содержащих фигуры с блокировками noSelect.
 
 - Исправлена проблема, приводившая к сбою Outlook при синхронизации настроек.
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ ms.locfileid: "42586576"
 
 - Исправлена проблема, которая могла приводить к сбою сохранения документа PowerPoint или Word, содержащего диаграмму Excel.
 
+
+
 ### <a name="project"></a>Project
 
 - Исправлена проблема, из-за которой процент выполнения задачи неправильно изменялся на значение менее 100 % после ее пометки как выполненной.
@@ -125,7 +138,8 @@ ms.locfileid: "42586576"
 
 - Исправлена проблема с функцией сравнения для документов, защищенных от редактирования.
 
-- Исправлена проблема, из-за которой изображения в документах теряли прозрачность при экспорте в PDF.
+
+
 
 ### <a name="office-suite"></a>Набор Office
 

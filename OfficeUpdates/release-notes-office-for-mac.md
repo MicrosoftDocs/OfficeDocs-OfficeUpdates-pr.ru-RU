@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Заметки о выпусках Office для Mac для подписчиков на Office 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586596"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622143"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -44,10 +44,22 @@ ms.locfileid: "42586596"
 *Версия 16.35 (сборка 20030802)*
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
-### <a name="feature-updates"></a>Обновления функций
+### <a name="feature-updates"></a>Обновления компонентов
+### <a name="excel"></a>Excel
+
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Возможность свернуть окно текущего слайда в режиме докладчика.** Перетаскивая разделитель влево, вы можете свернуть представление текущего слайда, чтобы во время презентации отображать в представлении только следующий слайд.
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+
+
+### <a name="word"></a>Word
+
+- **Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений. [Подробнее](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 
 ### <a name="security-updates"></a>Обновления для системы безопасности
 
