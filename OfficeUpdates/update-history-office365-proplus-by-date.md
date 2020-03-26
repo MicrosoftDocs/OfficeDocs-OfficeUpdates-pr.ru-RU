@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 07f6ab27d42a0f86a33e1f8b3ee9605e8a58257f
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586685"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959367"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -31,7 +31,7 @@ ms.locfileid: "42586685"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2002<br/>|12527.20278<br/>|10 марта 2020 г.<br/>|Выпуска версии 2003<br/>|
+|Monthly<br/>|2003<br/>|12624.20320<br/>|25 марта 2020 г.<br/>|Выпуска версии 2004<br/>|
 |Semi-Annual (Targeted)<br/>|2002<br/>|12527.20278<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20648<br/>|10 марта 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20554<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
@@ -46,6 +46,7 @@ ms.locfileid: "42586685"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|25 марта|[Версия 2003 (сборка 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|10 марта|[Версия 2002 (сборка 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Версия 2002 (сборка 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Версия 1908 (сборка 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Версия 1902 (сборка 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|1 марта|[Версия 2002 (сборка 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|25 февраля|[Версия 2002 (сборка 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
@@ -63,7 +64,7 @@ ms.locfileid: "42586685"
 |2019|30 октября|[Версия 1910 (сборка 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
 |2019|22 октября|[Версия 1909 (сборка 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|14 октября|[Версия 1909 (сборка 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[Версия 1908 (сборка 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
-|2019|8 октября|[Версия 1909 (сборка 12026.20320)](monthly-channel-2019#version-1909-october-08)|[Версия 1908 (сборка 11929.20388)](semi-annual-channel-targeted-2019#version-1908-october-08)|[Версия 1902 (сборка 11328.20438)](semi-annual-channel-2019#version-1902-october-08)<br/>[Версия 1808 (сборка 10730.20386)](semi-annual-channel-2019#version-1808-october-8)|
+|2019|8 октября|[Версия 1909 (сборка 12026.20320)](monthly-channel-2019.md#version-1909-october-08)|[Версия 1908 (сборка 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[Версия 1902 (сборка 11328.20438)](semi-annual-channel-2019.md#version-1902-october-08)<br/>[Версия 1808 (сборка 10730.20386)](semi-annual-channel-2019.md#version-1808-october-08)|
 |2019|30 сентября|[Версия 1909 (сборка 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
 |2019|10 сентября|[Версия 1908 (сборка 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[Версия 1908 (сборка 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Версия 1902 (сборка 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Версия 1808 (сборка 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|26 августа|[Версия 1908 (сборка 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
