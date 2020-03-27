@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
+ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926305"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "42983899"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -213,8 +213,6 @@ ms.locfileid: "42926305"
 - **Выбор избранного действия.** Не используете действия "Пометить" и "Удалить"? Что насчет "Архивировать" и "Пометить как прочитанные"? Настройте меню быстрых действий с помощью команд, используемых чаще всего.
 
 - **Все смогут понять, что вы имели в виду.** Если текста или статических изображений недостаточно, воспользуйтесь файлами GIF с анимацией, чтобы донести свою идею. [Подробнее](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **Самостоятельно выбирайте свободный или компактный макет.** С помощью компактных интервалов можно выбрать дополнительное пространство между элементами или более сжатый макет, чтобы увидеть больше элементов.
 
 - **Быстрое добавление учетных записей.** Благодаря улучшениям в настройке учетных записей теперь еще проще добавлять учетные записи Outlook.com и Gmail, использующие 2-факторную проверку подлинности в Outlook. [Подробнее](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 

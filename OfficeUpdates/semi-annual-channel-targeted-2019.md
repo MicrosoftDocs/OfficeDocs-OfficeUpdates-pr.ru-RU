@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 2384ed54f8e18e89981cdd875d46bfd9ba7e95a5
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 6047a39a1db741ed60a8fc265fa7b9333339fe8a
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615167"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982520"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -661,7 +661,6 @@ ms.locfileid: "42615167"
 - **Добавление живых красок на слайды.** Вставляйте на экран анимированные трехмерные изображения, чтобы показать, как бьется сердце, вращается планета или рычит тираннозавр. [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Совершенствование набросков.** Мы преобразовываем рукописные тексты и фигуры в доработанные схемы. Просто выберите росчерк пера, чтобы приступить к работе. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Отображение того, что позади рисунка.** Добавьте рисунок на лист и выберите предопределенные параметры, после чего прозрачность изменится. Вот и все! [Подробнее](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Рукописный ввод для создания отличного слайда.** Преобразуйте рукописный ввод в стандартные фигуры и текст, а затем находите изящные идеи оформления слайдов в конструкторе PowerPoint. [Подробнее](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 - **Публикация в Microsoft Stream.** Безопасно делитесь презентациями как видеофайлами в пределах своей организации с помощью Microsoft Stream. [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Экспорт в видео с разрешением 4K.** При экспорте презентации в видео теперь можно использовать разрешение 4K.  [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
