@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для Office 365 профессиональный плюс для каждого канала обновления
-ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
+ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586406"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42953019"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Размеры скачиваемых обновлений для Office 365 профессиональный плюс
 
@@ -29,6 +29,22 @@ ms.locfileid: "42586406"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="march-25-2020"></a>25 марта 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)25 марта 2020 г.)
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Самая последняя версия — это версия 2003 (сборка 12624.20320).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2002 (сборка 12527.20278) <br/> |10 марта 2020 г. <br/> |171<br/> |
+|Версия 2002 (сборка 12527.20242) <br/> |1 марта 2020 г. <br/> |172<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)25 марта 2020 г.)
 
 ## <a name="march-10-2020"></a>10 марта 2020 г.
 
