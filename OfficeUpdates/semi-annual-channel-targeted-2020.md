@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
+ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615179"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42982508"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2020 г.
 
@@ -144,6 +144,8 @@ ms.locfileid: "42615179"
 - **Зачем изобретать заново, если вы можете использовать повторно ?:** Экономьте время, повторно используя слайды, которые вы создали или которыми другие поделились с вами. [Подробнее](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Измените рукописные чернила на фигуры, текст или математику в PowerPoint для Office 365:** Перейдите от чернил произвольной формы к фигурам, тексту или математическому выражению Office за пару движений. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- **Рукописный ввод для создания отличного слайда.** Преобразуйте рукописный ввод в стандартные фигуры и текст, а затем находите изящные идеи оформления слайдов в конструкторе PowerPoint. [Подробнее](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
 ### <a name="visio"></a>Visio
 

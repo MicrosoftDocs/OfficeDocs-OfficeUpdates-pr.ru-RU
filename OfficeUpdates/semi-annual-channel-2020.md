@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983899"
+ms.locfileid: "43024531"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -39,28 +39,28 @@ ms.locfileid: "42983899"
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="excel"></a>Excel
 
-- <div><span>Исправлена проблема, из-за которой у некоторых пользователей появлялось несколько всплывающих окон при наличии внешних ссылок в книге.&nbsp;</span></div>
+- Исправлена проблема, из-за которой у некоторых пользователей появлялось несколько всплывающих окон при наличии внешних ссылок в книге.
 
 
-- <div><span style="display:inline !important;">Функция "Текст в столбец" может не работать для некоторых языков.</span><br></div>
+- Функциональность Text to Column может не работать в некоторых локациях.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону</span></div>
+- Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Исправлена проблемы с методом Shape.Paste: при копировании и вставке фигуры с помощью метода &nbsp;Shape.Paste&nbsp;<span style="font-size:13.3333px;display:inline !important;"> он меняет выделение на вставленную фигуру.</span></div>
+- Мы исправили проблему с методом Shape.Paste: когда пользователь копирует и вставляет фигуру с помощью метода Shape.Paste, он меняет выделение на вставленную фигуру.
 
 
 ### <a name="word"></a>Word
 
-- <div>Исправлена проблема, из-за которой в некоторых случаях при сохранении существующего файла всегда появлялось диалоговое окно "Сохранить как", а файл на самом деле не сохранялся<br></div>
+- Мы исправили проблему, при которой в некоторых случаях сохранение существующего файла всегда вызывает диалоговое окно «Сохранить как», а файл фактически не сохраняется.
 
 
 ### <a name="office-suite"></a>Набор Office
 
-- <div><span>Это изменение исправляет медленное отображение некоторых точечных диаграмм с маркерами.</span></div>
+- Это изменение касается медленного рендеринга некоторых точечных диаграмм с маркерами.
 
 ## <a name="version-1902-march-10"></a>Версия 1902: 10 марта
 *Версия 1902 (сборка 11328.20554)*
