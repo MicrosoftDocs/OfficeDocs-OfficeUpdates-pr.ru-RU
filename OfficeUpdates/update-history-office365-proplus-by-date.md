@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959367"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046134"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
-Обновления для Office 365 профессиональный плюс выходят на регулярной основе и дополняют его новыми функциями, обновлениями для системы безопасности и обновлениями, не связанными с безопасностью. Для выпуска этих обновлений используются [каналы обновлений](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Каждому выпуску в каждом канале обновлений присваиваются отдельная версия и номер сборки. 
+Обновления для Office 365 профессиональный плюс выходят на регулярной основе и дополняют его новыми функциями, обновлениями для системы безопасности и обновлениями, не связанными с безопасностью. Для выпуска этих обновлений используются [каналы обновлений](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Каждому выпуску в каждом канале обновлений присваиваются отдельная версия и номер сборки.
+
+
+> [!IMPORTANT]
+> Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - Эти номера версий и сборок также относятся к Office 365 бизнес, Visio Pro для Office 365, а также клиенту Project Online для настольных ПК. Office 365 бизнес — версия Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум.

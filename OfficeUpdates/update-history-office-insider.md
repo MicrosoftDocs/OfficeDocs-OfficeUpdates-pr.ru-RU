@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 9ef0c0fb6b0a12562c3d529ed0c141c0dc701279
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
+ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926290"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052074"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Журнал обновлений для канала программы предварительной оценки Office 
 
 Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.
+
+
+> [!IMPORTANT]
+> Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
@@ -31,6 +39,9 @@ ms.locfileid: "42926290"
 Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**30 марта 2020 г.**<br/>
+Версия 2004 (сборка 12725.20006)<br/>
 
 **23 марта 2020 г.**<br/>
 Версия 2004 (сборка 12718.20010)<br/>

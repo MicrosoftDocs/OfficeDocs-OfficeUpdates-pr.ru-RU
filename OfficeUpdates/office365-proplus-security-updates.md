@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615132"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046094"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
 Эти заметки о выпусках содержат сведения об исправлениях безопасности, которые включены в обновления для Office 365 профессиональный плюс.
+
+
+> [!IMPORTANT]
+> Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
  
 > [!NOTE]
 > - Кроме того, ниже представлены сведения об обновлениях для системы безопасности в Visio Pro для Office 365 и клиенте Project Online для настольных компьютеров.

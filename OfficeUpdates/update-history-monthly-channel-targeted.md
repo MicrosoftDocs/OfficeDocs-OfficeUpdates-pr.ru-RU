@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951719"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046144"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -23,6 +23,14 @@ ms.locfileid: "42951719"
 ## <a name="office-insider-versions-and-builds"></a>Версии и сборки Office Insider
 
 Если вы являетесь участником уровня Monthly Channel (Targeted), который ранее носил название «Предварительная оценка — поздний доступ», вы получаете обновления для компонентов Office приблизительно раз в месяц, а также получаете все последующие сборки с важными исправлениями или обновления для системы безопасности. Ниже перечислены последние версии и сборки для Monthly Channel (Targeted), а **последние выпущенные сборки указаны в начале**. Новые сборки содержат все обновления, присутствующие в предыдущих сборках. Чтобы найти заметки о выпуске, см. [Новые возможности для участников программы предварительной оценки Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+
+> [!IMPORTANT]
+> Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
