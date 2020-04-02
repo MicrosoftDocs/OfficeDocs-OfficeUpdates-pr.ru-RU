@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков Office 365 профессиональный плюс, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046134"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081790"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Журнал обновлений для Office 365 профессиональный плюс (перечислены по дате)
 
@@ -25,7 +25,6 @@ ms.locfileid: "43046134"
 > Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
 
 
 > [!NOTE]
@@ -39,7 +38,7 @@ ms.locfileid: "43046134"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2003<br/>|12624.20320<br/>|25 марта 2020 г.<br/>|Выпуска версии 2004<br/>|
+|Monthly<br/>|2003<br/>|12624.20382<br/>|31 марта 2020 г.<br/>|Выпуска версии 2004<br/>|
 |Semi-Annual (Targeted)<br/>|2002<br/>|12527.20278<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20648<br/>|10 марта 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20554<br/>|10 марта 2020 г.<br/>|8 сентября 2020 г.<br/>|
@@ -54,6 +53,7 @@ ms.locfileid: "43046134"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|31 марта|[Версия 2003 (сборка 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|25 марта|[Версия 2003 (сборка 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|10 марта|[Версия 2002 (сборка 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Версия 2002 (сборка 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Версия 1908 (сборка 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Версия 1902 (сборка 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|1 марта|[Версия 2002 (сборка 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
@@ -64,7 +64,7 @@ ms.locfileid: "43046134"
 |2020|22 января|[Версия 1912 (сборка 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|14 января|[Версия 1912 (сборка 12325.20298)](monthly-channel-2020#version-1912-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Версия 1902 (сборка 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Версия 1808 (сборка 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|8 января|[Версия 1912 (сборка 12325.20288)](monthly-channel-2020#version-1912-january-08)| | |
-|2019|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019#version-1911-december-10)|[Версия 1908 (сборка 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
+|2019|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019#version-1911-december-10)|[Версия 1908 (сборка 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 декабря|[Версия 1911 (сборка 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|22 ноября|[Версия 1910 (сборка 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Версия 1908 (сборка 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Версия 1902 (сборка 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Версия 1808 (сборка 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 ноября|[Версия 1910 (сборка 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
@@ -99,7 +99,7 @@ ms.locfileid: "43046134"
 |2019|4 марта  |[Версия 1902 (сборка 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
 |2019|12 февраля |[Версия 1901 (сборка 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[Версия 1808 (сборка 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Версия 1808 (сборка 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Версия 1803 (сборка 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Версия 1708 (сборка 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|31 января   |[Версия 1901 (сборка 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
-|2019|14 января   |[Версия 1812 (сборка 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
+|2019|14 января   |[Версия 1812 (сборка 11126.20266)](monthly-channel-2019#version-1812-january-14)| | |
 |2019|8 января |[Версия 1812 (сборка 11126.20196 )](monthly-channel-2019.md#version-1812-january-8)|[Версия 1808 (сборка 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Версия 1808 (сборка 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Версия 1803 (сборка 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Версия 1708 (сборка 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|3 января   |[Версия 1812 (сборка 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|11 декабря |[Версия 1811 (сборка 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Версия 1808 (сборка 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Версия 1803 (сборка 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Версия 1708 (сборка 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
