@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076281"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150977"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,32 @@ ms.locfileid: "43076281"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2003-april-03"></a>Версия 2003: 3 апреля
+*Версия 2003 (сборка 12624.20410)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- В некоторых случаях при использовании приложения VBA не работала оценка определенных пользователем функций.
+
+### <a name="outlook"></a>Outlook
+
+- Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.
+
+### <a name="project"></a>Project
+
+- При изменении данных предшественника или последователя в представлении формы возникало дополнительное событие ProjectBeforeTaskChangeevent.
+
+### <a name="word"></a>Word
+
+- Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2003-march-31"></a>Версия 2003: 31 марта
 *Версия 2003 (сборка 12624.20382)*
