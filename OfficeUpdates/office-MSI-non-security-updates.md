@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: cce53954fcf4d28f6f77f8d17966be69bf33ab94
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403828"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170239"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,16 @@ ms.locfileid: "42403828"
 > - Информация в этой статье не относится к версиям Office, входящим в состав Office 365, например Office 365 профессиональный плюс.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="april-7-2020"></a>7 апреля 2020 г.
+
+**Office 2016**<br/>
+Обновление Microsoft Office 2016 ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
+Обновление Microsoft Office 2016 ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
+Обновление Microsoft Office 2016 ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
+Обновление Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
+Обновление Skype для бизнеса 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
+
 
 ## <a name="march-3-2020"></a>3 марта 2020 г.
 
@@ -76,21 +86,3 @@ ms.locfileid: "42403828"
 Обновление для Microsoft Outlook 2016 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
 Обновление для Microsoft PowerPoint 2016 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
 Обновление для Microsoft Word 2016 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
-
-## <a name="october-1-2019"></a>1 октября 2019 г.
-
-**Office 2016**<br/>
-Обновление для Microsoft Office 2016 ([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Обновление для Microsoft Office 2016 ([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
-Обновление для пакета интерфейса пользователя Microsoft Office 2016 ([KB4475582](https://support.microsoft.com/help/4475582))<br/>
-Обновление для Microsoft Outlook 2016 ([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
-Обновление для Microsoft PowerPoint 2016 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
-Обновление для Microsoft Project 2016 ([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
-Обновление для Microsoft Word 2016 ([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
-Обновление для Skype для бизнеса 2016 ([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
-
-**Office 2013**<br/>
-Обновление для Microsoft Outlook 2013 ([KB4484096](https://support.microsoft.com/help/4484096))<br/>
-
-**Office 2010**<br/>
-Обновление для Microsoft Outlook 2010 ([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
-
