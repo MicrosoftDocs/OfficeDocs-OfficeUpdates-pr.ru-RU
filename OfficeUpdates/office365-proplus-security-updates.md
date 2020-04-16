@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046094"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521287"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в Office 365 профессиональный плюс
 
@@ -33,6 +33,35 @@ ms.locfileid: "43046094"
 > - Эта информация также применима к пакету Office 365 бизнес, представляющему собой версию Office, которая включает в себя некоторые планы Office 365, например, Office 365 бизнес премиум.  
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="april-14-2020"></a>14 апреля 2020 г.
+Monthly Channel: версия 2003 (сборка 12624.20442)  
+Semi-Annual Channel (Targeted): версия 2002 (сборка 12527.20442)  
+Semi-Annual Channel: версия 1908 (сборка 11929.20708)  
+Semi-Annual Channel: версия 1902 (сборка 11328.20564)  
+Office 365 профессиональный плюс в Windows 7: версия 2002 (сборка 12527.20442)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="march-10-2020"></a>10 марта 2020 г.
 Ежемесячный канал: версия 2002 (сборка 12527.20278)  

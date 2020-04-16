@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076280"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521027"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -27,6 +27,46 @@ ms.locfileid: "43076280"
 
 
 
+## <a name="version-1908-april-14"></a>Версия 1908: 14 апреля
+*Версия 1908 (сборка 11929.20708)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, приводившая к снижению производительности при удалении столбцов, содержащих объединенные ячейки.
+
+- Исправлена проблема с масштабированием текста в элементах управления формами при их отображении в режиме предварительного просмотра печати.
+
+### <a name="skype"></a>Skype
+
+- Исправлено название вкладки беседы при наличии нескольких активных бесед.
+
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема, из-за которой пользователи сталкивались со сбоем при закрытии Outlook.
+
+- Исправлена проблема, приводившая к отображению пустого списка помещений в некоторых сценариях.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена проблема с выделением: белый текст с темными цветами выделения печатается как черный в оттенках серого.
+
+### <a name="word"></a>Word
+
+- Исправлена проблема с размещением текста в таблице.
+
+
+## <a name="version-1902-april-14"></a>Версия 1902: 14 апреля
+*Версия 1902 (сборка 11328.20564)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-march-10"></a>Версия 1908: 10 марта
 *Версия 1908 (сборка 11929.20648)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230067"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521217"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -29,6 +29,13 @@ ODT предоставляет более широкие возможности 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>15 апреля 2020 г.
+
+Версия 16.0.12624.20320 (setup.exe версии 16.0.12624.20290)
+- Добавляет поддержку версий Office для Windows 7 с завершившимся сроком действия
+- Устраняет проблему, из-за которой параметры настройки могли применяться неправильно
+- Исправляет проблему, из-за которой неожиданно скачиваются CAT-файлы
 
 ## <a name="january-16-2020"></a>16 января 2020 г.
 
