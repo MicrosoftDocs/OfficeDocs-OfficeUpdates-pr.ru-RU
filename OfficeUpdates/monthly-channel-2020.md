@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081789"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521047"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Заметки о выпусках Monthly Channel в 2020 г.
 
@@ -24,6 +24,38 @@ ms.locfileid: "43081789"
 >
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-april-15"></a>Версия 2003:15 апреля
+*Версия 2003 (сборка 12624.20466)*
+* Исправления различных ошибок и улучшения производительности.
+
+## <a name="version-2003-april-14"></a>Версия 2003: 14 апреля
+*Версия 2003 (сборка 12624.20442)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Application.Evaluate (VBA) не работал для пользовательских функций в некоторых случаях.
+
+### <a name="outlook"></a>Outlook
+
+- Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.
+
+### <a name="project"></a>Project
+
+- Когда данные Предшественника / Преемника редактируются в представлении формы, запускается дополнительное событие ProjectBeforeTaskChange.
+
+### <a name="word"></a>Word
+
+- Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2003-march-31"></a>Версия 2003: 31 марта
 *Версия 2003 (сборка 12624.20382)*
