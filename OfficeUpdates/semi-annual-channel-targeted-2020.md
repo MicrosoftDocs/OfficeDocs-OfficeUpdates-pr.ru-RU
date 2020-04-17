@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
+ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521377"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43535524"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2020 г.
 
@@ -34,9 +34,9 @@ ms.locfileid: "43521377"
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="excel"></a>Excel
 
-- Ввод формулы, возвращающей несколько значений. Теперь вы можете быстро ввести формулу, возвращающую несколько значений, которые автоматически переносятся в смежные ячейки. [Подробнее](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- Шесть эффективных функций. Добавлено шесть новых функций для улучшения электронных таблиц: ФИЛЬТР, СОРТ, СОРТПО, УНИК, ПОСЛЕДОВ и СЛУЧМАССИВ.  [Подробнее](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- Поиск слева и справа... Вам поможет функция ПРОСМОТРX! Находите нужные данные по строкам в таблице или диапазоне с помощью функции ПРОСМОТРX.  [Подробнее](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Введите формулу, которая возвращает несколько значений:** Быстро введите формулу, которая возвращает несколько значений, и они автоматически попадут в соседние ячейки. [Подробнее](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **Шесть мощных функций:** Мы добавили шесть новых функций, чтобы увеличить ваши электронные таблицы: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE и RANDARRAY.  [Подробнее](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **Посмотрите налево, посмотрите направо ... XLOOKUP здесь!:** Ряд за строкой, найдите все, что вам нужно в таблице или диапазоне с XLOOKUP.  [Подробнее](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
