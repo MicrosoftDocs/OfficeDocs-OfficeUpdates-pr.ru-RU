@@ -11,17 +11,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Предоставляет ИТ-специалистам ссылки на выпуск Office 2007 для Office 365 профессиональный плюс, Office для Mac, бессрочных Office и Office Server Products
-ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714549"
 ---
 # <a name="office-updates"></a>Обновления Office
 
   
-Получение сведений о компонентах, обновлениях для системы безопасности и обновлениях для продуктов Office, в том числе Office 365 профессиональный плюс, Office для Mac, Office Server и бессрочных версий Office.
+Получение сведений о компонентах, обновлениях для системы безопасности и обновлениях для продуктов Office, в том числе о приложениях Microsoft 365, Office для Mac, Office Server и бессрочных версиях Office.
   
 
 ---
@@ -32,7 +32,7 @@ ms.locfileid: "38282237"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 профессиональный плюс</h3>
+                        <h3>Приложения Microsoft 365</h3>
                         <p><a href="release-notes-office365-proplus.md">Заметки о выпуске</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">Журнал обновлений (по дате)</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">Размеры обновлений</a></p>
