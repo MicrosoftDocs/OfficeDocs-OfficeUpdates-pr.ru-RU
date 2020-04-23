@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715027"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -22,13 +22,28 @@ ms.locfileid: "43521297"
 
 > [!NOTE]
 > - Дата публикации заметок о выпуске может не совпадать с фактической датой выпуска сборки.
-> - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2004-april-21"></a>Версия 2004: 21 апреля
+*Версия 2004 (сборка 12730.20182)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- Устранена проблема, которая приводила к неожиданному изменению ширины области папок.
+
+- Устранена проблема, из-за которой пользователи сталкивались с зависанием интерфейса при выходе из Outlook.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2004-april-15"></a>Версия 2004: 15 апреля
 *Версия 2004 (сборка 12730.20150)*
