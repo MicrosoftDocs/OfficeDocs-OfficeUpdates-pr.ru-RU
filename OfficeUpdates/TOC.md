@@ -1,5 +1,5 @@
 # [Информация о выпуске](release-notes-office365-proplus.md)
-# Office 365 профессиональный плюс
+# Приложения Microsoft 365
 ## [Обновления для системы безопасности](office365-proplus-security-updates.md)
 ## [Журнал обновлений (по дате)](update-history-office365-proplus-by-date.md)
 ## [Размеры обновлений](download-sizes-office365-proplus-updates.md)

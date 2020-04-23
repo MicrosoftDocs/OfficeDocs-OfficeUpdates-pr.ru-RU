@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521057"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714679"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -31,6 +31,23 @@ ms.locfileid: "43521057"
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
 
 ## <a name="april-2020-release"></a>Апрель 2020 года выпуска
+
+**Дата выпуска:** 21 апреля 2020 г.
+
+*Автоматическое обновление (Майкрософт) 4.22*
+
+**Исправления ошибок и улучшенные возможности:**
+- Пользовательский интерфейс автоматического обновления (Майкрософт) не будет отображаться на устройствах, на которых приложения Office обновляются с помощью компонента автоматического обновления (Майкрософт) в автоматическом режиме, а также на устройствах, на которых обновления устанавливаются не в автоматическом режиме, когда нет новых доступных обновлений.
+
+**Ссылка для обновления функции MAU:**
+
+[Скачать пакет автоматического обновления (Майкрософт) 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Хэш SHA-256:**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
 
 **Дата выхода:** 14 апреля 2020 г.
 

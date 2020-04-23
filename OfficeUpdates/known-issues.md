@@ -9,18 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Сведения об известных проблемах с Office 365 профессиональный плюс
-ms.openlocfilehash: 73cd91d43e09900d81418427dab1da01d89f227b
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715437"
 ---
 # <a name="office-365-proplus-known-issues"></a>Известные проблемы с Office 365 профессиональный плюс
 
-В этом перечне известных проблем приводятся сведения об обновлениях, не связанных с безопасностью, которые включены в обновления Monthly Channel, SACT и SAC для Office 365 профессиональный плюс в 2019 г., Visio Pro для Office 365, клиента Microsoft Project Online для настольных ПК и Office 365 бизнес.
+Этот раздел об известных проблемах содержит информацию об обновлениях, не связанных с безопасностью, которые включены в Monthly Channel, Semi-Annual Channel (Targeted) и Semi-Annual Channel в 2019 г. для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.
 
-В таблице далее содержатся краткие сведения о текущих активных проблемах и проблемах, которые уже решены.  Мы будем добавлять в эту таблицу информацию о существенных проблемах, которые мы сейчас изучаем.
 
 > [!NOTE]
 >- Этот список не является полным.

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781572"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
-Средство развертывания Office (ODT) — это программа командной строки, которая позволяет скачать и развернуть версии “нажми и работай” Office, например, Office 365 профессиональный плюс на клиентских компьютерах. 
+Средство развертывания Office (ODT) — это программа командной строки, которая позволяет скачать и развернуть версии “нажми и работай” Office, такие как приложения Microsoft 365, на клиентских компьютерах. 
 
 
 ODT предоставляет более широкие возможности для контроля установки Office. Вы можете указать, какие продукты и языковые версии устанавливать, как выполнять обновление, и нужно ли отображать интерфейс установки для пользователей. Дополнительные сведения относительно использования ODT см. в [Обзоре средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).

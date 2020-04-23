@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
-ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
+description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
+ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43535524"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714694"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2020 г.
 
-В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2020 г., Visio Pro для Office 365, классический клиент Project Online и Office 365 бизнес.
+Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Semi-Annual Channel (Targeted) в 2020 г. для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.
 
 > [!NOTE]
 >
 > - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 ## <a name="version-2002-april-14"></a>Версия 2002: 14 апреля
 *Версия 2002 (сборка 12527.20442)*

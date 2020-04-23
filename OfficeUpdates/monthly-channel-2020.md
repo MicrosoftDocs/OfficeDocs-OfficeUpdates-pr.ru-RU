@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2020 г. для ИТ-специалистов
-ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
+ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521047"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714519"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Заметки о выпусках Monthly Channel в 2020 г.
 
-В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс в 2020 г., Visio Pro для Office 365, классический клиент Project Online и Office 365 бизнес.
+Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Monthly Channel в 2020 г. для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.
 
  > [!NOTE]
 >
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 ## <a name="version-2003-april-15"></a>Версия 2003:15 апреля
 *Версия 2003 (сборка 12624.20466)*
