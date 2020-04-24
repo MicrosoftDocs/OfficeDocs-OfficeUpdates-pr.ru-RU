@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Предоставляет клиентам заметки о выпуске обновлений Office 365 профессиональный плюс для Windows 7
-ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Предоставляет пользователям заметки о выпуске обновлений для Приложений Microsoft 365 в Windows 7
+ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521037"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781602"
 ---
-# <a name="update-history-for-office-365-proplus-on-windows-7"></a>Журнал обновлений Office 365 профессиональный плюс для Windows 7 
+# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Журнал обновлений для Приложений Microsoft 365 в Windows 7 
 
  > [!NOTE]
 >
 >- Поддержка Windows 7 окончена 14 января 2020 г. [Подробнее](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Office 365 профессиональный плюс больше не поддерживается в Windows 7, но продолжит получать обновления для системы безопасности до января 2023 г. [Подробнее](https://docs.microsoft.com/DeployOffice/windows-7-support)
+>- Приложения Microsoft 365 больше не поддерживаются в Windows 7, но продолжат получать обновления для системы безопасности до января 2023 г. [Подробнее](https://docs.microsoft.com/DeployOffice/windows-7-support)
 >- Если вы домашний пользователь Office для Windows 7, см. статью [Окончание поддержки Windows 7 и Office ](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US).
-Версия 2002 — это последняя версия Office 365 профессиональный плюс, которая будет доступна на компьютерах с Windows 7 после того, как в январе 2020 г. завершилась поддержка Windows 7.  
+Версия 2002 — это последняя версия Приложений Microsoft 365, которая будет доступна на компьютерах с Windows 7 после того, как в январе 2020 г. завершилась поддержка Windows 7.  
 
 Ожидается, что версия 2002 будет доступна в следующих каналах:
 - Monthly Channel — в конце февраля 2020 г.
