@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 0138665b66ebca7249dce1bca9b2eeaa4b0e2041
+ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714699"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796115"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -313,8 +313,6 @@ ms.locfileid: "43714699"
 - **Быстрый поиск файла.** Ищете файл, с которым недавно работали? Просто воспользуйтесь полем поиска на странице "Файл" > "Главная", чтобы найти нужный файл.
 
 - **Удобное переключение.** Новый диспетчер учетных записей отображает все ваши рабочие и личные учетные записи Office 365 в одном расположении. Переключаться между ними стало еще проще. [Подробнее](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
-
-- **Попрощайтесь со отвлекающими моментами.** Любимая функция пользователей Mac появляется в Windows. Хотите, чтобы вас ничего не отвлекало от работы? Переключитесь в режим фокусировки в меню "Вид". [Подробнее](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Улучшение восприятия с помощью выделения строк.** Перемещайтесь по документу построчно, ни на что не отвлекаясь. Настройте выделение одной, трех или пяти строк одновременно. [Подробнее](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
