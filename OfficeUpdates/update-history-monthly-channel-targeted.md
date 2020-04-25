@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 5fcb4ae789a54b2da85360457e581ebf9fbdacb4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715299"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -26,18 +26,18 @@ ms.locfileid: "43521347"
 
 
 > [!IMPORTANT]
-> Office 365 профессиональный плюс переименовывается в **Приложения Microsoft 365 для предприятий**. Дополнительные сведения об этом переименовании см. в [этой записи блога](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Сведения о том, когда это изменение вступает в силу и какие действия могут потребоваться от администратора, см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
-
+> Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
 > - Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске.
-> - Microsoft Teams для существующих установок Office 365 профессиональный плюс — с конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**21 апреля 2020 г.**<br/>
+Версия 2004 (сборка 12730.20182)<br/>
 
 **15 апреля 2020 г.**<br/>
 Версия 2004 (сборка 12730.20150)<br/>
