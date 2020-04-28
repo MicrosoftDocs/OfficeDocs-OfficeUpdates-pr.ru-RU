@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715427"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907933"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -48,6 +48,7 @@ ms.locfileid: "43715427"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|
 |2020|15 апреля|[Версия 2003 (сборка 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|14 апреля|[Версия 2003 (сборка 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Версия 2002 (сборка 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Версия 1908 (сборка 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Версия 1902 (сборка 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 марта|[Версия 2003 (сборка 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
