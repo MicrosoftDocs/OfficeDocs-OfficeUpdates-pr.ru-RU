@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 009406a5de679ac785a59637825b95826cf271a3
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714669"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907913"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -34,9 +34,13 @@ ms.locfileid: "43714669"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)26 апреля 2020 г.)
+
 ## <a name="april-15-2020"></a>15 апреля 2020 г.
 
-[//]: # (НЕ УДАЛЯЙТЕ НАЧАЛО СОДЕРЖАНИЯ Апрель 15, 2020)
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)15 апреля 2020 г.)
 
 ### <a name="monthly-channel"></a>Monthly Channel
 

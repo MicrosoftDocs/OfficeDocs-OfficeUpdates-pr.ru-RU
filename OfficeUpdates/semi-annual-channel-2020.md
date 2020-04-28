@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 0138665b66ebca7249dce1bca9b2eeaa4b0e2041
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796115"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907909"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -26,6 +26,11 @@ ms.locfileid: "43796115"
 >- OneNote 2016 включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает "Приложения Microsoft 365" на портале Office и устанавливает в Windows 10.
 
 
+
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-april-14"></a>Версия 1908: 14 апреля
 *Версия 1908 (сборка 11929.20708)*
