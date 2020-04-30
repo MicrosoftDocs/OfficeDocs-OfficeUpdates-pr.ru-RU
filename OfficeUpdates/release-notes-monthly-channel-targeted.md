@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 73bb6f13c3f196a7d99fafc951c831eafea33e41
+ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907893"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43937412"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -29,6 +29,32 @@ ms.locfileid: "43907893"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2004-april-29"></a>Версия 2004: 29 апреля
+*Версия 2004 (сборка 12730.20236)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="outlook"></a>Outlook
+
+- **Помощь в защите данных в группе.** Метка конфиденциальности, которую можно выбрать при создании группы, применяется к сообщениям электронной почты, документам и командным сайтам группы.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема, приводившая к сбою Outlook в некоторых сборках Windows.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2004-april-25"></a>Версия 2004: 25 апреля
 *Версия 2004 (сборка 12730.20206)*

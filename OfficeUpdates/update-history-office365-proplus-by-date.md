@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 6361bc4ad78d7774956ffdac4d1e52cec4492fe0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907933"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947387"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -33,7 +33,7 @@ ms.locfileid: "43907933"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2003<br/>|12624.20466<br/>|15 апреля 2020 г.<br/>|Выпуска версии 2004<br/>|
+|Monthly<br/>|2004<br/>|12730.20236<br/>|29 апреля 2020 г.<br/>|Выпущена версия 2005<br/>|
 |Semi-Annual (Targeted)<br/>|2002<br/>|12527.20442<br/>|14 апреля 2020 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20708<br/>|14 апреля 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Semi-Annual<br/>|1902<br/>|11328.20564<br/>|14 апреля 2020 г.<br/>|8 сентября 2020 г.<br/>|
@@ -48,7 +48,7 @@ ms.locfileid: "43907933"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
-|
+|2020|29 апреля|[Версия 2004 (сборка 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | |
 |2020|15 апреля|[Версия 2003 (сборка 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|14 апреля|[Версия 2003 (сборка 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Версия 2002 (сборка 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Версия 1908 (сборка 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Версия 1902 (сборка 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 марта|[Версия 2003 (сборка 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |

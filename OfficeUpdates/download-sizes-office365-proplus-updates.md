@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 009406a5de679ac785a59637825b95826cf271a3
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 40a9f946735ced5c1e0d0dab09499ef3eeee86e0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907913"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947354"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -33,6 +33,22 @@ ms.locfileid: "43907913"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="april-29-2020"></a>29 апреля 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО) 29 апреля 2020 г.)
+
+### <a name="monthly-channel"></a>Monthly Channel
+
+Последним выпуском является версия 2004 (сборка 12730.20236).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2003 (сборка 12624.20466) <br/> |15 апреля 2020 г. <br/> |174<br/> |
+|Версия 2003 (сборка 12624.20442) <br/> |14 апреля 2020 г. <br/> |322<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (ОКОНЧАНИЕ) 29 апреля 2020 г.)
 
 
 
