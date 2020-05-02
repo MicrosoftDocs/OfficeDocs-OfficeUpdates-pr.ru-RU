@@ -1,5 +1,5 @@
 ---
-title: Заметки о выПуске ежемесячных выпусков маркетинговых программ в 2015
+title: Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2015
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -17,12 +17,12 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32438814"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Заметки о выПуске ежемесячных выпусков маркетинговых программ в 2015
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2015
 
 Эти заметки о выпусках содержат сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, которые включены в ежемесячные обновления для Office 365 профессиональный плюс в 2015.
  
 > [!NOTE]
-> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и обновлениях, не связанных с безопасностью, для Visio Pro для Office 365 и Project Online Desktop Client.
+> - Кроме того, ниже представлены сведения о новых функциях, обновлениях для системы безопасности и других обновлениях Visio Pro для Office 365 и клиента Project Online для настольных ПК.
 > - Эти сведения также касаются Office 365 бизнес (версии Office, которая входит в некоторые планы Office 365, например Office 365 бизнес премиум).
 > - Месячный канал назывался текущим каналом до 2017 сентября.
 
@@ -69,7 +69,7 @@ ms.locfileid: "32438814"
 
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 -   **Send as options**: Send a document either as an attachment or as a PDF from the Share pane in Word or PowerPoint.
--   **API вставки рисунков**: Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки [](https://msdn.microsoft.com/library/office/mt598674.aspx)встроенных рисунков в тексте, а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков**: Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой усекается дата изменения после выбора команды "Открыть" или "Сохранить как".
