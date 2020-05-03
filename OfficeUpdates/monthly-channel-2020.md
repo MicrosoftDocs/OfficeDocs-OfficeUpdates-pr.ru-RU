@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
-ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947399"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997472"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Заметки о выпусках Monthly Channel в 2020 г.
 
@@ -57,7 +57,7 @@ ms.locfileid: "43947399"
 
 - **Новые изображения, чтобы оживить сообщения.** Тысячи бесплатных стоковых изображений, значков и наклеек, которые можно использовать в сообщениях электронной почты. Для начала выберите "Вставить > Рисунки > Стоковые изображения". [Подробнее](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-- **Новая функция "Поиск помещений".** Поиск конференц-залов с учетом различных возможностей. 
+- **Поддержка рекомендаций по расположениям для повторяющихся собраний:** поиск конференц-залов при планировании повторяющихся собраний.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -115,7 +115,7 @@ ms.locfileid: "43947399"
 - Когда данные Предшественника / Преемника редактируются в представлении формы, запускается дополнительное событие ProjectBeforeTaskChange.
 
 
-- Исправлена проблема, из-за которой при использовании Project, подключенного к Project Web App, метод добавления TaskDependencies завершался сбоем при попытке добавления задержки к зависимости.
+- Исправлена проблема, из-за которой при использовании Project, подключенного к Project Web App, и запятой в качестве десятичного разделителя метод добавления объектов TaskDependencies завершался сбоем при попытке добавления задержки к зависимости.
 
 ### <a name="office-suite"></a>Набор Office
 
