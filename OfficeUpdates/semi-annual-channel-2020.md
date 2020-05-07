@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907909"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044592"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Заметки о выпусках Semi-Annual Channel в 2020 г.
 
@@ -22,7 +22,6 @@ ms.locfileid: "43907909"
 
 > [!NOTE]
 >
->- Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 включается по умолчанию, если пользователь, для которого применяется Semi-Annual Channel, скачивает "Приложения Microsoft 365" на портале Office и устанавливает в Windows 10.
 
 
@@ -31,6 +30,22 @@ ms.locfileid: "43907909"
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-1908-may-04"></a>Версия 1908: 04 мая
+*Версия 1908 (сборка 11929.20752)*
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="office-suite"></a>Набор Office
+
+- Исправлена проблема в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени библиотеки или пути к библиотеке, рассматривались приложением Office как поврежденные при загрузке.
+
+## <a name="version-1902-may-04"></a>Версия 1902: 04 мая
+*Версия 1902 (сборка 11328.20572)*
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="office-suite"></a>Набор Office
+
+- Исправлена проблема в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени библиотеки или пути к библиотеке, рассматривались приложением Office как поврежденные при загрузке.
 
 ## <a name="version-1908-april-14"></a>Версия 1908: 14 апреля
 *Версия 1908 (сборка 11929.20708)*
