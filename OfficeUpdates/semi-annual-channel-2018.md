@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2018 г. для ИТ-специалистов
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615131"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163551"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Заметки о выпусках Semi-Annual Channel в 2018 г.
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615131"
 > - Канал Semi-Annual Channel назывался Deferred Channel до января 2018 г.
 
 > [!NOTE]
-> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут указываться отдельно в [Обновлениях для системы безопасности](office365-proplus-security-updates.md).
+> - Сведения об обновлениях системы безопасности для каждого канала обновления Office 365 профессиональный плюс начнут указываться отдельно в [Обновлениях для системы безопасности](microsoft365-apps-security-updates.md).
 
 ## <a name="version-1803-december-11"></a>Версия 1803: 11 декабря
 *Версия 1803 (сборка 9126.2336)*

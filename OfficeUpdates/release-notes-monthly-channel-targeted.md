@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: ad71fff0a44c60626a4a6c1e1c834830ff1d0b88
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 7d3de2e4fe3d7d359542f6606ad08af1b5280fa0
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029939"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163621"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -289,7 +289,7 @@ ms.locfileid: "44029939"
 ## <a name="version-2003-april-14"></a>Версия 2003: 14 апреля
 *Версия 2003 (сборка 12624.20466)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
@@ -464,7 +464,7 @@ ms.locfileid: "44029939"
 ## <a name="version-2003-march-10"></a>Версия 2003: 10 марта
 *Версия 2003 (сборка 12624.20176)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 ### <a name="feature-updates"></a>Обновления компонентов
@@ -684,7 +684,7 @@ ms.locfileid: "44029939"
 ## <a name="version-2002-february-11"></a>Версия 2002:11 февраля
 *Версия 2002 (сборка 12527,20092)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
@@ -892,7 +892,7 @@ ms.locfileid: "44029939"
 ## <a name="version-2001-january-14"></a>Версия 2001: 14 января
 *Версия 2001 (сборка 12430.20050)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>Версия 1912: 8 января
 *Версия 1912 (сборка 12325.20288)*
@@ -1099,7 +1099,7 @@ ms.locfileid: "44029939"
 ## <a name="version-1911-december-10"></a>Версия 1911: 10 декабря
 *Версия 1911 (сборка 12228.20364)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -1162,7 +1162,7 @@ ms.locfileid: "44029939"
 ## <a name="version-1911-november-12"></a>Версия 1911: 12 ноября
 *Версия 1911 (сборка 12228.20120)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 

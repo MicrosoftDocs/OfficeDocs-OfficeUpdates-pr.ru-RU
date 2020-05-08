@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615140"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163541"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1911-december-10"></a>Версия 1911: 10 декабря
 *Версия 1911 (сборка 12228.20364)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -119,7 +119,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1910-november-12"></a>Версия 1910: 12 ноября
 *Версия 1910 (сборка 12130.20344)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -222,7 +222,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
 *Версия 1909 (сборка 12026.20320)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -334,7 +334,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1908-september-10"></a>Версия 1908: 10 сентября
 *Версия 1908 (сборка 11929.20300)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -400,7 +400,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
 *Версия 1907 (сборка 11901.20218)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
@@ -454,7 +454,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1906-july-09"></a>Версия 1906: 9 июля
 *Версия 1906 (сборка 11727.20244)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
@@ -520,7 +520,7 @@ ms.locfileid: "42615140"
 
 ## <a name="version-1905-june-11"></a>Версия 1905: 11 июня
 *Версия 1905 (сборка 11629.20246)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
@@ -610,7 +610,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1904-may-14"></a>Версия 1904: 14 мая 
 *Версия 1904 (сборка 11601.20204)*
 
-- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1904-may-8"></a>Версия 1904: 8 мая
 *Версия 1904 (сборка 11601.20178)*
@@ -675,7 +675,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1903-april-9"></a>Версия 1903: 9 апреля
 *Версия 1903 (сборка 11425.20204)* 
 
-- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 - Исправлена ошибка в Lync (Skype для бизнеса), из-за которой могло исчезать окно для любого собрания по сети с количеством участников более 7.
@@ -765,7 +765,7 @@ ms.locfileid: "42615140"
 ## <a name="version-1901-february-12"></a>Версия 1901: 12 февраля
 *Версия 1901 (сборка 11231.20174)* 
 
-Обновления для системы безопасности перечислены [здесь](office365-proplus-security-updates.md)
+Обновления для системы безопасности перечислены [здесь](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>Версия 1901: 31 января
 *Версия 1901 (сборка 11231.20130)* 
