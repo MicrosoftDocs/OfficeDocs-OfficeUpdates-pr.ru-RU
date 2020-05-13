@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044612"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210854"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -38,12 +38,13 @@ ms.locfileid: "44044612"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|12 мая 2020 г.   |Версия 1808 (сборка 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901) <br/> |
 |14 апреля 2020 г.   |Версия 1808 (сборка 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 марта 2020 г.   |Версия 1808 (сборка 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11 февраля 2020 г.   |Версия 1808 (сборка 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |14 января 2020 г.   |Версия 1808 (сборка 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |10 декабря 2019 г.   |Версия 1808 (сборка 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1464) <br/> |
-|12 ноября 2019 г.   |Версия 1808 (сборка 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1449) <br/>  |
+
 
 
 
@@ -60,6 +61,7 @@ ms.locfileid: "44044612"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|12 мая 2020 г.|Версия 2004 (сборка 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901)  <br/>  |
 |4 мая 2020 г.|Версия 2004 (сборка 12730.20250)  |Устранена проблема, из-за которой приложение Office считало поврежденными при загрузке некоторые проекты VBA, содержащие ссылки на библиотеки кода с двухбайтовыми символами DBCS в имени библиотеки или пути к библиотеке. <br/>  |
 |29 апреля 2020 г.|Версия 2004 (сборка 12730.20236)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |15 апреля 2020 г.|Версия 2003 (сборка 12624.20466)  |Исправления различных ошибок и улучшения производительности. <br/>  |
