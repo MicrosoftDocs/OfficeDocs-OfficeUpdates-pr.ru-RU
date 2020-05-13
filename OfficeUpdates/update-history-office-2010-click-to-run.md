@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 36eb997635e01c6b9acd0ccc48aec4348c1e1dee
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: f11e6287ecdbda4afb7959489c03ba8f5fee83be
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521007"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211214"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -33,7 +33,7 @@ ms.locfileid: "43521007"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7248.5000**, выпущенная 14 апреля 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7249.5000**, выпущенная 12 мая 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -57,7 +57,8 @@ ms.locfileid: "43521007"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|14 апреля  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
+|2020|12 мая  <br/> |14.0.7249.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4549680](https://support.microsoft.com/help/4549680 ) <br/> |
+||14 апреля  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 марта  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
 ||11 февраля  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||14 января  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
