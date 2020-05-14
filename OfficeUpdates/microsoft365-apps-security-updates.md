@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138548"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211709"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365
 
@@ -24,11 +24,32 @@ ms.locfileid: "44138548"
 
 
 > [!IMPORTANT]
-> Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+
 
  
 
-[//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+[//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="may-12-2020"></a>12 мая 2020 г.
+Monthly Channel: версия 2004 (сборка 12730.20270)  
+Monthly Enterprise Channel: версия 2003 (сборка 12624.20588)  
+Semi-Annual Channel (Targeted): версия 2002 (сборка 12527.20612)  
+Semi-Annual Channel: версия 1908 (сборка 11929.20776)  
+Semi-Annual Channel: версия 1902 (сборка 11328.20586)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.20612)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="april-14-2020"></a>14 апреля 2020 г.
 Monthly Channel: версия 2003 (сборка 12624.20442)  
