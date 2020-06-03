@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: c3e7222a89bc6e854c63472f3cf123feaeb8bcda
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
-ms.translationtype: HT
+ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
+ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211734"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44520213"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -36,7 +36,7 @@ ms.locfileid: "44211734"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2004<br/>|12730.20270<br/>|12 мая 2020 г.<br/>|Выпущена версия 2005<br/>|
+|Monthly<br/>|2005<br/>|12827,20268<br/>|2 июня 2020 г.<br/>|Выпущена версия 2006<br/>|
 |Monthly Enterprise<br/>|2003<br/>|12624.20588<br/>|12 мая 2020 г.<br/>|14 июля 2020 г.<br/>|
 |Semi-Annual (Targeted)<br/>|2002<br/>|12527.20612<br/>|12 мая 2020 г.<br/>|8 сентября 2020 г.<br/>|
 |Semi-Annual<br/>|1908<br/>|11929.20776<br/>|12 мая 2020 г.<br/>|9 марта 2021 г.<br/>|
@@ -52,6 +52,8 @@ ms.locfileid: "44211734"
 
 |**Год**|**Дата выпуска**|**Monthly Channel**|**Monthly Enterprise Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|02 июня|[Версия 2005 (сборка 12827,20268)](monthly-channel-2020.md#version-2005-june-02)| | | |
+|2020|21 мая|[Версия 2004 (сборка 12730,20352)](monthly-channel-2020.md#version-2004-may-21)| | | |
 |2020|12 мая|[Версия 2004 (сборка 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[Версия 2003 (сборка 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Версия 2002 (сборка 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[Версия 1908 (сборка 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[Версия 1902 (сборка 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
 |2020|04 мая|[Версия 2004 (сборка 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[Версия 1908 (сборка 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[Версия 1902 (сборка 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
 |2020|29 апреля|[Версия 2004 (сборка 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |

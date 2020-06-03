@@ -1,6 +1,6 @@
 ---
 title: Журнал обновлений для канала Office Monthly Channel (Targeted)
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211264"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429014"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Журнал обновлений для канала Office Monthly (Targeted) для Windows
 
@@ -35,6 +35,15 @@ ms.locfileid: "44211264"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**29 мая 2020 г.**<br/>
+Версия 2005 (сборка 12827,20268)<br/>
+
+**21 мая, 2020**<br/>
+Версия 2005 (сборка 12827,20210)<br/>
+
+**14 мая 2020 г.**<br/>
+Версия 2005 (сборка 12827,20160)<br/>
 
 **11 мая 2020 г.**<br/>
 Версия 2004 (сборка 12730.20270)<br/>
