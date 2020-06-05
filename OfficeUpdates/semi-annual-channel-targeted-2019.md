@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796125"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565061"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -27,7 +27,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1908-december-10"></a>Версия 1908: 10 декабря
 *Версия 1908 (сборка 11929.20516)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -129,7 +129,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1908-november-12"></a>Версия 1908: 12 ноября
 *Версия 1908 (сборка 11929.20436)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -157,7 +157,7 @@ ms.locfileid: "43796125"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Ссылки cid: теперь связь с изображениями из сообщений Outlook может быть успешно разорвана по запросу.</div>
+- Ссылки cid: теперь связь с изображениями из сообщений Outlook может быть успешно разорвана по запросу.
 - Исправление проблем с надежностью. Исправлена проблема, из-за которой надстройка стороннего поставщика могла вызывать сбой PowerPoint.
 
 ### <a name="project"></a>Project
@@ -206,7 +206,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1908-october-08"></a>Версия 1908: 8 октября
 *Версия 1908 (сборка 11929.20388)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -246,7 +246,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1908-september-10"></a>Версия 1908: 10 сентября
 *Версия 1908 (сборка 11929.20300)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -457,7 +457,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1902-august-13"></a>Версия 1902: 13 августа
 *Версия 1902 (сборка 11328.20392)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 - Исправлена проблема, из-за которой значок очистки фильтра отображался как для отфильтрованных, так и неотфильтрованных срезов в таблицах.
@@ -479,7 +479,7 @@ ms.locfileid: "43796125"
 ## <a name="version-1902-july-09"></a>Версия 1902: 9 июля
 *Версия 1902 (сборка 11328.20368)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
@@ -521,7 +521,7 @@ ms.locfileid: "43796125"
 
 ## <a name="version-1902-june-11"></a>Версия 1902: 11 июня
 *Версия 1902 (сборка 11328.20318)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
  - Решена проблема, приводившая к сбою при сохранении файла, содержащего карту XML, в PDF-файл.

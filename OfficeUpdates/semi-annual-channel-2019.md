@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163531"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565074"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel в 2019 г.
 
@@ -165,7 +165,7 @@ ms.locfileid: "44163531"
 
 ### <a name="project"></a>Project
 
-- Устранена ошибка, при которой XPS-файл не создается из PDF-файла при выполнении таких действий:</div><ul><li>Вы открываете проект.</li><li>Вы щелкаете меню "Файл", затем команду "Экспорт" и нажимаете кнопку <b>Создать PDF/XPS</b>.</li><li>В диалоговом окне "Обзор" вы вводите имя файла и нажимаете кнопку "ОК".</li></ul>
+- Устранена ошибка, при которой XPS-файл не создается из PDF-файла при выполнении таких действий:<ul><li>Вы открываете проект.</li><li>Вы щелкаете меню "Файл", затем команду "Экспорт" и нажимаете кнопку <b>Создать PDF/XPS</b>.</li><li>В диалоговом окне "Обзор" вы вводите имя файла и нажимаете кнопку "ОК".</li></ul>
 
 ### <a name="word"></a>Word
 
