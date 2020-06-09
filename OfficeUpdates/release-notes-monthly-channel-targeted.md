@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563679"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618935"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Заметки о выпуске для канала Office Monthly Channel (Targeted)
 
@@ -32,6 +32,20 @@ ms.locfileid: "44563679"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2005-june-08"></a>Версия 2005:08 июня
+*Версия 2005 (сборка 12827,20336)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена ошибка, связанная с диалоговым окном замены шрифтов, в котором вместо шрифтов, заменяющих раскрывающийся список шрифтов, отображаются только шрифты, а не установленные в системе шрифты.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2005-june-04"></a>Версия 2005:4 июня
 *Версия 2005 (сборка 12827,20320)*
