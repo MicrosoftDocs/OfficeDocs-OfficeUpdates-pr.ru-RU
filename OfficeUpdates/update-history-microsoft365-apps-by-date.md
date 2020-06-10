@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
-ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.openlocfilehash: 32e6b751e222270cc14d3dfaddaf68e744b8c401
+ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44520213"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44668024"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -36,11 +36,12 @@ ms.locfileid: "44520213"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly<br/>|2005<br/>|12827,20268<br/>|2 июня 2020 г.<br/>|Выпущена версия 2006<br/>|
-|Monthly Enterprise<br/>|2003<br/>|12624.20588<br/>|12 мая 2020 г.<br/>|14 июля 2020 г.<br/>|
-|Semi-Annual (Targeted)<br/>|2002<br/>|12527.20612<br/>|12 мая 2020 г.<br/>|8 сентября 2020 г.<br/>|
-|Semi-Annual<br/>|1908<br/>|11929.20776<br/>|12 мая 2020 г.<br/>|9 марта 2021 г.<br/>|
-|Semi-Annual<br/>|1902<br/>|11328.20586<br/>|12 мая 2020 г.<br/>|8 сентября 2020 г.<br/>|
+|Current<br/>|2005<br/>|12827,20336<br/>|9 июня 2020 г.<br/>|Выпущена версия 2006<br/>|
+|Monthly Enterprise<br/>|2004<br/>|12730,20430<br/>|9 июня 2020 г.<br/>|11 августа 2020 г.<br/>|
+|Monthly Enterprise<br/>|2003<br/>|12624,20708<br/>|9 июня 2020 г.<br/>|14 июля 2020 г.<br/>|
+|Половина ежегодного предприятия (ознакомительная версия)<br/>|2002<br/>|12527,20720<br/>|9 июня 2020 г.<br/>|8 сентября 2020 г.<br/>|
+|Половина ежегодного предприятия<br/>|1908<br/>|11929,20838<br/>|9 июня 2020 г.<br/>|9 марта 2021 г.<br/>|
+|Половина ежегодного предприятия<br/>|1902<br/>|11328,20602<br/>|9 июня 2020 г.<br/>|8 сентября 2020 г.<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -50,26 +51,27 @@ ms.locfileid: "44520213"
 
 [//]: # (HISTORYTABLESTART)
 
-|**Год**|**Дата выпуска**|**Monthly Channel**|**Monthly Enterprise Channel**|**Semi-annual Channel (Targeted)**|**Semi-Annual Channel**|
+|**Год**|**Дата выпуска**|**Быстрый канал**|**Monthly Enterprise Channel**|**Половина ежегодного корпоративного канала (Предварительная версия)**|**Половина ежегодного корпоративного канала**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|02 июня|[Версия 2005 (сборка 12827,20268)](monthly-channel-2020.md#version-2005-june-02)| | | |
-|2020|21 мая|[Версия 2004 (сборка 12730,20352)](monthly-channel-2020.md#version-2004-may-21)| | | |
-|2020|12 мая|[Версия 2004 (сборка 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[Версия 2003 (сборка 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Версия 2002 (сборка 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[Версия 1908 (сборка 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[Версия 1902 (сборка 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
-|2020|04 мая|[Версия 2004 (сборка 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[Версия 1908 (сборка 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[Версия 1902 (сборка 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
-|2020|29 апреля|[Версия 2004 (сборка 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |
-|2020|15 апреля|[Версия 2003 (сборка 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | | |
-|2020|14 апреля|[Версия 2003 (сборка 12624.20442)](monthly-channel-2020.md#version-2003-april-14)| |[Версия 2002 (сборка 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Версия 1908 (сборка 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Версия 1902 (сборка 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
-|2020|31 марта|[Версия 2003 (сборка 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | | |
-|2020|25 марта|[Версия 2003 (сборка 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | | |
-|2020|10 марта|[Версия 2002 (сборка 12527.20278)](monthly-channel-2020.md#version-2002-march-10)| |[Версия 2002 (сборка 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Версия 1908 (сборка 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Версия 1902 (сборка 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
-|2020|1 марта|[Версия 2002 (сборка 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | | |
-|2020|25 февраля|[Версия 2002 (сборка 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | | |
-|2020|19 февраля|[Версия 2001 (сборка 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | | |
-|2020|11 февраля|[Версия 2001 (сборка 12430,20264)](monthly-channel-2020.md#version-2001-february-11)| |[Версия 1908 (сборка 11929,20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[Версия 1908 (сборка 11929,20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[Версия 1902 (сборка 11328,20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[Версия 1808 (сборка 10730,20438)](semi-annual-channel-2020.md#version-1808-february-11)|
-|2020|30 января|[Версия 2001 (сборка 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | | |
-|2020|22 января|[Версия 1912 (сборка 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | | |
-|2020|14 января|[Версия 1912 (сборка 12325.20298)](monthly-channel-2020#version-1912-january-14)| |[Версия 1908 (сборка 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Версия 1902 (сборка 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Версия 1808 (сборка 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
-|2020|8 января|[Версия 1912 (сборка 12325.20288)](monthly-channel-2020#version-1912-january-08)| | | |
+|2020|09 июня|[Версия 2005 (сборка 12827,20336)](current-channel.md#version-2005-june-09)|[Версия 2004 (сборка 12730,20430)](monthly-enterprise-channel-2020.md#version-2004-june-09)<br/>[Версия 2003 (сборка 12624,20708)](monthly-enterprise-channel-2020.md#version-2003-june-09)|[Версия 2002 (сборка 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Версия 1908 (сборка 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Версия 1902 (сборка 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
+|2020|02 июня|[Версия 2005 (сборка 12827,20268)](current-channel.md#version-2005-june-02)| | | |
+|2020|21 мая|[Версия 2004 (сборка 12730,20352)](current-channel.md#version-2004-may-21)| | | |
+|2020|12 мая|[Версия 2004 (сборка 12730.20270)](current-channel.md#version-2004-may-12)|[Версия 2003 (сборка 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Версия 2002 (сборка 12527.20612)](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[Версия 1908 (сборка 11929.20776)](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[Версия 1902 (сборка 11328.20586)](semi-annual-enterprise-channel.md#version-1902-may-12)|
+|2020|04 мая|[Версия 2004 (сборка 12730.20250)](current-channel.md#version-2004-may-04)| | |[Версия 1908 (сборка 11929.20752)](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[Версия 1902 (сборка 11328.20572)](semi-annual-enterprise-channel.md#version-1902-may-04)|
+|2020|29 апреля|[Версия 2004 (сборка 12730.20236)](current-channel.md#version-2004-april-29)| | | |
+|2020|15 апреля|[Версия 2003 (сборка 12624.20466)](current-channel.md#version-2003-april-15)| | | |
+|2020|14 апреля|[Версия 2003 (сборка 12624.20442)](current-channel.md#version-2003-april-14)| |[Версия 2002 (сборка 12527.20442)](semi-annual-enterprise-channel-preview.md#version-2002-april-14)|[Версия 1908 (сборка 11929.20708)](semi-annual-enterprise-channel.md#version-1908-april-14)<br/>[Версия 1902 (сборка 11328.20564)](semi-annual-enterprise-channel.md#version-1902-april-14)|
+|2020|31 марта|[Версия 2003 (сборка 12624.20382)](current-channel.md#version-2003-march-31)| | | |
+|2020|25 марта|[Версия 2003 (сборка 12624.20320)](current-channel.md#version-2003-march-25)| | | |
+|2020|10 марта|[Версия 2002 (сборка 12527.20278)](current-channel.md#version-2002-march-10)| |[Версия 2002 (сборка 12527.20278)](semi-annual-enterprise-channel-preview.md#version-2002-march-10)|[Версия 1908 (сборка 11929.20648)](semi-annual-enterprise-channel.md#version-1908-march-10)<br/>[Версия 1902 (сборка 11328.20554)](semi-annual-enterprise-channel.md#version-1902-march-10)|
+|2020|1 марта|[Версия 2002 (сборка 12527.20242)](current-channel.md#version-2002-march-01)| | | |
+|2020|25 февраля|[Версия 2002 (сборка 12527.20194)](current-channel.md#version-2002-february-25)| | | |
+|2020|19 февраля|[Версия 2001 (сборка 12430.20288)](current-channel.md#version-2001-february-19)| | | |
+|2020|11 февраля|[Версия 2001 (сборка 12430,20264)](current-channel.md#version-2001-february-11)| |[Версия 1908 (сборка 11929,20606)](semi-annual-enterprise-channel-preview.md#version-1908-february-11)|[Версия 1908 (сборка 11929,20606)](semi-annual-enterprise-channel.md#version-1908-february-11)<br/>[Версия 1902 (сборка 11328,20526)](semi-annual-enterprise-channel.md#version-1902-february-11)<br/>[Версия 1808 (сборка 10730,20438)](semi-annual-enterprise-channel.md#version-1808-february-11)|
+|2020|30 января|[Версия 2001 (сборка 12430.20184)](current-channel.md#version-2001-january-30)| | | |
+|2020|22 января|[Версия 1912 (сборка 12325.20344)](current-channel.md#version-1912-january-22)| | | |
+|2020|14 января|[Версия 1912 (сборка 12325.20298)](current-channel#version-1912-january-14)| |[Версия 1908 (сборка 11929.20562)](semi-annual-enterprise-channel-preview.md#version-1908-january-14)|[Версия 1908 (сборка 11929.20562)](semi-annual-enterprise-channel.md#version-1908-january-14)<br/>[Версия 1902 (сборка 11328.20512)](semi-annual-enterprise-channel.md#version-1902-january-14)<br/>[Версия 1808 (сборка 10730.20432)](semi-annual-enterprise-channel.md#version-1808-january-14)|
+|2020|8 января|[Версия 1912 (сборка 12325.20288)](current-channel#version-1912-january-08)| | | |
 |2019|10 декабря|[Версия 1911 (сборка 12228.20364)](monthly-channel-2019#version-1911-december-10)| |[Версия 1908 (сборка 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[Версия 1902 (сборка 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Версия 1808 (сборка 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 декабря|[Версия 1911 (сборка 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | | |
 |2019|22 ноября|[Версия 1910 (сборка 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[Версия 1908 (сборка 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Версия 1902 (сборка 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Версия 1808 (сборка 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|

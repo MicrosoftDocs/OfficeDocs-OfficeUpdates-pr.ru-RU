@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: f11e6287ecdbda4afb7959489c03ba8f5fee83be
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
+ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211214"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44666596"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
 > [!IMPORTANT]
-Поддержка Office 2010 заканчивается 13 октября 2020 года. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [План прекращения поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+Поддержка Office 2010 прекращается 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 
 Перечисленные ниже продукты Office 2010 обновляются автоматически с помощью технологии "нажми и работай".
@@ -33,7 +33,7 @@ ms.locfileid: "44211214"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7249.5000**, выпущенная 12 мая 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7252.5000**, выпущенная 9 июня 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -57,7 +57,8 @@ ms.locfileid: "44211214"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|12 мая  <br/> |14.0.7249.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4549680](https://support.microsoft.com/help/4549680 ) <br/> |
+|2020|9 июня  <br/> |14.0.7252.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+||12 мая  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||14 апреля  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 марта  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
 ||11 февраля  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
