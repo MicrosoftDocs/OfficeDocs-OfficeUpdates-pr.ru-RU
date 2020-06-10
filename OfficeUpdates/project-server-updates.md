@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: e07faf7d801da2feaa5293b58e60a569f9bf5d6f
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: cb72af910fde540407a40ff466ce803762e35907
+ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211124"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44666661"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -29,6 +29,7 @@ ms.locfileid: "44211124"
   
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Июнь 2020 г.  <br/> |[KB4484407](https://support.microsoft.com/kb/4484407) <br/>|
 |Май 2020 г.  <br/> |[KB4484360](https://support.microsoft.com/kb/4484360) <br/>|
 |Апрель 2020 г.  <br/> |[KB4484318](https://support.microsoft.com/kb/4484318) <br/>|
 |Март 2020 г.  <br/> |[KB4484279](https://support.microsoft.com/kb/4484279) <br/>|
@@ -99,6 +100,7 @@ ms.locfileid: "44211124"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Июнь 2020 г.  <br/>  |[KB4484412](https://support.microsoft.com/kb/4484412) <br/>|
 |Май 2020 г.  <br/>  |[KB4484388](https://support.microsoft.com/kb/4484388) <br/>|
 |Апрель 2020 г.  <br/>  |[KB4484323](https://support.microsoft.com/kb/4484323) <br/>|
 |Март 2020 г.  <br/>  |[KB4484239](https://support.microsoft.com/kb/4484239) <br/>|
