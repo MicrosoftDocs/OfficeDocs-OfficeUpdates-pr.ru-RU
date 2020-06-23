@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668110"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853957"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для канала бета-версии Office
 
-Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -29,13 +30,20 @@ ms.locfileid: "44668110"
 > - В этом журнале обновлений перечислены все выпущенные сборки
 > - Заметки о выпуске обновляются реже и могут содержать обновления для нескольких сборок до опубликованного номера сборки заметок о выпуске.
 
-## <a name="office-beta-versions-and-builds"></a>Бета-версии и сборки Office
+## <a name="office-beta-channel-versions-and-builds"></a>Версии и сборки канала бета-версии Office
 
-Если вы зарегистрированы на уровне Insider Preview, вы получаете новые функции и улучшения. Приведенный ниже список содержит историю последних версий бета-версий и построений, при **этом Первая выпущенная сборка указана в списке**. Новые сборки содержат все обновления, содержащиеся в предыдущих сборках.
+Если вы зарегистрированы на уровне Insider Preview, вы получаете новые функции и улучшения. Приведенный ниже список содержит историю последних версий и сборок бета-канала с последней **выданной сборкой в списке**. Новые сборки содержат все обновления, содержащиеся в предыдущих сборках.
 
-Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
+Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**23 июня 2020 г.**<br/>
+Версия 2007 (сборка 13020,20004)<br/>
+
+**15 июня 2020 г.**<br/>
+Версия 2007 (сборка 13012,20000)<br/>
 
 **09 июня 2020 г.**<br/>
 Версия 2007 (сборка 13006,20002)<br/>
