@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796700"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874835"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений для текущего канала Office (Предварительная версия) для Windows
 
@@ -24,7 +24,7 @@ ms.locfileid: "44796700"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала Office (Предварительная версия)
 
 Если вы зарегистрированы на текущем уровне канала (предварительной версии), который ранее назывался Preview, вы получите новое обновление компонентов Office приблизительно раз в месяц, а также последующие сборки, содержащие важные исправления или обновления для системы безопасности. В следующем списке приведены последние версии и сборки текущего канала (Предварительная версия) с последней **выданной сборкой, указанной первым**. Новые сборки содержат все обновления, содержащиеся в предыдущих сборках.
-Чтобы найти заметки о выпуске, ознакомьтесь со статьей [новые возможности для участников программы предварительной оценки Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Для получения заметок о выпуске [Ознакомьтесь](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)со статьей. Кроме того, вы можете увидеть [новые возможности для участников Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
