@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796690"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889065"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске для текущего канала Office (Предварительная версия)
 
@@ -32,6 +32,46 @@ ms.locfileid: "44796690"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2006-june-25"></a>Версия 2006:25 июня
+*Версия 2006 (сборка 13001,20266)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="visio"></a>Visio
+
+- **Создание законченных схем Visio в Excel:** Создание блок диаграммы или организационного диаграммы на основе данных на листе.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="access"></a>Access
+
+- <div>Теперь эта проблема устранена. Сообщите команде о наличии дополнительных проблем с этим процессом.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">Устраняет ошибку, которая привела к просмотру <span>&nbsp;</span> пользователей</span> <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">Дата создания &nbsp; вложений, скопированных в свою файловую систему с помощью операции перетаскивания &nbsp; , для которых установлено значение 1 января, 4501.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Устраняет неполадку, которая привела к тому, что пользователи общего календаря повидят ошибки календаря.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Устраняет проблему, которая привела к тому, что пользователи видят Outlook, чтобы запустить средство восстановления папки "Входящие".</span><br></div>
+
+
+- <div><span style="display:inline !important;">Устранена ошибка, из – за которой Поиск функции в предложении предлагает функцию, чтобы не возвращать результаты, и оставить пользователя без возможности для отправки новой идеи функции.</span><br></div>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2006-june-18"></a>Версия 2006:18 июня
 *Версия 2006 (сборка 13001,20198)*
