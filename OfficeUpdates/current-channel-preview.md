@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889065"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001183"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске для текущего канала Office (Предварительная версия)
 
@@ -362,10 +362,7 @@ ms.locfileid: "44889065"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="feature-updates"></a>Обновления функций
-### <a name="excel"></a>Excel
 
-- **Получение данных Организации из Power BI с использованием типов данных Excel:** Вы можете вставлять данные из вашей организации с помощью типов данных Excel. Преобразуйте ячейку в книге и получите дополнительные сведения, а затем обновите данные в любое время.
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
