@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015631"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049489"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпуске для текущих выпусков канала в 2020
 
@@ -824,3 +823,7 @@ ms.locfileid: "45015631"
 
 > [!NOTE]
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
+
+[//]: # (НЕ ИЗМЕНЯЙТЕ НАЧАЛО СОДЕРЖИМОГО МЕТАДАННЫХ ЦЕНТРА АДМИНИСТРИРОВАНИЯ)
+[//]: # (| Win32 | КОПИЯ | Рабочая среда | | 16.0.13001.20266 | Version – 2006 – Июнь – 30 |)
+[//]: # (НЕ ИЗМЕНЯЙТЕ ОКОНЧАНИЕ КОНТЕНТА МЕТАДАННЫХ ЦЕНТРА АДМИНИСТРИРОВАНИЯ)
