@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
-ms.openlocfilehash: 38755dab9e7e7d6b2497245da2b65a23a241f0db
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
+ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
+ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015641"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080164"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для канала бета-версии Office
 
@@ -38,6 +38,9 @@ Click [here](https://insider.office.com/) for more information on the Insiders P
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**07 июля 2020 г.**<br/>
+Версия 2008 (сборка 13102,20002)<br/>
 
 **01 июля 2020 г.**<br/>
 Версия 2007 (сборка 13029,20006)<br/>

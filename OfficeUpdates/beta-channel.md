@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037083"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052632"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для канала бета-версии
 
@@ -997,3 +997,7 @@ ms.locfileid: "45037083"
 - Исправлена проблема, которая могла приводить к неправильной установке пакета средств проверки правописания для норвежского (нюнорск) языка (nn-no).
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+
+[//]: # (НЕ ИЗМЕНЯЙТЕ НАЧАЛО СОДЕРЖИМОГО МЕТАДАННЫХ ЦЕНТРА АДМИНИСТРИРОВАНИЯ)
+[//]: # (НЕ ИЗМЕНЯЙТЕ ОКОНЧАНИЕ КОНТЕНТА МЕТАДАННЫХ ЦЕНТРА АДМИНИСТРИРОВАНИЯ)
