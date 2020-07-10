@@ -9,424 +9,362 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
+ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211719"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083365"
 ---
-# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="64e4d-103">Размеры скачиваемых обновлений для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="64e4d-103">Download sizes for updates to Microsoft 365 Apps</span></span>
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="a02c3-103">Размеры скачиваемых обновлений для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a02c3-103">Download sizes for updates to Microsoft 365 Apps</span></span>
 
-<span data-ttu-id="64e4d-104">Наша задача — заранее предоставить сведения о размере обновления при наличии возможности, чтобы корпоративные пользователи могли спланировать использование пропускной способности сети.</span><span class="sxs-lookup"><span data-stu-id="64e4d-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
+<span data-ttu-id="a02c3-104">Наша задача — заранее предоставить сведения о размере обновления при наличии возможности, чтобы корпоративные пользователи могли спланировать использование пропускной способности сети.</span><span class="sxs-lookup"><span data-stu-id="a02c3-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
 
-<span data-ttu-id="64e4d-105">В следующих таблицах показан приблизительный размер файла для скачивания при обновлении предыдущего выпуска приложений Microsoft 365 до последней версии.</span><span class="sxs-lookup"><span data-stu-id="64e4d-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="64e4d-106">Фактические размеры файлов для скачивания могут отличаться не более чем на 50 МБ.</span><span class="sxs-lookup"><span data-stu-id="64e4d-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="64e4d-107">При обновлении более старой версии до текущего выпуска размер файла для скачивания может быть больше.</span><span class="sxs-lookup"><span data-stu-id="64e4d-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
+<span data-ttu-id="a02c3-105">В следующих таблицах показан приблизительный размер файла для скачивания при обновлении предыдущего выпуска приложений Microsoft 365 до последней версии.</span><span class="sxs-lookup"><span data-stu-id="a02c3-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="a02c3-106">Фактические размеры файлов для скачивания могут отличаться не более чем на 50 МБ.</span><span class="sxs-lookup"><span data-stu-id="a02c3-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="a02c3-107">При обновлении более старой версии до текущего выпуска размер файла для скачивания может быть больше.</span><span class="sxs-lookup"><span data-stu-id="a02c3-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
 
-<span data-ttu-id="64e4d-108">Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления может быть значительно больше, чем указанный в таблице.</span><span class="sxs-lookup"><span data-stu-id="64e4d-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="64e4d-109">Может быть скачана полная версия, размер которой может составлять более 1 ГБ.</span><span class="sxs-lookup"><span data-stu-id="64e4d-109">It could entail a full download, which could be at least 1 GB.</span></span>
+<span data-ttu-id="a02c3-108">Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления может быть значительно больше, чем указанный в таблице.</span><span class="sxs-lookup"><span data-stu-id="a02c3-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="a02c3-109">Может быть скачана полная версия, размер которой может составлять более 1 ГБ.</span><span class="sxs-lookup"><span data-stu-id="a02c3-109">It could entail a full download, which could be at least 1 GB.</span></span>
 
 
 > [!IMPORTANT]
-> - <span data-ttu-id="64e4d-110">Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления.</span><span class="sxs-lookup"><span data-stu-id="64e4d-110">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="64e4d-111">Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="64e4d-111">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
-> - <span data-ttu-id="64e4d-112">Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий".</span><span class="sxs-lookup"><span data-stu-id="64e4d-112">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span><span data-ttu-id="64e4d-113"> Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="64e4d-113"> To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span><span data-ttu-id="64e4d-114"> В этой документации чаще всего используется обозначение "Приложения Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="64e4d-114"> In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="a02c3-110">Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления.</span><span class="sxs-lookup"><span data-stu-id="a02c3-110">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="a02c3-111">Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="a02c3-111">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> - <span data-ttu-id="a02c3-112">Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий".</span><span class="sxs-lookup"><span data-stu-id="a02c3-112">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span><span data-ttu-id="a02c3-113"> Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="a02c3-113"> To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span><span data-ttu-id="a02c3-114"> В этой документации чаще всего используется обозначение "Приложения Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="a02c3-114"> In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
 > [!NOTE]
-> - <span data-ttu-id="64e4d-115">Приблизительный размер файлов для скачивания, указанный в таблицах, относится только к англоязычной 64-разрядной версии приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="64e4d-115">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
-> - <span data-ttu-id="64e4d-116">Указаны выпуски за последние четыре месяца.</span><span class="sxs-lookup"><span data-stu-id="64e4d-116">Releases from the last four months are listed.</span></span>
+> - <span data-ttu-id="a02c3-115">Приблизительный размер файлов для скачивания, указанный в таблицах, относится только к англоязычной 64-разрядной версии приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a02c3-115">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="a02c3-116">Указаны выпуски за последние четыре месяца.</span><span class="sxs-lookup"><span data-stu-id="a02c3-116">Releases from the last four months are listed.</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ)
 
-## <a name="may-12-2020"></a><span data-ttu-id="64e4d-118">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-118">May 12, 2020</span></span>
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ПРОГНОЗА (НАЧАЛО))
+
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ПРОГНОЗА (КОНЕЦ))
+
+
+## <a name="june-30-2020"></a><span data-ttu-id="a02c3-120">30 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-120">June 30, 2020</span></span>
+
+### <a name="current-channel"></a><span data-ttu-id="a02c3-121">Актуальный канал</span><span class="sxs-lookup"><span data-stu-id="a02c3-121">Current Channel</span></span>
+
+<span data-ttu-id="a02c3-122">Самый свежий выпуск — версия 2006 (сборка 13001.20266).</span><span class="sxs-lookup"><span data-stu-id="a02c3-122">The most current release is Version 2006 (Build 13001.20266).</span></span>
+
+|<span data-ttu-id="a02c3-123">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-123">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-124">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-124">**Release date**</span></span>|<span data-ttu-id="a02c3-125">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-125">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-126">Версия 2005 (сборка 12827.20470)</span><span class="sxs-lookup"><span data-stu-id="a02c3-126">Version 2005 (Build 12827.20470)</span></span> <br/> |<span data-ttu-id="a02c3-127">24 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-127">June 24, 2020</span></span> <br/> |<span data-ttu-id="a02c3-128">155</span><span class="sxs-lookup"><span data-stu-id="a02c3-128">155</span></span><br/> |
+|<span data-ttu-id="a02c3-129">Версия 2005 (сборка 12827.20336)</span><span class="sxs-lookup"><span data-stu-id="a02c3-129">Version 2005 (Build 12827.20336)</span></span> <br/> |<span data-ttu-id="a02c3-130">9 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-130">June 9, 2020</span></span> <br/> |<span data-ttu-id="a02c3-131">154</span><span class="sxs-lookup"><span data-stu-id="a02c3-131">154</span></span><br/> |
+
+
+## <a name="june-24-2020"></a><span data-ttu-id="a02c3-132">24 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-132">June 24, 2020</span></span>
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)24 июня 2020 г.)
+
+### <a name="current-channel"></a><span data-ttu-id="a02c3-134">Актуальный канал</span><span class="sxs-lookup"><span data-stu-id="a02c3-134">Current Channel</span></span>
+
+<span data-ttu-id="a02c3-135">Самый свежий выпуск — версия 2005 (сборка 12827.20470).</span><span class="sxs-lookup"><span data-stu-id="a02c3-135">The most current release is Version 2005 (Build 12827.20470).</span></span>
+
+|<span data-ttu-id="a02c3-136">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-136">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-137">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-137">**Release date**</span></span>|<span data-ttu-id="a02c3-138">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-138">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-139">Версия 2005 (сборка 12827.20336)</span><span class="sxs-lookup"><span data-stu-id="a02c3-139">Version 2005 (Build 12827.20336)</span></span> <br/> |<span data-ttu-id="a02c3-140">9 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-140">June 9, 2020</span></span> <br/> |<span data-ttu-id="a02c3-141">55</span><span class="sxs-lookup"><span data-stu-id="a02c3-141">55</span></span><br/> |
+|<span data-ttu-id="a02c3-142">Версия 2005 (сборка 12827.20268)</span><span class="sxs-lookup"><span data-stu-id="a02c3-142">Version 2005 (Build 12827.20268)</span></span> <br/> |<span data-ttu-id="a02c3-143">2 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-143">June 2, 2020</span></span> <br/> |<span data-ttu-id="a02c3-144">63</span><span class="sxs-lookup"><span data-stu-id="a02c3-144">63</span></span><br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)24 июня 2020 г.)
+
+
+## <a name="june-9-2020"></a><span data-ttu-id="a02c3-146">9 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-146">June 9, 2020</span></span>
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)9 июня 2020 г.)
+
+### <a name="current-channel"></a><span data-ttu-id="a02c3-148">Актуальный канал</span><span class="sxs-lookup"><span data-stu-id="a02c3-148">Current Channel</span></span>
+
+<span data-ttu-id="a02c3-149">Самый свежий выпуск — версия 2005 (сборка 12827.20336).</span><span class="sxs-lookup"><span data-stu-id="a02c3-149">The most current release is Version 2005 (Build 12827.20336).</span></span>
+
+|<span data-ttu-id="a02c3-150">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-150">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-151">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-151">**Release date**</span></span>|<span data-ttu-id="a02c3-152">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-152">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-153">Версия 2005 (сборка 12827.20268)</span><span class="sxs-lookup"><span data-stu-id="a02c3-153">Version 2005 (Build 12827.20268)</span></span> <br/> |<span data-ttu-id="a02c3-154">2 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-154">June 2, 2020</span></span> <br/> |<span data-ttu-id="a02c3-155">58</span><span class="sxs-lookup"><span data-stu-id="a02c3-155">58</span></span><br/> |
+|<span data-ttu-id="a02c3-156">Версия 2004 (сборка 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="a02c3-156">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="a02c3-157">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-157">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-158">182</span><span class="sxs-lookup"><span data-stu-id="a02c3-158">182</span></span><br/> |
+
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="a02c3-159">Ежемесячный канал (корпоративный)</span><span class="sxs-lookup"><span data-stu-id="a02c3-159">Monthly Enterprise Channel</span></span>
+
+<span data-ttu-id="a02c3-160">Самый свежий выпуск — версия 2004 (сборка 12730.20430).</span><span class="sxs-lookup"><span data-stu-id="a02c3-160">The most current release is Version 2004 (Build 12730.20430).</span></span>
+
+|<span data-ttu-id="a02c3-161">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-161">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-162">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-162">**Release date**</span></span>|<span data-ttu-id="a02c3-163">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-163">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-164">Версия 2003 (сборка 12624.20588)</span><span class="sxs-lookup"><span data-stu-id="a02c3-164">Version 2003 (Build 12624.20588)</span></span> <br/> |<span data-ttu-id="a02c3-165">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-165">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-166">168</span><span class="sxs-lookup"><span data-stu-id="a02c3-166">168</span></span><br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="a02c3-167">Полугодовой канал (предварительная корпоративная версия)</span><span class="sxs-lookup"><span data-stu-id="a02c3-167">Semi-Annual Enterprise Channel (Preview)</span></span>
+
+<span data-ttu-id="a02c3-168">Самый свежий выпуск — версия 2002 (сборка 12527.20720).</span><span class="sxs-lookup"><span data-stu-id="a02c3-168">The most current release is Version 2002 (Build 12527.20720).</span></span>
+
+|<span data-ttu-id="a02c3-169">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-169">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-170">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-170">**Release date**</span></span>|<span data-ttu-id="a02c3-171">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-171">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-172">Версия 2002 (сборка 12527.20612)</span><span class="sxs-lookup"><span data-stu-id="a02c3-172">Version 2002 (Build 12527.20612)</span></span> <br/> |<span data-ttu-id="a02c3-173">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-173">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-174">55</span><span class="sxs-lookup"><span data-stu-id="a02c3-174">55</span></span><br/> |
+|<span data-ttu-id="a02c3-175">Версия 2002 (сборка 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="a02c3-175">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="a02c3-176">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-176">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-177">70</span><span class="sxs-lookup"><span data-stu-id="a02c3-177">70</span></span><br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="a02c3-178">Полугодовой канал (корпоративный)</span><span class="sxs-lookup"><span data-stu-id="a02c3-178">Semi-Annual Enterprise Channel</span></span>
+
+<span data-ttu-id="a02c3-179">Самый свежий выпуск — версия 1908 (сборка 11929.20838).</span><span class="sxs-lookup"><span data-stu-id="a02c3-179">The most current release is Version 1908 (Build 11929.20838).</span></span>
+
+|<span data-ttu-id="a02c3-180">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-180">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-181">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-181">**Release date**</span></span>|<span data-ttu-id="a02c3-182">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-182">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-183">Версия 1908 (сборка 11929.20776)</span><span class="sxs-lookup"><span data-stu-id="a02c3-183">Version 1908 (Build 11929.20776)</span></span> <br/> |<span data-ttu-id="a02c3-184">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-184">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-185">60</span><span class="sxs-lookup"><span data-stu-id="a02c3-185">60</span></span><br/> |
+|<span data-ttu-id="a02c3-186">Версия 1908 (сборка 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="a02c3-186">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="a02c3-187">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-187">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-188">70</span><span class="sxs-lookup"><span data-stu-id="a02c3-188">70</span></span><br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)9 июня 2020 г.)
+
+
+
+
+## <a name="june-2-2020"></a><span data-ttu-id="a02c3-190">2 июня 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-190">June 2, 2020</span></span>
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)2 июня 2020 г.)
+
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-192">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-192">Monthly Channel</span></span>
+
+<span data-ttu-id="a02c3-193">Самый свежий выпуск — версия 2005 (сборка 12827.20268).</span><span class="sxs-lookup"><span data-stu-id="a02c3-193">The most current release is Version 2005 (Build 12827.20268).</span></span>
+
+|<span data-ttu-id="a02c3-194">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-194">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-195">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-195">**Release date**</span></span>|<span data-ttu-id="a02c3-196">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-196">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-197">Версия 2004 (сборка 12730.20352)</span><span class="sxs-lookup"><span data-stu-id="a02c3-197">Version 2004 (Build 12730.20352)</span></span> <br/> |<span data-ttu-id="a02c3-198">21 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-198">May 21, 2020</span></span> <br/> |<span data-ttu-id="a02c3-199">175</span><span class="sxs-lookup"><span data-stu-id="a02c3-199">175</span></span><br/> |
+|<span data-ttu-id="a02c3-200">Версия 2004 (сборка 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="a02c3-200">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="a02c3-201">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-201">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-202">181</span><span class="sxs-lookup"><span data-stu-id="a02c3-202">181</span></span><br/> |
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)2 июня 2020 г.)
+
+## <a name="may-21-2020"></a><span data-ttu-id="a02c3-204">21 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-204">May 21, 2020</span></span>
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)21 мая 2020)
+
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-206">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-206">Monthly Channel</span></span>
+
+<span data-ttu-id="a02c3-207">Самый свежий выпуск — версия 2004 (сборка 12730.20352).</span><span class="sxs-lookup"><span data-stu-id="a02c3-207">The most current release is Version 2004 (Build 12730.20352).</span></span>
+
+|<span data-ttu-id="a02c3-208">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-208">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-209">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-209">**Release date**</span></span>|<span data-ttu-id="a02c3-210">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-210">**Approximate download size (in MB)**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="a02c3-211">Версия 2004 (сборка 12730.20270)</span><span class="sxs-lookup"><span data-stu-id="a02c3-211">Version 2004 (Build 12730.20270)</span></span> <br/> |<span data-ttu-id="a02c3-212">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-212">May 12, 2020</span></span> <br/> |<span data-ttu-id="a02c3-213">62</span><span class="sxs-lookup"><span data-stu-id="a02c3-213">62</span></span><br/> |
+|<span data-ttu-id="a02c3-214">Версия 2004 (сборка 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="a02c3-214">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="a02c3-215">4 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-215">May 4, 2020</span></span> <br/> |<span data-ttu-id="a02c3-216">71</span><span class="sxs-lookup"><span data-stu-id="a02c3-216">71</span></span><br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)21 мая 2020 г.)
+
+## <a name="may-12-2020"></a><span data-ttu-id="a02c3-218">12 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-218">May 12, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ СОДЕРЖИМОЕ (НАЧАЛО)12 мая 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-120">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-120">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-220">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-220">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-121">Самый свежий выпуск — версия 2004 (сборка 12730.20270).</span><span class="sxs-lookup"><span data-stu-id="64e4d-121">The most current release is Version 2004 (Build 12730.20270).</span></span>
+<span data-ttu-id="a02c3-221">Самый свежий выпуск — версия 2004 (сборка 12730.20270).</span><span class="sxs-lookup"><span data-stu-id="a02c3-221">The most current release is Version 2004 (Build 12730.20270).</span></span>
 
-|<span data-ttu-id="64e4d-122">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-122">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-123">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-123">**Release date**</span></span>|<span data-ttu-id="64e4d-124">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-124">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-222">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-222">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-223">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-223">**Release date**</span></span>|<span data-ttu-id="a02c3-224">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-224">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-125">Версия 2004 (сборка 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="64e4d-125">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="64e4d-126">4 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-126">May 4, 2020</span></span> <br/> |<span data-ttu-id="64e4d-127">188</span><span class="sxs-lookup"><span data-stu-id="64e4d-127">188</span></span><br/> |
-|<span data-ttu-id="64e4d-128">Версия 2004 (сборка 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="64e4d-128">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="64e4d-129">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-129">April 29, 2020</span></span> <br/> |<span data-ttu-id="64e4d-130">172</span><span class="sxs-lookup"><span data-stu-id="64e4d-130">172</span></span><br/> |
+|<span data-ttu-id="a02c3-225">Версия 2004 (сборка 12730.20250)</span><span class="sxs-lookup"><span data-stu-id="a02c3-225">Version 2004 (Build 12730.20250)</span></span> <br/> |<span data-ttu-id="a02c3-226">4 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-226">May 4, 2020</span></span> <br/> |<span data-ttu-id="a02c3-227">188</span><span class="sxs-lookup"><span data-stu-id="a02c3-227">188</span></span><br/> |
+|<span data-ttu-id="a02c3-228">Версия 2004 (сборка 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="a02c3-228">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="a02c3-229">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-229">April 29, 2020</span></span> <br/> |<span data-ttu-id="a02c3-230">172</span><span class="sxs-lookup"><span data-stu-id="a02c3-230">172</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="64e4d-131">Monthly Enterprise Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-131">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="a02c3-231">Monthly Enterprise Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-231">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="64e4d-132">Самый свежий выпуск — версия 2003 (сборка 12624.20588).</span><span class="sxs-lookup"><span data-stu-id="64e4d-132">The most current release is Version 2003 (Build 12624.20588).</span></span>
+<span data-ttu-id="a02c3-232">Самый свежий выпуск — версия 2003 (сборка 12624.20588).</span><span class="sxs-lookup"><span data-stu-id="a02c3-232">The most current release is Version 2003 (Build 12624.20588).</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="64e4d-133">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-133">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="a02c3-233">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-233">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="64e4d-134">Самый свежий выпуск — версия 2002 (сборка 12527.20612).</span><span class="sxs-lookup"><span data-stu-id="64e4d-134">The most current release is Version 2002 (Build 12527.20612).</span></span>
+<span data-ttu-id="a02c3-234">Самый свежий выпуск — версия 2002 (сборка 12527.20612).</span><span class="sxs-lookup"><span data-stu-id="a02c3-234">The most current release is Version 2002 (Build 12527.20612).</span></span>
 
-|<span data-ttu-id="64e4d-135">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-135">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-136">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-136">**Release date**</span></span>|<span data-ttu-id="64e4d-137">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-137">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-235">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-235">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-236">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-236">**Release date**</span></span>|<span data-ttu-id="a02c3-237">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-237">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-138">Версия 2002 (сборка 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="64e4d-138">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="64e4d-139">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-139">April 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-140">67</span><span class="sxs-lookup"><span data-stu-id="64e4d-140">67</span></span><br/> |
-|<span data-ttu-id="64e4d-141">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="64e4d-141">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="64e4d-142">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-142">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-143">79</span><span class="sxs-lookup"><span data-stu-id="64e4d-143">79</span></span><br/> |
+|<span data-ttu-id="a02c3-238">Версия 2002 (сборка 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="a02c3-238">Version 2002 (Build 12527.20442)</span></span> <br/> |<span data-ttu-id="a02c3-239">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-239">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-240">67</span><span class="sxs-lookup"><span data-stu-id="a02c3-240">67</span></span><br/> |
+|<span data-ttu-id="a02c3-241">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="a02c3-241">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="a02c3-242">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-242">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-243">79</span><span class="sxs-lookup"><span data-stu-id="a02c3-243">79</span></span><br/> |
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-144">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-144">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="a02c3-244">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-244">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="64e4d-145">Самый свежий выпуск — версия 1908 (сборка 11929.20776).</span><span class="sxs-lookup"><span data-stu-id="64e4d-145">The most current release is Version 1908 (Build 11929.20776).</span></span>
+<span data-ttu-id="a02c3-245">Самый свежий выпуск — версия 1908 (сборка 11929.20776).</span><span class="sxs-lookup"><span data-stu-id="a02c3-245">The most current release is Version 1908 (Build 11929.20776).</span></span>
 
-|<span data-ttu-id="64e4d-146">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-146">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-147">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-147">**Release date**</span></span>|<span data-ttu-id="64e4d-148">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-148">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-246">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-246">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-247">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-247">**Release date**</span></span>|<span data-ttu-id="a02c3-248">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-248">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-149">Версия 1908 (сборка 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="64e4d-149">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="64e4d-150">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-150">April 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-151">66</span><span class="sxs-lookup"><span data-stu-id="64e4d-151">66</span></span><br/> |
-|<span data-ttu-id="64e4d-152">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="64e4d-152">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="64e4d-153">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-153">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-154">77</span><span class="sxs-lookup"><span data-stu-id="64e4d-154">77</span></span><br/> |
+|<span data-ttu-id="a02c3-249">Версия 1908 (сборка 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="a02c3-249">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="a02c3-250">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-250">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-251">66</span><span class="sxs-lookup"><span data-stu-id="a02c3-251">66</span></span><br/> |
+|<span data-ttu-id="a02c3-252">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="a02c3-252">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="a02c3-253">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-253">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-254">77</span><span class="sxs-lookup"><span data-stu-id="a02c3-254">77</span></span><br/> |
 
 
 [//]: # (НЕ УДАЛЯТЬ СОДЕРЖИМОЕ (КОНЕЦ)12 мая 2020 г.)
 
 
-## <a name="may-4-2020"></a><span data-ttu-id="64e4d-156">4 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-156">May 4, 2020</span></span>
+## <a name="may-4-2020"></a><span data-ttu-id="a02c3-256">4 мая 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-256">May 4, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ КОНТЕНТ СТАРТ 4 мая 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-158">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-158">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-258">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-258">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-159">Самым последним выпуском является Версия 2004 (сборка 12730.20250).</span><span class="sxs-lookup"><span data-stu-id="64e4d-159">The most current release is Version 2004 (Build 12730.20250).</span></span>
+<span data-ttu-id="a02c3-259">Самым последним выпуском является Версия 2004 (сборка 12730.20250).</span><span class="sxs-lookup"><span data-stu-id="a02c3-259">The most current release is Version 2004 (Build 12730.20250).</span></span>
 
-|<span data-ttu-id="64e4d-160">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-160">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-161">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-161">**Release date**</span></span>|<span data-ttu-id="64e4d-162">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-162">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-260">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-260">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-261">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-261">**Release date**</span></span>|<span data-ttu-id="a02c3-262">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-262">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-163">Версия 2004 (сборка 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="64e4d-163">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="64e4d-164">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-164">April 29, 2020</span></span> <br/> |<span data-ttu-id="64e4d-165">46</span><span class="sxs-lookup"><span data-stu-id="64e4d-165">46</span></span><br/> |
-|<span data-ttu-id="64e4d-166">Версия 2003 (сборка 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="64e4d-166">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="64e4d-167">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-167">April 15, 2020</span></span> <br/> |<span data-ttu-id="64e4d-168">177</span><span class="sxs-lookup"><span data-stu-id="64e4d-168">177</span></span><br/> |
+|<span data-ttu-id="a02c3-263">Версия 2004 (сборка 12730.20236)</span><span class="sxs-lookup"><span data-stu-id="a02c3-263">Version 2004 (Build 12730.20236)</span></span> <br/> |<span data-ttu-id="a02c3-264">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-264">April 29, 2020</span></span> <br/> |<span data-ttu-id="a02c3-265">46</span><span class="sxs-lookup"><span data-stu-id="a02c3-265">46</span></span><br/> |
+|<span data-ttu-id="a02c3-266">Версия 2003 (сборка 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="a02c3-266">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="a02c3-267">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-267">April 15, 2020</span></span> <br/> |<span data-ttu-id="a02c3-268">177</span><span class="sxs-lookup"><span data-stu-id="a02c3-268">177</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-169">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-169">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="a02c3-269">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-269">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="64e4d-170">Самая последняя версия - это версия 1908 (сборка 11929.20752).</span><span class="sxs-lookup"><span data-stu-id="64e4d-170">The most current release is Version 1908 (Build 11929.20752).</span></span>
+<span data-ttu-id="a02c3-270">Самая последняя версия - это версия 1908 (сборка 11929.20752).</span><span class="sxs-lookup"><span data-stu-id="a02c3-270">The most current release is Version 1908 (Build 11929.20752).</span></span>
 
-|<span data-ttu-id="64e4d-171">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-171">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-172">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-172">**Release date**</span></span>|<span data-ttu-id="64e4d-173">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-173">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-271">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-271">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-272">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-272">**Release date**</span></span>|<span data-ttu-id="a02c3-273">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-273">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-174">Версия 1908 (сборка 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="64e4d-174">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="64e4d-175">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-175">April 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-176">62</span><span class="sxs-lookup"><span data-stu-id="64e4d-176">62</span></span><br/> |
-|<span data-ttu-id="64e4d-177">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="64e4d-177">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="64e4d-178">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-178">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-179">77</span><span class="sxs-lookup"><span data-stu-id="64e4d-179">77</span></span><br/> |
+|<span data-ttu-id="a02c3-274">Версия 1908 (сборка 11929.20708)</span><span class="sxs-lookup"><span data-stu-id="a02c3-274">Version 1908 (Build 11929.20708)</span></span> <br/> |<span data-ttu-id="a02c3-275">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-275">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-276">62</span><span class="sxs-lookup"><span data-stu-id="a02c3-276">62</span></span><br/> |
+|<span data-ttu-id="a02c3-277">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="a02c3-277">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="a02c3-278">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-278">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-279">77</span><span class="sxs-lookup"><span data-stu-id="a02c3-279">77</span></span><br/> |
 
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖАНИЕ КОНЕЦ 4 Май 2020)
 
-## <a name="april-29-2020"></a><span data-ttu-id="64e4d-181">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-181">April 29, 2020</span></span>
+## <a name="april-29-2020"></a><span data-ttu-id="a02c3-281">29 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-281">April 29, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО) 29 апреля 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-183">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-183">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-283">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-283">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-184">Последним выпуском является версия 2004 (сборка 12730.20236).</span><span class="sxs-lookup"><span data-stu-id="64e4d-184">The most current release is Version 2004 (Build 12730.20236).</span></span>
+<span data-ttu-id="a02c3-284">Последним выпуском является версия 2004 (сборка 12730.20236).</span><span class="sxs-lookup"><span data-stu-id="a02c3-284">The most current release is Version 2004 (Build 12730.20236).</span></span>
 
-|<span data-ttu-id="64e4d-185">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-185">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-186">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-186">**Release date**</span></span>|<span data-ttu-id="64e4d-187">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-187">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-285">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-285">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-286">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-286">**Release date**</span></span>|<span data-ttu-id="a02c3-287">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-287">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-188">Версия 2003 (сборка 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="64e4d-188">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="64e4d-189">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-189">April 15, 2020</span></span> <br/> |<span data-ttu-id="64e4d-190">174</span><span class="sxs-lookup"><span data-stu-id="64e4d-190">174</span></span><br/> |
-|<span data-ttu-id="64e4d-191">Версия 2003 (сборка 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="64e4d-191">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="64e4d-192">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-192">April 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-193">322</span><span class="sxs-lookup"><span data-stu-id="64e4d-193">322</span></span><br/> |
+|<span data-ttu-id="a02c3-288">Версия 2003 (сборка 12624.20466)</span><span class="sxs-lookup"><span data-stu-id="a02c3-288">Version 2003 (Build 12624.20466)</span></span> <br/> |<span data-ttu-id="a02c3-289">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-289">April 15, 2020</span></span> <br/> |<span data-ttu-id="a02c3-290">174</span><span class="sxs-lookup"><span data-stu-id="a02c3-290">174</span></span><br/> |
+|<span data-ttu-id="a02c3-291">Версия 2003 (сборка 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="a02c3-291">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="a02c3-292">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-292">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-293">322</span><span class="sxs-lookup"><span data-stu-id="a02c3-293">322</span></span><br/> |
 
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (ОКОНЧАНИЕ) 29 апреля 2020 г.)
 
-
-
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)26 апреля 2020 г.)
 
-## <a name="april-15-2020"></a><span data-ttu-id="64e4d-196">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-196">April 15, 2020</span></span>
+## <a name="april-15-2020"></a><span data-ttu-id="a02c3-296">15 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-296">April 15, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)15 апреля 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-198">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-198">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-298">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-298">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-199">Самым последним выпуском является Версия 2003 (сборка 12624.20466).</span><span class="sxs-lookup"><span data-stu-id="64e4d-199">The most current release is Version 2003 (Build 12624.20466).</span></span>
+<span data-ttu-id="a02c3-299">Самым последним выпуском является Версия 2003 (сборка 12624.20466).</span><span class="sxs-lookup"><span data-stu-id="a02c3-299">The most current release is Version 2003 (Build 12624.20466).</span></span>
 
-|<span data-ttu-id="64e4d-200">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-200">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-201">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-201">**Release date**</span></span>|<span data-ttu-id="64e4d-202">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-202">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-300">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-300">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-301">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-301">**Release date**</span></span>|<span data-ttu-id="a02c3-302">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-302">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-203">Версия 2003 (сборка 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="64e4d-203">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="64e4d-204">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-204">April 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-205">52</span><span class="sxs-lookup"><span data-stu-id="64e4d-205">52</span></span><br/> |
-|<span data-ttu-id="64e4d-206">Версия 2003 (сборка 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="64e4d-206">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="64e4d-207">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-207">March 31, 2020</span></span> <br/> |<span data-ttu-id="64e4d-208">69</span><span class="sxs-lookup"><span data-stu-id="64e4d-208">69</span></span><br/> |
-
+|<span data-ttu-id="a02c3-303">Версия 2003 (сборка 12624.20442)</span><span class="sxs-lookup"><span data-stu-id="a02c3-303">Version 2003 (Build 12624.20442)</span></span> <br/> |<span data-ttu-id="a02c3-304">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-304">April 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-305">52</span><span class="sxs-lookup"><span data-stu-id="a02c3-305">52</span></span><br/> |
+|<span data-ttu-id="a02c3-306">Версия 2003 (сборка 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="a02c3-306">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="a02c3-307">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-307">March 31, 2020</span></span> <br/> |<span data-ttu-id="a02c3-308">69</span><span class="sxs-lookup"><span data-stu-id="a02c3-308">69</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ КОНЕЦ СОДЕРЖАНИЯ Апрель 15, 2020)
 
-## <a name="april-14-2020"></a><span data-ttu-id="64e4d-210">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-210">April 14, 2020</span></span>
+## <a name="april-14-2020"></a><span data-ttu-id="a02c3-310">14 апреля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-310">April 14, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ НАЧАЛО СОДЕРЖАНИЯ Апрель 14, 2020)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-212">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-212">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-312">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-312">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-213">Самым последним выпуском является Версия 2003 (сборка 12624.20442).</span><span class="sxs-lookup"><span data-stu-id="64e4d-213">The most current release is Version 2003 (Build 12624.20442).</span></span>
+<span data-ttu-id="a02c3-313">Самым последним выпуском является Версия 2003 (сборка 12624.20442).</span><span class="sxs-lookup"><span data-stu-id="a02c3-313">The most current release is Version 2003 (Build 12624.20442).</span></span>
 
-|<span data-ttu-id="64e4d-214">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-214">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-215">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-215">**Release date**</span></span>|<span data-ttu-id="64e4d-216">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-216">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-314">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-314">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-315">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-315">**Release date**</span></span>|<span data-ttu-id="a02c3-316">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-316">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-217">Версия 2003 (сборка 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="64e4d-217">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="64e4d-218">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-218">March 31, 2020</span></span> <br/> |<span data-ttu-id="64e4d-219">69</span><span class="sxs-lookup"><span data-stu-id="64e4d-219">69</span></span><br/> |
-|<span data-ttu-id="64e4d-220">Версия 2003 (сборка 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="64e4d-220">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="64e4d-221">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-221">March 25, 2020</span></span> <br/> |<span data-ttu-id="64e4d-222">334</span><span class="sxs-lookup"><span data-stu-id="64e4d-222">334</span></span><br/> |
+|<span data-ttu-id="a02c3-317">Версия 2003 (сборка 12624.20382)</span><span class="sxs-lookup"><span data-stu-id="a02c3-317">Version 2003 (Build 12624.20382)</span></span> <br/> |<span data-ttu-id="a02c3-318">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-318">March 31, 2020</span></span> <br/> |<span data-ttu-id="a02c3-319">69</span><span class="sxs-lookup"><span data-stu-id="a02c3-319">69</span></span><br/> |
+|<span data-ttu-id="a02c3-320">Версия 2003 (сборка 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="a02c3-320">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="a02c3-321">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-321">March 25, 2020</span></span> <br/> |<span data-ttu-id="a02c3-322">334</span><span class="sxs-lookup"><span data-stu-id="a02c3-322">334</span></span><br/> |
 
+### <a name="semi-annual-channel"></a><span data-ttu-id="a02c3-323">Полугодичный канал</span><span class="sxs-lookup"><span data-stu-id="a02c3-323">Semi-Annual Channel</span></span>
 
+<span data-ttu-id="a02c3-324">Самая последняя версия - это версия 1908 (сборка 11929.20708).</span><span class="sxs-lookup"><span data-stu-id="a02c3-324">The most current release is Version 1908 (Build 11929.20708).</span></span>
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-223">Полугодичный канал</span><span class="sxs-lookup"><span data-stu-id="64e4d-223">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="64e4d-224">Самая последняя версия - это версия 1908 (сборка 11929.20708).</span><span class="sxs-lookup"><span data-stu-id="64e4d-224">The most current release is Version 1908 (Build 11929.20708).</span></span>
-
-|<span data-ttu-id="64e4d-225">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-225">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-226">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-226">**Release date**</span></span>|<span data-ttu-id="64e4d-227">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-227">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-325">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-325">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-326">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-326">**Release date**</span></span>|<span data-ttu-id="a02c3-327">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-327">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-228">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="64e4d-228">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="64e4d-229">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-229">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-230">72</span><span class="sxs-lookup"><span data-stu-id="64e4d-230">72</span></span><br/> |
-|<span data-ttu-id="64e4d-231">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="64e4d-231">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="64e4d-232">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-232">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-233">82</span><span class="sxs-lookup"><span data-stu-id="64e4d-233">82</span></span><br/> |
+|<span data-ttu-id="a02c3-328">Версия 1908 (сборка 11929.20648)</span><span class="sxs-lookup"><span data-stu-id="a02c3-328">Version 1908 (Build 11929.20648)</span></span> <br/> |<span data-ttu-id="a02c3-329">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-329">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-330">72</span><span class="sxs-lookup"><span data-stu-id="a02c3-330">72</span></span><br/> |
+|<span data-ttu-id="a02c3-331">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="a02c3-331">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="a02c3-332">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-332">February 11, 2020</span></span> <br/> |<span data-ttu-id="a02c3-333">82</span><span class="sxs-lookup"><span data-stu-id="a02c3-333">82</span></span><br/> |
 
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="a02c3-334">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-334">Semi-Annual (Targeted) Channel</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="64e4d-234">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-234">Semi-Annual (Targeted) Channel</span></span>
+<span data-ttu-id="a02c3-335">Самым последним выпуском является Версия 2002 (сборка 12527.20442).</span><span class="sxs-lookup"><span data-stu-id="a02c3-335">The most current release is Version 2002 (Build 12527.20442).</span></span>
 
-<span data-ttu-id="64e4d-235">Самым последним выпуском является Версия 2002 (сборка 12527.20442).</span><span class="sxs-lookup"><span data-stu-id="64e4d-235">The most current release is Version 2002 (Build 12527.20442).</span></span>
-
-|<span data-ttu-id="64e4d-236">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-236">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-237">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-237">**Release date**</span></span>|<span data-ttu-id="64e4d-238">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-238">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-336">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-336">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-337">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-337">**Release date**</span></span>|<span data-ttu-id="a02c3-338">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-338">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-239">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="64e4d-239">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="64e4d-240">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-240">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-241">78</span><span class="sxs-lookup"><span data-stu-id="64e4d-241">78</span></span><br/> |
-|<span data-ttu-id="64e4d-242">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="64e4d-242">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="64e4d-243">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-243">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-244">290</span><span class="sxs-lookup"><span data-stu-id="64e4d-244">290</span></span><br/> |
-
+|<span data-ttu-id="a02c3-339">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="a02c3-339">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="a02c3-340">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-340">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-341">78</span><span class="sxs-lookup"><span data-stu-id="a02c3-341">78</span></span><br/> |
+|<span data-ttu-id="a02c3-342">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="a02c3-342">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="a02c3-343">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-343">February 11, 2020</span></span> <br/> |<span data-ttu-id="a02c3-344">290</span><span class="sxs-lookup"><span data-stu-id="a02c3-344">290</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ КОНЕЦ СОДЕРЖАНИЯ Апрель 14, 2020)
 
-
-## <a name="march-31-2020"></a><span data-ttu-id="64e4d-246">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-246">March 31, 2020</span></span>
+## <a name="march-31-2020"></a><span data-ttu-id="a02c3-346">31 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-346">March 31, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)31 марта 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-248">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-248">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-348">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-348">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-249">Последний выпуск: версия 2003 (сборка 12624.20382).</span><span class="sxs-lookup"><span data-stu-id="64e4d-249">The most current release is Version 2003 (Build 12624.20382).</span></span>
+<span data-ttu-id="a02c3-349">Последний выпуск: версия 2003 (сборка 12624.20382).</span><span class="sxs-lookup"><span data-stu-id="a02c3-349">The most current release is Version 2003 (Build 12624.20382).</span></span>
 
-|<span data-ttu-id="64e4d-250">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-250">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-251">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-251">**Release date**</span></span>|<span data-ttu-id="64e4d-252">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-252">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-350">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-350">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-351">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-351">**Release date**</span></span>|<span data-ttu-id="a02c3-352">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-352">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-253">Версия 2003 (сборка 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="64e4d-253">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="64e4d-254">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-254">March 25, 2020</span></span> <br/> |<span data-ttu-id="64e4d-255">64</span><span class="sxs-lookup"><span data-stu-id="64e4d-255">64</span></span><br/> |
-|<span data-ttu-id="64e4d-256">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="64e4d-256">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="64e4d-257">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-257">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-258">168</span><span class="sxs-lookup"><span data-stu-id="64e4d-258">168</span></span><br/> |
-
+|<span data-ttu-id="a02c3-353">Версия 2003 (сборка 12624.20320)</span><span class="sxs-lookup"><span data-stu-id="a02c3-353">Version 2003 (Build 12624.20320)</span></span> <br/> |<span data-ttu-id="a02c3-354">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-354">March 25, 2020</span></span> <br/> |<span data-ttu-id="a02c3-355">64</span><span class="sxs-lookup"><span data-stu-id="a02c3-355">64</span></span><br/> |
+|<span data-ttu-id="a02c3-356">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="a02c3-356">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="a02c3-357">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-357">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-358">168</span><span class="sxs-lookup"><span data-stu-id="a02c3-358">168</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)31 марта 2020 г.)
 
-## <a name="march-25-2020"></a><span data-ttu-id="64e4d-260">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-260">March 25, 2020</span></span>
+## <a name="march-25-2020"></a><span data-ttu-id="a02c3-360">25 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-360">March 25, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)25 марта 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-262">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-262">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-362">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-362">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-263">Самая последняя версия — это версия 2003 (сборка 12624.20320).</span><span class="sxs-lookup"><span data-stu-id="64e4d-263">The most current release is Version 2003 (Build 12624.20320).</span></span>
+<span data-ttu-id="a02c3-363">Самая последняя версия — это версия 2003 (сборка 12624.20320).</span><span class="sxs-lookup"><span data-stu-id="a02c3-363">The most current release is Version 2003 (Build 12624.20320).</span></span>
 
-|<span data-ttu-id="64e4d-264">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-264">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-265">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-265">**Release date**</span></span>|<span data-ttu-id="64e4d-266">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-266">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-364">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-364">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-365">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-365">**Release date**</span></span>|<span data-ttu-id="a02c3-366">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-366">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-267">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="64e4d-267">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="64e4d-268">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-268">March 10, 2020</span></span> <br/> |<span data-ttu-id="64e4d-269">171</span><span class="sxs-lookup"><span data-stu-id="64e4d-269">171</span></span><br/> |
-|<span data-ttu-id="64e4d-270">Версия 2002 (сборка 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="64e4d-270">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="64e4d-271">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-271">March 1, 2020</span></span> <br/> |<span data-ttu-id="64e4d-272">172</span><span class="sxs-lookup"><span data-stu-id="64e4d-272">172</span></span><br/> |
-
+|<span data-ttu-id="a02c3-367">Версия 2002 (сборка 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="a02c3-367">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="a02c3-368">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-368">March 10, 2020</span></span> <br/> |<span data-ttu-id="a02c3-369">171</span><span class="sxs-lookup"><span data-stu-id="a02c3-369">171</span></span><br/> |
+|<span data-ttu-id="a02c3-370">Версия 2002 (сборка 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="a02c3-370">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="a02c3-371">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-371">March 1, 2020</span></span> <br/> |<span data-ttu-id="a02c3-372">172</span><span class="sxs-lookup"><span data-stu-id="a02c3-372">172</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)25 марта 2020 г.)
 
-## <a name="march-10-2020"></a><span data-ttu-id="64e4d-274">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-274">March 10, 2020</span></span>
+## <a name="march-10-2020"></a><span data-ttu-id="a02c3-374">10 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-374">March 10, 2020</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-275">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-275">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-375">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-375">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-276">Самый последний выпуск - Версия 2002 (сборка 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="64e4d-276">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="a02c3-376">Самый последний выпуск - Версия 2002 (сборка 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="a02c3-376">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="64e4d-277">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-277">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-278">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-278">**Release date**</span></span>|<span data-ttu-id="64e4d-279">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-279">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-377">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-377">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-378">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-378">**Release date**</span></span>|<span data-ttu-id="a02c3-379">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-379">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-280">Версия 2002 (сборка 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="64e4d-280">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="64e4d-281">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-281">March 1, 2020</span></span> <br/> |<span data-ttu-id="64e4d-282">40</span><span class="sxs-lookup"><span data-stu-id="64e4d-282">40</span></span><br/> |
-|<span data-ttu-id="64e4d-283">Версия 2002 (сборка 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="64e4d-283">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="64e4d-284">25 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-284">February 25, 2020</span></span> <br/> |<span data-ttu-id="64e4d-285">266</span><span class="sxs-lookup"><span data-stu-id="64e4d-285">266</span></span><br/> |
-
+|<span data-ttu-id="a02c3-380">Версия 2002 (сборка 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="a02c3-380">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="a02c3-381">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-381">March 1, 2020</span></span> <br/> |<span data-ttu-id="a02c3-382">40</span><span class="sxs-lookup"><span data-stu-id="a02c3-382">40</span></span><br/> |
+|<span data-ttu-id="a02c3-383">Версия 2002 (сборка 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="a02c3-383">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="a02c3-384">25 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-384">February 25, 2020</span></span> <br/> |<span data-ttu-id="a02c3-385">266</span><span class="sxs-lookup"><span data-stu-id="a02c3-385">266</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)10 марта 2020 г.)
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-287">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-287">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="a02c3-387">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-387">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="64e4d-288">Самая последняя версия - это версия 1908 (сборка 11929.20648).</span><span class="sxs-lookup"><span data-stu-id="64e4d-288">The most current release is Version 1908 (Build 11929.20648).</span></span>
+<span data-ttu-id="a02c3-388">Самая последняя версия - это версия 1908 (сборка 11929.20648).</span><span class="sxs-lookup"><span data-stu-id="a02c3-388">The most current release is Version 1908 (Build 11929.20648).</span></span>
 
-|<span data-ttu-id="64e4d-289">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-289">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-290">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-290">**Release date**</span></span>|<span data-ttu-id="64e4d-291">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-291">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-389">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-389">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-390">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-390">**Release date**</span></span>|<span data-ttu-id="a02c3-391">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-391">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-292">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="64e4d-292">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="64e4d-293">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-293">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-294">64</span><span class="sxs-lookup"><span data-stu-id="64e4d-294">64</span></span><br/> |
-|<span data-ttu-id="64e4d-295">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="64e4d-295">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="64e4d-296">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-296">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-297">73</span><span class="sxs-lookup"><span data-stu-id="64e4d-297">73</span></span><br/> |
+|<span data-ttu-id="a02c3-392">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="a02c3-392">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="a02c3-393">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-393">February 11, 2020</span></span> <br/> |<span data-ttu-id="a02c3-394">64</span><span class="sxs-lookup"><span data-stu-id="a02c3-394">64</span></span><br/> |
+|<span data-ttu-id="a02c3-395">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="a02c3-395">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="a02c3-396">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-396">January 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-397">73</span><span class="sxs-lookup"><span data-stu-id="a02c3-397">73</span></span><br/> |
 
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="a02c3-398">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-398">Semi-Annual (Targeted) Channel</span></span>
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="64e4d-298">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-298">Semi-Annual (Targeted) Channel</span></span>
+<span data-ttu-id="a02c3-399">Самый последний выпуск - Версия 2002 (сборка 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="a02c3-399">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-<span data-ttu-id="64e4d-299">Самый последний выпуск - Версия 2002 (сборка 12527.20278).</span><span class="sxs-lookup"><span data-stu-id="64e4d-299">The most current release is Version 2002 (Build 12527.20278).</span></span>
-
-|<span data-ttu-id="64e4d-300">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-300">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-301">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-301">**Release date**</span></span>|<span data-ttu-id="64e4d-302">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-302">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-400">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-400">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-401">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-401">**Release date**</span></span>|<span data-ttu-id="a02c3-402">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-402">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-303">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="64e4d-303">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="64e4d-304">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-304">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-305">291</span><span class="sxs-lookup"><span data-stu-id="64e4d-305">291</span></span><br/> |
-|<span data-ttu-id="64e4d-306">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="64e4d-306">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="64e4d-307">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-307">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-308">292</span><span class="sxs-lookup"><span data-stu-id="64e4d-308">292</span></span><br/> |
-
+|<span data-ttu-id="a02c3-403">Версия 1908 (сборка 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="a02c3-403">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="a02c3-404">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-404">February 11, 2020</span></span> <br/> |<span data-ttu-id="a02c3-405">291</span><span class="sxs-lookup"><span data-stu-id="a02c3-405">291</span></span><br/> |
+|<span data-ttu-id="a02c3-406">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="a02c3-406">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="a02c3-407">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-407">January 14, 2020</span></span> <br/> |<span data-ttu-id="a02c3-408">292</span><span class="sxs-lookup"><span data-stu-id="a02c3-408">292</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)10 марта 2020 г.)
 
-
-## <a name="march-1-2020"></a><span data-ttu-id="64e4d-310">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-310">March 1, 2020</span></span>
+## <a name="march-1-2020"></a><span data-ttu-id="a02c3-410">1 марта 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-410">March 1, 2020</span></span>
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)1 марта 2020 г.)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-312">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-312">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="a02c3-412">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="a02c3-412">Monthly Channel</span></span>
 
-<span data-ttu-id="64e4d-313">Последний выпуск: версия 2002 (сборка 12527.20242).</span><span class="sxs-lookup"><span data-stu-id="64e4d-313">The most current release is Version 2002 (Build 12527.20242).</span></span>
+<span data-ttu-id="a02c3-413">Последний выпуск: версия 2002 (сборка 12527.20242).</span><span class="sxs-lookup"><span data-stu-id="a02c3-413">The most current release is Version 2002 (Build 12527.20242).</span></span>
 
-|<span data-ttu-id="64e4d-314">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-314">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-315">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-315">**Release date**</span></span>|<span data-ttu-id="64e4d-316">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-316">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="a02c3-414">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="a02c3-414">**Release upgrading from**</span></span>|<span data-ttu-id="a02c3-415">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="a02c3-415">**Release date**</span></span>|<span data-ttu-id="a02c3-416">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="a02c3-416">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-317">Версия 2002 (сборка 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="64e4d-317">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="64e4d-318">25 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-318">February 25, 2020</span></span> <br/> |<span data-ttu-id="64e4d-319">57</span><span class="sxs-lookup"><span data-stu-id="64e4d-319">57</span></span><br/> |
-|<span data-ttu-id="64e4d-320">Версия 2001 (сборка 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="64e4d-320">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="64e4d-321">19 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-321">February 19, 2020</span></span> <br/> |<span data-ttu-id="64e4d-322">152</span><span class="sxs-lookup"><span data-stu-id="64e4d-322">152</span></span><br/> |
-
+|<span data-ttu-id="a02c3-417">Версия 2002 (сборка 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="a02c3-417">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="a02c3-418">25 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-418">February 25, 2020</span></span> <br/> |<span data-ttu-id="a02c3-419">57</span><span class="sxs-lookup"><span data-stu-id="a02c3-419">57</span></span><br/> |
+|<span data-ttu-id="a02c3-420">Версия 2001 (сборка 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="a02c3-420">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="a02c3-421">19 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="a02c3-421">February 19, 2020</span></span> <br/> |<span data-ttu-id="a02c3-422">152</span><span class="sxs-lookup"><span data-stu-id="a02c3-422">152</span></span><br/> |
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)1 марта 2020 г.)
 
-## <a name="february-25-2020"></a><span data-ttu-id="64e4d-324">25 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-324">February 25, 2020</span></span>
+## <a name="related-topics"></a><span data-ttu-id="a02c3-424">Связанные статьи</span><span class="sxs-lookup"><span data-stu-id="a02c3-424">Related topics</span></span>
 
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)25 февраля 2020 г.)
+- [<span data-ttu-id="a02c3-425">Обзор каналов обновления для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a02c3-425">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-326">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-326">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-327">Последний выпуск: версия 2002 (сборка 12527.20194).</span><span class="sxs-lookup"><span data-stu-id="64e4d-327">The most current release is Version 2002 (Build 12527.20194).</span></span>
-
-|<span data-ttu-id="64e4d-328">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-328">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-329">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-329">**Release date**</span></span>|<span data-ttu-id="64e4d-330">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-330">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-331">Версия 2001 (сборка 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="64e4d-331">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="64e4d-332">19 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-332">February 19, 2020</span></span> <br/> |<span data-ttu-id="64e4d-333">145</span><span class="sxs-lookup"><span data-stu-id="64e4d-333">145</span></span><br/> |
-|<span data-ttu-id="64e4d-334">Версия 2001 (сборка 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="64e4d-334">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="64e4d-335">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-335">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-336">143</span><span class="sxs-lookup"><span data-stu-id="64e4d-336">143</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)25 февраля 2020 г.)
-
-## <a name="february-19-2020"></a><span data-ttu-id="64e4d-338">19 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-338">February 19, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)19 февраля 2020 г.)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-340">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-340">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-341">Последний выпуск: версия 2001 (сборка 12430.20288).</span><span class="sxs-lookup"><span data-stu-id="64e4d-341">The most current release is Version 2001 (Build 12430.20288).</span></span>
-
-|<span data-ttu-id="64e4d-342">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-342">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-343">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-343">**Release date**</span></span>|<span data-ttu-id="64e4d-344">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-344">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-345">Версия 2001 (сборка 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="64e4d-345">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="64e4d-346">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-346">February 11, 2020</span></span> <br/> |<span data-ttu-id="64e4d-347">46</span><span class="sxs-lookup"><span data-stu-id="64e4d-347">46</span></span><br/> |
-|<span data-ttu-id="64e4d-348">Версия 2001 (сборка 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="64e4d-348">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="64e4d-349">30 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-349">January 30, 2020</span></span> <br/> |<span data-ttu-id="64e4d-350">55</span><span class="sxs-lookup"><span data-stu-id="64e4d-350">55</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)19 февраля 2020 г.)
-
-## <a name="february-11-2020"></a><span data-ttu-id="64e4d-352">11 февраля 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-352">February 11, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ НАЧАЛОФевраля 11, 2020)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-354">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-354">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-355">Последний выпуск: версия 2001 (сборка 12430,20264).</span><span class="sxs-lookup"><span data-stu-id="64e4d-355">The most current release is Version 2001 (Build 12430.20264).</span></span>
-
-|<span data-ttu-id="64e4d-356">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-356">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-357">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-357">**Release date**</span></span>|<span data-ttu-id="64e4d-358">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-358">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-359">Версия 2001 (сборка 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="64e4d-359">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="64e4d-360">30 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-360">January 30, 2020</span></span> <br/> |<span data-ttu-id="64e4d-361">54</span><span class="sxs-lookup"><span data-stu-id="64e4d-361">54</span></span><br/> |
-|<span data-ttu-id="64e4d-362">Версия 1912 (сборка 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="64e4d-362">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="64e4d-363">22 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-363">January 22, 2020</span></span> <br/> |<span data-ttu-id="64e4d-364">137</span><span class="sxs-lookup"><span data-stu-id="64e4d-364">137</span></span><br/> |
-
-
-
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-365">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-365">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="64e4d-366">Последний выпуск: версия 1908 (сборка 11929,20606).</span><span class="sxs-lookup"><span data-stu-id="64e4d-366">The most current release is Version 1908 (Build 11929.20606).</span></span>
-
-|<span data-ttu-id="64e4d-367">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-367">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-368">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-368">**Release date**</span></span>|<span data-ttu-id="64e4d-369">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-369">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-370">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="64e4d-370">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="64e4d-371">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-371">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-372">65</span><span class="sxs-lookup"><span data-stu-id="64e4d-372">65</span></span><br/> |
-|<span data-ttu-id="64e4d-373">Версия 1902 (сборка 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="64e4d-373">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="64e4d-374">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-374">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-375">339</span><span class="sxs-lookup"><span data-stu-id="64e4d-375">339</span></span><br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="64e4d-376">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-376">Semi-Annual (Targeted) Channel</span></span>
-
-<span data-ttu-id="64e4d-377">Последний выпуск: версия 1908 (сборка 11929,20606).</span><span class="sxs-lookup"><span data-stu-id="64e4d-377">The most current release is Version 1908 (Build 11929.20606).</span></span>
-
-|<span data-ttu-id="64e4d-378">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-378">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-379">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-379">**Release date**</span></span>|<span data-ttu-id="64e4d-380">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-380">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-381">Версия 1908 (сборка 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="64e4d-381">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="64e4d-382">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-382">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-383">65</span><span class="sxs-lookup"><span data-stu-id="64e4d-383">65</span></span><br/> |
-|<span data-ttu-id="64e4d-384">Версия 1908 (сборка 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="64e4d-384">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="64e4d-385">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-385">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-386">68</span><span class="sxs-lookup"><span data-stu-id="64e4d-386">68</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ КОНЕЦФевраля 11, 2020)
-
-
-
-
-## <a name="january-30-2020"></a><span data-ttu-id="64e4d-388">30 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-388">January 30, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)30 января 2020 г.)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-390">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-390">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-391">Самый свежий выпуск — версия 2001 (сборка 12430.20184).</span><span class="sxs-lookup"><span data-stu-id="64e4d-391">The most current release is Version 2001 (Build 12430.20184).</span></span>
-
-|<span data-ttu-id="64e4d-392">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-392">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-393">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-393">**Release date**</span></span>|<span data-ttu-id="64e4d-394">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-394">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-395">Версия 1912 (сборка 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="64e4d-395">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="64e4d-396">22 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-396">January 22, 2020</span></span> <br/> |<span data-ttu-id="64e4d-397">134</span><span class="sxs-lookup"><span data-stu-id="64e4d-397">134</span></span><br/> |
-|<span data-ttu-id="64e4d-398">Версия 1912 (сборка 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="64e4d-398">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="64e4d-399">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-399">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-400">138</span><span class="sxs-lookup"><span data-stu-id="64e4d-400">138</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)30 января 2020 г.)
-
-## <a name="january-22-2020"></a><span data-ttu-id="64e4d-402">22 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-402">January 22, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)22 января 2020 г.)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-404">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-404">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-405">Самый свежий выпуск — версия 1912 (сборка 12325.20344).</span><span class="sxs-lookup"><span data-stu-id="64e4d-405">The most current release is Version 1912 (Build 12325.20344).</span></span>
-
-|<span data-ttu-id="64e4d-406">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-406">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-407">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-407">**Release date**</span></span>|<span data-ttu-id="64e4d-408">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-408">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-409">Версия 1912 (сборка 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="64e4d-409">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="64e4d-410">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-410">January 14, 2020</span></span> <br/> |<span data-ttu-id="64e4d-411">53</span><span class="sxs-lookup"><span data-stu-id="64e4d-411">53</span></span><br/> |
-|<span data-ttu-id="64e4d-412">Версия 1912 (сборка 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="64e4d-412">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="64e4d-413">8 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-413">January 8, 2020</span></span> <br/> |<span data-ttu-id="64e4d-414">59</span><span class="sxs-lookup"><span data-stu-id="64e4d-414">59</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)22 января 2020 г.)
-
-## <a name="january-14-2020"></a><span data-ttu-id="64e4d-416">14 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-416">January 14, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)14 января 2020 г.)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-418">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-418">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-419">Самый свежий выпуск — версия 1912 (сборка 12325.20298).</span><span class="sxs-lookup"><span data-stu-id="64e4d-419">The most current release is Version 1912 (Build 12325.20298).</span></span>
-
-|<span data-ttu-id="64e4d-420">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-420">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-421">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-421">**Release date**</span></span>|<span data-ttu-id="64e4d-422">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-422">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-423">Версия 1912 (сборка 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="64e4d-423">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="64e4d-424">8 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-424">January 8, 2020</span></span> <br/> |<span data-ttu-id="64e4d-425">46</span><span class="sxs-lookup"><span data-stu-id="64e4d-425">46</span></span><br/> |
-|<span data-ttu-id="64e4d-426">Версия 1911 (сборка 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="64e4d-426">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="64e4d-427">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-427">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-428">151</span><span class="sxs-lookup"><span data-stu-id="64e4d-428">151</span></span><br/> |
-
-
-
-### <a name="semi-annual-channel"></a><span data-ttu-id="64e4d-429">Semi-Annual Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-429">Semi-Annual Channel</span></span>
-
-<span data-ttu-id="64e4d-430">Самый свежий выпуск — версия 1908 (сборка 11929.20562).</span><span class="sxs-lookup"><span data-stu-id="64e4d-430">The most current release is Version 1908 (Build 11929.20562).</span></span>
-
-|<span data-ttu-id="64e4d-431">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-431">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-432">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-432">**Release date**</span></span>|<span data-ttu-id="64e4d-433">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-433">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-434">Версия 1902 (сборка 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="64e4d-434">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="64e4d-435">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-435">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-436">338</span><span class="sxs-lookup"><span data-stu-id="64e4d-436">338</span></span><br/> |
-|<span data-ttu-id="64e4d-437">Версия 1902 (сборка 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="64e4d-437">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="64e4d-438">22 ноября 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-438">November 22, 2019</span></span> <br/> |<span data-ttu-id="64e4d-439">337</span><span class="sxs-lookup"><span data-stu-id="64e4d-439">337</span></span><br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="64e4d-440">Semi-Annual (Targeted) Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-440">Semi-Annual (Targeted) Channel</span></span>
-
-<span data-ttu-id="64e4d-441">Самый свежий выпуск — версия 1908 (сборка 11929.20562).</span><span class="sxs-lookup"><span data-stu-id="64e4d-441">The most current release is Version 1908 (Build 11929.20562).</span></span>
-
-|<span data-ttu-id="64e4d-442">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-442">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-443">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-443">**Release date**</span></span>|<span data-ttu-id="64e4d-444">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-444">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-445">Версия 1908 (сборка 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="64e4d-445">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="64e4d-446">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-446">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-447">59</span><span class="sxs-lookup"><span data-stu-id="64e4d-447">59</span></span><br/> |
-|<span data-ttu-id="64e4d-448">Версия 1908 (сборка 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="64e4d-448">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="64e4d-449">22 ноября 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-449">November 22, 2019</span></span> <br/> |<span data-ttu-id="64e4d-450">64</span><span class="sxs-lookup"><span data-stu-id="64e4d-450">64</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)14 января 2020 г.)
-
-
-## <a name="january-8-2020"></a><span data-ttu-id="64e4d-452">8 января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-452">January 8, 2020</span></span>
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)8 января 2020 г.)
-
-### <a name="monthly-channel"></a><span data-ttu-id="64e4d-454">Monthly Channel</span><span class="sxs-lookup"><span data-stu-id="64e4d-454">Monthly Channel</span></span>
-
-<span data-ttu-id="64e4d-455">Самый свежий выпуск — версия 1912 (сборка 12325.20288).</span><span class="sxs-lookup"><span data-stu-id="64e4d-455">The most current release is Version 1912 (Build 12325.20288).</span></span>
-
-|<span data-ttu-id="64e4d-456">**Обновляемый выпуск**</span><span class="sxs-lookup"><span data-stu-id="64e4d-456">**Release upgrading from**</span></span>|<span data-ttu-id="64e4d-457">**Дата выпуска**</span><span class="sxs-lookup"><span data-stu-id="64e4d-457">**Release date**</span></span>|<span data-ttu-id="64e4d-458">**Приблизительный размер файла для скачивания (в МБ)**</span><span class="sxs-lookup"><span data-stu-id="64e4d-458">**Approximate download size (in MB)**</span></span>|
-|:-----|:-----|:-----|
-|<span data-ttu-id="64e4d-459">Версия 1911 (сборка 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="64e4d-459">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="64e4d-460">10 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-460">December 10, 2019</span></span> <br/> |<span data-ttu-id="64e4d-461">142</span><span class="sxs-lookup"><span data-stu-id="64e4d-461">142</span></span><br/> |
-|<span data-ttu-id="64e4d-462">Версия 1911 (сборка 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="64e4d-462">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="64e4d-463">3 декабря 2019 г.</span><span class="sxs-lookup"><span data-stu-id="64e4d-463">December 3, 2019</span></span> <br/> |<span data-ttu-id="64e4d-464">145</span><span class="sxs-lookup"><span data-stu-id="64e4d-464">145</span></span><br/> |
-
-
-[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)8 января 2020 г.)
-
-
-
-
-## <a name="related-topics"></a><span data-ttu-id="64e4d-466">Статьи по теме</span><span class="sxs-lookup"><span data-stu-id="64e4d-466">Related topics</span></span>
-
-- [<span data-ttu-id="64e4d-467">Обзор каналов обновления для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="64e4d-467">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-
-- [<span data-ttu-id="64e4d-468">Журнал обновлений для Приложений Microsoft 365 (по дате)</span><span class="sxs-lookup"><span data-stu-id="64e4d-468">Update history for Microsoft 365 Apps (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
+- [<span data-ttu-id="a02c3-426">Журнал обновлений для Приложений Microsoft 365 (по дате)</span><span class="sxs-lookup"><span data-stu-id="a02c3-426">Update history for Microsoft 365 Apps (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
-> <span data-ttu-id="64e4d-469">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="64e4d-469">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="a02c3-427">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="a02c3-427">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
