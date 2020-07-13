@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 073e9fac962b8340f6598a485dc82cd19fa0884a
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210854"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001129"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
-Корпорация Майкрософт выпускает обновления безопасности и контроля качества для версии "нажми и работай" (C2R) Office 2016 и версии Office 2019, которая работает исключительно по технологии "нажми и работай" (C2R). Эти обновления выпускаются приблизительно раз в месяц, как правило, во второй вторник месяца.
+Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
 
-Если вы хотите убедиться в том, что у вас установлено последнее обновление, проверьте номер своей версии Office и вручную обновите Office, если это необходимо. Чтобы проверить свою версию Office, выполните следующее:
+If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
 
   1.    Откройте любое приложение Office, например Word или Excel.
   2.    Выберите **Файл > Учетная запись**.
   3.    В разделе **Сведения о продукте** посмотрите номер версии в области **О программе**.
 
-Если номер версии совпадает с номером самой последней версии, обновления недоступны. В противном случае вы можете вручную обновить Office до последней версии. Для этого выполните [следующие действия](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-В таблице ниже приводится история обновлений для версий Office 2019 с корпоративной лицензией, а также розничных версий Office 2016 C2R and Office 2019. Самая последняя дата выпуска указана первой. В таблице содержится номер версии и сборки для выпуска и перечислены обновления для системы безопасности, которые включены в выпуск, а также указана ссылка на дополнительные сведения об обновлении для системы безопасности.
+The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
 
 Новые версии содержат все обновления, имеющиеся в предыдущих версиях.
 
@@ -38,6 +38,7 @@ ms.locfileid: "44210854"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|9 июня 2020 г.   |Версия 1808 (сборка 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1322) <br/>|
 |12 мая 2020 г.   |Версия 1808 (сборка 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901) <br/> |
 |14 апреля 2020 г.   |Версия 1808 (сборка 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 марта 2020 г.   |Версия 1808 (сборка 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0892) <br/>  |
@@ -61,8 +62,13 @@ ms.locfileid: "44210854"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|30 июня 2020 г.|Версия 2006 (сборка 13001.20266)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
+|24 июня 2020 г.|Версия 2005 (сборка 12827.20470)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
+|9 июня 2020 г.|Версия 2005 (сборка 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1322)  <br/>|
+|2 июня 2020 г.|Версия 2005 (сборка 12827.20268)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
+|21 мая 2020 г.|Версия 2004 (сборка 12730.20352)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |12 мая 2020 г.|Версия 2004 (сборка 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901)  <br/>  |
-|4 мая 2020 г.|Версия 2004 (сборка 12730.20250)  |Устранена проблема, из-за которой приложение Office считало поврежденными при загрузке некоторые проекты VBA, содержащие ссылки на библиотеки кода с двухбайтовыми символами DBCS в имени библиотеки или пути к библиотеке. <br/>  |
+|4 мая 2020 г.|Версия 2004 (сборка 12730.20250)  |[Ссылка](https://support.microsoft.com/office/excel-word-powerpoint-file-becomes-corrupt-when-opening-a-file-that-contains-a-vba-project-or-after-enabling-a-macro-in-an-open-file-ad6ee6ca-db23-4614-a403-282821eb99f6?ui=en-us&rs=en-us&ad=us)<br/>  |
 |29 апреля 2020 г.|Версия 2004 (сборка 12730.20236)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |15 апреля 2020 г.|Версия 2003 (сборка 12624.20466)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |14 апреля 2020 г.|Версия 2003 (сборка 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0991) <br/> |
