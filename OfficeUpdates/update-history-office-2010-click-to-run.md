@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666596"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138795"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
 > [!IMPORTANT]
-Поддержка Office 2010 прекращается 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+Поддержка Office 2010 заканчивается 13 октября 2020 года. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [План прекращения поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 
 Перечисленные ниже продукты Office 2010 обновляются автоматически с помощью технологии "нажми и работай".
@@ -33,7 +33,7 @@ ms.locfileid: "44666596"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7252.5000**, выпущенная 9 июня 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7254.5000**, выпущенная 14 июля 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -52,12 +52,13 @@ ms.locfileid: "44666596"
 Новые версии содержат все обновления, имеющиеся в предыдущих версиях.
 
 > [!NOTE]
-> Статьи базы знаний, перечисленные ниже, приведены только для справки. Обновления с технологией "нажми и работай" включают все исправления, указанные в статьях базы знаний. Вам не нужно скачивать отдельные обновления, указанные в статьях.
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|9 июня  <br/> |14.0.7252.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|14 июля <br/> |14.0.7254.5000 <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||9 июня  <br/> |14.0.7252.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||12 мая  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||14 апреля  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 марта  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
