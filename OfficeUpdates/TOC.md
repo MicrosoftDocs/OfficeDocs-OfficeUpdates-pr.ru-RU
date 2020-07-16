@@ -4,32 +4,32 @@
 ## [Журнал обновлений (по дате)](update-history-microsoft365-apps-by-date.md)
 ## [Размеры обновлений](download-sizes-microsoft365-apps-updates.md)
 
-## Актуальный канал
-### [2020](current-channel.md)
+## Monthly Channel
+### [2020](monthly-channel-2020.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
 ## Ежемесячный корпоративный канал
-### [2020](monthly-enterprise-channel.md)
+### [2020](monthly-enterprise-channel-2020.md)
 
-## Полугодовой канал (корпоративный)
-### [2020](semi-annual-enterprise-channel.md)
+## Semi-Annual Channel
+### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
 
-## Полугодовой канал (предварительная корпоративная версия)
-### [2020](semi-annual-enterprise-channel-preview.md)
+## Semi-Annual Channel (Targeted)
+### [2020](semi-annual-channel-targeted-2020.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
 
 ## Программа предварительной оценки Office  
-### [Журнал обновлений бета-канала](Update-history-beta-channel.md)
-### [Журнал обновлений Актуального канала (предварительная версия)](update-history-current-channel-preview.md)
-### [Заметки о выпуске бета-канала](beta-channel.md)
-### [Заметки о выпуске Актуального канала (предварительная версия)](current-channel-preview.md)
+### [Журнал обновлений канала программы предварительной оценки](update-history-office-insider.md)
+### [Журнал обновлений канала Monthly Channel (Targeted)](update-history-monthly-channel-targeted.md)
+### [Заметки о выпуске канала программы предварительной оценки](release-notes-office-insider.md)
+### [Заметки о выпуске для канала Monthly Channel (Targeted)](release-notes-monthly-channel-targeted.md)
 
 ## [Журнал обновлений Windows 7](update-history-office-Win7.md)
 
