@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211709"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138525"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365
 
@@ -31,6 +31,80 @@ ms.locfileid: "44211709"
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="july-14-2020"></a>14 июля 2020 г.
+Актуальный канал: версия 2006 (сборка 13001.20384)  
+Ежемесячный канал (корпоративный)l: версия 2005 (сборка 12827.20538)  
+Ежемесячный канал (корпоративный): версия 2004 (сборка 12730.20602)  
+Полугодовой канал (предварительная корпоративная версия): версия 2002 (сборка 12527.20880)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.20880)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20904)  
+Полугодовой канал (корпоративный): версия 1902 (сборка 11328.20624)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.20880)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
+
+## <a name="june-09-2020"></a>9 июня 2020 г.
+Актуальный канал: версия 2005 (сборка 12827.20336)  
+Ежемесячный канал (корпоративный): версия 2004 (сборка 12730.20430)  
+Ежемесячный канал (корпоративный): версия 2003 (сборка 12624.20708)  
+Полугодовой канал (предварительная корпоративная версия): версия 2002 (сборка 12527.20720)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20838)  
+Полугодовой канал (корпоративный): версия 1902 (сборка 11328.20602)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.20720)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="may-12-2020"></a>12 мая 2020 г.
 Monthly Channel: версия 2004 (сборка 12730.20270)  
