@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: f54cf14c4c93da7323aa839cee4d10143e98997a
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ecbff53bf619e72f2440e903f6c8825e38a3a323
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211244"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138775"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -31,13 +31,13 @@ ms.locfileid: "44211244"
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за май 2020 г.  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Недоступно  <br/> |Общедоступное обновление за июль 2020 г.  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
    
 ## <a name="office-2013-updates"></a>Обновления для Office 2013
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за май 2020 г.  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за июль 2020 г.  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
    
 ## <a name="office-2010-updates"></a>Обновления для Office 2010
 > [!IMPORTANT]
@@ -45,11 +45,15 @@ ms.locfileid: "44211244"
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за май 2020 г.  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/>|
+|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за июль 2020 г.  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Обновления, выпущенные за последние 12 месяцев
+
+[Обновления для системы безопасности и другие обновления за июль 2020 г.: KB4559453](https://support.microsoft.com/help/4559453)
+
+[Обновления для системы безопасности и другие обновления за июнь 2020 г.: KB4559448](https://support.microsoft.com/help/4559448)
 
 [Обновления для системы безопасности и другие обновления за май 2020 г.: KB4549680](https://support.microsoft.com/help/4549680)
 
@@ -71,37 +75,5 @@ ms.locfileid: "44211244"
 
 [Обновления для системы безопасности и другие обновления за август 2019 г.: KB4514418](https://support.microsoft.com/help/4514418)
 
-[Обновления для системы безопасности и другие обновления за июль 2019 г.: KB4509295](https://support.microsoft.com/help/4509295)
 
-[Обновления системы безопасности и другие обновления за июнь 2019 г.: KB4505743](https://support.microsoft.com/help/4505743)
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-   
-
-   
-
-  
-
-
-  
- 
-  
- 
-  
-
-  
-   
-  
+</br>
