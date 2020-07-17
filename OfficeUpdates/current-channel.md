@@ -11,6 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
 ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
 ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/07/2020
 ms.locfileid: "45049489"

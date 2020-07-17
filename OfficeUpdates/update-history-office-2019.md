@@ -18,18 +18,18 @@ ms.locfileid: "45001129"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
-Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
+Корпорация Майкрософт выпускает обновления безопасности и контроля качества для версии "нажми и работай" (C2R) Office 2016 и версии Office 2019, которая работает исключительно по технологии "нажми и работай" (C2R). Эти обновления выпускаются приблизительно раз в месяц, как правило, во второй вторник месяца.
 
-If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
+Если вы хотите убедиться в том, что у вас установлено последнее обновление, проверьте номер своей версии Office и вручную обновите Office, если это необходимо. Чтобы проверить свою версию Office, выполните следующее:
 
   1.    Откройте любое приложение Office, например Word или Excel.
   2.    Выберите **Файл > Учетная запись**.
   3.    В разделе **Сведения о продукте** посмотрите номер версии в области **О программе**.
 
-If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+Если номер версии совпадает с номером самой последней версии, обновления недоступны. В противном случае вы можете вручную обновить Office до последней версии. Для этого выполните [следующие действия](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
+В таблице ниже приводится история обновлений для версий Office 2019 с корпоративной лицензией, а также розничных версий Office 2016 C2R and Office 2019. Самая последняя дата выпуска указана первой. В таблице содержится номер версии и сборки для выпуска и перечислены обновления для системы безопасности, которые включены в выпуск, а также указана ссылка на дополнительные сведения об обновлении для системы безопасности.
 
 Новые версии содержат все обновления, имеющиеся в предыдущих версиях.
 

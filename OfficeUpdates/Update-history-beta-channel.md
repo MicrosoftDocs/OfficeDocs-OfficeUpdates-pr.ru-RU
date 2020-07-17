@@ -11,15 +11,14 @@ ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel для уровня «Предварительная оценка — ранний доступ» для настольных компьютеров с Windows.
 ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
 ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/08/2020
 ms.locfileid: "45080164"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для канала бета-версии Office
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
-Click [here](https://insider.office.com/) for more information on the Insiders Program.
+Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.
 
 > [!IMPORTANT]
 > - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).

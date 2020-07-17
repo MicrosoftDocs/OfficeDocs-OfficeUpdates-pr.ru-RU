@@ -52,7 +52,7 @@ ms.locfileid: "45138795"
 Новые версии содержат все обновления, имеющиеся в предыдущих версиях.
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> Статьи базы знаний, перечисленные ниже, приведены только для справки. Обновления с технологией "нажми и работай" включают все исправления, указанные в статьях базы знаний. Вам не нужно скачивать отдельные обновления, указанные в статьях.
 
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
