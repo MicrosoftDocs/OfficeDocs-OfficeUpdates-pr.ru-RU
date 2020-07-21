@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138815"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187609"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Заметки о выпусках Полугодового канала (корпоративный) в 2020 г.
 
@@ -154,8 +154,6 @@ ms.locfileid: "45138815"
 - **Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением. [Подробнее](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
 - **Быстрое предоставление общего доступа к файлам.** Делитесь своими документами непосредственно из списка недавно использовавшихся файлов, не открывая их.
-
-- **Сохранение фигур в виде рисунков.** С помощью всего пары щелчков вы можете сохранить фигуру, значок и другой объект в виде файла рисунка, чтобы его можно было использовать в другом месте. [Подробнее](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Больше иконок в соответствии с вашим настроением: **мы добавили более 300 новых иконок. Их можно найти, выбрав элементы "Вставка" > "Значки". [Подробнее](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
 
