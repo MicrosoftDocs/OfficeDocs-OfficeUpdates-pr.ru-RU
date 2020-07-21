@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
 ms.openlocfilehash: c85a34d66b066d69c4152bfd0fbe53c9c262fbb4
 ms.sourcegitcommit: f92e2e3c32b657fcb7abba694b310e152b376858
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/03/2020
 ms.locfileid: "44546297"
