@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
+ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138760"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522436"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -58,7 +58,8 @@ ms.locfileid: "45138760"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
-|14 июля 2020 г.|Версия 2006 (сборка 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458) <br/>|
+|28 июля 2020 г.|Версия 2006 (сборка 13001.20498)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
+|14 июля 2020 г.|Версия 2006 (сборка 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 июня 2020 г.|Версия 2006 (сборка 13001.20266)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |24 июня 2020 г.|Версия 2005 (сборка 12827.20470)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |9 июня 2020 г.|Версия 2005 (сборка 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1322)  <br/>|
