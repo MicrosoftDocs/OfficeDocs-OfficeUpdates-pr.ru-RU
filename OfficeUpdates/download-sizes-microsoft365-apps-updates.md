@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9334d53945d72987154a3cd2e38f35d596aad7af
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138575"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506596"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -36,7 +36,23 @@ ms.locfileid: "45138575"
 
 [//]: # (НЕ УДАЛЯТЬ)
 
-## <a name="july-14-2020"></a>14 июля 2020 г.
+## <a name="july-28-2020"></a>28 июля 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО) 28 июля 2020 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Самый свежий выпуск — версия 2006 (сборка 13001.20498).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2006 (сборка 13001.20384) <br/> |14 июля 2020 г. <br/> |47<br/> |
+|Версия 2006 (сборка 13001.20266) <br/> |30 июня 2020 г. <br/> |62<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ) 28 июля 2020 г.)
+
+## <a name="july-14-2020"></a>14 июля 2020 г.
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)14 июля 2020 г.)
 

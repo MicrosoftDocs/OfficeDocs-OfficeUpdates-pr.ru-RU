@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 001bc31abe7d885133eac48c58c2c03ae67e6ac8
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187599"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506616"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -31,6 +31,35 @@ ms.locfileid: "45187599"
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2006-july-28"></a>Версия 2006: 28 июля
+*Версия 2006 (сборка 13001.20498)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, из-за которой при загрузке книги с несколькими листами в режиме разметки страницы возникает ошибка или зависание.
+
+
+### <a name="outlook"></a>Outlook
+
+- Мы устранили проблемы при копировании и вставке SVG-изображения.
+
+
+### <a name="word"></a>Word
+
+- Мы устранили проблемы при копировании и вставке SVG-изображения.
+
+
+### <a name="office-suite"></a>Набор приложений Office
+
+- При закрытии файлов Office мог произойти сбой из-за проблем с синхронизацией.
 
 
 
@@ -863,6 +892,7 @@ ms.locfileid: "45187599"
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
