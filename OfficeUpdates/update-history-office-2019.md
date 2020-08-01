@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
-ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
+ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522436"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530348"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -44,7 +44,7 @@ ms.locfileid: "46522436"
 |14 апреля 2020 г.   |Версия 1808 (сборка 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 марта 2020 г.   |Версия 1808 (сборка 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11 февраля 2020 г.   |Версия 1808 (сборка 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|14 января 2020 г.   |Версия 1808 (сборка 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652) <br/>  |
+
 
 
 
@@ -58,6 +58,7 @@ ms.locfileid: "46522436"
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
+|30 июля 2020 г.|Версия 2007 (сборка 13029.20308)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |28 июля 2020 г.|Версия 2006 (сборка 13001.20498)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |14 июля 2020 г.|Версия 2006 (сборка 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 июня 2020 г.|Версия 2006 (сборка 13001.20266)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
@@ -76,10 +77,7 @@ ms.locfileid: "46522436"
 |1 марта 2020 г.   |Версия 2002 (сборка 12527.20242)  |Исправлена проблема, из-за которой сторонние приложения не могли отправлять электронную почту из Outlook. <br/>  |
 |25 февраля 2020 г.   |Версия 2002 (сборка 12527.20194)  |Исправления различных ошибок и улучшения производительности. <br/>  |
 |11 февраля 2020 г.   |Версия 2001 (сборка 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|30 января 2020 г.   |Версия 2001 (сборка 12430.20184)  |Исправления различных ошибок и улучшения производительности. <br/>  |
-|22 января 2020 г.   |Версия 1912 (сборка 12325.20344)  |Исправления различных ошибок и улучшения производительности. <br/>  |
-|14 января 2020 г.   |Версия 1912 (сборка 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|8 января 2020 г.   |Версия 1912 (сборка 12325.20288)  |Исправления различных ошибок и улучшения производительности. <br/>  |
+
 
 
 
