@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
+ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
+ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052622"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560104"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,14 @@ ms.locfileid: "45052622"
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+## <a name="august-4-2020"></a>4 августа 2020 г.
+
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Обновление для Microsoft Project 2016 ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
+Обновление для Skype для бизнеса 2016 ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
+
+**Office 2010**<br/>
+Обновление для Microsoft Office 2010 ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Обновление для Microsoft PowerPoint 2010 ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 ## <a name="july-7-2020"></a>7 июля 2020 г.
 
@@ -76,13 +84,4 @@ ms.locfileid: "45052622"
 
 **Office 2013**<br/>
 Обновление для Skype для бизнеса 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
-
-## <a name="february-4-2020"></a>4 февраля 2020 г.
-
-**Office 2016**<br/>
-Обновление для Microsoft Project 2016 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
-Обновление для Microsoft Word 2016 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
-
-
 
