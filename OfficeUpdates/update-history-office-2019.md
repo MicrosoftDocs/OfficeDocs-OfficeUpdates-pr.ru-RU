@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530348"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612341"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -36,6 +36,9 @@ ms.locfileid: "46530348"
 ## <a name="volume-licensed-versions-of-office-2019"></a>Корпоративные версии Office 2019
 Приведенные ниже сведения относятся к корпоративным версиям Office 2019, таким как Office профессиональный плюс 2019, приобретенным в рамках соглашения о корпоративном лицензировании.
 
+[//]: # (НЕ УДАЛЯТЬ ТАБЛИЦУ КОРПОРАТИВНЫХ ВЕРСИЙ НАЧАЛО)
+
+
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
 |14 июля 2020 г.   |Версия 1808 (сборка 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ ms.locfileid: "46530348"
 |11 февраля 2020 г.   |Версия 1808 (сборка 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (НЕ УДАЛЯТЬ ТАБЛИЦУ КОРПОРАТИВНЫХ ВЕРСИЙ КОНЕЦ)
+
+<details>
+<summary>Более ранние версии</summary>
+ 
+[//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ КОРПОРАТИВНЫХ ВЕРСИЙ НАЧАЛО)
 
 
+|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
+|:-----|:-----|:-----|
 
+
+[//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ КОРПОРАТИВНЫХ ВЕРСИЙ КОНЕЦ)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Розничные версии Office 2016 C2R и Office 2019
 Приведенные ниже сведения относятся к розничным версиям Office 2016 C2R и Office 2019 c одними датами выпуска и номерами версий.
+
+[//]: # (НЕ УДАЛЯТЬ ТАБЛИЦУ РОЗНИЧНЫХ ВЕРСИЙ НАЧАЛО)
+
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ ms.locfileid: "46530348"
 |30 июня 2020 г.|Версия 2006 (сборка 13001.20266)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |24 июня 2020 г.|Версия 2005 (сборка 12827.20470)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |9 июня 2020 г.|Версия 2005 (сборка 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (НЕ УДАЛЯТЬ ТАБЛИЦУ РОЗНИЧНЫХ ВЕРСИЙ КОНЕЦ)
+
+<details>
+<summary>Более ранние версии</summary>
+ 
+[//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ РОЗНИЧНЫХ ВЕРСИЙ НАЧАЛО)
+
+
+|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
+|:-----|:-----|:-----|
 |2 июня 2020 г.|Версия 2005 (сборка 12827.20268)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |21 мая 2020 г.|Версия 2004 (сборка 12730.20352)  |Исправления различных ошибок и улучшения производительности.  <br/>  |
 |12 мая 2020 г.|Версия 2004 (сборка 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ ms.locfileid: "46530348"
 |11 февраля 2020 г.   |Версия 2001 (сборка 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ РОЗНИЧНЫХ ВЕРСИЙ КОНЕЦ)
 
+</details>
 
 
 
