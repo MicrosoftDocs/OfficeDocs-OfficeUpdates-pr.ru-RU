@@ -1,6 +1,6 @@
 # [Информация о выпуске](release-notes-microsoft365-apps.md)
+# [Обновления для системы безопасности](microsoft365-apps-security-updates.md)
 # Приложения Microsoft 365
-## [Обновления для системы безопасности](microsoft365-apps-security-updates.md)
 ## [Журнал обновлений (по дате)](update-history-microsoft365-apps-by-date.md)
 ## [Размеры обновлений](download-sizes-microsoft365-apps-updates.md)
 
