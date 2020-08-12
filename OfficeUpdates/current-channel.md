@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
-ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
+ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580852"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634835"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -31,6 +31,31 @@ ms.locfileid: "46580852"
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2007-august-11"></a>Версия 2007: 11 августа
+*Версия 2007 (сборка 13029.20344)*
+
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- Устранена проблема, из-за которой Outlook не удавалось получить варианты поиска.
+
+
+- Устранена проблема, которая иногда приводила к аварийному завершению работы при получении сведений о пользователе.
+
+
+### <a name="project"></a>Project
+
+- Исправлена проблема, из-за которой проект в нерабочем состоянии нельзя было открыть.
 
 
 
@@ -63,8 +88,6 @@ ms.locfileid: "46580852"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Автоматическое применение или рекомендации меток конфиденциальности.** Office может рекомендовать или автоматически применять метку конфиденциальности на основе обнаруженного конфиденциального содержимого.
-
-- **Улучшена производительность потокового видео в PowerPoint.** Мы улучшили скорость воспроизведения в видеороликах Microsoft Stream, чтобы сократить время загрузки видео и обеспечить удобство просмотра. Используйте корпоративные видео из Microsoft Stream для улучшения презентаций.
 
 ### <a name="teams"></a>Teams
 
@@ -995,6 +1018,7 @@ ms.locfileid: "46580852"
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
