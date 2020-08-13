@@ -1,5 +1,5 @@
 ---
-title: Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365
+title: Заметки о выпуске обновлений для системы безопасности Microsoft Office
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,77 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138525"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641805"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft 365
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
-Эти заметки о выпусках содержат сведения об исправлениях безопасности, которые включены в обновления для приложений Microsoft 365.
+Эти заметки о выпуске содержат сведения об исправлениях безопасности, которые входят в обновления для Microsoft Office.
 
-Эти сведения относятся к приложениям Microsoft 365 для предприятий, Microsoft 365 для бизнеса и версиям классических приложений Project и Visio, включающих подписки.
+Эта информация применима к Приложениям Microsoft 365 для предприятий, Приложениям Microsoft 365 для бизнеса, розничной версии Office 2016 (C2R) и Office 2019.
 
 
 > [!IMPORTANT]
-> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="august-11-2020"></a>11 августа 2020 г.
+Актуальный канал: версия 2007 (сборка 13029.20344)  
+Ежемесячный канал (корпоративный): версия 2006 (сборка 13001.20520)  
+Ежемесячный канал (корпоративный): версия 2005 (сборка 12827.20656)  
+Полугодовой канал (предварительная корпоративная версия): версия 2002 (сборка 12527.20988)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.20988)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20934)  
+Полугодовой канал (корпоративный): версия 1902 (сборка 11328.20644)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.20988)  
+Розничная версия Office 2019: версия 2007 (сборка 13029.20344)  
+Розничная версия Office 2016: версия 2007 (сборка 13029.20344)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10364.20059)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="access"></a>Доступ
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="july-14-2020"></a>14 июля 2020 г.
 Актуальный канал: версия 2006 (сборка 13001.20384)  
