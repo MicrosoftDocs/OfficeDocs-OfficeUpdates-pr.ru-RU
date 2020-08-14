@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: 786855ce6b1b1aefd40b631045e450bb49c212b4
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: b9a83dff401ba017968d20a9b85f7a327749ff97
+ms.sourcegitcommit: dc791a00230b0eb2db3e8c36e03825f57af1a03a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637657"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649619"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -58,7 +58,9 @@ ms.locfileid: "46637657"
 <details>
 <summary>Более ранние версии</summary>
  
+
 [//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ КОРПОРАТИВНЫХ ВЕРСИЙ НАЧАЛО)
+
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
@@ -90,7 +92,9 @@ ms.locfileid: "46637657"
 <details>
 <summary>Более ранние версии</summary>
  
+
 [//]: # (НЕ УДАЛЯТЬ СТАРУЮ ТАБЛИЦУ РОЗНИЧНЫХ ВЕРСИЙ НАЧАЛО)
+
 
 |**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|
