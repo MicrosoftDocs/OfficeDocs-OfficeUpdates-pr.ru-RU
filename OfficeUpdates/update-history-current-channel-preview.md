@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 4d42d0ab7d2a3eddbba2f7143e7715c082b84a23
-ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
+ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
+ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46788969"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46826862"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -24,7 +24,7 @@ ms.locfileid: "46788969"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
 Если вы зарегистрированы на уровне Актуального канала (предварительной версии), который раньше назывался "Программа предварительной оценки — поздний доступ", приблизительно раз в месяц вы получаете обновления компонентов Office, а также последующие сборки с важными исправлениями и обновлениями для системы безопасности. В списке ниже перечислены последние версии и сборки Актуального канала (предварительной версии), при этом **последняя сборка указана в начале**. Каждая новая сборка содержит все обновления из предыдущих сборок.
-Заметки о выпуске [см. в разделе](https://docs.microsoft.com/ru-RU/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Заметки о выпуске [см. в разделе](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
