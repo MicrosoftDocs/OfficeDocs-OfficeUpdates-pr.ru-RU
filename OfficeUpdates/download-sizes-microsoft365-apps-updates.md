@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: f3bfb9c31a0b85223e46756bef98e27a4f6b53c0
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: e5fa97ddcf22460a7fe9c3005cfdf933e245bb1f
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895723"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318996"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -35,6 +35,22 @@ ms.locfileid: "46895723"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="august-31-2020"></a>31 августа 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)31 августа 2020 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2008 (сборка 13127.20296).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2007 (сборка 13029.20460) <br/> |25 августа 2020 г. <br/> |251<br/> |
+|Версия 2007 (сборка 13029.20344) <br/> |11 августа 2020 г. <br/> |251<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)31 августа 2020 г.)
 
 ## <a name="august-25-2020"></a>25 августа 2020 г.
 
