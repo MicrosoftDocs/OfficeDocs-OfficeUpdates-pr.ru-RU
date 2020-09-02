@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
-ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
+ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
+ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560104"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47322073"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,17 @@ ms.locfileid: "46560104"
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="september-1-2020"></a>1 сентября 2020 г.
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4484251](https://support.microsoft.com/help/4484251))<br/>
+Обновление для Microsoft Office 2016 ([KB4484395](https://support.microsoft.com/help/4484395))<br/> Обновление для Microsoft Office 2016 ([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
+Обновление для Microsoft Outlook 2016 ([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
+Обновление для Skype для бизнеса 2016 ([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
+
+**Office 2013**<br/>
+Обновление для Microsoft Visio 2013 ([KB4484355](https://support.microsoft.com/help/4484355))<br/>
+
 ## <a name="august-4-2020"></a>4 августа 2020 г.
 
 **Office 2016**<br/>
@@ -75,13 +86,6 @@ ms.locfileid: "46560104"
 Обновление Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
 Обновление Skype для бизнеса 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
+<br/>
 
-## <a name="march-3-2020"></a>3 марта 2020 г.
-
-**Office 2016**<br/>
-Обновление для Microsoft Office 2016 ([KB4484247](https://support.microsoft.com/help/4484247))<br/> Обновление для пакета интерфейса пользователя Microsoft Office 2016 ([KB4484136](https://support.microsoft.com/help/4484136))<br/>
-Обновление для Skype для бизнеса 2016 ([KB4484245](https://support.microsoft.com/help/4484245)) <br/>
-
-**Office 2013**<br/>
-Обновление для Skype для бизнеса 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
+ 
