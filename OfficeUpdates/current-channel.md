@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: d63e475069ceab71e83b9b3b063a32c92d124771
-ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
+ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
+ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47320787"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364180"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -922,6 +922,17 @@ ms.locfileid: "47320787"
 *Версия 2002 (сборка 12527.20278)*
 
 Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="powerpoint"></a>PowerPoint
+
+- **Ссылка на слайд:** попросите коллег поучаствовать в создании презентации и направьте их прямо на нужный слайд.
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
