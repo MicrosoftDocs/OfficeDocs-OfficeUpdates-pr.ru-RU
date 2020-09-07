@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 09cec6b4200e2fee91963950291f427237ffb5b2
-ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
+ms.openlocfilehash: 404c8c83d189b4ff19917f896e5c29389c0b7ed6
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341045"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399676"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -37,6 +37,9 @@ ms.locfileid: "47341045"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**4 сентября 2020 г.**<br/>
+Версия 2008 (сборка 13127.20378)<br/>
 
 **2 сентября 2020 г.**<br/>
 Версия 2008 (сборка 13127.20360)<br/>
