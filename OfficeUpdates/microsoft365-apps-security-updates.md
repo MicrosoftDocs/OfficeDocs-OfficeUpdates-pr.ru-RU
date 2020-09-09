@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
-ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
+ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46641805"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413087"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -31,6 +31,39 @@ ms.locfileid: "46641805"
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="september-08-2020"></a>08 сентября 2020 г.
+Ежемесячный канал (корпоративный): версия 2007 (сборка 13029.20534)  
+Ежемесячный канал (корпоративный): версия 2006 (сборка 13001.20648)  
+Полугодовой канал (предварительная корпоративная версия): версия 2008 (сборка 13127.20408)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21104)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20946)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10366.20016)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1594](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1594)
+-   [CVE-2020-1335](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1335)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1332](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1332)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1193)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="august-11-2020"></a>11 августа 2020 г.
 Актуальный канал: версия 2007 (сборка 13029.20344)  
