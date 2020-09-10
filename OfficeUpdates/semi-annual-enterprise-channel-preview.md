@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: bdfd18bc1ff883f260b12009400bf9b62993d939
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413167"
+ms.locfileid: "47420743"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Заметки о выпусках Полугодового канала (предварительной корпоративной версии) в 2020 г.
 
@@ -71,7 +71,7 @@ ms.locfileid: "47413167"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Привлечение внимания с помощью @упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие. [Подробнее](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте. [Подробнее](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
