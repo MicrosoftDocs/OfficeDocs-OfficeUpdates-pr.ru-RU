@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: f8fc5a41e72074071de05ced6857e2ba1f5e7e21
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413087"
+ms.locfileid: "47420698"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -33,11 +33,15 @@ ms.locfileid: "47413087"
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
 
 ## <a name="september-08-2020"></a>08 сентября 2020 г.
+Актуальный канал: версия 2008 (сборка 13127.20408)  
 Ежемесячный канал (корпоративный): версия 2007 (сборка 13029.20534)  
 Ежемесячный канал (корпоративный): версия 2006 (сборка 13001.20648)  
 Полугодовой канал (предварительная корпоративная версия): версия 2008 (сборка 13127.20408)  
 Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21104)  
 Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20946)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21104)  
+Розничная версия Office 2019: версия 2008 (сборка 13127.20408)  
+Розничная версия Office 2016: версия 2008 (сборка 13127.20408)  
 Корпоративная версия Office 2019: версия 1808 (сборка 10366.20016)  
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
@@ -54,11 +58,10 @@ ms.locfileid: "47413087"
 
 -   [CVE-2020-1338](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1338)
 -   [CVE-2020-1218](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1445)
+
 
 ### <a name="office-suite"></a>Набор Office
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1458)
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
