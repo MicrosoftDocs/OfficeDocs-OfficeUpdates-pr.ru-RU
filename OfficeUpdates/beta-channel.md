@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449562"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816580"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -100,10 +100,6 @@ ms.locfileid: "47449562"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="feature-updates"></a>Обновления функций
-### <a name="excel"></a>Excel
-
-- **Создание типов данных с помощью Power Query.** Создавайте типы сложных данных с помощью Power Query из любого источника данных.
-
 ### <a name="outlook"></a>Outlook
 
 - **Закрепление сообщения электронной почты:** эта функция попомгает пользователям следить за письмами, которым нужно уделить внимание или которые следует оставить наверху списка сообщений.
@@ -278,19 +274,19 @@ ms.locfileid: "47449562"
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="excel"></a>Excel
 
-- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office: ** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
