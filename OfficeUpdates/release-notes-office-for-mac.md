@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Предоставляет ИТ-специалистам заметки о выпуске выпусков Office для Mac для подписчиков приложений Microsoft 365
-ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 96de2ef290f1c69a7ac5cce730151276bf028b46
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637697"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816590"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -41,6 +41,33 @@ Office для Mac в составе подписки на Microsoft 365 обн�
 
 
 
+
+
+
+## <a name="september-15-2020"></a>15 сентября 2020 г.
+*Версия 16.41 (сборка 20091302)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="security-updates"></a>Обновления для системы безопасности
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1224)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1338)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-16855)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="august-11-2020"></a>11 августа 2020 г.
 *Версия 16.40 (сборка 20081000)*

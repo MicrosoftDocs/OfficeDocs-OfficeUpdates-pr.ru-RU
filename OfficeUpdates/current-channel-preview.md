@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с поздним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449552"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816560"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -27,6 +27,16 @@ ms.locfileid: "47449552"
 > - Дата публикации заметок о выпуске может не совпадать с фактической датой выпуска сборки.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="version-2009-september-14"></a>Версия 2009: 14 сентября
+*Версия 2009 (сборка 13231.20152)*
+* Исправления различных ошибок и улучшения производительности.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2009-september-10"></a>Версия 2009: 10 сентября
 *Версия 2009 (сборка 13231.20126)*
