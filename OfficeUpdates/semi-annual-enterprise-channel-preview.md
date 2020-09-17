@@ -1,20 +1,20 @@
 ---
 title: Заметки о выпусках Полугодового канала (предварительной корпоративной версии) в 2020 г.
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420743"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942866"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Заметки о выпусках Полугодового канала (предварительной корпоративной версии) в 2020 г.
 
@@ -65,7 +65,7 @@ ms.locfileid: "47420743"
 
 - **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши.
 
-- **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Получение предложений электронной почты при поиске пользователя.** Когда вы вводите имя пользователя в поле поиска, в предложения поиска включаются наиболее подходящие сообщения электронной почты. [Подробнее](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 

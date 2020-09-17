@@ -2,19 +2,19 @@
 title: Журнал обновлений Актуального канала Office (предварительная версия)
 ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: 54f60a987331ad4211b2f306ec267ce53bd3bc6c
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: c6fc1ef5e8b84d770e152fb6a4d84047bff7e465
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816610"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942826"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -24,7 +24,7 @@ ms.locfileid: "47816610"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
 Если вы зарегистрированы на уровне Актуального канала (предварительной версии), который раньше назывался "Программа предварительной оценки — поздний доступ", приблизительно раз в месяц вы получаете обновления компонентов Office, а также последующие сборки с важными исправлениями и обновлениями для системы безопасности. В списке ниже перечислены последние версии и сборки Актуального канала (предварительной версии), при этом **последняя сборка указана в начале**. Каждая новая сборка содержит все обновления из предыдущих сборок.
-Заметки о выпуске [см. в разделе](https://docs.microsoft.com/ru-RU/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/ru-RU/releasenotes/windows/slow).
+Заметки о выпуске [см. в разделе](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]

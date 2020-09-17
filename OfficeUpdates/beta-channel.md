@@ -1,20 +1,20 @@
 ---
 title: Заметки о выпуске для бета-канала
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список ключевых новых функций, исправлений или известных проблем
-ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: 4c3c30f66df886e67c9e5b669fd41d192a62b662
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816580"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942792"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -968,7 +968,7 @@ ms.locfileid: "47816580"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
-### <a name="access"></a>Доступ
+### <a name="access"></a>Access
 
 - Исправлены проблемы с изменением размера и обновлением таблиц на панели задач.
 
