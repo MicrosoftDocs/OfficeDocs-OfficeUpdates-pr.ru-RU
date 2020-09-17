@@ -1,20 +1,20 @@
 ---
 title: Заметки о выпусках Актуального канала в 2020 г.
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413057"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942836"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -32,6 +32,38 @@ ms.locfileid: "47413057"
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2008-september-09"></a>Версия 2008: 9 сентября
+*Версия 2008 (сборка 13127.20408)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="access"></a>Access
+
+- Эта проблема исправлена в Access, но мы продолжаем изучать дополнительные интерфейсы, чтобы она не повторилась. Команда сообщит о будущих обновлениях. Мы ценим ваше терпение.
+
+
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, из-за которой Excel мог аварийно завершать работу в определенных обстоятельствах при использовании форматирования по образцу.
+
+
+### <a name="word"></a>Word
+
+- Устранена проблема, из-за которой пользователь мог потерять контент при изменении размера фигуры.
+
+
+- Исправлена проблема, из-за которой базовые стили не обновлялись со стилем "Обычный".
+
+
+### <a name="office-suite"></a>Набор Office
+
+- Это изменение устраняет проблему, из-за которой диалоговое окно "Сжатие рисунка" не сохраняло определенные пользовательские параметры.
 
 
 
@@ -1201,6 +1233,7 @@ ms.locfileid: "47413057"
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
