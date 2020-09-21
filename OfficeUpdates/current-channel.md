@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942836"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100201"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -45,7 +45,7 @@ ms.locfileid: "47942836"
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="access"></a>Access
 
-- Эта проблема исправлена в Access, но мы продолжаем изучать дополнительные интерфейсы, чтобы она не повторилась. Команда сообщит о будущих обновлениях. Мы ценим ваше терпение.
+- Это исправление исправляет проблему, из-за которой Access мог аварийно завершать работу при запуске функции Масштаб (Shift + F2) для редактирования текста.
 
 
 ### <a name="excel"></a>Excel
