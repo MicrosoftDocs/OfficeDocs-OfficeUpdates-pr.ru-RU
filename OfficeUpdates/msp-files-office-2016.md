@@ -2,19 +2,19 @@
 title: Список актуальных MSP-файлов для продуктов Office 2016
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Предоставление ИТ-специалистам списка текущих MSP-файлов для бессрочных версий Office 2016, использующих установщик Windows (MSI)
-ms.openlocfilehash: cc9f7f97499e5e360d4df1210302f7025150b1c4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 692a20b6c3e88fdfde6296ddadaa8180d1801c16
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413097"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174568"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Список актуальных MSP-файлов для продуктов Office 2016
 
@@ -91,7 +91,7 @@ ms.locfileid: "47413097"
 |подсказки — x — нет  <br/> |Office 2016  <br/> |7 июня 2016 г.  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |PowerPoint — x — нет  <br/> |PowerPoint 2016  <br/> |5 мая 2020 г.  <br/> |[4484337](https://support.microsoft.com/help/4484337) <br/> |14 апреля 2020 г.  <br/> |[4484246](https://support.microsoft.com/help/4484246) <br/> |[4484166](https://support.microsoft.com/help/4484166) <br/> |
 |ппаддин — x — нет  <br/> |Office 2016  <br/> |5 декабря 2017 г.  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|проект — x — нет  <br/> |Project 2016  <br/> |4 августа 2020 г.  <br/> |[4484477](https://support.microsoft.com/help/4484477) <br/> |14 июля 2020 г.  <br/> |[4484441](https://support.microsoft.com/help/4484441) <br/>|[4484399](https://support.microsoft.com/help/4484399) <br/> |
+|проект — x — нет  <br/> |Project 2016  <br/> |4 августа 2020 г.  <br/> |[4484477](https://support.microsoft.com/help/4484477) <br/> |14 июля 2020 г.  <br/> |[4484441](https://support.microsoft.com/help/4484441) <br/>|[4484399](https://support.microsoft.com/help/4484399) <br/> |
 |Цветопроба — x — нет  <br/> |Office 2016  <br/> |7 мая 2019 г.  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |протоколхндлр — x — нет  <br/> |Office 2016  <br/> |3 сентября 2019 г.  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |Publisher — x — нет  <br/> |Publisher 2016  <br/> |1 августа 2017 г.  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |14 апреля 2020 г.  <br/> |[4011097](https://support.microsoft.com/help/4011097) <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |
