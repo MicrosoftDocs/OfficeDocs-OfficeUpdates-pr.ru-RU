@@ -1,20 +1,20 @@
 ---
 title: Журнал выпусков средства развертывания Office (ODT)
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781572"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174648"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -23,12 +23,22 @@ ms.locfileid: "43781572"
 
 ODT предоставляет более широкие возможности для контроля установки Office. Вы можете указать, какие продукты и языковые версии устанавливать, как выполнять обновление, и нужно ли отображать интерфейс установки для пользователей. Дополнительные сведения относительно использования ODT см. в [Обзоре средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Поддерживаемые операционные системы**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2 
+ **Поддерживаемые операционные системы**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="june-9-2020"></a>9 июня 2020 г.
+
+Версия 16.0.12827.20268 (setup.exe версии 16.0.12827.20258)
+- Если канал не указан, в качестве текущего канала будет использоваться Актуальный канал.
+- Добавлена поддержка для Ежемесячного канала
+- Добавлена поддержка новых названий каналов
+- Дополнительные функции устойчивости, позволяющие по возможности продолжать установку, даже если некоторые языковые ресурсы недоступны
+- Возможности MSIRemove, разворачиваемые для удаления продуктов Office 2007
+- Возможности MSIRemove, разворачиваемые для удаления ядра СУБД Access 
 
 ## <a name="april-15-2020"></a>15 апреля 2020 г.
 
