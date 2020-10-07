@@ -1,20 +1,20 @@
 ---
 title: Заметки о выпусках Monthly Channel в 2019 г.
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565064"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369937"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Заметки о выпусках Monthly Channel в 2019 г.
 
@@ -22,12 +22,12 @@ ms.locfileid: "44565064"
 
  > [!NOTE]
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/teams-install).
+>- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Версия 1911: 10 декабря
 *Версия 1911 (сборка 12228.20364)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -119,7 +119,7 @@ ms.locfileid: "44565064"
 ## <a name="version-1910-november-12"></a>Версия 1910: 12 ноября
 *Версия 1910 (сборка 12130.20344)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -179,7 +179,7 @@ ms.locfileid: "44565064"
 
 ### <a name="office-suite"></a>Набор приложений Office
 
-- **Установка Microsoft Teams для существующих экземпляров Office 365 профессиональный плюс**. С конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье "Развертывание Microsoft Teams с Office 365 профессиональный плюс". [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams для существующих экземпляров Office 365 профессиональный плюс**. С конца июня Microsoft Teams будет добавляться в существующие установки Office 365 профессиональный плюс (и Office 365 бизнес) при обновлении этих установок. Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье "Развертывание Microsoft Teams с Office 365 профессиональный плюс". [Подробнее](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -222,7 +222,7 @@ ms.locfileid: "44565064"
 ## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
 *Версия 1909 (сборка 12026.20320)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -334,7 +334,7 @@ ms.locfileid: "44565064"
 ## <a name="version-1908-september-10"></a>Версия 1908: 10 сентября
 *Версия 1908 (сборка 11929.20300)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -400,7 +400,7 @@ ms.locfileid: "44565064"
 ## <a name="version-1907-august-13"></a>Версия 1907: 13 августа
 *Версия 1907 (сборка 11901.20218)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
@@ -454,7 +454,7 @@ ms.locfileid: "44565064"
 ## <a name="version-1906-july-09"></a>Версия 1906: 9 июля
 *Версия 1906 (сборка 11727.20244)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
@@ -520,7 +520,7 @@ ms.locfileid: "44565064"
 
 ## <a name="version-1905-june-11"></a>Версия 1905: 11 июня
 *Версия 1905 (сборка 11629.20246)*
-<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+<br/>Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 

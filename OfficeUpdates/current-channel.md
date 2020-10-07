@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297172"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370157"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -59,7 +59,7 @@ ms.locfileid: "48297172"
 
 ### <a name="teams"></a>Teams
 
-- **Совместное использование файлов в Microsoft Teams:**[Подробнее](https://docs.microsoft.com/ru-RU/MicrosoftTeams/sharing-files-in-teams)
+- **Совместное использование файлов в Microsoft Teams:**[Подробнее](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -1304,7 +1304,7 @@ ms.locfileid: "48297172"
 
 - **Оптимизация презентации для всех пользователей.** Средство проверки читаемости помогает расположить объекты на слайдах с учетом средств чтения с экрана.
 
-- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/ru-RU/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 

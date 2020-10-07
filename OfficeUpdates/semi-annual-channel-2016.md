@@ -1,8 +1,8 @@
 ---
 title: Заметки о выпуске для полугодовых выпусков в 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков Office 365 профессиональный плюс в 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615143"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370147"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Заметки о выпуске для полугодовых выпусков в 2016
 
@@ -30,7 +30,7 @@ ms.locfileid: "42615143"
 *Версия 1605 (сборка 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16-148](https://technet.microsoft.com/library/security/ms16-148): обновление для системы безопасности Microsoft Office (3204068)
+-   Бюллетень по безопасности (Майкрософт) [MS16 148](https://technet.microsoft.com/library/security/ms16-148). Обновление для системы безопасности Microsoft Office (3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой Skype для бизнеса дает сбой при увеличении отправленного вам содержимого, если отправитель использует сторонний RDP.
@@ -58,7 +58,7 @@ ms.locfileid: "42615143"
 *Версия 1605 (сборка 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   Бюллетень по безопасности Майкрософт [MS16-133](https://technet.microsoft.com/library/security/ms16-133): обновление для системы безопасности для Microsoft Office (3199168)
+-   Бюллетень по безопасности (Майкрософт) [MS16-133](https://technet.microsoft.com/library/security/ms16-133). Обновление для системы безопасности Microsoft Office (3199168)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 -   Устранена проблема, из-за которой после миграции в Exchange Online пользователю не удается подключиться к Exchange, чтобы получить данные журнала бесед, контактов и голосовой почты.
@@ -582,7 +582,7 @@ ms.locfileid: "42615143"
 -   **Возможность сортировки при выборе элементов "Файл" \> "Открыть".** Сортируйте по имени или дате изменения, выбрав элементы "Файл" \> "Открыть" во всех приложениях, кроме Outlook. В Word, Excel и PowerPoint сортировка также доступна при выборе элементов "Файл" \> "Сохранить как".
 -   **Folder browse capability in File \> Save As:** Use full folder navigation in File \> Save As in Word, Excel, and PowerPoint for OneDrive folders, OneDrive for Business folders, and This PC.
 -   **Варианты отправки.** Отправка документа в виде вложения или в виде PDF-файла из области "Общий доступ" в Word или PowerPoint.
--   **API вставки рисунков:** Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков:** Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке office.js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-081](https://technet.microsoft.com/library/security/ms15-081). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3080790).

@@ -1,20 +1,20 @@
 ---
 title: Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel (Targeted) для Office 365 профессиональный плюс в 2019 г. для ИТ-специалистов
-ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: e533b0ab787fe46830249721c9e8315232379c0e
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565061"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369977"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Заметки о выпусках Semi-Annual Channel (Targeted) в 2019 г.
 
@@ -22,7 +22,7 @@ ms.locfileid: "44565061"
 
 > [!NOTE]
 > - Мы часто выпускаем функции (а иногда даже исправления) для Semi-Annual Channel (Targeted) по истечении определенного времени. Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/teams-install).
+> - Microsoft Teams входит в состав новых установок Semi-Annual Channel (Targeted) с версии 1902. Приложение Teams добавляется в существующие установки Semi-Annual Channel (Targeted) при их обновлении до версии 1908 или более поздней. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/teams-install).
 
 ## <a name="version-1908-december-10"></a>Версия 1908: 10 декабря
 *Версия 1908 (сборка 11929.20516)*
@@ -364,7 +364,7 @@ ms.locfileid: "44565061"
 
 ### <a name="office-suite"></a>Набор Office
 
-- **Установка Microsoft Teams.** Приложение Teams добавляется в существующие установки Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Приложение Teams добавляется в существующие установки Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/deployoffice/teams-install)
 
 - **Сохранение изменений по мере внесения.** Отправляйте свои файлы в OneDrive, чтобы обеспечить автоматическое сохранение всех обновлений.
 
@@ -668,7 +668,7 @@ ms.locfileid: "44565061"
 - **Добавление живых красок на слайды.** Вставляйте на экран анимированные трехмерные изображения, чтобы показать, как бьется сердце, вращается планета или рычит тираннозавр. [Подробнее](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Совершенствование набросков.** Мы преобразовываем рукописные тексты и фигуры в доработанные схемы. Просто выберите росчерк пера, чтобы приступить к работе. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Отображение того, что позади рисунка.** Добавьте рисунок на лист и выберите предопределенные параметры, после чего прозрачность изменится. Вот и все! [Подробнее](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Публикация в Microsoft Stream.** Безопасно делитесь презентациями как видеофайлами в пределах своей организации с помощью Microsoft Stream. [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Публикация в Microsoft Stream.** Безопасно делитесь презентациями как видеофайлами в пределах своей организации с помощью Microsoft Stream. [Подробнее](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **Экспорт в видео с разрешением 4K.** При экспорте презентации в видео теперь можно использовать разрешение 4K.  [Подробнее](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Возможность вставки изображений в формате SVG с примененными фильтрами.** Пользователи Office теперь могут вставлять изображения SVG, к которым применены фильтры. [Подробнее](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Большие файлы теперь открываются быстрее.** Изображения, видео и крупные элементы теперь скачиваются в фоновом режиме при открытии файлов, сохраненных в OneDrive или SharePoint.

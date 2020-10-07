@@ -1,8 +1,8 @@
 ---
 title: Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/11/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для ежемесячных выпусков Office 365 профессиональный плюс в 2015
-ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438814"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369917"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Заметки о выпуске ежемесячных выпусков маркетинговых программ в 2015
 
@@ -69,7 +69,7 @@ ms.locfileid: "32438814"
 
 ### <a name="office-suite-feature-updates"></a>Набор Office. Обновления функций
 -   **Send as options**: Send a document either as an attachment or as a PDF from the Share pane in Word or PowerPoint.
--   **API вставки рисунков**: Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков**: Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке office.js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой усекается дата изменения после выбора команды "Открыть" или "Сохранить как".

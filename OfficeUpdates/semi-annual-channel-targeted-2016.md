@@ -1,8 +1,8 @@
 ---
 title: Заметки о выпуске для полугодовых выпусков (целевых) каналов в 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Предоставляет ИТ-специалистам заметки о выпуске для полугодовых выпусков (целевых) каналов для Office 365 профессиональный плюс в 2016
-ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 2ae156c4e02e56aca8b9ccb562804ade1173ec17
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615159"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370087"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Заметки о выпуске для полугодовых выпусков (целевых) каналов в 2016
 
@@ -48,7 +48,7 @@ ms.locfileid: "42615159"
 -   Исправлена ошибка, из-за которой не при нажатии клавиш CTRL+ALT+4 не вставляется знак евро в английской раскладке.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   Бюллетень по безопасности (Майкрософт) [MS16-148](https://technet.microsoft.com/library/security/ms16-148): обновление для системы безопасности Microsoft Office (3204068)
+-   Бюллетень по безопасности (Майкрософт) [MS16 148](https://technet.microsoft.com/library/security/ms16-148). Обновление для системы безопасности Microsoft Office (3204068)
 
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 -   Устранена проблема с формами VBA, из-за которой рамки по оси z перестают работать или отображаются неправильно.
@@ -84,7 +84,7 @@ ms.locfileid: "42615159"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype для бизнеса. Обновления функций
 -   **Обновленные визуальные элементы.** Изменены значки и цветовые решения для повышения доступности.[Дополнительные сведения](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Обновление пользовательского интерфейса на "общий доступ":** замените "Present" на "Share" в элементах пользовательского интерфейса, например, измените значение "текущий рабочий стол" на "общий доступ к рабочему столу" и "Текущая программа", чтобы поделиться окном.
+-   **Обновление пользовательского интерфейса на "общий доступ":**   Замените слово "есть" на "общий доступ" в элементах пользовательского интерфейса, например, измените значение "текущий рабочий стол" на "общий доступ к рабочему столу" и "Текущая программа", чтобы поделиться окном.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
 -   Устранена проблема, из-за которой после миграции в Exchange Online пользователю не удавалось подключиться к Exchange, чтобы получить данные журнала бесед, контактов и голосовой почты.
@@ -163,11 +163,11 @@ ms.locfileid: "42615159"
 -   Исправлена ошибка, из-за которой при удалении таблицы происходит сбой OneNote.
 
 ### <a name="outlook-feature-updates"></a>Outlook. Обновления функций
--   ** \@упоминание:** Убедитесь, что получатели знают, что они запросили ввод или действие, включив символ @, а затем имя пользователя в текст сообщения электронной почты или элемента календаря. Это также позволит автоматически добавить их в строку "Кому". [Дополнительные сведения](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ упоминание:** убедитесь, что получатели знают, что они запросили ввод или действие, включив символ @, а затем имя пользователя в текст сообщения электронной почты или элемента календаря. Это также позволит автоматически добавить их в строку "Кому". [Дополнительные сведения](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Сводные карты для планирования поездок и доставки посылок.** Проверяйте и отслеживайте бронирование поездок и доставку посылок с помощью сводных карт, автоматически создаваемых в папке "Входящие" и Календаре.[Дополнительные сведения](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Предварительный просмотр вложенных фотографий**. Если в сообщение электронной почты вложена фотография, ее можно просмотреть в самом сообщении в Outlook благодаря функции предварительного просмотра.
 -   **Ссылка для восстановления удаленных элементов.** В папке "Удаленные" ссылка "Восстановить элементы, недавно удаленные из этой папки" отображается над списком удаленных элементов. Если выбрать эту ссылку, появляется диалоговое окно "Восстановление удаленных элементов".
--   **Коснитесь:** Поиск и повторное использование контента из документов, относящихся к вашей организации. [Дополнительные сведения](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
+-   **Тематический поиск.** Поиск и повторное использование содержимого из соответствующих документов организации. [Дополнительные сведения](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS16-088](https://technet.microsoft.com/library/security/ms16-088). Обновление для системы безопасности Microsoft Office (3170008)
@@ -834,7 +834,7 @@ ms.locfileid: "42615159"
 -   **Возможность сортировки при выборе элементов "Файл" \> "Открыть".** Сортируйте по имени или дате изменения, выбрав элементы "Файл" \> "Открыть" во всех приложениях, кроме Outlook. В Word, Excel и PowerPoint сортировка также доступна при выборе элементов "Файл" \> "Сохранить как".
 -   **Folder browse capability in File \> Save As:** Use full folder navigation in File \> Save As in Word, Excel, and PowerPoint for OneDrive folders, OneDrive for Business folders, and This PC.
 -   **Варианты отправки.** Отправка документа в виде вложения или в виде PDF-файла из области "Общий доступ" в Word или PowerPoint.
--   **API вставки рисунков:**  Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке Office. js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
+-   **API вставки рисунков:**  Вставка изображений в Word, Excel или PowerPoint с помощью [метода document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) в общей библиотеке office.js. API JavaScript для Word предоставляет ориентированные на узлы методы, называемые insertInlinePictureFromBase64 (), для установки встроенных рисунков в [тексте](https://msdn.microsoft.com/library/office/mt598674.aspx), а также объектов [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [абзаца](https://msdn.microsoft.com/library/office/mt598682.aspx)и диапазона.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
 -   Бюллетень по безопасности (Майкрософт) [MS15-081](https://technet.microsoft.com/library/security/ms15-081). Уязвимости Microsoft Office могут привести к удаленному выполнению кода (3080790).
