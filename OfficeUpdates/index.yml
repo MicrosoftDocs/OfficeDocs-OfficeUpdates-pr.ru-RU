@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Обновления Office
-summary: Получение сведений о функциях, обновлениях для продуктов Office, в том числе о приложениях Microsoft 365, Office для Mac, Office Server и бессрочных версий Office.
+summary: Получайте информацию о функциях, обновлениях продуктов Office, включая Приложения Microsoft 365, Office для Mac, продукты Office Server и бессрочные версии Office.
 metadata:
   title: Обновления Office
-  description: Получение сведений о функциях, обновлениях для продуктов Office, в том числе о приложениях Microsoft 365, Office для Mac, Office Server и бессрочных версий Office.
+  description: Получайте информацию о функциях, обновлениях продуктов Office, включая Приложения Microsoft 365, Office для Mac, продукты Office Server и бессрочные версии Office.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854585"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369967"
 landingContent:
 - title: Приложения Microsoft 365
   linkLists:
@@ -29,7 +29,7 @@ landingContent:
       url: update-history-microsoft365-apps-by-date.md
     - text: Размеры обновлений
       url: download-sizes-microsoft365-apps-updates.md
-    - text: Обновления для системы безопасности
+    - text: Обновления системы безопасности
       url: microsoft365-apps-security-updates.md
 - title: Office для Mac
   linkLists:
@@ -41,41 +41,41 @@ landingContent:
       url: update-history-office-for-mac.md
     - text: Заметки о выпуске (2016)
       url: release-notes-office-2016-mac.md
-    - text: Выпуски Майкрософт
+    - text: Выпуски MAU
       url: release-history-microsoft-autoupdate.md
 - title: Серверные продукты Office
   linkLists:
   - linkListType: overview
     links:
-    - text: Обновления для Exchange Server
+    - text: Обновления Exchange Server
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
-    - text: Обновление Project Server
+    - text: Обновления Project Server
       url: project-server-updates.md
     - text: Обновления SharePoint Server
       url: sharepoint-updates.md
-    - text: Обновления для Skype для бизнеса Server
+    - text: Обновления Skype для бизнеса Server
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
-- title: Office (Бессрочная лицензия)
+- title: Office (бессрочная лицензия)
   linkLists:
   - linkListType: overview
     links:
     - text: Office 2016 и 2019 (C2R)
       url: update-history-office-2019.md
-    - text: Обновления для Office 2010, 2013 и 2016 (MSI)
+    - text: Обновления Office 2010, 2013 и 2016 (MSI)
       url: office-updates-msi.md
-    - text: MSP-файлы для Office 2016
+    - text: MSP-файлы Office 2016
       url: msp-files-office-2016.md
-    - text: MSP-файлы для Office 2013
+    - text: MSP-файлы Office 2013
       url: msp-files-office-2013.md
-- title: Другие материалы по Office
+- title: Другие ресурсы для Office
   linkLists:
   - linkListType: whats-new
     links:
-    - text: Новые возможности Microsoft 365
+    - text: Что нового в Microsoft 365?
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
-    - text: План выпуска Microsoft 365
+    - text: Дорожная карта Microsoft 365
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Оставайтесь в курсе изменений Microsoft 365
+    - text: Оставайтесь в курсе изменений в Microsoft 365
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Блог Office
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -85,9 +85,9 @@ landingContent:
     links:
     - text: Информация о выпуске Windows 10
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Политика Microsoft Лифециле
+    - text: Политика жизненного цикла поддержки Майкрософт
       url: https://support.microsoft.com/lifecycle
-    - text: Руководство по обновлениям для системы безопасности Майкрософт
+    - text: Руководство по обновлениям системы безопасности Майкрософт
       url: https://portal.msrc.microsoft.com/
-    - text: Сообщество Майкрософт Tech
+    - text: Сообщество Microsoft Tech Community
       url: https://techcommunity.microsoft.com/
