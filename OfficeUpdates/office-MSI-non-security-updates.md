@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: fe1e5347280edc069ad769b543b3e259012dceab
+ms.sourcegitcommit: 3687214921cd454de794fe95f38a7bcc6782873a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174528"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367796"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,13 @@ ms.locfileid: "48174528"
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="october-6-2020"></a>6 октября 2020 г.
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
+Обновление для Microsoft Project 2016 ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
+Обновление для Microsoft Visio 2016 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
+Обновление для Skype для бизнеса 2016 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 ## <a name="september-1-2020"></a>1 сентября 2020 г.
 **Office 2016**<br/>
@@ -76,15 +83,6 @@ ms.locfileid: "48174528"
 
 **Office 2013**<br/>
 Обновление для Skype для Business 2015 ([KB4484289](https://support.microsoft.com/help/4484289))<br/>
-
-## <a name="april-7-2020"></a>7 апреля 2020 г.
-
-**Office 2016**<br/>
-Обновление Microsoft Office 2016 ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
-Обновление Microsoft Office 2016 ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
-Обновление Microsoft Office 2016 ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
-Обновление Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
-Обновление Skype для бизнеса 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
 <br/>
 
