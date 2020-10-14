@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: c95e38617f6a032d6b33b58b6b983bf33f75b6bd
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174698"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453407"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
@@ -33,7 +33,7 @@ ms.locfileid: "48174698"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7258.5000**, выпущенная 8 сентября 2020 г.
+> Самая последняя версия Office 2010 — **14.0.7261.5000**, выпущенная 13 октября 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -57,7 +57,8 @@ ms.locfileid: "48174698"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020|8 сентября|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|2020|13 октября|14.0.7261.5000 <br/>|[СТАТЬЯ БАЗЫ ЗНАНИЙ 4583495](https://support.microsoft.com/help/4583495)<br/>|
+||8 сентября|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
 || 11 августа <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||14 июля <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||9 июня  <br/> |14.0.7252.5000  <br/> |[KB 4559448 ](https://support.microsoft.com/help/4559448 ) <br/> |
