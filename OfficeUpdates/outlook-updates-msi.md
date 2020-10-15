@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
-ms.openlocfilehash: 6d3be97195729636ac5decffcbf16a8509398f93
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4195d1fe125ea6d962f7d8606d7019b02e144044
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174558"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453207"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -43,13 +43,13 @@ ms.locfileid: "48174558"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за сентябрь 2020 г. <br/>[KB4484511](https://support.microsoft.com/help/4484511) 
+|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за октябрь 2020 г. <br/>[KB4486671](https://support.microsoft.com/help/4486671) 
 
 ## <a name="outlook-2013-updates"></a>Обновления для Outlook 2013
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Общедоступное обновление за декабрь 2015 г. <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Общедоступное обновление за август 2020 г. <br/>[KB4484486](https://support.microsoft.com/help/4484486)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Общедоступное обновление за декабрь 2015 г. <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Общедоступное обновление за октябрь 2020 г. <br/>[KB4484524](https://support.microsoft.com/help/4484524)  |
    
 ## <a name="outlook-2010-updates"></a>Обновления для Outlook 2010
 > [!IMPORTANT]
@@ -57,6 +57,6 @@ ms.locfileid: "48174558"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за август 2020 г. <br/>[KB4484497](https://support.microsoft.com/help/4484497) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за октябрь 2020 г. <br/>[KB4486663](https://support.microsoft.com/help/4486663) <br><br><br><br/>|
    
 

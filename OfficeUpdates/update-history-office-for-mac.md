@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: ca8df4d8287c61ecd57cef3f0af38a1dcf470e0c
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6586961cb52e6682a5979278520970a8be7880f8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174658"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453087"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
   
@@ -36,8 +36,8 @@ ms.locfileid: "48174658"
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО))
 
-### <a name="september-15-2020"></a>15 сентября 2020 г.
-Версия 16.41 (20091302)
+### <a name="october-13-2020"></a>13 октября 2020 г.
+Версия 16.42 (20101102)
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ))
 
@@ -45,13 +45,13 @@ ms.locfileid: "48174658"
 
 |**Приложение**|**Ссылки для скачивания**|**Хэш SHA-256 для пакета установки**|
 |:-----|:-----|:-----|
-|Набор Office (с Teams)|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=2009112)|94FF88F8E661100C79A718FF2E8C823D9EB4CDB883D78C37B9AD9EE14A27E8EF|
-|Набор Office (без Teams)|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133)|66DAE65F35B105EDAFAE5A094FD1A8B4B0F5D92B0B958F5D13D932CE0F5BACDE|
-|Word|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.41.20091302_Updater.pkg)|44AF9FBDD89E62202AEF42FFF2275D078D0CAC452E825682E37A6E26D95A1468|
-|Excel|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.41.20091302_Updater.pkg)|E9B0B512034B6E388662F7218B5CD2FE67B0BF260892C94874D53962A63A6DA9|
-|PowerPoint|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.41.20091302_Updater.pkg)|8EEF68B30FECA7DB82FCF461F674A7B575C382EDF1E37EDF68C2A061255D52EA|
-|Outlook|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.41.20091302_Updater.pkg)|6495B4804C9AFF332E89EF2C8DFEE17F0C60A35B406059ACAFF296E2C899DD2E|
-|OneNote|[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.41.20091302_Updater.pkg)|Неприменимо|
+|Набор Office (с Teams)|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=2009112)|8AC425F0E31869B32C323F4349FB48E9B1C3A114B77EA68897D97C50D9B8BECB|
+|Набор Office (без Teams)|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525133)|5FA1084BD240BF10FAAF94D908492939807EAD8E014582DCB2ADE7ECC484276B|
+|Word|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.42.20101102_Updater.pkg)|21C54A78343B106A93FFD176130DEB9A6C9154F56EB58446FC27192D1E191995|
+|Excel|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.42.20101102_Updater.pkg)|2235E4FE0741CE013777E2B6811AD9EFF738F9A724860FBA0DFD31976BF96E62|
+|PowerPoint|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.42.20101102_Updater.pkg)|EAF6B82C2042BD4D026779CEB4A58E0B92C8E320A9797C77CA3A588FD94B19EB|
+|Outlook|[Установочный пакет](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.42.20101102_Updater.pkg)|566A1BD7AD446FCDD31156EBCA3FBD7F8F8BB2EFBCC8F3217CB55AA16A586420|
+|OneNote|[Пакет обновления](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.42.20101102_Updater.pkg)|Неприменимо|
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ДЛЯ ПРИЛОЖЕНИЙ (КОНЕЦ))
 
@@ -68,6 +68,7 @@ ms.locfileid: "48174658"
 
 |**Дата выпуска**|**Версия**|**Установочный пакет**|**Пакеты обновления**|
 |:-----|:-----|:-----|:-----|
+|13 октября 2020 г.|16.42 (20101102)|[Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.42.20101102_BusinessPro_Installer.pkg)<br/><br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.42.20101102_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.42.20101102_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.42.20101102_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.42.20101102_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.42.20101102_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.42.20101102_Updater.pkg)|
 |15 сентября 2020 г.|16.41 (20091302)|[Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.41.20091302_BusinessPro_Installer.pkg)<br/><br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.41.20091302_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.41.20091302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.41.20091302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.41.20091302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.41.20091302_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.41.20091302_Updater.pkg)|
 |11 августа 2020 г.|16.40 (20081000)|[Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.40.20081000_BusinessPro_Installer.pkg)<br/><br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.40.20081000_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.40.20081000_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.40.20081000_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.40.20081000_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.40.20081000_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.40.20081000_Updater.pkg)|
 |14 июля 2020 г.|16.39 (20071300)|[Набор Office (с Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_BusinessPro_Installer.pkg)<br/><br/>[Набор Office (без Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.39.20071300_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.39.20071300_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.39.20071300_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.39.20071300_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.39.20071300_Updater.pkg)|
