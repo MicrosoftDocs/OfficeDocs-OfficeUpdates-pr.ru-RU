@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
+ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453107"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48464732"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -24,13 +24,11 @@ ms.locfileid: "48453107"
 > - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
 
-
 > [!NOTE]
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
 > - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления.
-
 
 [//]: # (EOSTABLESTART)
 
@@ -53,7 +51,8 @@ ms.locfileid: "48453107"
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|
+|2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 сентября|[Версия 2009 (сборка 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 сентября|[Версия 2008 (сборка 13127.20508)](current-channel.md#version-2008-september-22)| | | |
