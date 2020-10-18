@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453397"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466117"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Заметки о выпусках Полугодового канала (предварительной корпоративной версии) в 2020 г.
 
@@ -67,6 +67,12 @@ ms.locfileid: "48453397"
 
 
 - Исправление системы безопасности для решения проблемы, связанной с отключением защиты IRM при открытии файла PowerPoint в режиме защищенного просмотра.
+
+- Исправлена проблема в диалоговом окне "Параметры действия", из-за которой возникал сбой в приложении PowerPoint.
+
+### <a name="visio"></a>Visio
+
+- Исправлена проблема, из-за которой возникал сбой динамического просмотра при выравнивании текста.
 
 
 ### <a name="word"></a>Word
