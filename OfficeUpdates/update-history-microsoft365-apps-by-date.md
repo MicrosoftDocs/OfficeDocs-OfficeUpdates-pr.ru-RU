@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
-ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
+ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
+ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48464732"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473050"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -52,7 +52,7 @@ ms.locfileid: "48464732"
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |
-|2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 сентября|[Версия 2009 (сборка 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 сентября|[Версия 2008 (сборка 13127.20508)](current-channel.md#version-2008-september-22)| | | |
