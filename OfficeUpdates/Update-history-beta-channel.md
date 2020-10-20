@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений выпусков Monthly Channel уровня "Предварительная оценка — ранний доступ" для компьютеров с Windows
-ms.openlocfilehash: b7f3df423a27f1760f12fef1b23c9f1b9b62dced
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453367"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597742"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для бета-канала Office 
 
 Здравствуйте, участники программы предварительной оценки! Если вы хотите узнать, установлено ли у вас последнее обновление, или хотите просмотреть список последних сборок в программе предварительной оценки, вы попали в нужное место. Нажмите [здесь](https://insider.office.com/) для получения дополнительных сведений о программе предварительной оценки.
 
 > [!IMPORTANT]
-> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
@@ -37,6 +37,9 @@ ms.locfileid: "48453367"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**19 октября 2020 г.**<br/>
+Версия 2011 (сборка 13415.20002)<br/>
 
 **12 октября 2020 г.**<br/>
 Версия 2011 (сборка 13408.20000)<br/>

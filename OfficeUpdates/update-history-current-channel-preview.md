@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: f4c124be4655216618e2aab6e352af2a0e5693d4
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422548"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597772"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -28,7 +28,7 @@ ms.locfileid: "48422548"
 
 
 > [!IMPORTANT]
-> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
@@ -37,6 +37,9 @@ ms.locfileid: "48422548"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**19 октября 2020 г.**<br/>
+Версия 2010 (сборка 13328.20210)<br/>
 
 **11 октября 2020 г.**<br/>
 Версия 2010 (сборка 13328.20154)<br/>
