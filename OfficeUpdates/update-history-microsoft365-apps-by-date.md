@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
-ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
+ms.openlocfilehash: bee2186e91336f29f36edde863cbedae082835a8
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473050"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657317"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
 Эти номера версий и сборок применяются к приложениям Microsoft 365 для предприятий, Microsoft 365 для бизнеса и версиям классических приложений Project и Visio, включающих подписки.
 
 > [!IMPORTANT]
-> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
@@ -34,7 +34,7 @@ ms.locfileid: "48473050"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Актуальный канал<br/>|2009<br/>|13231.20390<br/>|13 октября 2020 г.<br/>|Выпущена версия 2010<br/>|
+|Актуальный канал<br/>|2009<br/>|13231.20418<br/>|21 октября 2020 г.<br/>|Выпущена версия 2010<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2008<br/>|13127.20638<br/>|13 октября 2020 г.<br/>|8 декабря 2020 г.<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2007<br/>|13029.20708<br/>|13 октября 2020 г.<br/>|10 ноября 2020 г.<br/>|
 |Полугодовой канал (предварительная корпоративная версия)<br/>|2008<br/>|13127.20638<br/>|13 октября 2020 г.<br/>|9 марта 2021 г.<br/>|
@@ -51,7 +51,7 @@ ms.locfileid: "48473050"
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|
+|2020|21 октября|[Версия 2009 (сборка 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 сентября|[Версия 2009 (сборка 13231.20262)](current-channel.md#version-2009-september-28)| | | |
