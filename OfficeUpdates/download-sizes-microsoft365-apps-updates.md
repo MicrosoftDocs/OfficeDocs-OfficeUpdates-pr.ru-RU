@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657297"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782314"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -35,6 +35,22 @@ ms.locfileid: "48657297"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="october-27-2020"></a>27 октября 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)27 октября 2020 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2010 (сборка 13328.20292).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2009 (сборка 13231.20418) <br/> |21 октября 2020 г. <br/> |133<br/> |
+|Версия 2009 (сборка 13231.20390) <br/> |13 октября 2020 г. <br/> |133<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)27 октября 2020 г.)
 
 ## <a name="october-21-2020"></a>21 октября 2020 г.
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: bee2186e91336f29f36edde863cbedae082835a8
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: d94549f509b812d37638a5f0e6a0077fafd229f6
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657317"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782324"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -34,8 +34,8 @@ ms.locfileid: "48657317"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Актуальный канал<br/>|2009<br/>|13231.20418<br/>|21 октября 2020 г.<br/>|Выпущена версия 2010<br/>|
-|Ежемесячный канал (корпоративный)<br/>|2008<br/>|13127.20638<br/>|13 октября 2020 г.<br/>|8 декабря 2020 г.<br/>|
+|Актуальный канал<br/>|2010<br/>|13328.20292<br/>|27 октября 2020 г.<br/>|Выпуска версии 2011<br/>|
+|Monthly Enterprise Channel<br/>|2008<br/>|13127.20638<br/>|13 октября 2020 г.<br/>|8 декабря 2020 г.<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2007<br/>|13029.20708<br/>|13 октября 2020 г.<br/>|10 ноября 2020 г.<br/>|
 |Полугодовой канал (предварительная корпоративная версия)<br/>|2008<br/>|13127.20638<br/>|13 октября 2020 г.<br/>|9 марта 2021 г.<br/>|
 |Полугодовой канал (корпоративный)<br/>|2002<br/>|12527.21236<br/>|13 октября 2020 г.<br/>|14 сентября 2021 г.<br/>|
@@ -51,6 +51,7 @@ ms.locfileid: "48657317"
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|27 октября|[Версия 2010 (сборка 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 октября|[Версия 2009 (сборка 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
