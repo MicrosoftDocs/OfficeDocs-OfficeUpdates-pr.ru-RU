@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений выпусков Monthly Channel уровня "Предварительная оценка — ранний доступ" для компьютеров с Windows
-ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 1058b8b2012d910f02e490fae0be580d036f974a
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597742"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773621"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для бета-канала Office 
 
@@ -22,7 +22,7 @@ ms.locfileid: "48597742"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
 >
@@ -31,12 +31,15 @@ ms.locfileid: "48597742"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Версии и сборки бета-канала Office
 
-Если вы участвуете на уровне предварительной оценки, вы часто получаете обновления с новыми функциями и улучшениями. В списке ниже приведена история последних версий и сборок бета-канала (**последняя сборка указана в начале**). Каждая новая сборка содержит все обновления из предыдущих сборок.
+Если вы участвуете на уровне предварительной оценки, вы часто получаете обновления с новыми функциями и улучшениями. В списке ниже приведена история последних версий и сборок бета-канала ( **последняя сборка указана в начале** ). Каждая новая сборка содержит все обновления из предыдущих сборок.
 
 Заметки о выпуске см. в статье [Заметки о выпуске Office для компьютеров с Windows в рамках программы предварительной оценки](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**26 октября 2020 г.**<br/>
+Версия 2011 (сборка 13422.20000)<br/>
 
 **19 октября 2020 г.**<br/>
 Версия 2011 (сборка 13415.20002)<br/>
