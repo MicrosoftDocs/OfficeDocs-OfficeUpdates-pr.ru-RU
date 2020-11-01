@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
-ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
+ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
+ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48469998"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48806797"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -23,16 +23,19 @@ ms.locfileid: "48469998"
 
 ODT предоставляет более широкие возможности для контроля установки Office. Вы можете указать, какие продукты и языковые версии устанавливать, как выполнять обновление, и нужно ли отображать интерфейс установки для пользователей. Дополнительные сведения относительно использования ODT см. в [Обзоре средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Поддерживаемые операционные системы**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Поддерживаемые операционные системы** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
+ **Инструкции по установке** : загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="october-29-2020"></a>29 октября 2020 г.
+Версия 16.0.13328.20292 (setup.exe версии 16.0.13328.20290)
+- Решает проблему, из-за которой определенные продукты Office 2007 могут неожиданно заблокировать установку при использовании RemoveMSI
 
 ## <a name="october-14-2020"></a>14 октября 2020 г.
 Версия 16.0.13231.20368 (setup.exe версии 16.0.13231.20350)
 - Если канал не указан, по умолчанию для всех продуктов будет использоваться Ежемесячный канал.
-- Решает проблему, из-за которой определенные продукты Office 2007 могут неожиданно заблокировать установку при использовании RemoveMSI
 - Улучшена безопасность при запуске средства ODT из каталога, содержащего другие библиотеки DLL.
 - Повышение надежности и устойчивости
 
