@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
-ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
+ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
+ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830330"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "48878923"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Заметки о выпусках Актуального канала в 2020 г.
 
@@ -49,21 +49,21 @@ ms.locfileid: "48830330"
 
 ### <a name="excel"></a>Excel
 
-- **Создание типов данных с помощью Power Query.** Создавайте типы сложных данных с помощью Power Query из любого источника данных. [Подробнее](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Дополнительные сведения см. в этой [публикации в блоге](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Создание типов данных с помощью Power Query.** Создавайте типы сложных данных с помощью Power Query из любого источника данных. [Подробнее](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Дополнительные сведения см. в этой [записи блога](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 - **Быстрые изменения с помощью пера действий.** С помощью пера действий вы можете писать от руки прямо в ячейках и использовать рукописный ввод для беглой записи данных, чтобы автоматически преобразовывать их в данные Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
-- **Проверка грамматики всегда под рукой.** Outlook помечает грамматические ошибки по мере ввода текста, так что вы можете применять исправления одним щелчком. [Подробнее](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Проверка грамматики всегда под рукой.** Outlook помечает грамматические ошибки по мере ввода текста, так что вы можете применять исправления одним щелчком. [Подробнее](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -77,7 +77,7 @@ ms.locfileid: "48830330"
 
 ### <a name="word"></a>Word
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -130,7 +130,9 @@ ms.locfileid: "48830330"
 
 ### <a name="office-suite"></a>Набор Office
 
-- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера. Сообщения будут изменены на «Мало тонера/чернил» и «Нет тонера/чернил».
+- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера. Сообщения будут изменены на "Мало тонера/чернил" и "Нет тонера/чернил".
+
+- Исправлена проблема для коммерческих пользователей, применяющих System Center Configuration Manager или другие средства управления для обновления Office с использованием защиты от потери данных в конечной точке Microsoft 365.
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
@@ -1474,7 +1476,7 @@ ms.locfileid: "48830330"
 
 - **Оптимизация презентации для всех пользователей.** Средство проверки читаемости помогает расположить объекты на слайдах с учетом средств чтения с экрана.
 
-- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/ru-RU/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
