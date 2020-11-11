@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453297"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992694"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -24,13 +24,47 @@ ms.locfileid: "48453297"
 
 
 > [!IMPORTANT]
-> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="november-10-2020"></a>10 ноября 2020 г.
+Актуальный канал: версия 2010 (сборка 13328.20356)  
+Ежемесячный канал (корпоративный): версия 2009 (сборка 13231.20514)  
+Ежемесячный канал (корпоративный): версия 2008 (сборка 13127.20760)  
+Полугодовой канал (предварительная корпоративная версия): версия 2008 (сборка 13127.20760)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21330)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.20974)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21330)  
+Розничная версия Office 2019: версия 2010 (сборка 13328.20356)  
+Розничная версия Office 2016: версия 2010 (сборка 13328.20356)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10368.20035)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="october-13-2020"></a>13 октября 2020 г.
 Актуальный канал: версия 2009 (сборка 13231.20390)  

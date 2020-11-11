@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453347"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989958"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
-Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
+Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, проверьте номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5285.1000**, выпущенная 13 октября 2020 г.
+> Последняя версия Office 2013 — **15.0.5293.1000** , выпущенная 10 ноября 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -45,7 +45,8 @@ ms.locfileid: "48453347"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020| 13 октября| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+|2020| 10 ноября|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+||13 октября| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8 сентября| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 августа | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 июля    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|

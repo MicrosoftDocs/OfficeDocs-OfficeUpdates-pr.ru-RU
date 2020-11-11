@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
-ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
+ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48806797"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992684"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -27,7 +27,12 @@ ODT предоставляет более широкие возможности 
  
  **Инструкции по установке** : загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
-[Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+[Скачать средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-10-2020"></a>10 ноября 2020 г.
+Версия 16.0.13328.20356 (setupODT.exe версии 16.0.13328.20336)
+- Повышение надежности и устойчивости
+- Чтобы избежать путаницы и легко диагностировать ошибки настройки, по умолчанию средство развертывания Office теперь называется setupODT.exe.
 
 ## <a name="october-29-2020"></a>29 октября 2020 г.
 Версия 16.0.13328.20292 (setup.exe версии 16.0.13328.20290)
