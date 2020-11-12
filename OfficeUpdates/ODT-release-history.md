@@ -9,23 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
-ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
+ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48992684"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999544"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
-Средство развертывания Office (ODT) — это программа командной строки, которая позволяет скачать и развернуть версии “нажми и работай” Office, такие как приложения Microsoft 365, на клиентских компьютерах. 
+Средство развертывания Office (ODT) — это программа командной строки, которая позволяет скачать и развернуть версии "нажми и работай" Office, такие как Приложения Microsoft 365, на клиентских компьютерах. 
 
 
-ODT предоставляет более широкие возможности для контроля установки Office. Вы можете указать, какие продукты и языковые версии устанавливать, как выполнять обновление, и нужно ли отображать интерфейс установки для пользователей. Дополнительные сведения относительно использования ODT см. в [Обзоре средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+Средство развертывания Office предоставляет дополнительные возможности управления установкой Office. Вы можете указать, какие продукты и языковые версии устанавливать, как выполнять обновление и нужно ли отображать интерфейс установки для пользователей. Дополнительные сведения о способе использования средства развертывания Office см. в статье [Общие сведения о средстве развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Поддерживаемые операционные системы** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Инструкции по установке** : загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
+ **Инструкции по установке** : загрузите и запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setupodt.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачать средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
