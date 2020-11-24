@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990138"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387453"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
 Наша задача — заранее предоставить сведения о размере обновления при наличии возможности, чтобы корпоративные пользователи могли спланировать использование пропускной способности сети.
 
-В следующих таблицах показан приблизительный размер файла для скачивания при обновлении предыдущего выпуска приложений Microsoft 365 до последней версии. Фактические размеры файлов для скачивания могут отличаться не более чем на 50 МБ. При обновлении более старой версии до текущего выпуска размер файла для скачивания может быть больше.
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-Если вы меняете канал, например Semi-Annual Channel (Targeted) на Semi-Annual Channel, размер обновления может быть значительно больше, чем указанный в таблице. Может быть скачана полная версия, размер которой может составлять более 1 ГБ.
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -35,6 +35,38 @@ ms.locfileid: "48990138"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="november-23-2020"></a>23 ноября 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)23 ноября 2020 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2011 (сборка 13426.20274).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2010 (сборка 13328.20408) <br/> |17 ноября 2020 г. <br/> |143<br/> |
+|Версия 2010 (сборка 13328.20356) <br/> |10 ноября 2020 г. <br/> |148<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)23 ноября 2020 г.)
+
+## <a name="november-17-2020"></a>17 ноября 2020 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)17 ноября 2020 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2010 (сборка 13328.20408).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2010 (сборка 13328.20356) <br/> |10 ноября 2020 г. <br/> |51<br/> |
+|Версия 2010 (сборка 13328.20292) <br/> |27 октября 2020 г. <br/> |60<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)17 ноября 2020 г.)
 
 ## <a name="november-10-2020"></a>10 ноября 2020 г.
 
@@ -330,7 +362,7 @@ ms.locfileid: "48990138"
 
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 2002 (сборка 12527.20880) <br/> |14 июля 2020 г. <br/> |58<br/> |
+|Версия 2002 (сборка 12527.20880) <br/> |14 июля 2020 г. <br/> |58<br/> |
 |Версия 2002 (сборка 12527.20720) <br/> |9 июня 2020 г. <br/> |62<br/> |
 
 
@@ -340,7 +372,7 @@ ms.locfileid: "48990138"
 
 |**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
 |:-----|:-----|:-----|
-|Версия 2002 (сборка 12527.20880) <br/> |14 июля 2020 г. <br/> |58<br/> |
+|Версия 2002 (сборка 12527.20880) <br/> |14 июля 2020 г. <br/> |58<br/> |
 |Версия 1908 (сборка 11929.20838) <br/> |9 июня 2020 г. <br/> |291<br/> |
 
 

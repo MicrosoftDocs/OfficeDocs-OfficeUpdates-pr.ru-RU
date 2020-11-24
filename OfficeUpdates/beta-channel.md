@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
-ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
+ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
+ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071538"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49372273"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -30,6 +30,42 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+## <a name="version-2012-november-20"></a>Версия 2012: 20 ноября
+*Версия 2012 (сборка 13512.20000)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="outlook"></a>Outlook
+
+- **Все собрания по сети.** Упростите планирование собраний по сети с помощью нового параметра, который переводит все собрания в онлайн по умолчанию.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Библиотека видео.** Улучшайте свои документы с помощью библиотеки специально отобранных бесплатных видеоматериалов, доступных в приложении.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена проблема, из-за которой индикатор присутствия неизвестного соавтора не обновлялся полностью. Теперь сведения о соавторе доступны.
+
+
+### <a name="word"></a>Word
+
+- Исправлена проблема, из-за которой Word зависал при сохранении документа в формате PDF со скрытым текстом.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2012-november-13"></a>Версия 2012: 13 ноября
 *Версия 2012 (сборка 13510.20004)*
@@ -805,19 +841,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="excel"></a>Excel
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -1919,6 +1955,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
@@ -1928,5 +1965,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
