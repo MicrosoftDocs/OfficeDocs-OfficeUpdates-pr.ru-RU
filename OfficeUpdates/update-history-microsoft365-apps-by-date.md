@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989948"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387452"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -22,7 +22,7 @@ ms.locfileid: "48989948"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 > [!NOTE]
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
@@ -34,7 +34,7 @@ ms.locfileid: "48989948"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Актуальный канал<br/>|2010<br/>|13328.20356<br/>|10 ноября 2020 г.<br/>|Выпуска версии 2011<br/>|
+|Актуальный канал<br/>|2011<br/>|13426.20274<br/>|23 ноября 2020 г.<br/>|Выпуска версии 2012<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2009<br/>|13231.20514<br/>|10 ноября 2020 г.<br/>|12 января 2021 г.<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2008<br/>|13127.20760<br/>|10 ноября 2020 г.<br/>|8 декабря 2020 г.<br/>|
 |Полугодовой канал (предварительная корпоративная версия)<br/>|2008<br/>|13127.20760<br/>|10 ноября 2020 г.<br/>|9 марта 2021 г.<br/>|
@@ -45,12 +45,14 @@ ms.locfileid: "48989948"
 
 Сведенья о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска приложений Microsoft 365 до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях приложений Microsoft 365](download-sizes-office365-proplus-updates.md).
 
-В таблице ниже приведены номера версий и сборок для каждого обновления приложений Microsoft 365, выпущенных в следующих каналах обновления: Актуальный, Ежемесячный (корпоративный), Полугодовой (предварительная корпоративная версия), Полугодовой (корпоративный). Каждая запись в таблице связывается непосредственно с заметками о соответствующем выпуске. В этих заметках о выпусках содержатся сведения о функциях, обновлениях системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновление приложений Microsoft 365.  
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|23 ноября|[Версия 2011 (сборка 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|17 ноября|[Версия 2010 (сборка 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10 ноября|[Версия 2010 (сборка 13328.20356)](current-channel.md#version-2010-november-10)|[Версия 2009 (сборка 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Версия 2008 (сборка 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Версия 2008 (сборка 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Версия 2002 (сборка 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Версия 1908 (сборка 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 октября|[Версия 2010 (сборка 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 октября|[Версия 2009 (сборка 13231.20418)](current-channel.md#version-2009-october-21)| | | |
