@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: c06c335656746e5eff7c05baa3966348a7ffba5e
-ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
+ms.openlocfilehash: c2be3991959bb0dbd2110bc356df0659a6f06b0a
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49382659"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408355"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
+Если вы хотите узнать, установлены ли у вас последние обновления, или ищете список недавних сборок для Актуального канала (предварительной версии), то вы именно там, где нужно. Щелкните [здесь](https://insider.office.com/), чтобы подробнее узнать о программе предварительной оценки.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
@@ -26,7 +26,7 @@ If you're enrolled in the Current Channel (Preview) level, which was formerly ca
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 > [!NOTE]
@@ -35,6 +35,9 @@ If you're enrolled in the Current Channel (Preview) level, which was formerly ca
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**24 ноября 2020 г.**<br/>
+Версия 2011 (сборка 13426.20294)<br/>
 
 **21 ноября 2020 г.**<br/>
 Версия 2011 (сборка 13426.20274)<br/>
