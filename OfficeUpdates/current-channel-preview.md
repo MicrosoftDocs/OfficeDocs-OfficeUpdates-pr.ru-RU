@@ -9,24 +9,38 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: 2702cc1098282aa53972a2b01beb8eb9545b04ff
-ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49382639"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408345"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+Эта статья содержит заметки о выпуске для сборок Актуального канала (предварительная версия) приложений Word, Excel, PowerPoint, Outlook, Access и Project для Windows. Каждую неделю мы будем сообщать об интересных новых возможностях, важных исправлениях и существенных проблемах, о которых вам следует знать. Обратите внимание, что развертывание возможностей (а иногда даже исправлений) в Актуальном канале (предварительная версия) зачастую занимает определенное время. Благодаря этому мы обеспечиваем стабильную работу возможностей до того, как они становятся доступны более широкой аудитории. Если вы не видите чего-либо из описанного ниже, не беспокойтесь, вы получите это позже.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Дата публикации заметок о выпуске может не совпадать с фактической датой выпуска сборки.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="version-2011-november-24"></a>Версия 2011: 24 ноября
+*Версия 2011 (сборка 13426.20294)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="office-suite"></a>Набор Office
+
+- Исправлена ошибка при копировании и вставке уравнения из Word в PowerPoint
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2011-november-21"></a>Версия 2011: 21 ноября
 *Версия 2011 (сборка 13426.20274)*
@@ -48,13 +62,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="outlook"></a>Outlook
 
-- Исправлена проблема, из-за которой возникал сбой события MailItem.BeforeAttachmentAdd.
+- Исправлена проблема, приводившая к сбою события MailItem.BeforeAttachmentAdd.
 
 
 - Добавлен раздел реестра, позволяющий пользователям отключить добавление параметра filetime для вложений в операциях IDataObject (т. е. перетаскивание, буфер обмена). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = параметры filetime исключены. 1 = (по умолчанию) параметры filetime включены.
 
 
-- Исправлена проблема, из-за которой исчезали встроенные изображения при ответе на сообщение с меткой защиты от Azure Information Protection.
+- Исправлена проблема, приводившая к исчезновению встроенных изображений при ответе на сообщение с меткой защиты от Azure Information Protection.
 
 
 
@@ -62,7 +76,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ## <a name="version-2011-november-18"></a>Версия 2011: 18 ноября
 *Версия 2011 (сборка 13426.20250)*
-* Исправления различных ошибок и улучшения производительности.
+* Исправления различных ошибок и проблем производительности.
 
 ## <a name="version-2011-november-16"></a>Версия 2011: 16 октября
 *Версия 2011 (сборка 13426.20234)*
@@ -89,7 +103,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Исправлена проблема VBA, из-за которой возникал сбой Slide.Shapes.AddMediaObject2 при использовании устаревших форматов видео (MPG-1, MPEG-2).
+- Исправлена проблема VBA, приводившая к сбою Slide.Shapes.AddMediaObject2 при использовании устаревших форматов видео (MPG-1, MPEG-2).
 
 
 
@@ -276,7 +290,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 - **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [записи блога](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [записи блога](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Экспорт GIF с анимацией в диапазоне:** выберите диапазон слайдов при экспорте в GIF с анимацией
 
