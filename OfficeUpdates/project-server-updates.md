@@ -11,13 +11,13 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и скачать сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 8f2400d40cc22b541c9354912277e7c0336d25d1
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и загрузить сами обновления, воспользуйтесь ссылками на этой странице.
+ms.openlocfilehash: 714cc2e06f984d3d12ee1a0859629853467b3614
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989788"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601484"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -27,8 +27,9 @@ ms.locfileid: "48989788"
   
 ## <a name="project-server-2013-update-history"></a>История обновлений Project Server 2013
   
-|**Дата выпуска**|**Номер в базе знаний**|
+|**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Декабрь 2020 г. <br/>|[KB4486763](https://support.microsoft.com/kb/4486763) <br/>|
 |Ноябрь 2020 г. <br/>|[KB4486729](https://support.microsoft.com/kb/4486729) <br/>|
 |Октябрь 2020 г. <br/>|[KB4486691](https://support.microsoft.com/kb/4486691) <br/>|
 |Сентябрь 2020 г. <br/>|[KB4484521](https://support.microsoft.com/kb/4484521) <br/>|
@@ -103,8 +104,9 @@ ms.locfileid: "48989788"
    
 ## <a name="project-server-2010-update-history"></a>История обновлений Project Server 2010
 
-|**Дата выпуска**|**Номер в базе знаний**|
+|**Дата выпуска**|**Номер статьи в базе знаний**|
 |:-----|:-----|:-----|
+|Декабрь 2020 г. <br/>|[KB4493144](https://support.microsoft.com/kb/4493144) <br/>|
 |Ноябрь 2020 г. <br/>|[KB4486739](https://support.microsoft.com/kb/4486739) <br/>|
 |Октябрь 2020 г. <br/>|[KB4486702](https://support.microsoft.com/kb/4486702) <br/>|
 |Сентябрь 2020 г. <br/>|[KB4484535](https://support.microsoft.com/kb/4484535) <br/>|

@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 0d11acb0a63bf32c86bebcd3352c8be79017c7fb
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989958"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601464"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
-Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, проверьте номер версии Office. При необходимости обновите Office вручную.
+Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5293.1000** , выпущенная 10 ноября 2020 г.
+> Последняя версия Office 2013 — **15.0.5301.1000**, выпущенная 8 сентября 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -45,7 +45,8 @@ ms.locfileid: "48989958"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2020| 10 ноября|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+|2020| 8 декабря|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
+||10 ноября|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||13 октября| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8 сентября| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 августа | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
