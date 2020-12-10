@@ -9,25 +9,27 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: c2be3991959bb0dbd2110bc356df0659a6f06b0a
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408355"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588292"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
-Если вы хотите узнать, установлены ли у вас последние обновления, или ищете список недавних сборок для Актуального канала (предварительной версии), то вы именно там, где нужно. Щелкните [здесь](https://insider.office.com/), чтобы подробнее узнать о программе предварительной оценки.
+Здравствуйте! Если вы хотите узнать, установлены ли у вас последние обновления, или ищете список недавних сборок для Актуального канала (предварительной версии), то вы именно там, где нужно.
+Щелкните [здесь](https://insider.office.com/), чтобы подробнее узнать о программе предварительной оценки.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
-If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
+Если вы зарегистрированы на уровне Актуального канала (предварительной версии), который раньше назывался "Программа предварительной оценки — поздний доступ", приблизительно раз в месяц вы получаете обновления компонентов Office, а также последующие сборки с важными исправлениями и обновлениями для системы безопасности. В списке ниже перечислены последние версии и сборки Актуального канала (предварительной версии), при этом **последняя сборка указана в начале**. Каждая новая сборка содержит все обновления из предыдущих сборок.
+Заметки о выпуске [см. в разделе](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
-> - Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
 > - В этом журнале обновлений перечислены все выпущенные сборки
@@ -35,6 +37,12 @@ If you're enrolled in the Current Channel (Preview) level, which was formerly ca
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**07 декабря 2020 г.**<br/>
+Версия 2012 (сборка 13530.20064)<br/>
+
+**01 декабря 2020 г.**<br/>
+Версия 2011 (сборка 13426.20306)<br/>
 
 **24 ноября 2020 г.**<br/>
 Версия 2011 (сборка 13426.20294)<br/>
