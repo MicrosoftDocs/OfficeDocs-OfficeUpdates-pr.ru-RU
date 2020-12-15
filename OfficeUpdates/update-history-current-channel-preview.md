@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 29a5e61611e853638aa63e1e5ee4cce47e0ba06c
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588292"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673997"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -24,7 +24,7 @@ ms.locfileid: "49588292"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
 Если вы зарегистрированы на уровне Актуального канала (предварительной версии), который раньше назывался "Программа предварительной оценки — поздний доступ", приблизительно раз в месяц вы получаете обновления компонентов Office, а также последующие сборки с важными исправлениями и обновлениями для системы безопасности. В списке ниже перечислены последние версии и сборки Актуального канала (предварительной версии), при этом **последняя сборка указана в начале**. Каждая новая сборка содержит все обновления из предыдущих сборок.
-Заметки о выпуске [см. в разделе](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/en-us/releasenotes/windows/slow).
+Заметки о выпуске [см. в разделе](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/ru-RU/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +37,9 @@ ms.locfileid: "49588292"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**14 декабря 2020 г.**<br/>
+Версия 2012 (сборка 13530.20144)<br/>
 
 **07 декабря 2020 г.**<br/>
 Версия 2012 (сборка 13530.20064)<br/>
