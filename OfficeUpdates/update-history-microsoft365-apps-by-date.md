@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601564"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662704"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -29,6 +29,8 @@ ms.locfileid: "49601564"
 > - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления.
+
+### <a name="supported-versions"></a>**Поддерживаемые версии**
 
 [//]: # (EOSTABLESTART)
 
@@ -45,7 +47,9 @@ ms.locfileid: "49601564"
 
 Сведенья о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска приложений Microsoft 365 до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях приложений Microsoft 365](download-sizes-office365-proplus-updates.md).
 
-В таблице ниже приведены номера версий и сборок для каждого обновления приложений Microsoft 365, выпущенных в следующих каналах обновления: Актуальный, Ежемесячный (корпоративный), Полугодовой (предварительная корпоративная версия), Полугодовой (корпоративный). Каждая запись в таблице связывается непосредственно с заметками о соответствующем выпуске. В этих заметках о выпусках содержатся сведения о функциях, обновлениях системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновление приложений Microsoft 365.  
+В таблице ниже приведены номера версий и сборок для каждого обновления приложений Microsoft 365, выпущенных в следующих каналах обновления: Актуальный, Ежемесячный (корпоративный), Полугодовой (предварительная корпоративная версия), Полугодовой (корпоративный). Каждая запись в таблице связывается непосредственно с заметками о соответствующем выпуске. В этих заметках о выпусках содержатся сведения о функциях, обновлениях системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновление приложений Microsoft 365.
+
+### <a name="version-history"></a>**Журнал версий**
 
 [//]: # (HISTORYTABLESTART)
 
@@ -59,9 +63,9 @@ ms.locfileid: "49601564"
 |2020|10 ноября|[Версия 2010 (сборка 13328.20356)](current-channel.md#version-2010-november-10)|[Версия 2009 (сборка 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Версия 2008 (сборка 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Версия 2008 (сборка 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Версия 2002 (сборка 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Версия 1908 (сборка 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 октября|[Версия 2010 (сборка 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 октября|[Версия 2009 (сборка 13231.20418)](current-channel.md#version-2009-october-21)| | | |
-|2020 г.|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
-|2020 г.|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
-|2020 г.|28 сентября|[Версия 2009 (сборка 13231.20262)](current-channel.md#version-2009-september-28)| | | |
+|2020|13 октября|[Версия 2009 (сборка 13231.20390)](current-channel.md#version-2009-october-13)|[Версия 2008 (сборка 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Версия 2007 (сборка 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Версия 2008 (сборка 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Версия 2002 (сборка 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Версия 1908 (сборка 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|2020|8 октября|[Версия 2009 (сборка 13231.20368)](current-channel.md#version-2009-october-08)| | | |
+|2020|28 сентября|[Версия 2009 (сборка 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 сентября|[Версия 2008 (сборка 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9 сентября|[Версия 2008 (сборка 13127.20408)](current-channel.md#version-2008-september-09)| | | |
 |2020|8 сентября| |[Версия 2007 (сборка 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[Версия 2006 (сборка 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[Версия 2008 (сборка 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[Версия 2002 (сборка 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[Версия 1908 (сборка 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
@@ -251,7 +255,7 @@ ms.locfileid: "49601564"
 
 [//]: # (HISTORYTABLEEND)
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>Связанные статьи
 
 - [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Информация о выпуске обновлений для Приложений Microsoft 365](release-notes-office365-proplus.md)
