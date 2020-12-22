@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601414"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725074"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -28,6 +28,12 @@ ODT предоставляет более широкие возможности 
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="december-21-2020"></a>Декабрь 21, 2020 г.
+Версия 16.0.13426.20370 (setup.exe версии 16.0.13426.20352)
+- Исправлена проблема, из-за которой установка локального источника ProofingTools из канала PerpetualVL2019 завершалась сбоем
+- Исправлена проблема, чтобы удостовериться, что клиент технологии "Нажми и работай" предпринимает попытку самообновления при добавлении продуктов на языках без полноценной поддержки Office во время установки.
+
 
 ## <a name="december-8-2020"></a>8 декабря 2020 г.
 Версия 16.0.13426.20308 (setup.exe версии 16.0.13426.20308)
