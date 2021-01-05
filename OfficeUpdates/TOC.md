@@ -5,25 +5,24 @@
 ## [Размеры обновлений](download-sizes-microsoft365-apps-updates.md)
 
 ## Актуальный канал
-### [2020](current-channel.md)
+### [2021–2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
-### [2017](monthly-channel-2017.md)
 
-## Ежемесячный корпоративный канал
-### [2020](monthly-enterprise-channel.md)
+## Ежемесячный канал (корпоративный)
+### [2021–2020](monthly-enterprise-channel.md)
 
 ## Полугодовой канал (корпоративный)
-### [2020](semi-annual-enterprise-channel.md)
+### [2021–2020](semi-annual-enterprise-channel.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
-### [2017](semi-annual-channel-2017.md)
+
 
 ## Полугодовой канал (предварительная корпоративная версия)
-### [2020](semi-annual-enterprise-channel-preview.md)
+### [2021–2020](semi-annual-enterprise-channel-preview.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
-### [2017](semi-annual-channel-targeted-2017.md)
+
 
 ## Программа предварительной оценки Office  
 ### [Журнал обновлений бета-канала](Update-history-beta-channel.md)
