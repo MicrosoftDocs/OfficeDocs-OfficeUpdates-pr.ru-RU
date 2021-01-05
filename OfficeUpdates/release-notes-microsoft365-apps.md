@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков приложений Microsoft 365 для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370137"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748237"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Информация о выпуске обновлений для Приложений Microsoft 365
 
 
 > [!IMPORTANT]
-> Office 365 профессиональный плюс с версии 2004 переименовывается в "Приложения Microsoft 365 для предприятий". Дополнительные сведения см. в  [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В этой документации чаще всего используется обозначение "Приложения Microsoft 365".
+> Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Обновления системы безопасности для выпусков Приложений Microsoft 365
@@ -45,10 +45,10 @@ ms.locfileid: "48370137"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Заметки о выпусках приложений Microsoft 365
 
 Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.
- - Актуальный: [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Ежемесячный корпоративный канал:  [2020](monthly-enterprise-channel.md)
- - Полугодовой (предварительная корпоративная версия): [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - Полугодовой (корпоративный): [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Актуальный канал: [2020–2021](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
+ - Ежемесячный канал (корпоративный): [2020–2021](monthly-enterprise-channel.md)
+ - Полугодовой (предварительная корпоративная версия): [2020–2021](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
+ - Полугодовой (корпоративный): [2020–2021](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
  Полный список выпусков средства развертывания Office см. в указанной ниже статье:
@@ -64,7 +64,7 @@ ms.locfileid: "48370137"
 
 ## <a name="related-topics"></a>Статьи по теме
 
-- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Развертывание Office](https://docs.microsoft.com/deployoffice/)
 - [Новые возможности приложений Microsoft 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Стратегия развития приложений Microsoft 365](https://products.office.com/business/office-365-roadmap)
