@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: eebcd84fa8c8f4e9f17d9a1ac536961e5dbcb4fe
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: c2a5c2332ee83c83dc7e83728f4db2ded500a205
+ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725788"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756718"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -35,6 +35,22 @@ ms.locfileid: "49725788"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="january-5-2021"></a>5 января 2021 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)5 января 2021 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2012 (сборка 13530.20316).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2011 (сборка 13426.20404) <br/> |21 декабря 2020 г. <br/> |149<br/> |
+|Версия 2011 (сборка 13426.20332) <br/> |8 декабря 2020 г. <br/> |149<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)5 января 2021 г.)
 
 ## <a name="december-21-2020"></a>21 декабря 2020 г.
 

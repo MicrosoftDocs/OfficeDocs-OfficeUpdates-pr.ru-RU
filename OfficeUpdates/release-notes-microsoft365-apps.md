@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков приложений Microsoft 365 для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748237"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760643"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Информация о выпуске обновлений для Приложений Microsoft 365
 
@@ -45,10 +45,10 @@ ms.locfileid: "49748237"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Заметки о выпусках приложений Microsoft 365
 
 Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.
- - Актуальный канал: [2020–2021](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Ежемесячный канал (корпоративный): [2020–2021](monthly-enterprise-channel.md)
- - Полугодовой (предварительная корпоративная версия): [2020–2021](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Полугодовой (корпоративный): [2020–2021](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Актуальный канал: [заметки о выпуске](current-channel.md), [архивные заметки о выпуске](monthly-channel-archived.md)
+ - Ежемесячный канал (корпоративный): [заметки о выпуске](monthly-enterprise-channel.md)
+ - Полугодовой канал (предварительная корпоративная версия): [заметки о выпуске](semi-annual-enterprise-channel-preview.md), [архивные заметки о выпуске](semi-annual-enterprise-channel-preview-archived.md)
+ - Полугодовой канал (корпоративный): [заметки о выпуске](semi-annual-enterprise-channel.md), [архивные заметки о выпуске](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
  Полный список выпусков средства развертывания Office см. в указанной ниже статье:
