@@ -10,67 +10,67 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков приложений Microsoft 365 для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748237"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760643"
 ---
-# <a name="release-information-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="f5768-103">Информация о выпуске обновлений для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-103">Release information for updates to Microsoft 365 Apps</span></span>
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="b55d6-103">Информация о выпуске обновлений для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-103">Release information for updates to Microsoft 365 Apps</span></span>
 
 
 > [!IMPORTANT]
-> <span data-ttu-id="f5768-104">Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий.</span><span class="sxs-lookup"><span data-stu-id="f5768-104">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="f5768-105">Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="f5768-105">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="f5768-106">В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="f5768-106">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> <span data-ttu-id="b55d6-104">Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий.</span><span class="sxs-lookup"><span data-stu-id="b55d6-104">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="b55d6-105">Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="b55d6-105">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="b55d6-106">В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".</span><span class="sxs-lookup"><span data-stu-id="b55d6-106">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
-## <a name="security-updates-for-microsoft-365-apps-releases"></a><span data-ttu-id="f5768-107">Обновления системы безопасности для выпусков Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-107">Security updates for Microsoft 365 Apps releases</span></span>
+## <a name="security-updates-for-microsoft-365-apps-releases"></a><span data-ttu-id="b55d6-107">Обновления системы безопасности для выпусков Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-107">Security updates for Microsoft 365 Apps releases</span></span>
 
-<span data-ttu-id="f5768-108">Полный список обновлений системы безопасности см. в следующей статье:</span><span class="sxs-lookup"><span data-stu-id="f5768-108">For a complete list of security updates, see the following article:</span></span>
- - [<span data-ttu-id="f5768-109">Обновления системы безопасности для приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-109">Security updates for Microsoft 365 Apps</span></span>](microsoft365-apps-security-updates.md)
-
-
-## <a name="update-history-for-microsoft-365-apps-releases"></a><span data-ttu-id="f5768-110">Журнал обновлений для выпусков приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-110">Update history for Microsoft 365 Apps releases</span></span>
-
-<span data-ttu-id="f5768-111">Полный список выпусков и поддерживаемые версии для каждого канала см. в следующей статье:</span><span class="sxs-lookup"><span data-stu-id="f5768-111">For a complete list of releases and the supported versions for each channel, see the following article:</span></span>
-
-- [<span data-ttu-id="f5768-112">Журнал обновлений Приложений Microsoft 365 (перечислены по дате)</span><span class="sxs-lookup"><span data-stu-id="f5768-112">Update history for Microsoft 365 Apps listed by date</span></span>](update-history-microsoft365-apps-by-date.md)
+<span data-ttu-id="b55d6-108">Полный список обновлений системы безопасности см. в следующей статье:</span><span class="sxs-lookup"><span data-stu-id="b55d6-108">For a complete list of security updates, see the following article:</span></span>
+ - [<span data-ttu-id="b55d6-109">Обновления системы безопасности для приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-109">Security updates for Microsoft 365 Apps</span></span>](microsoft365-apps-security-updates.md)
 
 
- ## <a name="update-sizes-for-microsoft-365-apps-releases"></a><span data-ttu-id="f5768-113">Размеры обновлений для выпусков приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-113">Update sizes for Microsoft 365 Apps releases</span></span>
+## <a name="update-history-for-microsoft-365-apps-releases"></a><span data-ttu-id="b55d6-110">Журнал обновлений для выпусков приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-110">Update history for Microsoft 365 Apps releases</span></span>
 
-<span data-ttu-id="f5768-114">Полный список размеров выпусков обновлений см. в указанной ниже статье:</span><span class="sxs-lookup"><span data-stu-id="f5768-114">For a complete list of update releases sizes, see the following article:</span></span>
- - [<span data-ttu-id="f5768-115">Размеры скачиваемых обновлений для приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-115">Download sizes for updates to Microsoft 365 Apps</span></span>](download-sizes-microsoft365-apps-updates.md)
+<span data-ttu-id="b55d6-111">Полный список выпусков и поддерживаемые версии для каждого канала см. в следующей статье:</span><span class="sxs-lookup"><span data-stu-id="b55d6-111">For a complete list of releases and the supported versions for each channel, see the following article:</span></span>
 
-## <a name="release-notes-for-microsoft-365-apps-releases"></a><span data-ttu-id="f5768-116">Заметки о выпусках приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-116">Release notes for Microsoft 365 Apps releases</span></span>
-
-<span data-ttu-id="f5768-117">Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.</span><span class="sxs-lookup"><span data-stu-id="f5768-117">For a complete list of release notes by update channel and year, see the following articles:</span></span>
- - <span data-ttu-id="f5768-118">Актуальный канал: [2020–2021](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)</span><span class="sxs-lookup"><span data-stu-id="f5768-118">Current Channel: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)</span></span>
- - <span data-ttu-id="f5768-119">Ежемесячный канал (корпоративный): [2020–2021](monthly-enterprise-channel.md)</span><span class="sxs-lookup"><span data-stu-id="f5768-119">Monthly Enterprise Channel:  [2021-2020](monthly-enterprise-channel.md)</span></span>
- - <span data-ttu-id="f5768-120">Полугодовой (предварительная корпоративная версия): [2020–2021](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)</span><span class="sxs-lookup"><span data-stu-id="f5768-120">Semi-Annual Enterprise (Preview): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)</span></span>
- - <span data-ttu-id="f5768-121">Полугодовой (корпоративный): [2020–2021](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)</span><span class="sxs-lookup"><span data-stu-id="f5768-121">Semi-Annual Enterprise: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)</span></span>
-
- ## <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="f5768-122">Журнал выпусков средства развертывания Office</span><span class="sxs-lookup"><span data-stu-id="f5768-122">Release history for Office Deployment Tool</span></span>
- <span data-ttu-id="f5768-123">Полный список выпусков средства развертывания Office см. в указанной ниже статье:</span><span class="sxs-lookup"><span data-stu-id="f5768-123">For a complete list of Office Deployment Tool releases, see the following article:</span></span>
- - [<span data-ttu-id="f5768-124">Журнал выпусков средства развертывания Office</span><span class="sxs-lookup"><span data-stu-id="f5768-124">Release history for Office Deployment Tool</span></span>](ODT-release-history.md)
-
-## <a name="office-for-mac-release-information"></a><span data-ttu-id="f5768-125">Информация о выпусках Office для Mac</span><span class="sxs-lookup"><span data-stu-id="f5768-125">Office for Mac release information</span></span>
-
-<span data-ttu-id="f5768-126">Сведения об обновлениях Office для Mac, которые входят в любой план подписки на Microsoft 365, включающий приложения Microsoft 365, см. в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="f5768-126">For information about updates to Office for Mac, which is included with any Microsoft 365 subscription plan that includes Microsoft 365 Apps, see the following articles:</span></span>
- - [<span data-ttu-id="f5768-127">История обновлений Office для Mac</span><span class="sxs-lookup"><span data-stu-id="f5768-127">Update history for Office for Mac</span></span>](update-history-office-for-mac.md)
- - [<span data-ttu-id="f5768-128">Заметки о выпусках Office для Mac</span><span class="sxs-lookup"><span data-stu-id="f5768-128">Release notes for Office for Mac</span></span>](release-notes-office-for-mac.md)
- - [<span data-ttu-id="f5768-129">Журнал выпусков функции автоматического обновления (Майкрософт)</span><span class="sxs-lookup"><span data-stu-id="f5768-129">MAU release history</span></span>](release-history-microsoft-autoupdate.md)
+- [<span data-ttu-id="b55d6-112">Журнал обновлений Приложений Microsoft 365 (перечислены по дате)</span><span class="sxs-lookup"><span data-stu-id="b55d6-112">Update history for Microsoft 365 Apps listed by date</span></span>](update-history-microsoft365-apps-by-date.md)
 
 
-## <a name="related-topics"></a><span data-ttu-id="f5768-130">Статьи по теме</span><span class="sxs-lookup"><span data-stu-id="f5768-130">Related topics</span></span>
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a><span data-ttu-id="b55d6-113">Размеры обновлений для выпусков приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-113">Update sizes for Microsoft 365 Apps releases</span></span>
 
-- [<span data-ttu-id="f5768-131">Обзор каналов обновления для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-131">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
-- [<span data-ttu-id="f5768-132">Развертывание Office</span><span class="sxs-lookup"><span data-stu-id="f5768-132">Office deployment</span></span>](https://docs.microsoft.com/deployoffice/)
-- [<span data-ttu-id="f5768-133">Новые возможности приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-133">What's new in Microsoft 365 Apps?</span></span>](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [<span data-ttu-id="f5768-134">Стратегия развития приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-134">Microsoft 365 Apps Roadmap</span></span>](https://products.office.com/business/office-365-roadmap)
-- [<span data-ttu-id="f5768-135">Общие сведения о центре сообщений приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f5768-135">Overview of the Microsoft 365 Apps Message Center</span></span>](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [<span data-ttu-id="f5768-136">Информация о выпуске Windows 10</span><span class="sxs-lookup"><span data-stu-id="f5768-136">Windows 10 release information</span></span>](https://www.microsoft.com/itpro/windows-10/release-information)
-- [<span data-ttu-id="f5768-137">Руководство по обновлениям для системы безопасности Майкрософт</span><span class="sxs-lookup"><span data-stu-id="f5768-137">Microsoft Security Update Guide</span></span>](https://portal.msrc.microsoft.com/)
+<span data-ttu-id="b55d6-114">Полный список размеров выпусков обновлений см. в указанной ниже статье:</span><span class="sxs-lookup"><span data-stu-id="b55d6-114">For a complete list of update releases sizes, see the following article:</span></span>
+ - [<span data-ttu-id="b55d6-115">Размеры скачиваемых обновлений для приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-115">Download sizes for updates to Microsoft 365 Apps</span></span>](download-sizes-microsoft365-apps-updates.md)
+
+## <a name="release-notes-for-microsoft-365-apps-releases"></a><span data-ttu-id="b55d6-116">Заметки о выпусках приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-116">Release notes for Microsoft 365 Apps releases</span></span>
+
+<span data-ttu-id="b55d6-117">Полный список заметок о выпусках по каналам обновления и годам см. в указанных ниже статьях.</span><span class="sxs-lookup"><span data-stu-id="b55d6-117">For a complete list of release notes by update channel and year, see the following articles:</span></span>
+ - <span data-ttu-id="b55d6-118">Актуальный канал: [заметки о выпуске](current-channel.md), [архивные заметки о выпуске](monthly-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="b55d6-118">Current Channel: [Release Notes](current-channel.md), [Archived Release Notes](monthly-channel-archived.md)</span></span>
+ - <span data-ttu-id="b55d6-119">Ежемесячный канал (корпоративный): [заметки о выпуске](monthly-enterprise-channel.md)</span><span class="sxs-lookup"><span data-stu-id="b55d6-119">Monthly Enterprise Channel:  [Release Notes](monthly-enterprise-channel.md)</span></span>
+ - <span data-ttu-id="b55d6-120">Полугодовой канал (предварительная корпоративная версия): [заметки о выпуске](semi-annual-enterprise-channel-preview.md), [архивные заметки о выпуске](semi-annual-enterprise-channel-preview-archived.md)</span><span class="sxs-lookup"><span data-stu-id="b55d6-120">Semi-Annual Enterprise (Preview): [Release Notes](semi-annual-enterprise-channel-preview.md), [Archived Release Notes](semi-annual-enterprise-channel-preview-archived.md)</span></span>
+ - <span data-ttu-id="b55d6-121">Полугодовой канал (корпоративный): [заметки о выпуске](semi-annual-enterprise-channel.md), [архивные заметки о выпуске](semi-annual-enterprise-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="b55d6-121">Semi-Annual Enterprise: [Release Notes](semi-annual-enterprise-channel.md), [Archived Release Notes](semi-annual-enterprise-channel-archived.md)</span></span>
+
+ ## <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="b55d6-122">Журнал выпусков средства развертывания Office</span><span class="sxs-lookup"><span data-stu-id="b55d6-122">Release history for Office Deployment Tool</span></span>
+ <span data-ttu-id="b55d6-123">Полный список выпусков средства развертывания Office см. в указанной ниже статье:</span><span class="sxs-lookup"><span data-stu-id="b55d6-123">For a complete list of Office Deployment Tool releases, see the following article:</span></span>
+ - [<span data-ttu-id="b55d6-124">Журнал выпусков средства развертывания Office</span><span class="sxs-lookup"><span data-stu-id="b55d6-124">Release history for Office Deployment Tool</span></span>](ODT-release-history.md)
+
+## <a name="office-for-mac-release-information"></a><span data-ttu-id="b55d6-125">Информация о выпусках Office для Mac</span><span class="sxs-lookup"><span data-stu-id="b55d6-125">Office for Mac release information</span></span>
+
+<span data-ttu-id="b55d6-126">Сведения об обновлениях Office для Mac, которые входят в любой план подписки на Microsoft 365, включающий приложения Microsoft 365, см. в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="b55d6-126">For information about updates to Office for Mac, which is included with any Microsoft 365 subscription plan that includes Microsoft 365 Apps, see the following articles:</span></span>
+ - [<span data-ttu-id="b55d6-127">История обновлений Office для Mac</span><span class="sxs-lookup"><span data-stu-id="b55d6-127">Update history for Office for Mac</span></span>](update-history-office-for-mac.md)
+ - [<span data-ttu-id="b55d6-128">Заметки о выпусках Office для Mac</span><span class="sxs-lookup"><span data-stu-id="b55d6-128">Release notes for Office for Mac</span></span>](release-notes-office-for-mac.md)
+ - [<span data-ttu-id="b55d6-129">Журнал выпусков функции автоматического обновления (Майкрософт)</span><span class="sxs-lookup"><span data-stu-id="b55d6-129">MAU release history</span></span>](release-history-microsoft-autoupdate.md)
+
+
+## <a name="related-topics"></a><span data-ttu-id="b55d6-130">Статьи по теме</span><span class="sxs-lookup"><span data-stu-id="b55d6-130">Related topics</span></span>
+
+- [<span data-ttu-id="b55d6-131">Обзор каналов обновления для Приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-131">Overview of update channels for Microsoft 365 Apps</span></span>](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [<span data-ttu-id="b55d6-132">Развертывание Office</span><span class="sxs-lookup"><span data-stu-id="b55d6-132">Office deployment</span></span>](https://docs.microsoft.com/deployoffice/)
+- [<span data-ttu-id="b55d6-133">Новые возможности приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-133">What's new in Microsoft 365 Apps?</span></span>](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [<span data-ttu-id="b55d6-134">Стратегия развития приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-134">Microsoft 365 Apps Roadmap</span></span>](https://products.office.com/business/office-365-roadmap)
+- [<span data-ttu-id="b55d6-135">Общие сведения о центре сообщений приложений Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b55d6-135">Overview of the Microsoft 365 Apps Message Center</span></span>](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [<span data-ttu-id="b55d6-136">Информация о выпуске Windows 10</span><span class="sxs-lookup"><span data-stu-id="b55d6-136">Windows 10 release information</span></span>](https://www.microsoft.com/itpro/windows-10/release-information)
+- [<span data-ttu-id="b55d6-137">Руководство по обновлениям для системы безопасности Майкрософт</span><span class="sxs-lookup"><span data-stu-id="b55d6-137">Microsoft Security Update Guide</span></span>](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> <span data-ttu-id="f5768-138">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="f5768-138">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="b55d6-138">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="b55d6-138">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
