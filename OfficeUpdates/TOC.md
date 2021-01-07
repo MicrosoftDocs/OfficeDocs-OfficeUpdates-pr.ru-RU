@@ -6,20 +6,20 @@
 
 ## Актуальный канал
 ### [Заметки о выпуске](current-channel.md)
-### [Архивные заметки о выпуске](monthly-channel-2019.md)
+### [Архивные заметки о выпуске](monthly-channel-archived.md)
 
 ## Ежемесячный канал (корпоративный)
 ### [Заметки о выпуске](monthly-enterprise-channel.md)
 
 ## Полугодовой канал (корпоративный)
 ### [Заметки о выпуске](semi-annual-enterprise-channel.md)
-### [Архивные заметки о выпуске](semi-annual-channel-2019.md)
+### [Архивные заметки о выпуске](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## Полугодовой канал (предварительная корпоративная версия)
 ### [Заметки о выпуске](semi-annual-enterprise-channel-preview.md)
-### [Архивные заметки о выпуске](semi-annual-channel-targeted-2019.md)
+### [Архивные заметки о выпуске](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
