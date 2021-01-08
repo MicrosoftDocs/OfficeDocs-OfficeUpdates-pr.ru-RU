@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков приложений Microsoft 365 для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760643"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780683"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Информация о выпуске обновлений для Приложений Microsoft 365
 
@@ -64,12 +64,12 @@ ms.locfileid: "49760643"
 
 ## <a name="related-topics"></a>Статьи по теме
 
-- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Развертывание Office](https://docs.microsoft.com/deployoffice/)
 - [Новые возможности приложений Microsoft 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Стратегия развития приложений Microsoft 365](https://products.office.com/business/office-365-roadmap)
 - [Общие сведения о центре сообщений приложений Microsoft 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Информация о выпуске Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Информация о выпуске Windows 10](https://aka.ms/windows/releaseinfo)
 - [Руководство по обновлениям для системы безопасности Майкрософт](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
