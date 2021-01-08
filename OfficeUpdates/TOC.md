@@ -57,5 +57,5 @@
 ## [Обновления для Skype для бизнеса Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Связанные ссылки
-## [Выпуски Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+## [Выпуски Windows 10](https://aka.ms/windows/releaseinfo)
 ## [Политика жизненного цикла поддержки Майкрософт](https://support.microsoft.com/lifecycle)
