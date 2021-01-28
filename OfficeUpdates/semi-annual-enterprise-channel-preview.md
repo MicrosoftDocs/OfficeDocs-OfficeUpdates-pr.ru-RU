@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837630"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032308"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)
 
@@ -384,7 +384,7 @@ ms.locfileid: "49837630"
 
 - **Обновления Календаря.** Ознакомьтесь с наглядными обновлениями, упрощающими сканирование календаря. [Подробнее](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши.
+- **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши. [Подробнее](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
