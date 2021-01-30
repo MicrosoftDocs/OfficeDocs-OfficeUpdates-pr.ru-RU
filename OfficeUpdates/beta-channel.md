@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
-ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937074"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054511"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -30,6 +30,29 @@ ms.locfileid: "49937074"
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+## <a name="version-2102-january-29"></a>Версия 2102: 29 января
+*Версия 2102 (сборка 13721.20008)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, из-за которой приложение Excel неожиданно завершало работу при добавлении имени в диалоговом окне "Присвоение имени".
+
+
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема, из-за которой значок шифрования не отображался для сообщений, отправленных с использованием параметра "Только с шифрованием".
+
+### <a name="project"></a>Project
+
+- Исправлена проблема, из-за которой из центра проектов не удавалось открыть проекты с длинными именами на кириллице.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2102-january-22"></a>Версия 2102: 22 января
 *Версия 2102 (сборка 13714.20000)*
@@ -1969,7 +1992,7 @@ ms.locfileid: "49937074"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
-### <a name="access"></a>Доступ
+### <a name="access"></a>Access
 
 - Исправлены проблемы с изменением размера и обновлением таблиц на панели задач.
 
@@ -2389,6 +2412,7 @@ ms.locfileid: "49937074"
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
@@ -2398,5 +2422,4 @@ ms.locfileid: "49937074"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
