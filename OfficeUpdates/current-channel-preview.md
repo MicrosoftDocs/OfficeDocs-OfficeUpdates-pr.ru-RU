@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
+ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080980"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50101367"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -28,6 +28,23 @@ ms.locfileid: "50080980"
 > - Функции Microsoft Teams могут отличаться от последних версий Актуального канала (предварительная версия), поскольку они выпускаются чаще.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="version-2101-february-03"></a>Версия 2101: 3 февраля
+*Версия 2101 (сборка 13628.20330)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема, из-за которой возникали проблемы с отображением правильной подписи по умолчанию в OWA.
+
+
+- Исправлена проблема, из-за которой значок шифрования не отображался в сообщениях, отправленных с использованием параметра "Только с шифрованием".
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2101-february-02"></a>Версия 2101: 2 февраля
 *Версия 2101 (сборка 13628.20320)*
