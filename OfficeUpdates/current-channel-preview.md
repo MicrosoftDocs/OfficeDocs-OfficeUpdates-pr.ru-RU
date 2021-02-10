@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151967"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173638"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -117,6 +117,8 @@ ms.locfileid: "50151967"
 
 
 - Исправлена проблема с автовосстановлением.
+
+- Исправлена проблема с совместным редактированием файлов, защищенных с помощью DRM
 
 
 ### <a name="office-suite"></a>Набор Office

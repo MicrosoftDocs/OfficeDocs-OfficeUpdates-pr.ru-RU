@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837680"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173718"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -31,6 +31,29 @@ ms.locfileid: "49837680"
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="february-09-2021"></a>9 февраля 2021 г.
+Ежемесячный канал (корпоративный): версия 2012 (сборка 13530.20528)  
+Ежемесячный канал (корпоративный): версия 2011 (сборка 13426.20658)  
+Полугодовой канал (предварительная корпоративная версия): версия 2008 (сборка 13127.21216)  
+Полугодовой канал (корпоративный): версия 2008 (сборка 13127.21216)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21594)  
+Полугодовой канал (корпоративный): версия 1908 (сборка 11929.21008)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21594)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10371.20060)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="january-12-2021"></a>12 января 2021 г.
 Актуальный канал: версия 2012 (сборка 13530.20376)  
