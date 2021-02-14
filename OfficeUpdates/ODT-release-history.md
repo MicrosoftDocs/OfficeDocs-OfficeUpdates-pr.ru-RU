@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837370"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177960"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -28,6 +28,12 @@ ODT предоставляет более широкие возможности 
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-9-2021"></a>9 февраля 2021 г.
+Версия 16.0.13628.20274 (setup.exe версии 16.0.13628.20246)
+- Добавлена проверка для предупреждения о неподдерживаемых установках и их запрета в Windows 8.0
+- Исправления для повышения надежности устройств ARM64
+
 
 ## <a name="january-12-2021"></a>12 января 2021 г.
 Версия 16.0.13530.20376 (setup.exe версии 16.0.13530.20334)

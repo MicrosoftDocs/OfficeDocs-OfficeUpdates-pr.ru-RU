@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: ebf10c81f15dc5b072ef0f8efe8e03bc11644a36
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 49df49e29ea96bd0c73d8238bc9e8d909b666656
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173808"
+ms.locfileid: "50177971"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -36,7 +36,7 @@ ms.locfileid: "50173808"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Актуальный канал<br/>|2101<br/>|13628.20274<br/>|26 января 2021 г.<br/>|Выпуска версии 2102<br/>|
+|Актуальный канал<br/>|2101<br/>|13628.20380<br/>|9 февраля 2021 г.<br/>|Выпуска версии 2102<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2012<br/>|13530.20528<br/>|9 февраля 2021 г.<br/>|13 апреля 2021 г.<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2011<br/>|13426.20658<br/>|9 февраля 2021 г.<br/>|9 марта 2021 г.<br/>|
 |Полугодовой канал (предварительная корпоративная версия)<br/>|2008<br/>|13127.21216<br/>|9 февраля 2021 г.<br/>|9 марта 2021 г.<br/>|
@@ -56,7 +56,7 @@ ms.locfileid: "50173808"
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|9 февраля| |[Версия 2012 (сборка 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Версия 2011 (сборка 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Версия 2008 (сборка 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Версия 2008 (сборка 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Версия 2002 (сборка 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Версия 1908 (сборка 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
+|2021|9 февраля|[Версия 2101 (сборка 13628.20380)](current-channel.md#version-2101-february-09)|[Версия 2012 (сборка 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Версия 2011 (сборка 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Версия 2008 (сборка 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Версия 2008 (сборка 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Версия 2002 (сборка 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Версия 1908 (сборка 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021 г.|26 января|[Версия 2101 (сборка 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021 г.|21 января|[Версия 2012 (сборка 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021 г.|12 января|[Версия 2012 (сборка 13530.20376)](current-channel.md#version-2012-january-12)|[Версия 2011 (сборка 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[Версия 2010 (сборка 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[Версия 2008 (сборка 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[Версия 2008 (сборка 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[Версия 2002 (сборка 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[Версия 1908 (сборка 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
