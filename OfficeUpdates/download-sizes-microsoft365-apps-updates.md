@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 255209ce47ba6194b972a8edb908e75b3a18b96e
-ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
+ms.openlocfilehash: 47c5eee644df956bb6a23b17d8b3159f882da08c
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50279816"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418084"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -35,6 +35,22 @@ ms.locfileid: "50279816"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="march-1-2021"></a>1 марта 2021 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)1 марта 2021 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Последний выпуск: версия 2102 (сборка 13801.20266).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2101 (сборка 13628.20448) <br/> |16 февраля 2021 г. <br/> |192<br/> |
+|Версия 2101 (сборка 13628.20380) <br/> |9 февраля 2021 г. <br/> |192<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)1 марта 2021 г.)
 
 ## <a name="february-16-2021"></a>16 февраля 2021 г.
 

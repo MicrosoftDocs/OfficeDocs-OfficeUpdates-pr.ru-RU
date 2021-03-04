@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177960"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421413"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -28,6 +28,14 @@ ODT предоставляет более широкие возможности 
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>25 февраля 2021 г.
+Версия 16.0.13628.20476 (setup.exe версии 16.0.13628.20462)
+- Исправлена проблема, из-за которой не проверялись файлы configuration.xml, указывающие несколько десятков языков
+- Исправлена проблема, из-за которой свойство FORCEAPPSHUTDOWN не учитывалось в сценариях MigrateArch
+- Исправлена проблема, из-за которой при указании 2 или более атрибутов PIDKEY в configuration.xml не удавалось установить PIDKeys
+
+
 
 ## <a name="february-9-2021"></a>9 февраля 2021 г.
 Версия 16.0.13628.20274 (setup.exe версии 16.0.13628.20246)
