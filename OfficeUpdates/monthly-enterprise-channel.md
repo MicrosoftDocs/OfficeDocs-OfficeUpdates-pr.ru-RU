@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Enterprise Channel для Приложений Microsoft 365 в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173677"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455785"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Заметки о выпусках Monthly Enterprise Channel в 2020 г.
 
@@ -296,7 +296,7 @@ ms.locfileid: "50173677"
 ### <a name="feature-updates"></a>Обновления функций
 ### <a name="excel"></a>Excel
 
-- **Получение данных организации из Power BI с помощью типов данных.** Типы данных Excel из Power BI теперь развертываются для участников программы предварительной оценки в организациях с Office 365 E5/A5 или Microsoft 365 E5/A5. Получение необходимой информации и легкость ее обновления чрезвычайно важны для многих повседневных рабочих процессов. Мы предоставляем вам доступ к информации вашей компании или организации из Power BI как типа данных Excel, что расширяет ваши возможности получения связанных данных для электронных таблиц.
+- **Получение данных организации из Power BI с помощью типов данных.** Типы данных Excel из Power BI теперь развертываются для участников программы предварительной оценки в организациях с Office 365 / Microsoft 365 и планом обслуживания Power BI Pro. Получение необходимой информации и легкость ее обновления чрезвычайно важны для многих повседневных рабочих процессов. Мы предоставляем вам доступ к информации вашей компании или организации из Power BI как типа данных Excel, что расширяет ваши возможности получения связанных данных для электронных таблиц. [Подробнее](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
