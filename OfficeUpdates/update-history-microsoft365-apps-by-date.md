@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418074"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515330"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -28,7 +28,7 @@ ms.locfileid: "50418074"
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
 > - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления.
+В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления. Дата выпуска указывает, когда была выпущена актуальная сборка.
 
 ### <a name="supported-versions"></a>**Поддерживаемые версии**
 
@@ -222,7 +222,7 @@ ms.locfileid: "50418074"
 
 [//]: # (HISTORYTABLEEND)
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Статьи по теме
 
 - [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Информация о выпуске обновлений для Приложений Microsoft 365](release-notes-office365-proplus.md)
