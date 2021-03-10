@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет пользователям заметки о выпуске обновлений для Приложений Microsoft 365 в Windows 7
-ms.openlocfilehash: 793899108171754363bf306fbfd8334bb8c50f0a
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173738"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595463"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Журнал обновлений для Приложений Microsoft 365 в Windows 7 
 
@@ -38,6 +38,9 @@ ms.locfileid: "50173738"
 ## <a name="update-history"></a>Журнал обновлений
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**9 марта 2021 г.**<br/>
+Версия 2002 (сборка 12527.21686)<br/>
 
 **9 февраля 2021 г.**<br/>
 Версия 2002 (сборка 12527.21594)<br/>

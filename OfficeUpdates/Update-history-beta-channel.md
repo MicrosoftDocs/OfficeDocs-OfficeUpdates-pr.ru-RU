@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений выпусков Monthly Channel уровня "Предварительная оценка — ранний доступ" для компьютеров с Windows
-ms.openlocfilehash: abd2f62ad0aee2cf34204442be339ae20e4d38a7
-ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
+ms.openlocfilehash: 40844d6062ba320c180e00588da5619dcd92166c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468383"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595683"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Журнал обновлений для бета-канала Office 
 
@@ -37,6 +37,9 @@ ms.locfileid: "50468383"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**9 марта 2021 г.**<br/>
+Версия 2104 (сборка 13906.20000)<br/>
 
 **4 марта 2021 г.**<br/>
 Версия 2103 (сборка 13901.20036)<br/>

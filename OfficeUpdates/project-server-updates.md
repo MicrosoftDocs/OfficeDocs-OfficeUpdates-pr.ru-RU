@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и загрузить сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: 6d567e7e506be8d795077af4d084ca213bf985a7
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: c37a6eeae3dc6472a800151ae7d78c3e6dabbca2
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173693"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595523"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -28,6 +28,7 @@ ms.locfileid: "50173693"
 ## <a name="project-server-2013-update-history"></a>История обновлений Project Server 2013
 |**Дата выпуска**|**Номер статьи в базе знаний**||
 |:-----|:-----|:-----|
+|Март 2021 г. <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |Февраль 2021 г. <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
 |Январь 2021 г. <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
 |Декабрь 2020 г. <br/>|[KB4486763](https://support.microsoft.com/help/4486763) <br/>|
@@ -181,6 +182,7 @@ ms.locfileid: "50173693"
 
 |**Дата выпуска**|**Номер статьи в базе знаний**||
 |:-----|:-----|:-----|
+|Март 2021 г. <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |Февраль 2021 г. <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
 |Январь 2021 г. <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
 |Декабрь 2020 г. <br/>|[KB4493144](https://support.microsoft.com/help/4493144) <br/>|
