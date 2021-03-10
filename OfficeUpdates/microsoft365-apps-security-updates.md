@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177941"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595563"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -31,6 +31,44 @@ ms.locfileid: "50177941"
  
 
 [//]: # (НЕ УДАЛЯТЬ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="march-09-2021"></a>9 марта 2021 г.
+Актуальный канал: версия 2102 (сборка 13801.20294)  
+Ежемесячный канал (корпоративный): версия 2101 (сборка 13628.20528)  
+Ежемесячный канал (корпоративный): версия 2012 (сборка 13530.20628)  
+Полугодовой канал (предварительная корпоративная версия): версия 2102 (сборка 13801.20294)  
+Полугодовой канал (предварительная корпоративная версия): версия 2008 (сборка 13127.21348)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21686)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21686)  
+Розничная версия Office 2019: версия 2102 (сборка 13801.20294)  
+Розничная версия Office 2016: версия 2102 (сборка 13801.20294)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10372.20060)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27053](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2021-27056](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-27055](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2021-27058](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-27058)
+-   [CVE-2021-24108](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-24108)
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ КОНЕЦ СОДЕРЖИМОГО)
+
+
 
 ## <a name="february-09-2021"></a>9 февраля 2021 г.
 Актуальный канал: версия 2101 (сборка 13628.20380)  

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Предоставляет ИТ-специалисты список наиболее актуальных файлов MSP для бессрочных версий Office 2013 с использованием установщика Windows (MSI)
-ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
-ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
+ms.openlocfilehash: ec17c6d9d6fc1cbcc7613dd9d78783063ef3527c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468373"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595553"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Список наиболее актуальных файлов msp для продуктов Office 2013
 
@@ -26,7 +26,7 @@ ms.locfileid: "50468373"
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО))
 
-В следующей таблице перечислены файлы MSP, которые были обновлены в **феврале 2021 г.** 
+В следующей таблице перечислены файлы MSP, которые были обновлены в **марте 2021 г.** 
 
  [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ))
 
@@ -34,8 +34,11 @@ ms.locfileid: "50468373"
 
 |Обновления без обеспечения безопасности****|Обновления безопасности****|
 |:-----|:-----|
-|mso-x-none<br/>|Excel-x-none<br/>|
-|powerpoint-x-none<br/>||
+|outlook-x-none<br/>|Excel-x-none<br/>|
+|<br/>|graph-x-none<br/>|
+|<br/>|mso-x-none<br/>|
+|<br/>|powerpoint-x-none<br/>|
+|<br/>|visio-x-none<br/>|
  
 
 
@@ -64,14 +67,14 @@ ms.locfileid: "50468373"
 |duetserver-x-none<sup>1</sup> <br/> |Office 2013  <br/> |14 апреля 2015 г.  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |9 января 2018 г.  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel-x-none  <br/> |Excel 2013  <br/> |3 июля 2018 г.  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |9 февраля 2021 г.  <br/> |[4493211](https://support.microsoft.com/help/4493211) <br/>|[4493176](https://support.microsoft.com/help/4493176) <br/> |
+|Excel-x-none  <br/> |Excel 2013  <br/> |3 июля 2018 г.  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |9 марта 2021 г.  <br/> |[4493239](https://support.microsoft.com/help/4493239) <br/> |[4493211](https://support.microsoft.com/help/4493211) <br/>|
 |excelpp-x-none  <br/> |Office 2013  <br/> |6 июня 2017 г.  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |fm20-x-none  <br/> |Office 2013  <br/> |14 июля 2015 г.  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9 декабря 2014 г.  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Неприменимо  <br/> |
 |gfonts-x-none  <br/> |Office 2013  <br/> |14.10.14  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |7 июня 2016 г.  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|graph-x-none  <br/> |Office 2013  <br/> |2 апреля 2019 г.  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |12 января 2021 г.  <br/> |[4486759](https://support.microsoft.com/help/4486759) <br/> |[4486725](https://support.microsoft.com/help/4486725) <br/> |
+|graph-x-none  <br/> |Office 2013  <br/> |2 апреля 2019 г.  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |9 марта 2021 г.  <br/> |[4493203](https://support.microsoft.com/help/4493203)| [4486759](https://support.microsoft.com/help/4486759) <br/> |
 |groove-x-none  <br/> |OneDrive для бизнеса  <br/> |7 августа 2018 г.  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |11 августа 2015 г.  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Неприменимо  <br/> |
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |3 мая 2016 г.  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8 марта 2016 г.  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -82,7 +85,7 @@ ms.locfileid: "50468373"
 |mscomct2-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |13.05.14  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |Неприменимо  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |12 января 2016 г.  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |4 апреля 2017 г.  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|mso-x-none  <br/> |Office 2013  <br/> |2 февраля 2021 г.  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |8 сентября 2020 г.  <br/> |[4484469](https://support.microsoft.com/help/4484469) <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|
+|mso-x-none  <br/> |Office 2013  <br/> |2 февраля 2021 г.  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |9 марта 2021 г.  <br/> |[4493228](https://support.microsoft.com/help/4493228) <br/>|[4484469](https://support.microsoft.com/help/4484469) <br/> |
 |msohevi-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |8 января 2019 г.  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |Неприменимо  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |3 июля 2018 г.  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |11 августа 2015 г.  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |Неприменимо  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |9 июня 2015 г.  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
@@ -103,9 +106,9 @@ ms.locfileid: "50468373"
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |8 марта 2016 г.  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |5 марта 2019 г.  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2 августа 2016 г.  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|outlook-x-none  <br/> |Outlook 2013  <br/> |1 октября 2019 г. <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |8 декабря 2020 г.  <br/> |[4486732](https://support.microsoft.com/help/4486732) <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |
+|outlook-x-none  <br/> |Outlook 2013  <br/> |2 марта 2021 г.<br/> |[4493174](https://support.microsoft.com/help/4493174) <br/> |8 декабря 2020 г.  <br/> |[4486732](https://support.microsoft.com/help/4486732) <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |8 сентября 2015 г.  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2 февраля 2021 г.  <br/> |[4493169](https://support.microsoft.com/help/4493169) <br/> |8 декабря 2020 г.  <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |
+|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2 февраля 2021 г.  <br/> |[4493169](https://support.microsoft.com/help/4493169) <br/> |9 марта 2021 г.  <br/> |[4493227](https://support.microsoft.com/help/4493227) <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |project-x-none  <br/> |Project 2013  <br/> |2 апреля 2019 г. <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |14 июля 2020 г.  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
 |*proof-ll*   -   *cc* <sup>3</sup> <br/> |Office 2013  <br/> |7 мая 2019 г.  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |13.05.14  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |Неприменимо  <br/> |
@@ -119,7 +122,7 @@ ms.locfileid: "50468373"
 |stslist-x-none  <br/> |Office 2013  <br/> |5 февраля 2019 г.  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |vbe7-x-none  <br/> |Office 2013  <br/> |2 июня 2020 г.  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |13 октября 2020 г.  <br/> |[4484435](https://support.microsoft.com/help/4484435) <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |
 |visconv-x-none<sup>2</sup> <br/> |Пакет совместимости Visio 2013  <br/> |14 июля 2015 г.  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|visio-x-none  <br/> |Visio 2013  <br/> |1 сентября 2020 г.  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |14 апреля 2020 г.  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
+|visio-x-none  <br/> |Visio 2013  <br/> |1 сентября 2020 г.  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |9 марта 2021 г.  <br/> |[4486673](https://support.microsoft.com/help/4486673) <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |8 апреля 2014 г.  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |7 ноября 2015 г.  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |word-x-none  <br/> |Word 2013  <br/> |2 июля 2019 г. <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |12 января 2021 г.  <br/> |[4486764](https://support.microsoft.com/help/4486764) <br/>|[4486730](https://support.microsoft.com/help/4486730) <br/>|
