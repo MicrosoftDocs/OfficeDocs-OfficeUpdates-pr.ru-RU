@@ -9,482 +9,87 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
+ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173838"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50603019"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a><span data-ttu-id="968f4-103">Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)</span><span class="sxs-lookup"><span data-stu-id="968f4-103">Release notes for Semi-Annual Enterprise Channel (Preview)</span></span>
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a><span data-ttu-id="5d0d9-103">Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-103">Release notes for Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="968f4-104">Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Полугодовой канал (предварительная корпоративная версия) для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.</span><span class="sxs-lookup"><span data-stu-id="968f4-104">These release notes provide information about new features and non-security updates that are included in Semi-Annual Enterprise Channel (Preview) updates for Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and the subscription versions of the desktop apps for Project and Visio.</span></span>
+<span data-ttu-id="5d0d9-104">Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Полугодовой канал (предварительная корпоративная версия) для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-104">These release notes provide information about new features and non-security updates that are included in Semi-Annual Enterprise Channel (Preview) updates for Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and the subscription versions of the desktop apps for Project and Visio.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="968f4-105">Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления.</span><span class="sxs-lookup"><span data-stu-id="968f4-105">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="968f4-106">Подробнее см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="968f4-106">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> <span data-ttu-id="5d0d9-105">Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-105">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="5d0d9-106">Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-106">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
 
 
-## <a name="version-2008-february-09"></a><span data-ttu-id="968f4-107">Версия 2008: 9 февраля</span><span class="sxs-lookup"><span data-stu-id="968f4-107">Version 2008: February 09</span></span>
-<span data-ttu-id="968f4-108">*Версия 2008 (сборка 13127.21216)*</span><span class="sxs-lookup"><span data-stu-id="968f4-108">*Version 2008 (Build 13127.21216)*</span></span>
+## <a name="version-2102-march-09"></a><span data-ttu-id="5d0d9-107">Версия 2102: 9 марта</span><span class="sxs-lookup"><span data-stu-id="5d0d9-107">Version 2102: March 09</span></span>
+<span data-ttu-id="5d0d9-108">*Версия 2102 (сборка 13801.20294)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-108">*Version 2102 (Build 13801.20294)*</span></span>
 
-<span data-ttu-id="968f4-109">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-109">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
-
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-111">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-111">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-112">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-112">Excel</span></span>
-
-- <span data-ttu-id="968f4-113">Исправлена проблема, из-за которой приложение Excel неожиданно закрывалось при открытии файлов UNC с недопустимыми атрибутами файлов (время создания, время изменения и т. д.)</span><span class="sxs-lookup"><span data-stu-id="968f4-113">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
-
-
-- <span data-ttu-id="968f4-114">Исправлена проблема, из-за которой не осуществлялся перенос параметров десятичных разделителей и разделителей групп разрядов при копировании диаграммы из Excel и ее вставке в Word или PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-114">We fixed an issue where decimal and thousands separators settings would not carry over when copying a chart from Excel and pasting into Word or PowerPoint.</span></span>
-
-
-- <span data-ttu-id="968f4-115">Исправлена проблема, из-за которой производительность выполнения макроса, включающего форматирование диапазона сводной таблицы, снижалась при каждом выполнении макроса.</span><span class="sxs-lookup"><span data-stu-id="968f4-115">We fixed an issue where the performance of running a macro involving PivotTable range formatting would get worse each time the macro is run.</span></span>
-
-
-- <span data-ttu-id="968f4-116">Исправлена проблема, из-за которой удалялись правила условного форматирования при копировании или перемещении листов в другую книгу.</span><span class="sxs-lookup"><span data-stu-id="968f4-116">We fixed an issue where conditional formatting rules were dropped when copying or moving sheets to another workbook.</span></span>
-
-
-- <span data-ttu-id="968f4-117">Исправлена проблема, из-за которой пользователи не могли применять метки конфиденциальности к файлам Excel, если при загрузке приложения был отключен начальный экран.</span><span class="sxs-lookup"><span data-stu-id="968f4-117">We fixed an issue where users were unable to apply sensitivity labels to Excel files when the start screen on app boot was disabled.</span></span>
-
-
-- <span data-ttu-id="968f4-118">Исправлена проблема с открытием облачного файла из папки синхронизации OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-118">We fixed an issue in opening cloud file from OneDrive sync folder.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="968f4-119">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-119">Outlook</span></span>
-
-- <span data-ttu-id="968f4-120">Исправлена проблема, приводившая к эпизодическому прекращению работы Outlook при добавлении или сохранении вложений.</span><span class="sxs-lookup"><span data-stu-id="968f4-120">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-121">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-121">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-122">Исправлена проблема, из-за которой команда размера шрифта, добавленная QAT, автоматически выполнялась для ближайшего определенного размера шрифта при ее обновлении.</span><span class="sxs-lookup"><span data-stu-id="968f4-122">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
-
-
-- <span data-ttu-id="968f4-123">Исправлена проблема, из-за которой при копировании и вставке слайда с использованием параметра "Сохранить исходное форматирование" иногда неожиданно выполнялось копирование поверх нового образца слайдов</span><span class="sxs-lookup"><span data-stu-id="968f4-123">Fixed an issue where copy and paste of a slide with 'keep source formatting' option would sometimes copy over a new slide master unexpectedly</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="968f4-124">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-124">Word</span></span>
-
-- <span data-ttu-id="968f4-125">Исправлена проблема с отслеживанием изменений, из-за которой иногда при открытии документа Word могло появляться диалоговое окно с сообщением об ошибке.</span><span class="sxs-lookup"><span data-stu-id="968f4-125">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
-
-
-- <span data-ttu-id="968f4-126">Исправлена проблема с открытием облачного файла из папки синхронизации OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-126">We fixed an issue in opening cloud file from OneDrive sync folder.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-127">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-127">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-128">Исправлена проблема, не позволявшая открыть файл в Office.</span><span class="sxs-lookup"><span data-stu-id="968f4-128">Fixed an issue that prevented successful open of a file in Office.</span></span>
-
-
-- <span data-ttu-id="968f4-129">Исправлена проблема, из-за которой могли повреждаться документы, содержащие эскизные контуры, примененные к соединителям с помощью форматирования по образцу.</span><span class="sxs-lookup"><span data-stu-id="968f4-129">Fixed an issue where documents containing Sketched outlines applied to connectors via Format Painter could become corrupted.</span></span>
-
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
-
-## <a name="version-2008-january-12"></a><span data-ttu-id="968f4-131">Версия 2008: 12 января</span><span class="sxs-lookup"><span data-stu-id="968f4-131">Version 2008: January 12</span></span>
-<span data-ttu-id="968f4-132">*Версия 2008 (сборка 13127.21064)*</span><span class="sxs-lookup"><span data-stu-id="968f4-132">*Version 2008 (Build 13127.21064)*</span></span>
-
-<span data-ttu-id="968f4-133">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-133">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
-
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-135">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-135">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-136">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-136">Excel</span></span>
-
-- <span data-ttu-id="968f4-137">Исправлена проблема, из-за которой при открытии книг только для чтения, было невозможно обновить данные сводной таблицы.</span><span class="sxs-lookup"><span data-stu-id="968f4-137">Fixed an issue where read-only books would no longer refresh pivot table data when opened.</span></span>
-
-
-- <span data-ttu-id="968f4-138">Это изменение позволяет устранить следующие проблемы: при вставке файла из локальной папки синхронизации OneDrive Excel не отображает правильный значок "Вставить объект".</span><span class="sxs-lookup"><span data-stu-id="968f4-138">This change provides a fix for the following issue: Excel "Insert Object" does not show correct icon when inserts a file from OneDrive local sync folder.</span></span>
-
-
-- <span data-ttu-id="968f4-139">Исправлена проблема, из-за которой клиенты не получали уведомлений о новой версии файла при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="968f4-139">Fixed an issue where customers would incorrectly get notified about a new version of the file when coauthoring.</span></span>
-
-
-- <span data-ttu-id="968f4-140">Исправлена проблема с редактированием, из-за которой использование редактора метода ввода в режиме перезаписи приводило к неправильному изменению дополнительных символов.</span><span class="sxs-lookup"><span data-stu-id="968f4-140">Fixed an editing issue where using IME with Overwrite mode would incorrectly advance extra characters.</span></span>
-
-
-- <span data-ttu-id="968f4-141">Исправлена проблема при использовании данных в режиме реального времени в сочетании с функцией многопоточного пересчета.</span><span class="sxs-lookup"><span data-stu-id="968f4-141">Fixed an issue when using real time data in conjunction with multithreaded recalc functionality.</span></span>
-
-
-- <span data-ttu-id="968f4-142">Исправляет проблему, из-за которой приложение Excel не запускалось или неожиданно завершало работу, если применялись определенные параметры службы "Безопасность Windows" для защиты от эксплойтов (SimExec, CallerCheck).</span><span class="sxs-lookup"><span data-stu-id="968f4-142">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="968f4-143">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-143">Outlook</span></span>
-
-- <span data-ttu-id="968f4-144">Устранена проблема, из-за которой терялось форматирование SmartLinks при сохранении в черновиках.</span><span class="sxs-lookup"><span data-stu-id="968f4-144">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
-
-
-- <span data-ttu-id="968f4-145">Исправлена проблема, из-за которой пользователь не мог настроить текст обоснования при переопределении политики.</span><span class="sxs-lookup"><span data-stu-id="968f4-145">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
-
-
-- <span data-ttu-id="968f4-146">Исправлена проблема, из-за которой китайские иероглифы заменялись на знаки вопроса при сохранении в виде файла OFT.</span><span class="sxs-lookup"><span data-stu-id="968f4-146">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-147">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-147">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-148">Исправлена проблема VBA, приводившая к сбою Slide.Shapes.AddMediaObject2 при использовании устаревших форматов видео (MPG-1, MPEG-2).</span><span class="sxs-lookup"><span data-stu-id="968f4-148">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 would unexpectedly close with legacy video formats (MPG-1,Mpeg-2).</span></span>
-
-
-- <span data-ttu-id="968f4-149">Исправлена проблема, из-за которой некоторые поврежденные файлы PowerPoint открывались неправильно даже после восстановления документа.</span><span class="sxs-lookup"><span data-stu-id="968f4-149">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="968f4-150">Project</span><span class="sxs-lookup"><span data-stu-id="968f4-150">Project</span></span>
-
-- <span data-ttu-id="968f4-151">Исправлена проблема, из-за которой Project мог неожиданно прекращать работу при открытии файлов, в которых контуры ресурсов были указаны определенным образом.</span><span class="sxs-lookup"><span data-stu-id="968f4-151">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
-
-
-### <a name="skype"></a><span data-ttu-id="968f4-152">Skype</span><span class="sxs-lookup"><span data-stu-id="968f4-152">Skype</span></span>
-
-- <span data-ttu-id="968f4-153">Устраняет проблему, из-за которой сертификат TLS-DSK пользователя обновлялся не в ожидаемое время, а только тогда, когда срок его действия оставался менее 12 часов.</span><span class="sxs-lookup"><span data-stu-id="968f4-153">Fixes an issue where a user's TLS-DSK certificate would not renew at the expected time, instead only renewing when less than 12 hours remain on its validity.</span></span>
-
-
-- <span data-ttu-id="968f4-154">Устраняет проблему, при которой пользовательский интерфейс Skype для бизнеса отображается как пустой после входа в систему, когда Office еще не лицензирован.</span><span class="sxs-lookup"><span data-stu-id="968f4-154">Fixes an issue where the Skype for Business UI shows as blank after signing in when Office is not yet licensed.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-155">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-155">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-156">Это изменение решает проблему, связанную с открытием файлов, содержащих устаревшие схемы.</span><span class="sxs-lookup"><span data-stu-id="968f4-156">This change addresses an issue related to opening files containing legacy diagrams.</span></span>
-
-
-- <span data-ttu-id="968f4-157">Это изменение решает проблему с резервным прокси-сервером SVG, в результате которого возникает нарушение прав доступа.</span><span class="sxs-lookup"><span data-stu-id="968f4-157">This change addresses an issue with SVG fallback proxy resulting in access violations.</span></span>
-
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
-
-## <a name="version-2008-december-08"></a><span data-ttu-id="968f4-159">Версия 2008: 8 сентября</span><span class="sxs-lookup"><span data-stu-id="968f4-159">Version 2008: December 08</span></span>
-<span data-ttu-id="968f4-160">*Версия 2008 (сборка 13127.20910)*</span><span class="sxs-lookup"><span data-stu-id="968f4-160">*Version 2008 (Build 13127.20910)*</span></span>
-
-<span data-ttu-id="968f4-161">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-161">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
-
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-163">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-163">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="968f4-164">Access</span><span class="sxs-lookup"><span data-stu-id="968f4-164">Access</span></span>
-
-- <span data-ttu-id="968f4-165">Исправлена ошибка, возникавшая при попытке использовать построитель DSN ODBC</span><span class="sxs-lookup"><span data-stu-id="968f4-165">We fixed an error issue when trying to use ODBC DSN builder</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="968f4-166">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-166">Excel</span></span>
-
-- <span data-ttu-id="968f4-167">Исправлена ошибка, из-за которой не удавалось изменять сводные таблицы и сохранять книги, если они были экспортированы из плана Project.</span><span class="sxs-lookup"><span data-stu-id="968f4-167">Fixed an issue where pivot tables could not be edited and workbooks could not be saved if they were exported from Project plan.</span></span>
-
-
-- <span data-ttu-id="968f4-168">Исправлена ошибка, из-за которой в некоторых случаях при открытии файла в режиме "только для чтения" отображалось несколько панелей сообщений.</span><span class="sxs-lookup"><span data-stu-id="968f4-168">We fixed an issue where in some cases, multiple message bars were appearing when a file was opened in read-only mode.</span></span>
-
-
-- <span data-ttu-id="968f4-169">Исправлена ошибка, из-за которой происходил сбой работы промежуточных итогов структуры при большом количестве повторяющихся значений заголовков столбцов.</span><span class="sxs-lookup"><span data-stu-id="968f4-169">We fixed an issue where outline sub-totals could stop working when there were many duplicate column header values.</span></span>
-
-
-- <span data-ttu-id="968f4-170">Исправлена ошибка, из-за которой происходил сбой работы Excel при обновлении объекта групповой политики (например, с помощью удаленного обновления групповой политики) во время многопоточного пересчета.</span><span class="sxs-lookup"><span data-stu-id="968f4-170">We fixed an issue where Excel would stop working when there is a Group Policy Object update (e.g. via Remote Group Policy Refresh) during multithreaded recalc.</span></span>
-
-
-- <span data-ttu-id="968f4-171">Исправлена ошибка, из-за которой происходил сбой работы Excel при использовании функции промежуточных итогов в более чем 255 столбцах.</span><span class="sxs-lookup"><span data-stu-id="968f4-171">We fixed an issue where Excel would stop working when users use the subtotal function on more than 255 columns.</span></span>
-
-
-- <span data-ttu-id="968f4-172">Улучшен кернинг текста в PowerPoint при копировании содержимого из Excel и его вставке в PowerPoint с помощью функции внедрения.</span><span class="sxs-lookup"><span data-stu-id="968f4-172">Improved text kerning in PowerPoint when when content is copied from Excel and pasted into PowerPoint with the Embed option.</span></span>
-
-
-- <span data-ttu-id="968f4-173">Исправлена ошибка, которая блокировала переключение из режима предварительного просмотра таблицы и редактора запросов в PowerPivot.</span><span class="sxs-lookup"><span data-stu-id="968f4-173">Fixed an issue that would prevent switching from Table Preview and the Query Editor in PowerPivot.</span></span>
-
-
-- <span data-ttu-id="968f4-174">Исправлена ошибка, из-за которой пользователь не мог напрямую открыть файл atomsvc (UTF8+BOM) в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-174">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
-
-
-- <span data-ttu-id="968f4-175">Исправлена ошибка, из-за которой Power Pivot не мог распознавать разделитель вкладок.</span><span class="sxs-lookup"><span data-stu-id="968f4-175">We fixed an issue where Power Pivot will now successfully recognize tab delimiter.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="968f4-176">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-176">Outlook</span></span>
-
-- <span data-ttu-id="968f4-177">Исправлена ошибка, из-за которой поле "Кому" было пустым при отправке отчета о состоянии задачи.</span><span class="sxs-lookup"><span data-stu-id="968f4-177">We fixed an issue that caused the To: field to be empty when sending a status report on a Task.</span></span>
-
-
-- <span data-ttu-id="968f4-178">Исправлена ошибка, из-за которой происходил сбой события MailItem.BeforeAttachmentAdd.</span><span class="sxs-lookup"><span data-stu-id="968f4-178">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
-
-
-- <span data-ttu-id="968f4-179">Исправлена ошибка, из-за которой приложение неожиданно закрывалось при отправке почты Outlook из других приложений.</span><span class="sxs-lookup"><span data-stu-id="968f4-179">We fixed an issue that was causing some users to experience the application to close unexpectedly when sending Outlook mail from applications other than Outlook.</span></span>
-
-
-- <span data-ttu-id="968f4-180">Исправлена ошибка, из-за которой снижалась производительность при перемещении нескольких почтовых элементов между папками в интерактивном режиме.</span><span class="sxs-lookup"><span data-stu-id="968f4-180">We fixed an issue that caused users to experience degraded performance when moving multiple mail items between folders in online mode.</span></span>
-
-
-- <span data-ttu-id="968f4-181">Добавлен раздел реестра, позволяющий пользователям отключить добавление параметра filetime для вложений в операциях IDataObject (т. е. перетаскивание, буфер обмена).</span><span class="sxs-lookup"><span data-stu-id="968f4-181">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="968f4-182">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = параметры filetime исключены 1 = (по умолчанию) параметры filetime включены</span><span class="sxs-lookup"><span data-stu-id="968f4-182">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes are excluded  1 = (default) filetimes are included</span></span>
-
-
-- <span data-ttu-id="968f4-183">Исправлена ошибка, из-за которой исчезали встроенные изображения при ответе на сообщение с меткой защиты от Azure Information Protection.</span><span class="sxs-lookup"><span data-stu-id="968f4-183">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
-
-
-- <span data-ttu-id="968f4-184">Исправлена ошибка, из-за которой имя пользователя отображалось как номер телефона при отправке голосовых сообщений, защищенных службой Azure, в результате чего пользователи классического приложения Outlook не могли открывать голосовые сообщения от внешних пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-184">We fixed an issue that caused the user name to be displayed as a phone number when sending an Azure Protected Voicemail, causing Outlook Desktop users to be unable to open voicemails from external users.</span></span>
-
-
-- <span data-ttu-id="968f4-185">Исправлена ошибка, из-за которой при настройке конфигурации OME добавлялись лишние вложения в элемент электронной почты, в результате чего Outlook шифровал сообщение, даже если на стороне службы был настроен параметр DecryptAttachmentsForEncryptOnly.</span><span class="sxs-lookup"><span data-stu-id="968f4-185">We fixed an issue where setting up OME Configuration was adding an extraneous attachments on the mail item which was forcing Outlook to Encrypt the message even though the DecryptAttachmentsForEncryptOnly option was setup on the service side.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-186">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-186">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-187">Исправлена проблема, из-за которой связанная диаграмма Excel неправильно менялась на листе Excel при изменении исходного пути к локальной папке OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-187">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
-
-
-- <span data-ttu-id="968f4-188">Исправлена ошибка, из-за которой функция "Рады видеть вас снова!</span><span class="sxs-lookup"><span data-stu-id="968f4-188">We fixed an issue due to which the feature ‘Welcome back!</span></span> <span data-ttu-id="968f4-189">Продолжайте работу в Office с того места, на котором остановились" не работала в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-189">Pick up where you left off in the office' was not working in the PowerPoint .</span></span>
-
-
-### <a name="visio"></a><span data-ttu-id="968f4-190">Visio</span><span class="sxs-lookup"><span data-stu-id="968f4-190">Visio</span></span>
-
-- <span data-ttu-id="968f4-191">Исправлена ошибка, из-за которой пользователи Visio для Office 365 не могли создавать прямые линии с помощью соединительных линий для наборов элементов Visio и встроенных шаблонов.</span><span class="sxs-lookup"><span data-stu-id="968f4-191">We fixed an issue where users will be able to create straight lines using connectors in Visio for Office 365 for both custom Visio stencils and in-built templates.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="968f4-192">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-192">Word</span></span>
-
-- <span data-ttu-id="968f4-193">Исправлена ошибка, из-за которой длинные ссылки не сворачивались при сохранении документа в формате HTML.</span><span class="sxs-lookup"><span data-stu-id="968f4-193">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
-
-
-- <span data-ttu-id="968f4-194">Исправлена ошибка, из-за которой при ответе на родительский комментарий с неизвестным расширением в списке расширений ответ получал то же расширение.</span><span class="sxs-lookup"><span data-stu-id="968f4-194">We fixed an issue where if you reply to a parent comment that has unknown extensions in an extension list, the reply will get those same extensions.</span></span>
-
-
-- <span data-ttu-id="968f4-195">Устранена проблема с атрибутом сообщения "Не пересылать" в Outlook.</span><span class="sxs-lookup"><span data-stu-id="968f4-195">We fixed an issue with Outlook with message set to Do not forward.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-196">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-196">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-197">Устранена проблема, из-за которой пользователи не могли импортировать списки SPO при отключенной ADAL.</span><span class="sxs-lookup"><span data-stu-id="968f4-197">Addresses an issue that prevented users from importing SPO Lists when ADAL was disabled.</span></span>
-
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
-
-## <a name="version-2008-november-10"></a><span data-ttu-id="968f4-199">Версия 2008: 10 ноября</span><span class="sxs-lookup"><span data-stu-id="968f4-199">Version 2008: November 10</span></span>
-<span data-ttu-id="968f4-200">*Версия 2008 (сборка 13127.20760)*</span><span class="sxs-lookup"><span data-stu-id="968f4-200">*Version 2008 (Build 13127.20760)*</span></span>
-
-<span data-ttu-id="968f4-201">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-201">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
-
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-203">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-203">Resolved issues</span></span>
-
-### <a name="excel"></a><span data-ttu-id="968f4-204">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-204">Excel</span></span>
-
-- <span data-ttu-id="968f4-205">Исправлена проблема, из-за которой некоторые функции выдавали неправильный результат после загрузки книги.</span><span class="sxs-lookup"><span data-stu-id="968f4-205">We fixed an issue where certain functions would have an incorrect result after loading a workbook.</span></span>
-
-
-- <span data-ttu-id="968f4-206">Исправлена проблема с неожиданным завершением работы приложения, которое было связано со ссылками и именованными диапазонами надстройки XLAM.</span><span class="sxs-lookup"><span data-stu-id="968f4-206">We fixed an issue where the application would terminate unexpectedly which was related to XLAM add-in references and named ranges.</span></span>
-
-
-- <span data-ttu-id="968f4-207">Исправлена проблема, из-за которой создавались неверные ссылки на ячейки при использовании макроса для настройки свойства FormulaR1C1 для диапазона, если лист диаграммы являлся активным листом.</span><span class="sxs-lookup"><span data-stu-id="968f4-207">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
-
-
-- <span data-ttu-id="968f4-208">Исправлена проблема, которая могла вызывать сообщение об ошибке "При попытке вычисления одной или нескольких формул ресурсы Excel закончились".</span><span class="sxs-lookup"><span data-stu-id="968f4-208">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
-
-
-- <span data-ttu-id="968f4-209">Исправлена проблема с испанским языком в Office, когда в списках проверки данных могли отображаться не все элементы.</span><span class="sxs-lookup"><span data-stu-id="968f4-209">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
-
-
-- <span data-ttu-id="968f4-210">Исправлена проблема, которая могла приводить к зависанию при обновлении сводных таблиц OLAP.</span><span class="sxs-lookup"><span data-stu-id="968f4-210">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="968f4-211">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-211">Outlook</span></span>
-
-- <span data-ttu-id="968f4-212">Исправлена проблема, из-за которой пользователи теперь могут отключить службу IRM (управление правами на доступ к данным) для Outlook, не отключая ее для других приложений Office.</span><span class="sxs-lookup"><span data-stu-id="968f4-212">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
-
-
-- <span data-ttu-id="968f4-213">Исправлена ошибка, из-за которой пользователи не могли предоставить разрешение "Редактор" своим делегатам.</span><span class="sxs-lookup"><span data-stu-id="968f4-213">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
-
-
-- <span data-ttu-id="968f4-214">Исправлена ошибка, из-за которой неожиданно завершалась работа приложения при выделении пользователем результата поиска.</span><span class="sxs-lookup"><span data-stu-id="968f4-214">We fixed an issue that caused users to experience the application to terminate unexpectedly when selecting a search result.</span></span>
-
-
-- <span data-ttu-id="968f4-215">Исправлена проблема, из-за которой поисковые запросы в календарях групп не возвращали никаких результатов.</span><span class="sxs-lookup"><span data-stu-id="968f4-215">We fixed an issue that caused searches in Group calendars fail to return any results.</span></span>
-
-
-- <span data-ttu-id="968f4-216">Исправлена проблема, из-за которой у делегатов возникали периодические сбои при открытии общих папок в другом почтовом ящике.</span><span class="sxs-lookup"><span data-stu-id="968f4-216">Addressed an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
-
-
-- <span data-ttu-id="968f4-217">Исправлена проблема, из-за которой некоторые автоматически созданные сообщения электронной почты отправлялись пустыми, если строка темы была пустой.</span><span class="sxs-lookup"><span data-stu-id="968f4-217">Addressed an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
-
-
-- <span data-ttu-id="968f4-218">Исправлена ошибка, из-за которой заголовки сообщений на китайском языке искажались при ответе или пересылке.</span><span class="sxs-lookup"><span data-stu-id="968f4-218">We fixed an issue that caused the headers of Chinese messages to get garbled when replying or forwarding.</span></span>
-
-- <span data-ttu-id="968f4-219">Исправлена проблема, из-за которой необязательные сетевые функции блокировали загрузку веб-надстроек.</span><span class="sxs-lookup"><span data-stu-id="968f4-219">We fixed an issue where optional connected experiences blocked web add-ins from loading.</span></span>  <br /><span data-ttu-id="968f4-220">Дополнительные сведения см. в этой [публикации в блоге](https://developer.microsoft.com/ru-RU/office/blogs/outlook-add-ins-and-optional-connected-experiences/)</span><span class="sxs-lookup"><span data-stu-id="968f4-220">See details in [blog post](https://developer.microsoft.com/ru-RU/office/blogs/outlook-add-ins-and-optional-connected-experiences/)</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-221">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-221">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-222">Исправлена ошибка, из-за которой содержимое надстройки Forms не отображалось после вставки, пока пользователь не щелкал другой слайд для отображения.</span><span class="sxs-lookup"><span data-stu-id="968f4-222">We have fixed an issue where Forms content add-in doesn't render after insertion until user click to another slide to make it show.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-223">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-223">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-224">Исправлена проблема для коммерческих пользователей, применяющих System Center Configuration Manager или другие средства управления для обновления Office с использованием защиты от потери данных в конечной точке Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="968f4-224">Addressed an issue for commercial customers who leverage System Center Configuration Manager or other management tool for the Office Update using Microsoft 365 Endpoint data loss prevention.</span></span>
-
-- <span data-ttu-id="968f4-225">Исправлена проблема с неработающим API сообщений для надстроек Office.</span><span class="sxs-lookup"><span data-stu-id="968f4-225">Fix an issue that the Messaging API for Office Add-ins is not working.</span></span>
-
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
-
-## <a name="version-2008-october-13"></a><span data-ttu-id="968f4-227">Версия 2008: 13 октября</span><span class="sxs-lookup"><span data-stu-id="968f4-227">Version 2008: October 13</span></span>
-<span data-ttu-id="968f4-228">*Версия 2008 (сборка 13127.20638)*</span><span class="sxs-lookup"><span data-stu-id="968f4-228">*Version 2008 (Build 13127.20638)*</span></span>
-
-<span data-ttu-id="968f4-229">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-229">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
-
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-231">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-231">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-232">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-232">Excel</span></span>
-
-- <span data-ttu-id="968f4-233">Исправлена ошибка с API PivotDateFilter, из-за которой условия фильтрации "До" и "После" менялись местами.</span><span class="sxs-lookup"><span data-stu-id="968f4-233">Fixed a bug with PivotDateFilter APIs in which 'Before' and 'After' filter conditions were reversed.</span></span>
-
-
-- <span data-ttu-id="968f4-234">Исправлена ошибка, из-за которой пользователи не могли изменить фильтр сводной таблицы, потому что его параметр был настроен на значение, которого больше нет в базе данных Analysis Services.</span><span class="sxs-lookup"><span data-stu-id="968f4-234">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
-
-
-- <span data-ttu-id="968f4-235">Исправлена проблема, из-за которой Excel мог аварийно завершать работу при использовании экспресс-анализа после закрепления верхней строки листа.</span><span class="sxs-lookup"><span data-stu-id="968f4-235">Fixed an issue where Excel could crash when using the Quick Analysis after freezing the top row of the sheet.</span></span>
-
-
-- <span data-ttu-id="968f4-236">Исправлена проблема, которая могла вызывать предупреждение о поврежденной книге, если она содержала формулы с ЕСНД().</span><span class="sxs-lookup"><span data-stu-id="968f4-236">Fixed an issue that could cause a warning about a corrupt workbook if it contained formulas using IFNA().</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="968f4-237">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-237">Outlook</span></span>
-
-- <span data-ttu-id="968f4-238">Исправлена проблема, из-за которой пользователи не могли закрыть общие календари, щелкнув значок "X" в углу.</span><span class="sxs-lookup"><span data-stu-id="968f4-238">Addresses an issue that caused users to be unable to close shared calendars by clicking on the "X" in the corner.</span></span>
-
-
-- <span data-ttu-id="968f4-239">Исправлена проблема, из-за которой иногда не удавалось применить параметр "Включить улучшения общего календаря" к существующим общим календарям.</span><span class="sxs-lookup"><span data-stu-id="968f4-239">Addresses an issue that caused the "Turn on shared calendar improvements" setting to sometimes fail to apply to existing shared calendars.</span></span>
-
-
-- <span data-ttu-id="968f4-240">Исправлена проблема, из-за которой при открытии облачного вложения ошибка отображалась на странице безопасных ссылок, а не в открываемом документе.</span><span class="sxs-lookup"><span data-stu-id="968f4-240">Addresses an issue that caused users to see an error on the safelinks page instead of the document they were trying to open when opening a cloud attachment.</span></span>
-
-
-- <span data-ttu-id="968f4-241">Исправлена проблема с производительностью при отправке вложений.</span><span class="sxs-lookup"><span data-stu-id="968f4-241">Addresses a performance issue with attachment upload.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-242">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-242">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-243">Это изменение исправляет проблему, связанную с функцией экспорта в GIF с анимацией, когда не выполнялся экспорт при нажатии кнопки "Экспорт".</span><span class="sxs-lookup"><span data-stu-id="968f4-243">This change addresses an issue with Export to Animated GIF feature where clicking on Export button was not exporting.</span></span>
-
-
-- <span data-ttu-id="968f4-244">Исправление системы безопасности для решения проблемы, связанной с отключением защиты IRM при открытии файла PowerPoint в режиме защищенного просмотра.</span><span class="sxs-lookup"><span data-stu-id="968f4-244">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
-
-- <span data-ttu-id="968f4-245">Исправлена проблема в диалоговом окне "Параметры действия", из-за которой возникал сбой в приложении PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-245">We have fixed an issue in Action Settings dialog which was causing a crash in PowerPoint app.</span></span>
-
-### <a name="visio"></a><span data-ttu-id="968f4-246">Visio</span><span class="sxs-lookup"><span data-stu-id="968f4-246">Visio</span></span>
-
-- <span data-ttu-id="968f4-247">Исправлена проблема, из-за которой возникал сбой динамического просмотра при выравнивании текста.</span><span class="sxs-lookup"><span data-stu-id="968f4-247">We fixed an issue that caused the Live preview to crash on text alignment.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="968f4-248">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-248">Word</span></span>
-
-- <span data-ttu-id="968f4-249">Исправлена проблема, которая вызывала сбой при открытии некоторых очень больших сообщений электронной почты.</span><span class="sxs-lookup"><span data-stu-id="968f4-249">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
-
-
-- <span data-ttu-id="968f4-250">Исправлена проблема, из-за которой мог возникать сбой при открытии документа.</span><span class="sxs-lookup"><span data-stu-id="968f4-250">We fixed an issue which user might experience crash when opening a document.</span></span>
-
-
-- <span data-ttu-id="968f4-251">Устранена проблема, которая могла вызвать сбой при загрузке Word.</span><span class="sxs-lookup"><span data-stu-id="968f4-251">Resolved an issue that may have caused a crash when booting Word.</span></span>
-
-
-- <span data-ttu-id="968f4-252">Исправлена проблема с диалоговым окном "Коллекция стилей".</span><span class="sxs-lookup"><span data-stu-id="968f4-252">We fixed an issue with Style Gallery dialog.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-253">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-253">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-254">Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера.</span><span class="sxs-lookup"><span data-stu-id="968f4-254">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="968f4-255">Сообщения будут изменены на «Мало тонера/чернил» и «Нет тонера/чернил».</span><span class="sxs-lookup"><span data-stu-id="968f4-255">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
-
-
-- <span data-ttu-id="968f4-256">Исправлена высокая загрузка ЦП при простое с использованием GIF или анимированных трехмерных моделей</span><span class="sxs-lookup"><span data-stu-id="968f4-256">Fixes high CPU usage on idle with GIF/animated model3D</span></span>
-
-
-- <span data-ttu-id="968f4-257">Это изменение устраняет сбой при запуске приложений Office из-за невозможности загрузки d2d1.dll.</span><span class="sxs-lookup"><span data-stu-id="968f4-257">This change addresses a crash when launching Office apps due to failing to load d2d1.dll.</span></span>
-
-
-
-[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
-
-## <a name="version-2008-september-08"></a><span data-ttu-id="968f4-259">Версия 2008: 08 сентября</span><span class="sxs-lookup"><span data-stu-id="968f4-259">Version 2008: September 08</span></span>
-<span data-ttu-id="968f4-260">*Версия 2008 (сборка 13127.20408)*</span><span class="sxs-lookup"><span data-stu-id="968f4-260">*Version 2008 (Build 13127.20408)*</span></span>
-
-<span data-ttu-id="968f4-261">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-261">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-109">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-109">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="feature-updates"></a><span data-ttu-id="968f4-263">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="968f4-263">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="968f4-264">Access</span><span class="sxs-lookup"><span data-stu-id="968f4-264">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="5d0d9-111">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="5d0d9-111">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-112">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-112">Excel</span></span>
 
-- <span data-ttu-id="968f4-265">**Повышайте эффективность работы в конструкторе запросов, режиме SQL и окне "Схема данных".** Щелкните правой кнопкой мыши таблицу для ее открытия, проектирования, изменения размера или скрытия.</span><span class="sxs-lookup"><span data-stu-id="968f4-265">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="968f4-266">Находите и заменяйте текст в режиме SQL.</span><span class="sxs-lookup"><span data-stu-id="968f4-266">Search and replace text in SQL View.</span></span> <span data-ttu-id="968f4-267">Выделяйте несколько таблиц в окне схемы данных.</span><span class="sxs-lookup"><span data-stu-id="968f4-267">Select multiple tables in the Relationships window.</span></span>
+- <span data-ttu-id="5d0d9-113">**Произвольное выделение и ластик в панели инструментов рукописного ввода.** При использовании средств рисования в панели инструментов рукописного ввода теперь доступно произвольное выделение и ластик.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-113">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span><br /><span data-ttu-id="5d0d9-114">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-114">See details in [blog post](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span></span>
 
-- <span data-ttu-id="968f4-268">**Быстрое добавление таблиц.** Используйте область задач "Добавление таблиц", которая остается открытой во время работы, чтобы добавлять таблицы в связи и запросы.</span><span class="sxs-lookup"><span data-stu-id="968f4-268">**Add tables with fewer clicks:** Use the Add Tables task pane, which stays open while you work, to add tables to relationships and queries.</span></span> [<span data-ttu-id="968f4-269">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-269">Learn more</span></span>](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- <span data-ttu-id="5d0d9-115">**Связь с PDF.** Связывайте с PDF, импортируйте, обновляйте данные из PDF.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-115">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="5d0d9-116">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-116">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-### <a name="excel"></a><span data-ttu-id="968f4-270">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-270">Excel</span></span>
+- <span data-ttu-id="5d0d9-117">**Создание переменных для использования в формулах.** Повышайте производительность, удобочитаемость и компонуемость с помощью функции ПУСТЬ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-117">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="5d0d9-118">Эта функция позволяет создавать именованные переменные в новых или уже существующих формулах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-118">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="5d0d9-119">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-119">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="5d0d9-120">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-120">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
 
-- <span data-ttu-id="968f4-271">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="968f4-271">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="968f4-272">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-272">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- <span data-ttu-id="5d0d9-121">**Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-121">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span>  <span data-ttu-id="5d0d9-122">Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-122">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5d0d9-123">Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-123">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5d0d9-124">Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-124">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="5d0d9-125">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-125">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="5d0d9-126">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-126">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-- <span data-ttu-id="968f4-273">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-273">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="968f4-274">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="968f4-274">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
+- <span data-ttu-id="5d0d9-127">**Получение данных организации из Power BI с помощью типов данных.** Типы данных Excel из Power BI теперь развертываются для участников программы предварительной оценки в организациях с Office 365 / Microsoft 365 и планом обслуживания Power BI Pro.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-127">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 / Microsoft 365 and the Power BI Pro service plan.</span></span> <span data-ttu-id="5d0d9-128">Получение необходимой информации и легкость ее обновления чрезвычайно важны для многих повседневных рабочих процессов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-128">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="5d0d9-129">Мы предоставляем вам доступ к информации вашей компании или организации из Power BI как типа данных Excel, что расширяет ваши возможности получения связанных данных для электронных таблиц.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-129">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="5d0d9-130">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-130">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="5d0d9-131">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-131">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-- <span data-ttu-id="968f4-275">**Создание сводных таблиц на основе наборов данных в Power BI.** В Excel несколькими щелчками мыши можно создавать сводные таблицы, подключенные к хранящимся в Power BI наборам данных.</span><span class="sxs-lookup"><span data-stu-id="968f4-275">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="968f4-276">Это позволит вам наиболее эффективно использовать и сводные таблицы, и Power BI.</span><span class="sxs-lookup"><span data-stu-id="968f4-276">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="968f4-277">Производите вычисления с данными защищенных наборов данных Power BI, обобщайте и анализируйте их с помощью сводных таблиц.</span><span class="sxs-lookup"><span data-stu-id="968f4-277">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span> [<span data-ttu-id="968f4-278">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-278">Learn more</span></span>](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br /><span data-ttu-id="968f4-279">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span><span class="sxs-lookup"><span data-stu-id="968f4-279">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
+- <span data-ttu-id="5d0d9-132">**Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-132">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5d0d9-133">Преобразование не требуется.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-133">No conversion required.</span></span><br /><span data-ttu-id="5d0d9-134">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-134">See details in [blog post](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="968f4-280">**Ваши любимые функции Excel теперь работают быстрее.** Функции СУММЕСЛИМН, СРЗНАЧЕСЛИМН, СЧЁТЕСЛИМН, МАКСЕСЛИМН и МИНЕСЛИМН теперь работают намного быстрее.</span><span class="sxs-lookup"><span data-stu-id="968f4-280">**Your favorite Excel functions just got faster:** The SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS functions are much faster than ever before.</span></span> <span data-ttu-id="968f4-281">Быстрее переходите к итоговой строке.</span><span class="sxs-lookup"><span data-stu-id="968f4-281">Get to the bottom line more quickly.</span></span> <span data-ttu-id="968f4-282">Попробуйте уже сейчас.</span><span class="sxs-lookup"><span data-stu-id="968f4-282">Try one now.</span></span>
+- <span data-ttu-id="5d0d9-135">**Создание профессиональных схем Visio в Excel.** Создавайте на листе схемы, основанные на данных, например блок-схемы или организационные диаграммы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-135">**Make polished Visio diagrams in Excel:** Create data-driven diagrams like flowcharts or organizational charts from data in a worksheet.</span></span> [<span data-ttu-id="5d0d9-136">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-136">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- <span data-ttu-id="968f4-283">**Улучшение функции Realtimedata (RTD):** В Office 365 версии 2002 канала Monthly channel или более поздних версиях функция Excel RealTimeData (ДРВ) работает гораздо быстрее, чем в вычисление данных в таблице в Excel 2010.</span><span class="sxs-lookup"><span data-stu-id="968f4-283">**Realtimedata (RTD) improvements:** In Office 365 version 2002 monthly channel and later, Excel's RealTimeData (RTD) function is much faster than Excel 2010 calculating data in the spreadsheet.</span></span> <span data-ttu-id="968f4-284">Мы удалили узкие места в базовой памяти и структурах данных, а также обеспечили потокобезопасность, чтобы разрешить вычисление во всех доступных потоках многопоточного пересчета (MTR).</span><span class="sxs-lookup"><span data-stu-id="968f4-284">We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow  it to be calculated on all available threads of Multithreaded recalculation (MTR).</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-137">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-137">Outlook</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-285">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-285">Outlook</span></span>
+- <span data-ttu-id="5d0d9-138">**Помощь в защите данных в группе.** Метка конфиденциальности, которую можно выбрать при создании группы, применяется к сообщениям электронной почты, документам и командным сайтам группы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-138">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites.</span></span>
 
-- <span data-ttu-id="968f4-286">**Общие календари стали обновляться быстрее.** Outlook может обновлять общие календари в Office 365 с помощью API REST.</span><span class="sxs-lookup"><span data-stu-id="968f4-286">**Shared calendar updates just got faster:** For shared calendars in Office 365, Outlook can update these calendars using the REST API.</span></span> <span data-ttu-id="968f4-287">Включите предварительный просмотр для ускорения и повышения надежности обновлений в общих календарях.</span><span class="sxs-lookup"><span data-stu-id="968f4-287">Turn on the preview for faster and more reliable updates to shared calendars.</span></span>
+- <span data-ttu-id="5d0d9-139">**Уведомления об инцидентах для ИТ-администраторов.** Глобальные администраторы клиентов Microsoft 365 и администраторы приложений Office будут уведомляться об инцидентах Outlook и Office 365 Exchange, влияющих на пользователей, в новой правой боковой панели в Outlook для Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-139">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="5d0d9-140">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-140">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- <span data-ttu-id="968f4-288">**Лучшие результаты - в одно мгновение:** мы обновили возможности поиска, чтобы сделать их умнее, быстрее и надежнее, чем когда-либо.</span><span class="sxs-lookup"><span data-stu-id="968f4-288">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="968f4-289">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-289">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- <span data-ttu-id="5d0d9-141">**Создание опросов в Outlook с помощью быстрого опроса.** Можно легко создать опрос, собрать голоса и просмотреть результаты в сообщении электронной почты. [Подробнее](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-141">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
 
-- <span data-ttu-id="968f4-290">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-290">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="968f4-291">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="968f4-291">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
+- <span data-ttu-id="5d0d9-142">**Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-142">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5d0d9-143">Преобразование не требуется.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-143">No conversion required.</span></span><br /><span data-ttu-id="5d0d9-144">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-144">See details in [blog post](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="968f4-292">**Перетаскивайте письма в вашу собственную группу.** Перемещайте и копируйте сообщения и беседы, перетаскивая их из папки "Входящие".</span><span class="sxs-lookup"><span data-stu-id="968f4-292">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="968f4-293">Общий доступ к перенесенным сообщениям будет предоставляться всем участникам группы.</span><span class="sxs-lookup"><span data-stu-id="968f4-293">Messages you drag will be shared with all group members.</span></span><br /><span data-ttu-id="968f4-294">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)</span><span class="sxs-lookup"><span data-stu-id="968f4-294">See details in [blog post](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)</span></span>
+- <span data-ttu-id="5d0d9-145">**Новая функция "Поиск помещений".** Поиск конференц-залов с учетом различных возможностей. </span><span class="sxs-lookup"><span data-stu-id="5d0d9-145">**New room finder:** Search for conference rooms by different capabilities.</span></span>
 
-- <span data-ttu-id="968f4-295">**Обновления Календаря.** Ознакомьтесь с наглядными обновлениями, упрощающими сканирование календаря.</span><span class="sxs-lookup"><span data-stu-id="968f4-295">**Calendar gets a makeover:** See visual updates that make your calendar easier to scan.</span></span> [<span data-ttu-id="968f4-296">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-296">Learn more</span></span>](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br /><span data-ttu-id="968f4-297">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span><span class="sxs-lookup"><span data-stu-id="968f4-297">See details in [blog post](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span></span>
+- <span data-ttu-id="5d0d9-146">**Поиск естественными фразами.** Используйте обычные фразы, например "запись к ветеринару на прошлой неделе", чтобы отфильтровать и сузить область поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-146">**Search for it the way you'd say it:** Use everyday language like "vet appointment last week" to filter and narrow your search.</span></span>
 
-- <span data-ttu-id="968f4-298">**Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям.</span><span class="sxs-lookup"><span data-stu-id="968f4-298">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="968f4-299">Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши.</span><span class="sxs-lookup"><span data-stu-id="968f4-299">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span> [<span data-ttu-id="968f4-300">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-300">Learn more</span></span>](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
+- <span data-ttu-id="5d0d9-147">**Быстрое повторное открытие элементов из предыдущего сеанса Outlook.** Добавлена возможность быстро открывать элементы из предыдущего сеанса Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-147">**Option to quickly reopen items from previous Outlook session:** We added an option to quickly reopen items from a previous Outlook session.</span></span><br /><span data-ttu-id="5d0d9-148">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/automatically-restore-windows-in-outlook)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-148">See details in [blog post](https://insider.office.com/ru-RU/blog/automatically-restore-windows-in-outlook)</span></span>
 
-- <span data-ttu-id="968f4-301">**Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа?</span><span class="sxs-lookup"><span data-stu-id="968f4-301">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="968f4-302">Теперь Outlook обнаруживает это и помогает вам подключиться.</span><span class="sxs-lookup"><span data-stu-id="968f4-302">Outlook now detects this and helps you get connected.</span></span><br /><span data-ttu-id="968f4-303">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)</span><span class="sxs-lookup"><span data-stu-id="968f4-303">See details in [blog post](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-149">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-149">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-304">**Получение предложений электронной почты при поиске пользователя.** Когда вы вводите имя пользователя в поле поиска, в предложения поиска включаются наиболее подходящие сообщения электронной почты.</span><span class="sxs-lookup"><span data-stu-id="968f4-304">**Get email suggestions when you search for a person:** When you type a person’s name in the Search box, the most relevant email messages will be included with your search suggestions.</span></span> [<span data-ttu-id="968f4-305">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-305">Learn more</span></span>](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- <span data-ttu-id="5d0d9-150">**Произвольное выделение и ластик в панели инструментов рукописного ввода.** При использовании средств рисования в панели инструментов рукописного ввода теперь доступно произвольное выделение и ластик.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-150">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span><br /><span data-ttu-id="5d0d9-151">Дополнительные сведения см. в [записи блога](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-151">See details in [blog post](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-306">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-306">PowerPoint</span></span>
+- <span data-ttu-id="5d0d9-152">**Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-152">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span>  <span data-ttu-id="5d0d9-153">Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-153">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5d0d9-154">Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-154">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5d0d9-155">Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-155">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="5d0d9-156">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-156">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="5d0d9-157">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-157">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-- <span data-ttu-id="968f4-307">**Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие.</span><span class="sxs-lookup"><span data-stu-id="968f4-307">**Get their attention with \@mentions:** Use @mentions in comments to let co-workers know when you need their input.</span></span> [<span data-ttu-id="968f4-308">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-308">Learn more</span></span>](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- <span data-ttu-id="5d0d9-158">**Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-158">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5d0d9-159">Преобразование не требуется.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-159">No conversion required.</span></span><br /><span data-ttu-id="5d0d9-160">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-160">See details in [blog post](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="968f4-309">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="968f4-309">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="968f4-310">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-310">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+### <a name="visio"></a><span data-ttu-id="5d0d9-161">Visio</span><span class="sxs-lookup"><span data-stu-id="5d0d9-161">Visio</span></span>
 
-- <span data-ttu-id="968f4-311">**Быстрое создание GIF.** Один слайд, один кадр.</span><span class="sxs-lookup"><span data-stu-id="968f4-311">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="968f4-312">Легко создавайте циклические GIF-изображения в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-312">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="968f4-313">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-313">Learn more</span></span>](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br /><span data-ttu-id="968f4-314">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)</span><span class="sxs-lookup"><span data-stu-id="968f4-314">See details in [blog post](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)</span></span>
+- <span data-ttu-id="5d0d9-162">**Новые наборы элементов и фигуры Azure.** Мы добавили множество дополнительных наборов элементов, чтобы помочь вам создавать современные диаграммы Azure.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-162">**New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams.</span></span> [<span data-ttu-id="5d0d9-163">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-163">Learn more</span></span>](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- <span data-ttu-id="968f4-315">**Улучшенные диаграммы.** Более удобное создание диаграмм от руки за счет использования улучшенных соединителей и более совершенного процесса преобразования рукописного ввода.</span><span class="sxs-lookup"><span data-stu-id="968f4-315">**Better diagrams:** With better connectors and a smoother ink conversion process you can ink your ideas more confidently.</span></span> [<span data-ttu-id="968f4-316">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-316">Learn more</span></span>](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+### <a name="word"></a><span data-ttu-id="5d0d9-164">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-164">Word</span></span>
 
-- <span data-ttu-id="968f4-317">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-317">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="968f4-318">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="968f4-318">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
+- <span data-ttu-id="5d0d9-165">**Произвольное выделение и ластик в панели инструментов рукописного ввода.** При использовании средств рисования в панели инструментов рукописного ввода теперь доступно произвольное выделение и ластик.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-165">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span><br /><span data-ttu-id="5d0d9-166">Дополнительные сведения см. в [записи блога](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-166">See details in [blog post](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span></span>
 
-- <span data-ttu-id="968f4-319">**Комментарии.** Новые функций комментирования в PowerPoint позволяют быстро и легко находить и добавлять комментарии к документам.</span><span class="sxs-lookup"><span data-stu-id="968f4-319">**Comments:** The new commenting experience in PowerPoint allows you to quickly and easily discover and add comments to your documents.</span></span> <span data-ttu-id="968f4-320">Модернизируйте совместную работу с помощью новых функций, таких как привязка комментариев, сопоставление, задачи, улучшенные уведомления об упоминаниях и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-320">Modernize your collaboration workflows with new features like comment anchoring, resolve, tasks, improved mention notifications, and much more.</span></span> [<span data-ttu-id="968f4-321">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-321">Learn more</span></span>](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
+- <span data-ttu-id="5d0d9-167">**Инструменты всегда под рукой.** На панели элементов "Рисование" найдите интеллектуальное перо, с помощью которого к тексту можно добавить жесты рукописного ввода.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-167">**Keep your tools handy:** In your drawing toolbox, find the intelligent pen that allows you to add ink gestures to text.</span></span> [<span data-ttu-id="5d0d9-168">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-168">Learn more</span></span>](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br /><span data-ttu-id="5d0d9-169">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-169">See details in [blog post](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)</span></span>
 
-- <span data-ttu-id="968f4-322">**Синхронизировать изменения во время презентации:** Синхронизируйте изменения всякий раз, когда они вносятся, даже когда презентация находится в режиме слайд-шоу.</span><span class="sxs-lookup"><span data-stu-id="968f4-322">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span> [<span data-ttu-id="968f4-323">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-323">Learn more</span></span>](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br /><span data-ttu-id="968f4-324">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span><span class="sxs-lookup"><span data-stu-id="968f4-324">See details in [blog post](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span></span>
+- <span data-ttu-id="5d0d9-170">**Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-170">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span>  <span data-ttu-id="5d0d9-171">Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-171">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="5d0d9-172">Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-172">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="5d0d9-173">Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-173">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="5d0d9-174">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-174">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="5d0d9-175">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-175">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-- <span data-ttu-id="968f4-325">**Ссылка на слайд:** попросите коллег поучаствовать в создании презентации и направьте их прямо на нужный слайд.</span><span class="sxs-lookup"><span data-stu-id="968f4-325">**Link to a slide:** Ask a colleague to contribute to your slide deck, and start them directly on the slide you need help with.</span></span> [<span data-ttu-id="968f4-326">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-326">Learn more</span></span>](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)<br /><span data-ttu-id="968f4-327">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)</span><span class="sxs-lookup"><span data-stu-id="968f4-327">See details in [blog post](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)</span></span>
+- <span data-ttu-id="5d0d9-176">**Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-176">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="5d0d9-177">Преобразование не требуется.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-177">No conversion required.</span></span><br /><span data-ttu-id="5d0d9-178">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-178">See details in [blog post](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="968f4-328">**Улучшена производительность потокового видео в PowerPoint.** Мы улучшили скорость воспроизведения в видеороликах Microsoft Stream, чтобы сократить время загрузки видео и обеспечить удобство просмотра.</span><span class="sxs-lookup"><span data-stu-id="968f4-328">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="968f4-329">Используйте корпоративные видео из Microsoft Stream для улучшения презентаций.</span><span class="sxs-lookup"><span data-stu-id="968f4-329">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-179">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-179">Office Suite</span></span>
 
-
-### <a name="word"></a><span data-ttu-id="968f4-330">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-330">Word</span></span>
-
-- <span data-ttu-id="968f4-331">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="968f4-331">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="968f4-332">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-332">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-- <span data-ttu-id="968f4-333">**Лассо для рукописных фрагментов.** С помощью инструмента "лассо" на вкладке "Рисование" можно выбрать объекты, нарисованные от руки.</span><span class="sxs-lookup"><span data-stu-id="968f4-333">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="968f4-334">Выделяйте отдельные фрагменты или целые слова.</span><span class="sxs-lookup"><span data-stu-id="968f4-334">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="968f4-335">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-335">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-- <span data-ttu-id="968f4-336">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-336">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="968f4-337">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="968f4-337">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
-
-- <span data-ttu-id="968f4-338">**Подтверждение действий в средстве чтения с экрана.** Подтверждение действий — это важное требование для обеспечения специальных возможностей.</span><span class="sxs-lookup"><span data-stu-id="968f4-338">**Confirmation of action in screen readers:** Confirmation of action is an important accessibility requirement.</span></span> <span data-ttu-id="968f4-339">С появлением нового API уведомлений из Windows мы можем оповещать пользователей средства чтения с экрана об успехе их действий.</span><span class="sxs-lookup"><span data-stu-id="968f4-339">With the introduction of a new Notification API from Windows, we are now able to alert screen reader users about the success of their actions.</span></span> <span data-ttu-id="968f4-340">Теперь пользователи экранного диктора в Word для Win32 уведомляются о вырезании, копировании, вставке, использовании полужирного шрифта, курсива или подчеркивания, отмене, повторе, автозамене и автоматическом использовании прописных букв.</span><span class="sxs-lookup"><span data-stu-id="968f4-340">Cut, copy, paste, bold, italic, underline, undo, redo, auto corrections, and auto-capitalizations are now all announced to Narrator users in Win32 Word.</span></span> <span data-ttu-id="968f4-341">Чтобы включить эту возможность, включите экранный диктор с помощью клавиш Windows+CTRL+ВВОД.</span><span class="sxs-lookup"><span data-stu-id="968f4-341">To enable this feature, turn on Narrator by pressing windows + ctrl + enter.</span></span><br /><span data-ttu-id="968f4-342">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)</span><span class="sxs-lookup"><span data-stu-id="968f4-342">See details in [blog post](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="968f4-343">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-343">Office Suite</span></span>
-
-- <span data-ttu-id="968f4-344">**Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений.</span><span class="sxs-lookup"><span data-stu-id="968f4-344">**Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span>
+- <span data-ttu-id="5d0d9-180">**Области с вкладками.** Теперь вы можете переключаться между областями, используя интерфейс вкладок в правой части приложения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-180">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="5d0d9-181">Интерфейс отображается только при открытии 2 вкладок и более.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-181">The UI will only be visible when you have 2+ panes open.</span></span><br /><span data-ttu-id="5d0d9-182">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/20/improved-pane-management/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-182">See details in [blog post](https://blog-insider.office.com/2020/02/20/improved-pane-management/)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -493,732 +98,1509 @@ ms.locfileid: "50173838"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-347">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-347">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="968f4-348">Доступ</span><span class="sxs-lookup"><span data-stu-id="968f4-348">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-185">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-185">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-186">Доступ</span><span class="sxs-lookup"><span data-stu-id="5d0d9-186">Access</span></span>
 
-- <span data-ttu-id="968f4-349">Устранена проблема со вставкой связанных таблиц SQL, содержащих поле удостоверения (например, счетчик).</span><span class="sxs-lookup"><span data-stu-id="968f4-349">Resolved an issue with inserting linked SQL tables that include an identity (e.g. autonumber) field.</span></span>
+- <span data-ttu-id="5d0d9-187">Исправлена проблема, из-за которой использование DAO из приложений, отличных от Office, приводило к неожиданному закрытию приложения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-187">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
 
-- <span data-ttu-id="968f4-350">Исправлена проблема, из-за которой выполнение запроса занимало примерно в два раза больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-350">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
 
-- <span data-ttu-id="968f4-351">Исправлена проблема, препятствующая возможности вызова расширенного типа данных "Дата/время" без сбоев приложения.</span><span class="sxs-lookup"><span data-stu-id="968f4-351">Fixed an issue to be able to call the Date/Time Extended data type into your code without experiencing any crash in your app.</span></span>
+- <span data-ttu-id="5d0d9-188">Исправлена проблема, из-за которой пользователям отображалось диалоговое окно "Недопустимое состояние курсора".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-188">We fixed an issue where users were getting an error dialog " Invalid cursor state".</span></span>
 
-- <span data-ttu-id="968f4-352">Проблема исправлена, поэтому теперь вы можете вернуться к последней версии Access и использовать DAO/VBA для управления и изменения типа данных Decimal.</span><span class="sxs-lookup"><span data-stu-id="968f4-352">Fixed an issue so you can now revert back to your most updated Access version, and use DAO/VBA to manage and edit a decimal data type.</span></span>
 
-- <span data-ttu-id="968f4-353">Исправлена проблема, из-за которой при попытке выполнить определенные запросы ранее появлялось сообщение об ошибке "Слишком сложный запрос".</span><span class="sxs-lookup"><span data-stu-id="968f4-353">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-189">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-189">Excel</span></span>
 
-- <span data-ttu-id="968f4-354">Эта проблема исправлена в Access, но мы продолжаем изучать дополнительные интерфейсы, чтобы она не повторилась.</span><span class="sxs-lookup"><span data-stu-id="968f4-354">Access has fixed this current issue, but will be investigating our additional interfaces to ensure that this problem does not persist.</span></span> <span data-ttu-id="968f4-355">Команда сообщит о будущих обновлениях. Мы ценим ваше терпение.</span><span class="sxs-lookup"><span data-stu-id="968f4-355">The team will inform you with future updates; we appreciate your patience.</span></span>
+- <span data-ttu-id="5d0d9-190">Исправлена проблема, нарушавшая работу некоторых устаревших макросов Excel 4.0 и Excel 5.0, а также некоторых вызовов VBA в dialogsheets.show.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-190">We fixed an issue that broke some legacy Excel 4.0 and Excel 5.0 macros as well as some VBA calls to dialogsheets.show.</span></span>
 
-- <span data-ttu-id="968f4-356">Эта проблема устранена. Теперь вы можете использовать драйвер ODBC вне приложений Office "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="968f4-356">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="968f4-357">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-357">Excel</span></span>
+- <span data-ttu-id="5d0d9-191">Исправлена проблема, из-за которой Excel мог неожиданно закрываться при использовании меню "Дополнительные вычисления" для сводной таблицы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-191">Fixed an issue where Excel might close unexpectedly when using the "Show Values As" menu for a PivotTable.</span></span>
 
-- <span data-ttu-id="968f4-358">Для рабочих книг, доступных только для чтения, могла действовать автоматическая классификация документов.</span><span class="sxs-lookup"><span data-stu-id="968f4-358">Automatic document classification may have occurred for workbooks that were in read-only mode.</span></span>
 
-- <span data-ttu-id="968f4-359">Исправлен сбой, который мог происходить при попытке создать подключение к данным, если вы вышли из учетной записи.</span><span class="sxs-lookup"><span data-stu-id="968f4-359">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
+- <span data-ttu-id="5d0d9-192">Исправлена проблема, не позволявшая пользователям экспортировать книгу Excel в PDF-файл.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-192">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
-- <span data-ttu-id="968f4-360">Исправлена проблема, из-за которой приложение Excel аварийно завершало работу при попытке вставки сводных таблиц на лист диаграмм.</span><span class="sxs-lookup"><span data-stu-id="968f4-360">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
 
-- <span data-ttu-id="968f4-361">Могла возникать ошибка при попытке сохранить файл, содержащий формулу с функцией ПУСТЬ().</span><span class="sxs-lookup"><span data-stu-id="968f4-361">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
+- <span data-ttu-id="5d0d9-193">Исправлена проблема, из-за которой изображение было меньше, чем ожидалось, при использовании функции "Вставить связанный рисунок".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-193">We fixed an issue which caused images to be smaller than expected when using the Paste Linked Picture option.</span></span>
 
-- <span data-ttu-id="968f4-362">Исправлена проблема, из-за которой Excel мог аварийно завершать работу в определенных обстоятельствах при использовании форматирования по образцу.</span><span class="sxs-lookup"><span data-stu-id="968f4-362">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
 
-- <span data-ttu-id="968f4-363">Исправлена проблема, из-за которой удалялась настраиваемая вкладка в CustomUI XML при сохранении в SharePoint или OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-363">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
+- <span data-ttu-id="5d0d9-194">Исправлена проблема, из-за которой форматирование сводной таблицы приводило к повреждению книги при сохранении в формате XLS или XLT.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-194">We fixed an issue that caused some PivotTable formatting to corrupt the workbook when saving to the .xls or .xlt format.</span></span>
 
-- <span data-ttu-id="968f4-364">Исправлена проблема, из-за которой приложение Excel иногда переставало отвечать после нажатия клавиш CTRL+SHIFT+клавиши со стрелками для прокрутки, если окно Excel демонстрировалось в Teams.</span><span class="sxs-lookup"><span data-stu-id="968f4-364">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
 
-- <span data-ttu-id="968f4-365">Исправлена проблема, из-за которой в некоторых случаях при щелчке по гиперссылке внутри книги она перестает отображаться.</span><span class="sxs-lookup"><span data-stu-id="968f4-365">Fixed an issue where in some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
+- <span data-ttu-id="5d0d9-195">Исправлена ​​проблема, из-за которой Excel мог оставлять макросы отключенными без запроса при открытии файла надстройки Excel, содержащего макросы Excel 4.0.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-195">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
 
-- <span data-ttu-id="968f4-366">Исправлена проблема, из-за которой внешняя ссылка не срабатывала при повторном открытии файла, если путь к файлу был слишком длинным.</span><span class="sxs-lookup"><span data-stu-id="968f4-366">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
 
-- <span data-ttu-id="968f4-367">Application.Evaluate (VBA) не работал для пользовательских функций в некоторых случаях.</span><span class="sxs-lookup"><span data-stu-id="968f4-367">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="5d0d9-196">Исправлена проблема, из-за которой Excel неверно отображал панель сообщений, уведомлявшую о доступности новой версии файла, и заставлял пользователя сохранить его изменения в копии книги или отменить их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-196">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
 
-- <span data-ttu-id="968f4-368">Для книг, сохраненных с цифровой подписью в Excel 2016, подпись может быть признана недействительной при открытии в текущей версии Excel.</span><span class="sxs-lookup"><span data-stu-id="968f4-368">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="968f4-369">Исправлена ошибка, из-за которой в некоторых случаях происходил сбой Excel после копирования листа, содержащего сводную таблицу.</span><span class="sxs-lookup"><span data-stu-id="968f4-369">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
+- <span data-ttu-id="5d0d9-197">Исправлена проблема, из-за которой для некоторых пользователей неверно отображалась панель сообщений, уведомляющая о новой версии файла при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-197">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
 
-- <span data-ttu-id="968f4-370">Это устраняет проблему, из-за которой при подключениях, созданных поставщиком данных SQL в более ранних версиях Office, параметры внутренних таблиц задавались не так, как в Office 365.</span><span class="sxs-lookup"><span data-stu-id="968f4-370">This addresses an issue where connections created by the SQL data provider in older versions of Office would set internal table properties differently from Office 365.</span></span> <span data-ttu-id="968f4-371">Это приводит к отключению раскрывающегося списка "Просмотр таблиц" или "Редактор запросов" для файлов с подключениями, созданными в более ранних версиях Office, когда они открывались с помощью Office 365.</span><span class="sxs-lookup"><span data-stu-id="968f4-371">This caused the Table Preview / Query Editor dropdown to be disabled for files with connections created in older versions of Office when they were opened using Office 365.</span></span>
 
-- <span data-ttu-id="968f4-372">Устранена проблема, из-за которой внешние ссылки не обновлялись при заполнении, если исходная книга закрыта.</span><span class="sxs-lookup"><span data-stu-id="968f4-372">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
+- <span data-ttu-id="5d0d9-198">Исправляет проблему, из-за которой приложение Excel не запускалось или неожиданно завершало работу, если применялись определенные параметры службы "Безопасность Windows" для защиты от эксплойтов (SimExec, CallerCheck).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-198">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
 
-- <span data-ttu-id="968f4-373">Исправлена проблема, из-за которой при рукописном вводе приложение Excel переставало отвечать на запросы.</span><span class="sxs-lookup"><span data-stu-id="968f4-373">Resolved an issue where inking could cause Excel to become unresponsive.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="968f4-374">OneNote</span><span class="sxs-lookup"><span data-stu-id="968f4-374">OneNote</span></span>
+- <span data-ttu-id="5d0d9-199">Устранена проблема, из-за которой приложение Excel переставало отвечать после выбора ряда данных в диаграмме.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-199">We fixed an issue where Excel would stop responding after selecting a data series in a chart.</span></span>
 
-- <span data-ttu-id="968f4-375">Информирование пользователей с помощью информационной панели о временных изменениях в Microsoft OneNote, помогающих улучшить синхронизацию и доступность служб при высоком уровне использования по всему миру.</span><span class="sxs-lookup"><span data-stu-id="968f4-375">Inform users through the InfoBar about temporary adjustments in Microsoft OneNote that will help improve sync and service availability during high worldwide usage.</span></span>
 
-- <span data-ttu-id="968f4-376">Улучшена синхронизация и стабильность службы путем временного изменения частоты синхронизации в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-376">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
+- <span data-ttu-id="5d0d9-200">Это изменение устраняет проблему с отображением шрифтов в формулах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-200">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
-- <span data-ttu-id="968f4-377">Улучшено обнаружение состояния совместного редактирования для снижения использования ресурсов</span><span class="sxs-lookup"><span data-stu-id="968f4-377">Improved detection of co-authoring status to reduce resource utilization.</span></span>
 
-- <span data-ttu-id="968f4-378">Улучшена синхронизация и стабильность службы путем временного уменьшения максимально допустимого размера новых внедренных вложений до 50 МБ в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-378">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB in OneNote 2016.</span></span> <span data-ttu-id="968f4-379">В случае файлов большего размера у пользователей будет возможность отправить файл в OneDrive и вставить ссылку в OneNote.</span><span class="sxs-lookup"><span data-stu-id="968f4-379">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-201">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-201">Outlook</span></span>
 
-- <span data-ttu-id="968f4-380">Улучшена синхронизация и стабильность службы путем временного отключения записи видео в приложении в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-380">Improved sync and service stability by temporarily disabling in-app video recording in OneNote 2016.</span></span> <span data-ttu-id="968f4-381">Это мера не влияет на локальные записные книжки.</span><span class="sxs-lookup"><span data-stu-id="968f4-381">Local notebooks are not impacted by this measure.</span></span>
+- <span data-ttu-id="5d0d9-202">Исправлена ошибка, из-за которой пользователи не могли предоставить разрешение "Редактор" своим делегатам.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-202">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
 
-- <span data-ttu-id="968f4-382">Улучшена синхронизация и стабильность службы за счет временного изменения частоты создания журналов версий страниц.</span><span class="sxs-lookup"><span data-stu-id="968f4-382">Improved sync and service stability by temporarily altering how frequently page version histories are created.</span></span>
 
-- <span data-ttu-id="968f4-383">Улучшена синхронизация и стабильность службы за счет временного отключения перемещения страниц в корзину.</span><span class="sxs-lookup"><span data-stu-id="968f4-383">Improved sync and service stability by temporarily disabling moving pages into the recycle bin.</span></span> <span data-ttu-id="968f4-384">Для пользователей, которым нужно удалить страницу, будет отображаться диалоговое окно с вопросом, нужно ли удалить страницу окончательно.</span><span class="sxs-lookup"><span data-stu-id="968f4-384">Users who want to delete a page will instead be shown a dialog asking if they'd want to permanently delete the page.</span></span>
+- <span data-ttu-id="5d0d9-203">Исправлена проблема, из-за которой у некоторых пользователей приложение Outlook неожиданно закрывалось в определенных сценариях поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-203">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-385">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-385">Outlook</span></span>
 
-- <span data-ttu-id="968f4-386">Исправлена проблема, из-за которой пользователи, пытавшиеся создать приглашение на собрание из дополнительной учетной записи, добавленной в их профиль, не видели пустое поле "От:" вместо своего адреса.</span><span class="sxs-lookup"><span data-stu-id="968f4-386">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
+- <span data-ttu-id="5d0d9-204">Исправлена проблема, из-за которой пользователи, имеющие общие или делегированные почтовые ящики с разветвленной иерархией в профиле, сталкивались с зависанием.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-204">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
 
-- <span data-ttu-id="968f4-387">Исправлена проблема, из-за которой пользователи не могли подключаться к общедоступным папкам после добавления общего почтового ящика.</span><span class="sxs-lookup"><span data-stu-id="968f4-387">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
 
-- <span data-ttu-id="968f4-388">Устранена проблема, из-за которой в некоторых обстоятельствах не удавалось удалять отклоненные представителем собрания из календаря руководителя.</span><span class="sxs-lookup"><span data-stu-id="968f4-388">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
+- <span data-ttu-id="5d0d9-205">Исправлена проблема, из-за которой некоторые автоматически созданные сообщения электронной почты отправлялись пустыми, если строка темы была пустой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-205">Addressed an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
 
-- <span data-ttu-id="968f4-389">Исправлена проблема, не позволявшая некоторым пользователям функции улучшений общего календаря просматривать недавно добавленный общий календарь.</span><span class="sxs-lookup"><span data-stu-id="968f4-389">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
 
-- <span data-ttu-id="968f4-390">Исправлена проблема, из-за которой возникали периодические сбои при взаимодействии пользователей с облачными вложениями.</span><span class="sxs-lookup"><span data-stu-id="968f4-390">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
+- <span data-ttu-id="5d0d9-206">Исправлена проблема, из-за которой у некоторых пользователей Outlook неожиданно запускался в автономном режиме.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-206">Addressed an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
 
-- <span data-ttu-id="968f4-391">Устранена проблема, из-за которой пользователи CLP могут столкнуться со сбоем при замене контекста адреса отправителя ответа с защищенного на незащищенный.</span><span class="sxs-lookup"><span data-stu-id="968f4-391">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
 
-- <span data-ttu-id="968f4-392">Исправлена проблема, из-за которой Outlook не удавалось включать советы по политике защиты от потери данных для пользователей, которые приобрели подписку на Microsoft 365 бизнес премиум.</span><span class="sxs-lookup"><span data-stu-id="968f4-392">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
+- <span data-ttu-id="5d0d9-207">Исправлена проблема, из-за которой у делегатов возникали периодические сбои при открытии общих папок в другом почтовом ящике.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-207">Addressed an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
 
-- <span data-ttu-id="968f4-393">Исправлена проблема, связанная с событием аудита CLP для метки "Ответить или переслать".</span><span class="sxs-lookup"><span data-stu-id="968f4-393">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
 
-- <span data-ttu-id="968f4-394">Устранена проблема, которая приводила к неожиданному изменению ширины области папок.</span><span class="sxs-lookup"><span data-stu-id="968f4-394">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
+- <span data-ttu-id="5d0d9-208">Исправлена ошибка, из-за которой неожиданно завершалась работа приложения при выделении пользователем результата поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-208">We fixed an issue that caused users to experience the application to terminate unexpectedly when selecting a search result.</span></span>
 
-- <span data-ttu-id="968f4-395">Устранена проблема, из-за которой дата создания вложений, скопированных в свою файловую систему с помощью перетаскивания, отображалась для пользователей как 1 января 4501 г.</span><span class="sxs-lookup"><span data-stu-id="968f4-395">Addressed an issue that caused users to see the creation date of  attachments that they copied to their file system via drag and drop getting  set to January 1, 4501.</span></span>
 
-- <span data-ttu-id="968f4-396">Устранена проблема, из-за которой при добавлении интеллектуальной ссылки в файл SharePoint имена файлов неправильно отображались для пользователей некоторых наборов символов.</span><span class="sxs-lookup"><span data-stu-id="968f4-396">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
+- <span data-ttu-id="5d0d9-209">Исправлена проблема, приводившая к зависаниям у некоторых пользователей при загрузке их календарей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-209">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
 
-- <span data-ttu-id="968f4-397">Исправлена проблема, из-за которой при обновлении правил в Outlook появлялось сообщение "Правила на этом компьютере не соответствуют правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="968f4-397">Addressed an issue that caused users to see the "The rules on this computer do not match the rules on Microsoft Exchange" message when updating their rules in Outlook.</span></span>
 
-- <span data-ttu-id="968f4-398">Устранена проблема, из-за которой Outlook не удавалось получить варианты поиска.</span><span class="sxs-lookup"><span data-stu-id="968f4-398">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
+- <span data-ttu-id="5d0d9-210">Исправлена проблема, из-за которой исходные участники некоторых собраний получали уведомление об отмене, когда другой участник перенаправлял приглашение на собрание.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-210">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
 
-- <span data-ttu-id="968f4-399">Устранена проблема, из-за которой пользователи общего календаря сталкивались со сбоями в календаре.</span><span class="sxs-lookup"><span data-stu-id="968f4-399">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
 
-- <span data-ttu-id="968f4-400">Устранена проблема, которая в некоторых ситуациях приводила к периодическим зависаниям и сбоям.</span><span class="sxs-lookup"><span data-stu-id="968f4-400">Addressed an issue that caused users to experience intermittent hangs and crashes in some scenarios.</span></span>
+- <span data-ttu-id="5d0d9-211">Исправлена и устранена проблема, из-за которой пользователи видели повторяющиеся группы календаря, отображающиеся после создания новой группы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-211">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
-- <span data-ttu-id="968f4-401">Устранена проблема, при которой удаление 4 и более сообщений электронной почты из учетной записи POP с выбранным параметром "Скачивать только заголовки" вызывало сбой.</span><span class="sxs-lookup"><span data-stu-id="968f4-401">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
 
-- <span data-ttu-id="968f4-402">Исправлена проблема с отсутствием параметра "Разрешить переадресацию" в разделе "Параметры ответа" в собрании общего календаря, если НЕ установлен флажок скачивания общей папки.</span><span class="sxs-lookup"><span data-stu-id="968f4-402">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+- <span data-ttu-id="5d0d9-212">Исправлена проблема, из-за которой пользователи улучшений общего календаря не могли установить для него желтый или коричневый цвет.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-212">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
-- <span data-ttu-id="968f4-403">Исправлена проблема, из-за которой у представителей при редактировании существующей встречи в календаре руководителя отображалось сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="968f4-403">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
 
-- <span data-ttu-id="968f4-404">Устранена проблема, из-за которой у пользователей возникали сбои в сторонних приложениях MAPI.</span><span class="sxs-lookup"><span data-stu-id="968f4-404">Addressed an issue that caused users to experience crashes in third party MAPI applications.</span></span>
+- <span data-ttu-id="5d0d9-213">Исправлена проблема, из-за которой новые календари не появлялись в области навигации, пока пользователь не перезапустит Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-213">We fixed a problem that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
 
-- <span data-ttu-id="968f4-405">Устранена проблема, приводившая к сбою Outlook при открытии MSG или OFT-файлов, сохраненных локально, после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-405">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
 
-- <span data-ttu-id="968f4-406">Устранена проблема, приводившая к сбою Outlook в некоторых сборках Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-406">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
+- <span data-ttu-id="5d0d9-214">Исправлена проблема, из-за которой при поиске в некэшированных общих календарях не возвращались никакие результаты.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-214">Addressed an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
 
-- <span data-ttu-id="968f4-407">Устранена проблема, которая приводила к выводу предупреждений о недопустимом состоянии антивирусной программы в Windows 10 Server.</span><span class="sxs-lookup"><span data-stu-id="968f4-407">Addressed an issue that caused users of Windows 10 server versions to see the warning "Antivirus status: Invalid.</span></span> <span data-ttu-id="968f4-408">Эта версия Windows поддерживает обнаружение вирусов, но антивирусные программы не найдены, несмотря на то, что антивирусная программа установлена.</span><span class="sxs-lookup"><span data-stu-id="968f4-408">This version of Windows supports antivirus detection, but no antivirus was found" despite having anti virus correctly installed.</span></span>
 
-- <span data-ttu-id="968f4-409">Исправлена проблема, приводившая к сбою Outlook при открытии файлов MSG или OFT, сохраненных локально, после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-409">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+- <span data-ttu-id="5d0d9-215">Исправлена проблема, из-за которой у некоторых пользователей приложение закрывалось при закрытии окон сообщений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-215">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
 
-- <span data-ttu-id="968f4-410">Устранена проблема, приводившая к сбою Outlook в некоторых сборках Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-410">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
 
-- <span data-ttu-id="968f4-411">Устранена проблема, из-за которой пользователи получали предложение запустить средство восстановление папки "Входящие".</span><span class="sxs-lookup"><span data-stu-id="968f4-411">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
+- <span data-ttu-id="5d0d9-216">Исправлена проблема, из-за которой поле "Кому" было пустым при отправке отчета о состоянии задачи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-216">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
 
-- <span data-ttu-id="968f4-412">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="968f4-412">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
-- <span data-ttu-id="968f4-413">Устранена проблема, связанная с тем, что пользователи не могли сохранять вложения OneDrive вне клиента на локальный компьютер при сохранении через диалоговое окно "Безопасность".</span><span class="sxs-lookup"><span data-stu-id="968f4-413">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="5d0d9-217">Исправлена проблема, приводившая к сбою события MailItem.BeforeAttachmentAdd.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-217">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
-- <span data-ttu-id="968f4-414">Решена проблема, из-за которой страница помощника по планированию не отображается.</span><span class="sxs-lookup"><span data-stu-id="968f4-414">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
 
-- <span data-ttu-id="968f4-415">Устранена проблема, из-за которой страница помощника по планированию не отображалась для некоторых пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-415">Addressed an issue that caused some users to see the Scheduling Assistant page fail to display.</span></span>
+- <span data-ttu-id="5d0d9-218">Исправлена проблема, из-за которой у некоторых пользователей приложение Outlook неожиданно закрывалось при выполнении определенных сценариев поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-218">We fixed an issue that caused some users to experience Outlook closing unexpectedly in certain search scenarios.</span></span>
 
-- <span data-ttu-id="968f4-416">Устранена проблема, которая иногда приводила к аварийному завершению работы при получении сведений о пользователе.</span><span class="sxs-lookup"><span data-stu-id="968f4-416">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
 
-- <span data-ttu-id="968f4-417">Исправлена проблема, из-за которой возникали периодические сбои при изменении получателей пользователями.</span><span class="sxs-lookup"><span data-stu-id="968f4-417">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+- <span data-ttu-id="5d0d9-219">Исправлена проблема, из-за которой приложение иногда неожиданно закрывалось, когда пользователи выполняли поиск в Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-219">We fixed an issue that caused the app to sometimes close unexpectedly when users were searching in Outlook.</span></span>
 
-- <span data-ttu-id="968f4-418">Исправлена проблема, из-за которой возникали аномалии при использовании пользователями компактного представления.</span><span class="sxs-lookup"><span data-stu-id="968f4-418">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
 
-- <span data-ttu-id="968f4-419">Устранена проблема, из-за которой у пользователей Outlook возникали проблемы с навигацией в компактных представлениях.</span><span class="sxs-lookup"><span data-stu-id="968f4-419">Addressed an issue that caused outlook users to see issues with navigation in compact views.</span></span>
+- <span data-ttu-id="5d0d9-220">Исправлена проблема, приводившая к зависанию у пользователей облачных параметров при обновлении настроек.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-220">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
 
-- <span data-ttu-id="968f4-420">Устранена проблема, из-за которой контекстное меню, вызываемое щелчком правой кнопки мыши, не отображалось в элементах управления поиском.</span><span class="sxs-lookup"><span data-stu-id="968f4-420">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
 
-- <span data-ttu-id="968f4-421">Исправлена проблема, из-за которой пользователи получали следующую ошибку при ответе или создании сообщения: "Часть файлов с этой веб-страницы отсутствует в указанных папках.</span><span class="sxs-lookup"><span data-stu-id="968f4-421">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="968f4-422">Вы все равно хотите скачать их?</span><span class="sxs-lookup"><span data-stu-id="968f4-422">Do you want to download them anyway?</span></span> <span data-ttu-id="968f4-423">Если вы уверены в надежности источника веб-страницы, выберите "Да".</span><span class="sxs-lookup"><span data-stu-id="968f4-423">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
+- <span data-ttu-id="5d0d9-221">Исправлена проблема, из-за которой не удавалось сохранить измененную подпись после предложения пользователю этого действия.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-221">We fixed an issue that caused an edited signature to fail to save after prompting the user to do so.</span></span>
 
-- <span data-ttu-id="968f4-424">Устранена проблема, из-за которой пользователи сталкивались с зависанием интерфейса при выходе из Outlook.</span><span class="sxs-lookup"><span data-stu-id="968f4-424">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
 
-- <span data-ttu-id="968f4-425">Устранена проблема, из-за которой поиск возможности предложения функции не возвращал результатов, и пользователи не могли делиться идеями.</span><span class="sxs-lookup"><span data-stu-id="968f4-425">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
+- <span data-ttu-id="5d0d9-222">Исправлена проблема, из-за которой некоторые пользователи не видели подписей в раскрывающемся списке подписей, хотя у них настроена одна или несколько подписей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-222">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
 
-- <span data-ttu-id="968f4-426">Устранена проблема, вызывающая нарушения в форматировании оповещений об инцидентах.</span><span class="sxs-lookup"><span data-stu-id="968f4-426">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
 
-- <span data-ttu-id="968f4-427">Устранена проблема, из-за которой у пользователей возникали сбои при отправлении отзывов из уведомлений администратора.</span><span class="sxs-lookup"><span data-stu-id="968f4-427">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+- <span data-ttu-id="5d0d9-223">Исправлена проблема, из-за которой облачные параметры не включались по умолчанию для пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-223">We fixed an issue that caused Cloud Settings not to be turned on for users by default.</span></span>
 
-- <span data-ttu-id="968f4-428">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="968f4-428">We fixed an issue for copy and paste SVG image.</span></span>
 
-- <span data-ttu-id="968f4-429">Устранена проблема, из-за которой возникали периодические сбои при изменении получателей пользователями.</span><span class="sxs-lookup"><span data-stu-id="968f4-429">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+- <span data-ttu-id="5d0d9-224">Исправлена проблема, из-за которой не сохранялись изменения, внесенные в подпись пользователя.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-224">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
 
-- <span data-ttu-id="968f4-430">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="968f4-430">We fixed an issue for copy and paste SVG image.</span></span>
 
+- <span data-ttu-id="5d0d9-225">Исправлена проблема, из-за которой в Outlook создавалась вторая пустая подпись для пользователей, включивших облачные параметры.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-225">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-431">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-431">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-432">Устранена проблема, из-за которой обновлялись примечания в случае, когда в файлах были примечания одновременно из старых и новых версий.</span><span class="sxs-lookup"><span data-stu-id="968f4-432">Fixed a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
+- <span data-ttu-id="5d0d9-226">Исправлена проблема, из-за которой возникали проблемы с отображением правильной подписи по умолчанию в OWA.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-226">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
 
-- <span data-ttu-id="968f4-433">Устранена проблема со сбоем в приложении PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-433">We have fixed a crash issue with PowerPoint app.</span></span>
 
-- <span data-ttu-id="968f4-434">Устранена проблема со сбоем панели предложений.</span><span class="sxs-lookup"><span data-stu-id="968f4-434">We have fixed a crash issue with suggestion pane.</span></span>
+- <span data-ttu-id="5d0d9-227">Исправлена проблема, из-за которой пользователи видели, что подписи с содержимым Юникода, были повреждены.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-227">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
 
-### <a name="project"></a><span data-ttu-id="968f4-435">Project</span><span class="sxs-lookup"><span data-stu-id="968f4-435">Project</span></span>
 
-- <span data-ttu-id="968f4-436">Устранена проблема, из-за которой при редактировании данных Предшественника / Преемника в представлении формы, запускалось дополнительное событие ProjectBeforeTaskChange.</span><span class="sxs-lookup"><span data-stu-id="968f4-436">Fixed an issue when Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+- <span data-ttu-id="5d0d9-228">Исправлена проблема, из-за которой пользователи машинного перевода не могли отправить отзыв.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-228">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
-- <span data-ttu-id="968f4-437">Исправлена проблема, из-за которой приложение Project могло аварийно завершать работу при сохранении проектов, созданных в предыдущих версиях Project.</span><span class="sxs-lookup"><span data-stu-id="968f4-437">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
 
-- <span data-ttu-id="968f4-438">Исправлена проблема, из-за которой пользователю не удавалось ввести повременные базовые трудозатраты, если был включен параметр защиты фактических трудозатрат.</span><span class="sxs-lookup"><span data-stu-id="968f4-438">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
+- <span data-ttu-id="5d0d9-229">Исправлена ошибка, из-за которой заголовки сообщений на китайском языке были нечитаемыми при ответе или пересылке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-229">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
 
-- <span data-ttu-id="968f4-439">Исправлена проблема, из-за которой процент выполнения задачи неправильно изменялся на значение менее 100 % после ее пометки как выполненной.</span><span class="sxs-lookup"><span data-stu-id="968f4-439">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
 
-- <span data-ttu-id="968f4-440">Исправлена проблема, из-за которой событие OnUndoOrRedo не запускалось без предварительного выполнения метода OpenUndoTransaction.</span><span class="sxs-lookup"><span data-stu-id="968f4-440">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="5d0d9-230">Исправлена проблема, из-за которой китайские иероглифы заменялись на знаки вопроса при сохранении в виде файла OFT.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-230">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
 
-- <span data-ttu-id="968f4-441">Исправлена проблема, из-за которой иногда неверно вычислялись даты суммарной задачи.</span><span class="sxs-lookup"><span data-stu-id="968f4-441">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
-- <span data-ttu-id="968f4-442">Исправлена проблема, из-за которой событие ProjectBeforeTaskChange не обнаруживает, деактивирована или активирована ли задача при помощи кнопки "Деактивировать".</span><span class="sxs-lookup"><span data-stu-id="968f4-442">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
+- <span data-ttu-id="5d0d9-231">Добавлен раздел реестра, позволяющий пользователям отключить добавление параметра filetime для вложений в операциях IDataObject (т. е. перетаскивание, буфер обмена).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-231">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="5d0d9-232">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-232">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span>  <span data-ttu-id="5d0d9-233">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-233">REG_DWORD IncludeFileTimesInDataObject.</span></span>  <span data-ttu-id="5d0d9-234">0 = параметры filetime исключены.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-234">0 = filetimes are excluded.</span></span>  <span data-ttu-id="5d0d9-235">1 = (по умолчанию) параметры filetime включены.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-235">1 = (default) filetimes are included.</span></span>
 
-- <span data-ttu-id="968f4-443">Исправлена проблема, из-за которой при использовании Project, подключенного к Project Web App, метод добавления TaskDependencies завершался сбоем при попытке добавления задержки к зависимости.</span><span class="sxs-lookup"><span data-stu-id="968f4-443">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
 
-- <span data-ttu-id="968f4-444">Исправлена проблема, из-за которой проекты не открывались в классическом клиенте Project из Project Web App, если URL-адрес оканчивался на ".com".</span><span class="sxs-lookup"><span data-stu-id="968f4-444">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
+- <span data-ttu-id="5d0d9-236">Исправлена проблема, приводившая к исчезновению встроенных изображений при ответе на сообщение с меткой защиты от Azure Information Protection.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-236">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
 
-- <span data-ttu-id="968f4-445">Исправлена проблема, из-за которой при вставке задачи, имеющей несколько зависимостей, не все зависимости были скопированы правильно.</span><span class="sxs-lookup"><span data-stu-id="968f4-445">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
 
-- <span data-ttu-id="968f4-446">Исправлена проблема, из-за которой не удавалось сохранить файл PDF или XPS из Project в библиотеке документов SharePoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-446">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+- <span data-ttu-id="5d0d9-237">Исправлена проблема, из-за которой значок шифрования не отображался в сообщениях, отправленных с использованием параметра "Только с шифрованием".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-237">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
 
-- <span data-ttu-id="968f4-447">Исправлена проблема, из-за которой прогресс задачи, помеченной как завершенная на 100%, некорректно изменяется в меньшую сторону.</span><span class="sxs-lookup"><span data-stu-id="968f4-447">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
 
-- <span data-ttu-id="968f4-448">Устранена проблема, из-за которой событие ProjectBeforeTaskChange не запускалось при наличии изменений в суммарной задаче проекта, либо в поле даты начала, либо задачи.</span><span class="sxs-lookup"><span data-stu-id="968f4-448">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+- <span data-ttu-id="5d0d9-238">Устранена проблема, из-за которой письма отправлялись с цифровой подписью после того, как пользователь снимал этот флажок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-238">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
 
-- <span data-ttu-id="968f4-449">Исправлена проблема, из-за которой при определении для ресурса нескольких таблиц норм затрат оставшиеся затраты не всегда рассчитывались правильно.</span><span class="sxs-lookup"><span data-stu-id="968f4-449">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
 
-- <span data-ttu-id="968f4-450">Исправлена проблема, из-за которой дата окончания проекта не обновлялась для проектов, подключенных к списку задач SharePoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-450">Fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-239">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-239">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-451">Исправлена проблема, из-за которой задача, выбранная в диалоговом окне "Назначение ресурсов", не совпадала с задачей, выбранной на "Доске задач".</span><span class="sxs-lookup"><span data-stu-id="968f4-451">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
+- <span data-ttu-id="5d0d9-240">Исправлена проблема, из-за которой приложение могло неожиданно завершать работу при сбое сохранения документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-240">Fixed an issue that could cause the application to close unexpectedly if a document save failed.</span></span>
 
-- <span data-ttu-id="968f4-452">Исправлена проблема, из-за которой проект в нерабочем состоянии нельзя было открыть.</span><span class="sxs-lookup"><span data-stu-id="968f4-452">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="968f4-453">Skype</span><span class="sxs-lookup"><span data-stu-id="968f4-453">Skype</span></span>
+- <span data-ttu-id="5d0d9-241">Исправлена ошибка, связанная с копированием и вставкой уравнения из Word в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-241">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
 
-- <span data-ttu-id="968f4-454">Если пользователю назначена политика, которая перемещает его только в Teams, он все еще может использовать надстройку Outlook для Skype для бизнеса для планирования собраний.</span><span class="sxs-lookup"><span data-stu-id="968f4-454">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span> <span data-ttu-id="968f4-455">После этого обновления вы больше не сможете планировать собрания Skype для бизнеса, если клиент запустит политику, указывающую на то, что у пользователя есть возможность использовать только Teams, а собрания станут доступны только в режиме присоединения.</span><span class="sxs-lookup"><span data-stu-id="968f4-455">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span> <span data-ttu-id="968f4-456">Кроме того, надстройка Outlook для Skype для бизнеса перестанет активироваться при запуске, если клиент Skype для бизнеса доступен только в режиме присоединения к собранию.</span><span class="sxs-lookup"><span data-stu-id="968f4-456">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
 
-- <span data-ttu-id="968f4-457">Цвет кожи танцующего смайлика изменен на нейтральный.</span><span class="sxs-lookup"><span data-stu-id="968f4-457">Changed dancing emoticon skin tone to neutral color.</span></span>
+- <span data-ttu-id="5d0d9-242">Это изменение устраняет проблему с заливками путей при объединений фигур определенных геометрий.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-242">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-458">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-458">Word</span></span>
 
-- <span data-ttu-id="968f4-459">Решена проблема с открытием документов Word из ASPX при наличии в URL-адресе компонента запроса.</span><span class="sxs-lookup"><span data-stu-id="968f4-459">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
+- <span data-ttu-id="5d0d9-243">Это изменение устраняет проблему с отображением шрифтов в формулах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-243">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
-- <span data-ttu-id="968f4-460">Это исправление устраняет проблему, из-за которой приложения Office могли зависнуть в состоянии автоматического сохранения после предыдущего сеанса совместного редактирования.</span><span class="sxs-lookup"><span data-stu-id="968f4-460">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
 
-- <span data-ttu-id="968f4-461">Устранена проблема, из-за которой у пользователей возникали сбои при ответе или создании сообщения.</span><span class="sxs-lookup"><span data-stu-id="968f4-461">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
+- <span data-ttu-id="5d0d9-244">Это изменение устраняет проблему с обработкой ошибок, которые могут возникнуть во время загрузки видео.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-244">This change addresses an issue with handling errors that may occur during video loading.</span></span>
 
-- <span data-ttu-id="968f4-462">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="968f4-462">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
-- <span data-ttu-id="968f4-463">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="968f4-463">We fixed an issue for copy and paste SVG image.</span></span>
+- <span data-ttu-id="5d0d9-245">Исправлена проблема VBA, приводившая к сбою Slide.Shapes.AddMediaObject2 при использовании устаревших форматов видео (MPG-1, MPEG-2).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-245">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 would unexpectedly close with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
-- <span data-ttu-id="968f4-464">Устранена проблема, из-за которой пользователь мог потерять контент при изменении размера фигуры.</span><span class="sxs-lookup"><span data-stu-id="968f4-464">We fixed an issue where the user might lose content when resize a shape.</span></span>
 
-- <span data-ttu-id="968f4-465">Исправлена проблема, из-за которой базовые стили не обновлялись со стилем "Обычный".</span><span class="sxs-lookup"><span data-stu-id="968f4-465">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+- <span data-ttu-id="5d0d9-246">Исправлена проблема, из-за которой команда размера шрифта, добавленная в QAT, автоматически выполнялась для ближайшего определенного размера шрифта при ее обновлении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-246">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
 
-- <span data-ttu-id="968f4-466">Исправлена проблема, из-за которой макрос AutoOpen запускается до AutoExec.</span><span class="sxs-lookup"><span data-stu-id="968f4-466">We fixed an issue where macro AutoOpen runs before AutoExec.</span></span>
 
-- <span data-ttu-id="968f4-467">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="968f4-467">We fixed an issue for copy and paste SVG image.</span></span>
+- <span data-ttu-id="5d0d9-247">Исправлена проблема, приводившая к ошибке при сохранении файла после дублирования слайда, содержащего недавно записанный звук.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-247">We fixed an issue where there is an error when saving the file after duplicating a slide that contains a newly recorded audio.</span></span>
 
-- <span data-ttu-id="968f4-468">Устранена проблема, которая могла вызвать сбой при перетаскивании части содержимого из приложения.</span><span class="sxs-lookup"><span data-stu-id="968f4-468">Resolved an issue that may have caused a crash when dragging some content from the app.</span></span>
 
+- <span data-ttu-id="5d0d9-248">Исправлена ошибка, из-за которой содержимое надстройки Forms не отображалось после вставки, пока пользователь не щелкал другой слайд для отображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-248">We fixed an issue where Forms content add-in doesn't render after insertion until user clicks to another slide to make it show.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-469">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-469">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-470">Старая область общего доступа, не основанная на веб-службе, при закрытии документа могла вызывать сбой, если область общего доступа была открыта.</span><span class="sxs-lookup"><span data-stu-id="968f4-470">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="968f4-471">Эта ошибка исправлена.</span><span class="sxs-lookup"><span data-stu-id="968f4-471">This is now fixed.</span></span>
+- <span data-ttu-id="5d0d9-249">Исправлена проблема с отключением защиты IRM при открытии файла PowerPoint в режиме защищенного просмотра.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-249">We fixed an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
 
-- <span data-ttu-id="968f4-472">Устранена проблема, из-за которой при закрытии файлов Office мог произойти сбой из-за проблем с синхронизацией.</span><span class="sxs-lookup"><span data-stu-id="968f4-472">Fixed a timing issue could cause a crash when closing office files</span></span>
 
-- <span data-ttu-id="968f4-473">Мы решили проблему с частотой сбоев ValidateInstall, установив для проверки установки надстройки Bing значение true по умолчанию и приняв успешное возвращение MSI как успешную установку.</span><span class="sxs-lookup"><span data-stu-id="968f4-473">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
+- <span data-ttu-id="5d0d9-250">Исправлена проблема, из-за которой замедлялось совместное редактирование файлов, содержащих большие количества определенного типа объекта данных (E2o).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-250">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
 
-- <span data-ttu-id="968f4-474">Мы отправили новую версию AppV51 на доработку, чтобы исправить ошибки в предыдущей версии AppV51.</span><span class="sxs-lookup"><span data-stu-id="968f4-474">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
 
-- <span data-ttu-id="968f4-475">Исправлена проблема технологии "Нажми и работай", из-за которой происходил сбой обновления при попытке жесткой связи символьных ссылок.</span><span class="sxs-lookup"><span data-stu-id="968f4-475">Fixed a Click-to-Run issue which was resulting in update failure when trying to hard link symbolic links.</span></span>
+- <span data-ttu-id="5d0d9-251">Исправление для устранения проблемы с использованием IRM/защищенных документов при возникновении ошибки слияния.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-251">Fix to address a an issue when using IRM/protected documents during a merge error.</span></span>
 
-- <span data-ttu-id="968f4-476">Исправлена проблема, из-за которой сообщение о процессе выполнения появлялось, даже если переход на полную версию продукта завершен.</span><span class="sxs-lookup"><span data-stu-id="968f4-476">Fixed an issue that caused a runtime message to show even though the transition to the full product is complete.</span></span> <span data-ttu-id="968f4-477">Чтобы устранить эту проблему, необходимо, чтобы служба правильно производила вычисления, связанные с добавленными продуктами.</span><span class="sxs-lookup"><span data-stu-id="968f4-477">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="968f4-478">Недавно добавленные продукты были отфильтрованы (чтобы убедиться в том, что они существуют в новой конфигурации) и добавлены после существующих идентификаторов выпуска продукта.</span><span class="sxs-lookup"><span data-stu-id="968f4-478">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
 
-- <span data-ttu-id="968f4-479">Исправлена проблема, из-за которой пользователи видели элементы или содержимое пользовательского интерфейса, которое не отображается при определенных условиях. В частности, при входе или выходе из режима докладчика и использовании нескольких мониторов.</span><span class="sxs-lookup"><span data-stu-id="968f4-479">We fixed an issue where users were seeing the UI elements or content not being displayed under certain conditions, in particular with coming in and out of Presenter View or using multiple monitors.</span></span>
+- <span data-ttu-id="5d0d9-252">Устранена проблема, из-за которой сообщения о сохранении отображались в цикле при закрытии документа с рабочей надстройкой, прослушивающей событие PresentationBeforeClose и проверяющей свойство Presentation.Saved как часть обработчика событий.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-252">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
 
-- <span data-ttu-id="968f4-480">Это изменение устраняет потенциальные зависания при загрузке и воспроизведении анимированных данных, таких как GIF или трехмерные модели.</span><span class="sxs-lookup"><span data-stu-id="968f4-480">This change addresses potential hangs when loading and playing animated content such as GIFs or 3D models.</span></span>
 
-- <span data-ttu-id="968f4-481">Это изменение устраняет проблему, из-за которой диалоговое окно "Сжатие рисунка" не сохраняло определенные пользовательские параметры.</span><span class="sxs-lookup"><span data-stu-id="968f4-481">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="5d0d9-253">Исправлена проблема, из-за которой некоторые поврежденные файлы PowerPoint открывались неправильно даже после восстановления документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-253">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
 
-- <span data-ttu-id="968f4-482">Это обновление устраняет проблему в Microsoft Office, из-за которой проекты Visual Basic для приложений с ссылками, которые должны быть найдены при поиске расположений, указанных в переменной среды PATH, могут быть не найдены в среде выполнения, что приводит к ошибкам среды выполнения VBA.</span><span class="sxs-lookup"><span data-stu-id="968f4-482">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
 
-- <span data-ttu-id="968f4-483">Это обновление устраняет проблему в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени или пути к библиотеке, будут рассматриваться приложением Office как поврежденные при загрузке.</span><span class="sxs-lookup"><span data-stu-id="968f4-483">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="5d0d9-254">Исправлена проблема, из-за которой в некоторых сценариях выбор идеи оформления удаляет метку классификации данных в презентации.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-254">Addresses an issue where selecting a Design Idea removes the presentation's Data Classification Label, in certain cases.</span></span>
 
-- <span data-ttu-id="968f4-484">Это исправление устраняет возникающую ошибку, одновременно блокирующую ограничение доступа и защиту файлов с паролем.</span><span class="sxs-lookup"><span data-stu-id="968f4-484">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
 
-- <span data-ttu-id="968f4-485">Устранена проблема со сбоем в работе узла Office в Windows при активации надстройки, когда значение реестра TabProcGrowth относилось к типу REG_SZ.</span><span class="sxs-lookup"><span data-stu-id="968f4-485">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
+### <a name="project"></a><span data-ttu-id="5d0d9-255">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-255">Project</span></span>
 
-- <span data-ttu-id="968f4-486">Аварийное завершение работы узла Office в Windows, при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имеет значение "0".</span><span class="sxs-lookup"><span data-stu-id="968f4-486">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="968f4-487">Это изменение может устранить проблему.</span><span class="sxs-lookup"><span data-stu-id="968f4-487">This change would fix this issue.</span></span>
+- <span data-ttu-id="5d0d9-256">Исправлена проблема, из-за которой при сохранении проекта из PWA в локальный MPP-файл запускалось событие ProjectBeforeTaskChangeEvent для данных, которые не были изменены пользователем.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-256">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+
+
+- <span data-ttu-id="5d0d9-257">Устранена проблема, из-за которой свойство NewVal в событии ProjectBeforeTaskChange имело неправильное значение в случае изменения задержки в представлении типа "Форма задачи".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-257">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+
+
+- <span data-ttu-id="5d0d9-258">Исправлена проблема, из-за которой при выполнении кода события и попытке внести изменения в представление формы задачи при нажатии кнопки "ОК" изменения не сохраняются.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-258">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
+
+
+- <span data-ttu-id="5d0d9-259">Исправлена проблема, из-за которой Project мог неожиданно прекращать работу при открытии файлов, в которых контуры ресурсов были указаны определенным образом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-259">Fixed an issue where Project may terminate unexpectedly when opening files where resource contours were specified in a certain manner.</span></span>
+
+
+- <span data-ttu-id="5d0d9-260">Устранена проблема, при которой отдельные проекты могли открываться при наличии проблемы в какой-либо части загрузки файла проекта.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-260">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+
+
+- <span data-ttu-id="5d0d9-261">Исправлена проблема, из-за которой границы не отображались для задач в представлении визуального оптимизатора ресурсов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-261">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
+
+
+- <span data-ttu-id="5d0d9-262">Исправлена проблема, из-за которой не работало перетаскивание для задач в представлении визуального оптимизатора ресурсов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-262">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
+
+
+- <span data-ttu-id="5d0d9-263">Устранена проблема, из-за которой сведение базовых затрат выполнялось неправильно, если затратный ресурс был назначен задаче-вехе.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-263">Fixed an issue where when a cost resource was assigned to a milestone task, baseline cost didn't rollup correctly.</span></span>
+
+
+### <a name="visio"></a><span data-ttu-id="5d0d9-264">Visio</span><span class="sxs-lookup"><span data-stu-id="5d0d9-264">Visio</span></span>
+
+- <span data-ttu-id="5d0d9-265">Исправлена ошибка, из-за которой пользователи Visio для Office 365 не могли создавать прямые линии с помощью соединительных линий для наборов элементов Visio и встроенных шаблонов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-265">We fixed an issue where users will be able to create straight lines using connectors in Visio for Office 365 for both custom Visio stencils and in-built templates.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="5d0d9-266">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-266">Word</span></span>
+
+- <span data-ttu-id="5d0d9-267">Исправлена проблема, из-за которой приложение могло неожиданно завершать работу при сбое сохранения документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-267">Fixed an issue that could cause the application to close unexpectedly if a document save failed.</span></span>
+
+
+- <span data-ttu-id="5d0d9-268">Исправлена ошибка, связанная с копированием и вставкой уравнения из Word в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-268">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
+
+
+- <span data-ttu-id="5d0d9-269">Это изменение исправляет проблему, связанную с курсором при редактировании документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-269">This change addresses an issue with the cursor when editing a document.</span></span>
+
+
+- <span data-ttu-id="5d0d9-270">Исправлена проблема с применением цветовой гаммы к значкам и изображениям SVG с трехмерными эффектами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-270">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
+
+
+- <span data-ttu-id="5d0d9-271">Исправлена проблема, из-за которой диктор иногда пропускает абзац.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-271">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
+
+
+- <span data-ttu-id="5d0d9-272">Исправлена проблема с элементами управления форматированным текстом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-272">We fixed an issue with Rich text content controls.</span></span>
+
+
+- <span data-ttu-id="5d0d9-273">Исправлена проблема с диалоговым окном "Коллекция стилей".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-273">We fixed an issue with Style Gallery dialog.</span></span>
+
+
+- <span data-ttu-id="5d0d9-274">Устранена проблема с разрешением конфликтов при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-274">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+
+
+- <span data-ttu-id="5d0d9-275">Исправлена ошибка, из-за которой стили документов заменялись другими стилями из шаблона.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-275">We fixed an issue which document styles are replaced with other styles from the template.</span></span>
+
+
+- <span data-ttu-id="5d0d9-276">Исправление ошибки утверждения, вызываемой оптимизированными шлюзами, затрагивающими Word.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-276">Fix an assert bug exposed by optimized gates affecting Word.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-277">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-277">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-278">Исправлена проблема, вызывавшая сбой при попытке сохранить файлы, перешедшие из состояния "синхронизировано" в состояние "только для сервера".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-278">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
+
+
+- <span data-ttu-id="5d0d9-279">Исправлена проблема, из-за которой попытка выполнить действие "Сохранить как" завершалась неудачей в определенных сценариях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-279">Fixed an issue where trying to do a SaveAs would fail in certain scenarios.</span></span>
+
+
+- <span data-ttu-id="5d0d9-280">Исправлена проблема, из-за которой параметр SaveRequestManagerCam приводил к закрытию приложения, а не возвращал ошибку.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-280">We fixed an issue where SaveRequestManagerCam was causing the application to close instead of returning an error.</span></span>
+
+
+- <span data-ttu-id="5d0d9-281">Исправлена последовательность закрытия файлов. Теперь все независимые компоненты закрываются правильно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-281">Fixed the file closing sequence so that all the interdependent components are closed gracefully.</span></span>
+
+
+- <span data-ttu-id="5d0d9-282">Исправлена ​​проблема, из-за которой файл открывался со статусом НЕ SyncBacked, если URL-адрес из кэша и URL-адрес из OneDrive НЕ совпадали.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-282">Fixed an issue of file would be opened as NOT SyncBacked when url from cache and url from OneDrive does NOT match.</span></span>
+
+
+- <span data-ttu-id="5d0d9-283">Исправлена ошибка, из-за которой при копировании и вставке сообщений в Skype для бизнеса отображалось диалоговое окно "Произошла ошибка при вставке содержимого".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-283">Fixing a bug where copy/paste in Skype for Business messages resulted in a dialog displaying "Something went wrong when pasting your content".</span></span>
+
+
+- <span data-ttu-id="5d0d9-284">Устранена проблема, из-за которой возникала ошибка при копировании и вставке текста из комментария в Excel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-284">Fixed an issue where an error would occur when copy/paste text from a comment into Excel</span></span>
+
+
+- <span data-ttu-id="5d0d9-285">Исправлен сбой, который иногда возникал при использовании диктора в тексте с математическими уравнениями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-285">Fix a crash that could happen when using narrator within text that contains math equations.</span></span>
+
+
+- <span data-ttu-id="5d0d9-286">Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-286">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="5d0d9-287">Сообщения будут изменены на «Мало тонера/чернил» и «Нет тонера/чернил».</span><span class="sxs-lookup"><span data-stu-id="5d0d9-287">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+
+
+- <span data-ttu-id="5d0d9-288">Исправлена проблема, из-за которой установка более новой версии Office поверх некоторых старых версий могла приводить к ухудшению функциональности (например, невозможности использовать Power Query) из-за отсутствия записей в реестре.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-288">Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
+
+
+- <span data-ttu-id="5d0d9-289">Исправлена проблема, из-за которой защита от потери данных в конечной точке Microsoft 365 не могла классифицировать документы Office на диске.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-289">Fixed an issue where Microsoft 365 Endpoint data loss prevention was unable to classify Office documents on disk.</span></span>
+
+
+- <span data-ttu-id="5d0d9-290">Исправлена проблема, из-за которой диалоговое окно "Сжатие рисунка" не сохраняло определенные пользовательские параметры.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-290">We fixed an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+
+
+- <span data-ttu-id="5d0d9-291">Устранена проблема, связанная с уведомлениями о событиях контроллера мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-291">Fixes an issue related to media controller event notifications.</span></span>
+
+
+- <span data-ttu-id="5d0d9-292">Устранена проблема, связанная с расчетом времени в обработчике проигрывателя мультимедиа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-292">Fixes an issue related to media player engine timing.</span></span>
+
+
+- <span data-ttu-id="5d0d9-293">Оптимизированный размер двоичного файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-293">Optimized binary size.</span></span>
+
+
+- <span data-ttu-id="5d0d9-294">Anaheim WebView пока не поддерживает службу Windows Information Protection (WIP).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-294">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="5d0d9-295">С этим исправлением платформа надстроек Office откатывается на веб-представление уровнем ниже в среде с поддержкой WIP.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-295">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="5d0d9-296">Это может быть Edge Spartan WebView или Trident WebView в зависимости от среды на компьютере пользователя.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-296">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="5d0d9-297">Оба веб-представления уровнем ниже поддерживают WIP.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-297">Both down level WebViews support WIP.</span></span>
 
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-august-11"></a><span data-ttu-id="968f4-489">Версия 2002: 11 августа</span><span class="sxs-lookup"><span data-stu-id="968f4-489">Version 2002: August 11</span></span>
-<span data-ttu-id="968f4-490">*Версия 2002 (сборка 12527.20988)*</span><span class="sxs-lookup"><span data-stu-id="968f4-490">*Version 2002 (Build 12527.20988)*</span></span>
+## <a name="version-2008-february-09"></a><span data-ttu-id="5d0d9-299">Версия 2008: 9 февраля</span><span class="sxs-lookup"><span data-stu-id="5d0d9-299">Version 2008: February 09</span></span>
+<span data-ttu-id="5d0d9-300">*Версия 2008 (сборка 13127.21216)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-300">*Version 2008 (Build 13127.21216)*</span></span>
 
-<span data-ttu-id="968f4-491">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-491">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-301">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-301">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-493">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-493">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-494">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-494">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-303">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-303">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-304">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-304">Excel</span></span>
 
-- <span data-ttu-id="968f4-495">Исправлена проблема, не позволявшая переключиться на редактирование файлов, открытых с использованием параметра "Рекомендовать доступ только для чтения".</span><span class="sxs-lookup"><span data-stu-id="968f4-495">Fixed an issue which prevented the ability to switch to editing for files that opened as "read-only recommended".</span></span>
+- <span data-ttu-id="5d0d9-305">Исправлена проблема, из-за которой приложение Excel неожиданно закрывалось при открытии файлов UNC с недопустимыми атрибутами файлов (время создания, время изменения и т. д.)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-305">Fixed an issue where Excel would close unexpectedly when opening UNC files that have invalid file attributes (creation time, modified time, etc.)</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="968f4-496">OneNote</span><span class="sxs-lookup"><span data-stu-id="968f4-496">OneNote</span></span>
 
-- <span data-ttu-id="968f4-497">Удалены лишние вызовы удостоверений, чтобы сократить использование ресурсов</span><span class="sxs-lookup"><span data-stu-id="968f4-497">Removed redundant identity calls to reduce resource utilization</span></span>
+- <span data-ttu-id="5d0d9-306">Исправлена проблема, из-за которой не осуществлялся перенос параметров десятичных разделителей и разделителей групп разрядов при копировании диаграммы из Excel и ее вставке в Word или PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-306">We fixed an issue where decimal and thousands separators settings would not carry over when copying a chart from Excel and pasting into Word or PowerPoint.</span></span>
 
-- <span data-ttu-id="968f4-498">Улучшено обнаружение состояния совместного редактирования для снижения использования ресурсов</span><span class="sxs-lookup"><span data-stu-id="968f4-498">Improved detection of co-authoring status to reduce resource utilization.</span></span>
 
-- <span data-ttu-id="968f4-499">Улучшена функция обнаружения ошибок и качество синхронизации.</span><span class="sxs-lookup"><span data-stu-id="968f4-499">Improved capability for detecting errors and the quality of the sync experience.</span></span>
+- <span data-ttu-id="5d0d9-307">Исправлена проблема, из-за которой производительность выполнения макроса, включающего форматирование диапазона сводной таблицы, снижалась при каждом его выполнении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-307">We fixed an issue where the performance of running a macro involving PivotTable range formatting would get worse each time the macro is run.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-500">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-500">Outlook</span></span>
 
-- <span data-ttu-id="968f4-501">Исправлена ошибка, вызывавшая серьезную проблему с производительностью при запуске Outlook для некоторых клиентов.</span><span class="sxs-lookup"><span data-stu-id="968f4-501">Addressed an issue that caused a significant performance issue when starting Outlook for some tenants.</span></span>
+- <span data-ttu-id="5d0d9-308">Исправлена проблема, из-за которой удалялись правила условного форматирования при копировании или перемещении листов в другую книгу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-308">We fixed an issue where conditional formatting rules were dropped when copying or moving sheets to another workbook.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="968f4-502">Skype</span><span class="sxs-lookup"><span data-stu-id="968f4-502">Skype</span></span>
 
-- <span data-ttu-id="968f4-503">Исправлена проблема, из-за которой запуск демонстрации экрана мог завершиться сбоем в 32-разрядном клиенте Skype для бизнеса после его работы в течение нескольких дней.</span><span class="sxs-lookup"><span data-stu-id="968f4-503">Fixed an issue where starting a screen share can fail on a 32-bit Skype for Business client after it has been running for several days.</span></span>
+- <span data-ttu-id="5d0d9-309">Исправлена проблема, из-за которой пользователи не могли применять метки конфиденциальности к файлам Excel, если при загрузке приложения был отключен начальный экран.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-309">We fixed an issue where users were unable to apply sensitivity labels to Excel files when the start screen on app boot was disabled.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-504">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-504">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-505">Исправлена проблема, из-за которой в случае отключения автосохранения с помощью групповой политики некоторые документы могли не отображать последнее содержимое сервера при открытии, пока пользователь не нажмет кнопку "Доступны обновления".</span><span class="sxs-lookup"><span data-stu-id="968f4-505">Fixed an issue where if AutoSave is turned off through group policy, some documents might not show the latest server contents on open until the user clicks on 'Updates available'.</span></span>
+- <span data-ttu-id="5d0d9-310">Исправлена проблема с открытием облачного файла из папки синхронизации OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-310">We fixed an issue in opening cloud file from OneDrive sync folder.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-311">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-311">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-312">Исправлена проблема, приводившая к эпизодическому прекращению работы Outlook при добавлении или сохранении вложений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-312">Addressed an issue which caused Outlook to stop working sporadically when adding or saving attachments.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-313">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-313">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-314">Исправлена проблема, из-за которой команда размера шрифта, добавленная QAT, автоматически выполнялась для ближайшего определенного размера шрифта при ее обновлении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-314">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+
+
+- <span data-ttu-id="5d0d9-315">Исправлена проблема, из-за которой при копировании и вставке слайда с использованием параметра "Сохранить исходное форматирование" иногда неожиданно выполнялось копирование поверх нового образца слайдов</span><span class="sxs-lookup"><span data-stu-id="5d0d9-315">Fixed an issue where copy and paste of a slide with 'keep source formatting' option would sometimes copy over a new slide master unexpectedly</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="5d0d9-316">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-316">Word</span></span>
+
+- <span data-ttu-id="5d0d9-317">Исправлена проблема с отслеживанием изменений, из-за которой иногда при открытии документа Word могло появляться диалоговое окно с сообщением об ошибке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-317">We fixed an issue in Track Changes which sometimes opening Word document might display error dialog.</span></span>
+
+
+- <span data-ttu-id="5d0d9-318">Исправлена проблема с открытием облачного файла из папки синхронизации OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-318">We fixed an issue in opening cloud file from OneDrive sync folder.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-319">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-319">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-320">Исправлена проблема, не позволявшая открыть файл в Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-320">Fixed an issue that prevented successful open of a file in Office.</span></span>
+
+
+- <span data-ttu-id="5d0d9-321">Исправлена проблема, из-за которой могли повреждаться документы, содержащие эскизные контуры, примененные к соединителям с помощью форматирования по образцу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-321">Fixed an issue where documents containing Sketched outlines applied to connectors via Format Painter could become corrupted.</span></span>
 
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-july-14"></a><span data-ttu-id="968f4-507">Версия 2002: 14 июля</span><span class="sxs-lookup"><span data-stu-id="968f4-507">Version 2002: July 14</span></span>
-<span data-ttu-id="968f4-508">*Версия 2002 (сборка 12527.20880)*</span><span class="sxs-lookup"><span data-stu-id="968f4-508">*Version 2002 (Build 12527.20880)*</span></span>
+## <a name="version-2008-january-12"></a><span data-ttu-id="5d0d9-323">Версия 2008: 12 января</span><span class="sxs-lookup"><span data-stu-id="5d0d9-323">Version 2008: January 12</span></span>
+<span data-ttu-id="5d0d9-324">*Версия 2008 (сборка 13127.21064)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-324">*Version 2008 (Build 13127.21064)*</span></span>
 
-<span data-ttu-id="968f4-509">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-509">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-325">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-325">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-511">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-511">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-512">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-512">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-327">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-327">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-328">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-328">Excel</span></span>
 
-- <span data-ttu-id="968f4-513">Ускорение загрузки файлов, доступных в локальной папке OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-513">Speed up loading of files that are available on local OneDrive folder.</span></span>
-
-- <span data-ttu-id="968f4-514">Исправлена проблема, из-за которой CustomUI XML для настраиваемой вкладки ленты удалялся при сохранении в SharePoint или OneDrive.</span><span class="sxs-lookup"><span data-stu-id="968f4-514">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
-
-- <span data-ttu-id="968f4-515">Исправлена проблема, из-за которой появлялось сообщение об ошибке "На эту книгу имеются ссылки из других книг, поэтому закрыть ее нельзя", так как надстройки загружались в алфавитном, а не в указанном пользователем порядке.</span><span class="sxs-lookup"><span data-stu-id="968f4-515">Fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
-
-- <span data-ttu-id="968f4-516">Исправлена проблема, при которой книга могла быть скрыта при щелчке гиперссылки на определенное место в уже открытой книге.</span><span class="sxs-lookup"><span data-stu-id="968f4-516">Fixed an issue where a workbook could become hidden when clicking a hyperlink to a spot within an already opened workbook.</span></span>
-
-- <span data-ttu-id="968f4-517">Исправлена проблема, из-за которой некоторые скопированные и вставленные ссылки диаграмм использовали сопоставленные адреса дисков вместо универсальных адресов.</span><span class="sxs-lookup"><span data-stu-id="968f4-517">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
-
-- <span data-ttu-id="968f4-518">Повышена производительность при удалении столбцов с объединенными ячейками.</span><span class="sxs-lookup"><span data-stu-id="968f4-518">Improved performance when deleting columns with merged cells.</span></span>
-
-- <span data-ttu-id="968f4-519">Устранена проблема, из-за которой имена принтеров могли повторяться в списке принтеров в диалоговом окне "Печать".</span><span class="sxs-lookup"><span data-stu-id="968f4-519">Fixed an issue where printer names could be repeated in the list of printers in the Print dialog.</span></span>
-
-- <span data-ttu-id="968f4-520">Исправлена проблема с задержками при сохранении файлов с листами, содержащими несколько формул с определенными именами.</span><span class="sxs-lookup"><span data-stu-id="968f4-520">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
+- <span data-ttu-id="5d0d9-329">Исправлена проблема, из-за которой при открытии книг только для чтения, было невозможно обновить данные сводной таблицы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-329">Fixed an issue where read-only books would no longer refresh pivot table data when opened.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="968f4-521">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-521">Outlook</span></span>
+- <span data-ttu-id="5d0d9-330">Это изменение позволяет устранить следующие проблемы: при вставке файла из локальной папки синхронизации OneDrive Excel не отображает правильный значок "Вставить объект".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-330">This change provides a fix for the following issue: Excel "Insert Object" does not show correct icon when inserts a file from OneDrive local sync folder.</span></span>
 
-- <span data-ttu-id="968f4-522">Исправлена проблема с окном редактора метода ввода (IME), которое перекрывало вводимый с помощью IME базовый текст в случае использования нескольких мониторов с различными разрешениями.</span><span class="sxs-lookup"><span data-stu-id="968f4-522">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
 
-- <span data-ttu-id="968f4-523">Устранена проблема, при которой повторяющиеся встречи или собрания отображались с ошибкой во времени при приближении изменений в определении часового пояса.</span><span class="sxs-lookup"><span data-stu-id="968f4-523">Addressed an issue that caused recurring appointments or meetings to be displayed at the wrong time when approaching a timezone definition change.</span></span>
+- <span data-ttu-id="5d0d9-331">Исправлена проблема, из-за которой клиенты не получали уведомлений о новой версии файла при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-331">Fixed an issue where customers would incorrectly get notified about a new version of the file when coauthoring.</span></span>
 
-- <span data-ttu-id="968f4-524">Исправлена проблема, из-за которой при обновлении правил в Outlook появлялось сообщение "Правила на этом компьютере не соответствуют правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="968f4-524">Addressed an issue that caused users to see the "The rules on this computer do not match the rules on Microsoft Exchange" message when updating their rules in Outlook.</span></span>
 
-- <span data-ttu-id="968f4-525">Исправлена проблема с отсутствием параметра "Разрешить переадресацию" в разделе "Параметры ответа" в собрании общего календаря, если НЕ установлен флажок скачивания общей папки.</span><span class="sxs-lookup"><span data-stu-id="968f4-525">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+- <span data-ttu-id="5d0d9-332">Исправлена проблема с редактированием, из-за которой использование редактора метода ввода в режиме перезаписи приводило к неправильному изменению дополнительных символов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-332">Fixed an editing issue where using IME with Overwrite mode would incorrectly advance extra characters.</span></span>
 
-- <span data-ttu-id="968f4-526">Устранена проблема, из-за которой категории иногда исчезали из сообщений электронной почты.</span><span class="sxs-lookup"><span data-stu-id="968f4-526">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
 
-- <span data-ttu-id="968f4-527">Устранена проблема, из-за которой представители видели разные иерархии папок общих почтовых ящиков на разных компьютерах.</span><span class="sxs-lookup"><span data-stu-id="968f4-527">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
+- <span data-ttu-id="5d0d9-333">Исправлена проблема при использовании данных в режиме реального времени в сочетании с функцией многопоточного пересчета.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-333">Fixed an issue when using real time data in conjunction with multithreaded recalc functionality.</span></span>
 
-- <span data-ttu-id="968f4-528">Исправлена проблема, из-за которой у представителей при редактировании существующей встречи в календаре руководителя отображалось сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="968f4-528">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
 
-- <span data-ttu-id="968f4-529">Исправлена проблема, из-за которой кодировка текста отчета о недоставке изменялась с Юникода на ASCII после изменения темы.</span><span class="sxs-lookup"><span data-stu-id="968f4-529">Addressed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
+- <span data-ttu-id="5d0d9-334">Исправляет проблему, из-за которой приложение Excel не запускалось или неожиданно завершало работу, если применялись определенные параметры службы "Безопасность Windows" для защиты от эксплойтов (SimExec, CallerCheck).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-334">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use</span></span>
 
-- <span data-ttu-id="968f4-530">Устранена проблема, вызывавшая сбой после того, как две надстройки добавляли кнопку в одну и ту же группу ленты.</span><span class="sxs-lookup"><span data-stu-id="968f4-530">Addressed an issue that caused users to experience a crash when two add-ins add a button to the same ribbon group.</span></span>
 
-- <span data-ttu-id="968f4-531">Исправлена проблема, из-за которой пользователи не могли отправлять электронные сообщения по адресам из личного списка рассылки.</span><span class="sxs-lookup"><span data-stu-id="968f4-531">Addressed an issue that caused users to be unable to address emails to a Personal Distribution List.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-335">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-335">Outlook</span></span>
 
-- <span data-ttu-id="968f4-532">Устранена проблема, из-за которой нельзя было добавить ссылки в сообщения электронной почты с правильным клиентским разрешением по умолчанию, если для этого разрешения был установлен параметр "все".</span><span class="sxs-lookup"><span data-stu-id="968f4-532">Addressed an issue that caused links to fail to be added to emails with the correct tenant default permission when the tenant default permission is configured as"anyone".</span></span>
+- <span data-ttu-id="5d0d9-336">Устранена проблема, из-за которой терялось форматирование SmartLinks при сохранении в черновиках.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-336">We fixed an issue that caused SmartLinks to lose their formatting when saved to drafts.</span></span>
 
-- <span data-ttu-id="968f4-533">Устранена проблема, связанная с тем, что пользователи не могли сохранять вложения OneDrive вне клиента на локальный компьютер при сохранении через диалоговое окно "Безопасность".</span><span class="sxs-lookup"><span data-stu-id="968f4-533">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-534">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-534">Word</span></span>
+- <span data-ttu-id="5d0d9-337">Исправлена проблема, из-за которой пользователь не мог настроить текст обоснования при переопределении политики.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-337">We fixed an issue to provide a user a way to customize justification text when overriding a policy.</span></span>
 
-- <span data-ttu-id="968f4-535">Исправлена проблема с совместной работой над документом при включении политики FileBlick\Word2007Files.</span><span class="sxs-lookup"><span data-stu-id="968f4-535">We fixed an issue in coautthoring if we enable policy FileBlick\Word2007Files.</span></span>
 
-- <span data-ttu-id="968f4-536">Устранена проблема, при которой функция экспресс-блоков Word не работала при добавлении переименованного поля подстановки.</span><span class="sxs-lookup"><span data-stu-id="968f4-536">We fixed an issue which Word QuickPart doesn't work when adding lookup field that has been renamed.</span></span>
+- <span data-ttu-id="5d0d9-338">Исправлена проблема, из-за которой китайские иероглифы заменялись на знаки вопроса при сохранении в виде файла OFT.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-338">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-537">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-537">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-538">Исправлена проблема, из-за которой при совместной работе над объемными файлами PowerPoint чрезмерно повышалась нагрузка на сеть и ЦП.</span><span class="sxs-lookup"><span data-stu-id="968f4-538">Fixed an issue where users can experience excessive network and CPU usage while coauthoring on large PowerPoint files.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-339">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-339">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-539">Мы отправили часть AppV51 на доработку, чтобы исправить в предыдущей версии AppV51.</span><span class="sxs-lookup"><span data-stu-id="968f4-539">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+- <span data-ttu-id="5d0d9-340">Исправлена проблема VBA, приводившая к сбою Slide.Shapes.AddMediaObject2 при использовании устаревших форматов видео (MPG-1, MPEG-2).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-340">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 would unexpectedly close with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
-- <span data-ttu-id="968f4-540">Устранена проблема со сбоем в работе узла Office в Windows при активации надстройки, когда значение реестра TabProcGrowth относилось к типу REG_SZ.</span><span class="sxs-lookup"><span data-stu-id="968f4-540">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
+
+- <span data-ttu-id="5d0d9-341">Исправлена проблема, из-за которой некоторые поврежденные файлы PowerPoint открывались неправильно даже после восстановления документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-341">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="5d0d9-342">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-342">Project</span></span>
+
+- <span data-ttu-id="5d0d9-343">Исправлена проблема, из-за которой Project мог неожиданно прекращать работу при открытии файлов, в которых контуры ресурсов были указаны определенным образом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-343">Fixed an issue where Project may terminate unexpectedly on opening files where resource contours were specified in a certain manner.</span></span>
+
+
+### <a name="skype"></a><span data-ttu-id="5d0d9-344">Skype</span><span class="sxs-lookup"><span data-stu-id="5d0d9-344">Skype</span></span>
+
+- <span data-ttu-id="5d0d9-345">Устраняет проблему, из-за которой сертификат TLS-DSK пользователя обновлялся не в ожидаемое время, а только тогда, когда срок его действия оставался менее 12 часов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-345">Fixes an issue where a user's TLS-DSK certificate would not renew at the expected time, instead only renewing when less than 12 hours remain on its validity.</span></span>
+
+
+- <span data-ttu-id="5d0d9-346">Устраняет проблему, при которой пользовательский интерфейс Skype для бизнеса отображается как пустой после входа в систему, когда Office еще не лицензирован.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-346">Fixes an issue where the Skype for Business UI shows as blank after signing in when Office is not yet licensed.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-347">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-347">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-348">Это изменение решает проблему, связанную с открытием файлов, содержащих устаревшие схемы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-348">This change addresses an issue related to opening files containing legacy diagrams.</span></span>
+
+
+- <span data-ttu-id="5d0d9-349">Это изменение решает проблему с резервным прокси-сервером SVG, в результате которого возникает нарушение прав доступа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-349">This change addresses an issue with SVG fallback proxy resulting in access violations.</span></span>
+
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-june-09"></a><span data-ttu-id="968f4-542">Версия 2002: 9 июня</span><span class="sxs-lookup"><span data-stu-id="968f4-542">Version 2002: June 09</span></span>
-<span data-ttu-id="968f4-543">*Версия 2002 (сборка 12527.20720)*</span><span class="sxs-lookup"><span data-stu-id="968f4-543">*Version 2002 (Build 12527.20720)*</span></span>
+## <a name="version-2008-december-08"></a><span data-ttu-id="5d0d9-351">Версия 2008: 8 сентября</span><span class="sxs-lookup"><span data-stu-id="5d0d9-351">Version 2008: December 08</span></span>
+<span data-ttu-id="5d0d9-352">*Версия 2008 (сборка 13127.20910)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-352">*Version 2008 (Build 13127.20910)*</span></span>
 
-<span data-ttu-id="968f4-544">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-544">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-353">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-353">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-546">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-546">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-547">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-547">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-355">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-355">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-356">Access</span><span class="sxs-lookup"><span data-stu-id="5d0d9-356">Access</span></span>
 
-- <span data-ttu-id="968f4-548">Исправлена проблема, из-за которой внешняя ссылка не срабатывала при повторном открытии файла, если путь к файлу был слишком длинным.</span><span class="sxs-lookup"><span data-stu-id="968f4-548">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
+- <span data-ttu-id="5d0d9-357">Исправлена ошибка, возникавшая при попытке использовать построитель DSN ODBC</span><span class="sxs-lookup"><span data-stu-id="5d0d9-357">We fixed an error issue when trying to use ODBC DSN builder</span></span>
 
-- <span data-ttu-id="968f4-549">Исправлена проблема, из-за которой приложение Excel иногда переставало отвечать после нажатия клавиш CTRL+SHIFT+клавиши со стрелками для прокрутки, если окно Excel демонстрировалось в Teams.</span><span class="sxs-lookup"><span data-stu-id="968f4-549">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
 
-- <span data-ttu-id="968f4-550">Исправлена проблема с масштабированием флажков в элементах управления формы при печати.</span><span class="sxs-lookup"><span data-stu-id="968f4-550">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-358">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-358">Excel</span></span>
 
-- <span data-ttu-id="968f4-551">Мог возникать сбой при попытке перечислить изменения на новом листе для книги с использованием устаревшего режима "Общая книга".</span><span class="sxs-lookup"><span data-stu-id="968f4-551">A crash could occur when trying to list changes on a new sheet for a workbook using legacy "Shared Workbook" mode.</span></span>
+- <span data-ttu-id="5d0d9-359">Исправлена ошибка, из-за которой не удавалось изменять сводные таблицы и сохранять книги, если они были экспортированы из плана Project.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-359">Fixed an issue where pivot tables could not be edited and workbooks could not be saved if they were exported from Project plan.</span></span>
 
-- <span data-ttu-id="968f4-552">Вставка столбца в отфильтрованный список занимала больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-552">Inserting a column in a filtered list would take longer than expected.</span></span>
 
-- <span data-ttu-id="968f4-553">Исправлена проблема, из-за которой знак @ в начале формулы считался неявным оператором пересечения.</span><span class="sxs-lookup"><span data-stu-id="968f4-553">Fixed an issue where an @ symbol starting a formula would be considered an implicit intersection operator.</span></span>
+- <span data-ttu-id="5d0d9-360">Исправлена ошибка, из-за которой в некоторых случаях при открытии файла в режиме "только для чтения" отображалось несколько панелей сообщений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-360">We fixed an issue where in some cases, multiple message bars were appearing when a file was opened in read-only mode.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-554">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-554">Outlook</span></span>
 
-- <span data-ttu-id="968f4-555">Позволяет присоединиться к собранию в Teams непосредственно через собственный клиент Teams.</span><span class="sxs-lookup"><span data-stu-id="968f4-555">Enables joining a Teams meeting directly through the native Teams client.</span></span>
+- <span data-ttu-id="5d0d9-361">Исправлена ошибка, из-за которой происходил сбой работы промежуточных итогов структуры при большом количестве повторяющихся значений заголовков столбцов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-361">We fixed an issue where outline sub-totals could stop working when there were many duplicate column header values.</span></span>
 
-- <span data-ttu-id="968f4-556">Исправлена проблема, из-за которой Outlook не удавалось включать советы по политике защиты от потери данных для пользователей, которые приобрели подписку на Microsoft 365 бизнес премиум.</span><span class="sxs-lookup"><span data-stu-id="968f4-556">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
 
-- <span data-ttu-id="968f4-557">Исправлена проблема, из-за которой пользователи, имеющие неправильный параметр эмуляции браузера, не могли завершить запрос на проверку подлинности Gmail.</span><span class="sxs-lookup"><span data-stu-id="968f4-557">Addressed an issue that caused users with the incorrect browser emulation setting when to be unable to complete the authentication prompt for Gmail.</span></span>
+- <span data-ttu-id="5d0d9-362">Исправлена ошибка, из-за которой происходил сбой работы Excel при обновлении объекта групповой политики (например, с помощью удаленного обновления групповой политики) во время многопоточного пересчета.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-362">We fixed an issue where Excel would stop working when there is a Group Policy Object update (e.g. via Remote Group Policy Refresh) during multithreaded recalc.</span></span>
 
-- <span data-ttu-id="968f4-558">Исправлена проблема пользователей Outlook, использующих серверные операционные системы, приводившая к ошибке "Состояние защиты от вирусов: Недействительно.</span><span class="sxs-lookup"><span data-stu-id="968f4-558">Addressed an issue that caused Outlook users on server operating systems to see the error, "Antivirus status: Invalid.</span></span> <span data-ttu-id="968f4-559">Эта версия Windows поддерживает обнаружение вирусов, но антивирусные программы не найдены", несмотря на то, что антивирусная программа настроена правильно.</span><span class="sxs-lookup"><span data-stu-id="968f4-559">This version of Windows supports antivirus detection, but no antivirus was found" despite having anti virus properly configured.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-560">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-560">Word</span></span>
+- <span data-ttu-id="5d0d9-363">Исправлена ошибка, из-за которой происходил сбой работы Excel при использовании функции промежуточных итогов в более чем 255 столбцах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-363">We fixed an issue where Excel would stop working when users use the subtotal function on more than 255 columns.</span></span>
 
-- <span data-ttu-id="968f4-561">Исправлена проблема, из-за которой выравнивание слова в документе сбивалось при попытке редактирования после печати с помощью функции "Быстрая печать".</span><span class="sxs-lookup"><span data-stu-id="968f4-561">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-562">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-562">Office Suite</span></span>
+- <span data-ttu-id="5d0d9-364">Улучшен кернинг текста в PowerPoint при копировании содержимого из Excel и его вставке в PowerPoint с помощью функции внедрения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-364">Improved text kerning in PowerPoint when when content is copied from Excel and pasted into PowerPoint with the Embed option.</span></span>
 
-- <span data-ttu-id="968f4-563">Эта проблема устранена с помощью замены имен каналов в представлении Backstage на новые в разветвлении января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="968f4-563">We resolved this issue by updating the channel names in the backstage to the new channel names in the January 2020 Fork.</span></span>
 
-- <span data-ttu-id="968f4-564">Исправлена проблема, из-за которой устройства регулируемые политикой не могли вызвать API аудитории DMS.</span><span class="sxs-lookup"><span data-stu-id="968f4-564">We have fixed this issue and going forward, if a device is policy-managed, it will not call the DMS Audience API.</span></span>
+- <span data-ttu-id="5d0d9-365">Исправлена ошибка, которая блокировала переключение из режима предварительного просмотра таблицы и редактора запросов в PowerPivot.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-365">Fixed an issue that would prevent switching from Table Preview and the Query Editor in PowerPivot.</span></span>
 
-- <span data-ttu-id="968f4-565">Исправлена проблема, из-за которой при добавлении и удалении приложений в одной транзакции выполнялось неполное удаление.</span><span class="sxs-lookup"><span data-stu-id="968f4-565">Resolved the issue where there is an incomplete removal when adding and removing apps in a single transaction.</span></span>
 
-- <span data-ttu-id="968f4-566">Аварийное завершение работы узла Office в Windows, при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имеет значение "0".</span><span class="sxs-lookup"><span data-stu-id="968f4-566">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="968f4-567">Это изменение может устранить проблему.</span><span class="sxs-lookup"><span data-stu-id="968f4-567">This change would fix this issue.</span></span>
+- <span data-ttu-id="5d0d9-366">Исправлена ошибка, из-за которой пользователь не мог напрямую открыть файл atomsvc (UTF8+BOM) в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-366">We fixed an issue where a user was unable to open atomsvc (UTF8+BOM) file from SharePoint, directly.</span></span>
+
+
+- <span data-ttu-id="5d0d9-367">Исправлена ошибка, из-за которой Power Pivot не мог распознавать разделитель вкладок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-367">We fixed an issue where Power Pivot will now successfully recognize tab delimiter.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-368">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-368">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-369">Исправлена ошибка, из-за которой поле "Кому" было пустым при отправке отчета о состоянии задачи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-369">We fixed an issue that caused the To: field to be empty when sending a status report on a Task.</span></span>
+
+
+- <span data-ttu-id="5d0d9-370">Исправлена ошибка, из-за которой происходил сбой события MailItem.BeforeAttachmentAdd.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-370">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
+
+
+- <span data-ttu-id="5d0d9-371">Исправлена ошибка, из-за которой приложение неожиданно закрывалось при отправке почты Outlook из других приложений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-371">We fixed an issue that was causing some users to experience the application to close unexpectedly when sending Outlook mail from applications other than Outlook.</span></span>
+
+
+- <span data-ttu-id="5d0d9-372">Исправлена ошибка, из-за которой снижалась производительность при перемещении нескольких почтовых элементов между папками в интерактивном режиме.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-372">We fixed an issue that caused users to experience degraded performance when moving multiple mail items between folders in online mode.</span></span>
+
+
+- <span data-ttu-id="5d0d9-373">Добавлен раздел реестра, позволяющий пользователям отключить добавление параметра filetime для вложений в операциях IDataObject (т. е. перетаскивание, буфер обмена).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-373">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="5d0d9-374">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = параметры filetime исключены 1 = (по умолчанию) параметры filetime включены</span><span class="sxs-lookup"><span data-stu-id="5d0d9-374">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes are excluded  1 = (default) filetimes are included</span></span>
+
+
+- <span data-ttu-id="5d0d9-375">Исправлена ошибка, из-за которой исчезали встроенные изображения при ответе на сообщение с меткой защиты от Azure Information Protection.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-375">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
+
+
+- <span data-ttu-id="5d0d9-376">Исправлена ошибка, из-за которой имя пользователя отображалось как номер телефона при отправке голосовых сообщений, защищенных службой Azure, в результате чего пользователи классического приложения Outlook не могли открывать голосовые сообщения от внешних пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-376">We fixed an issue that caused the user name to be displayed as a phone number when sending an Azure Protected Voicemail, causing Outlook Desktop users to be unable to open voicemails from external users.</span></span>
+
+
+- <span data-ttu-id="5d0d9-377">Исправлена ошибка, из-за которой при настройке конфигурации OME добавлялись лишние вложения в элемент электронной почты, в результате чего Outlook шифровал сообщение, даже если на стороне службы был настроен параметр DecryptAttachmentsForEncryptOnly.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-377">We fixed an issue where setting up OME Configuration was adding an extraneous attachments on the mail item which was forcing Outlook to Encrypt the message even though the DecryptAttachmentsForEncryptOnly option was setup on the service side.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-378">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-378">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-379">Исправлена проблема, из-за которой связанная диаграмма Excel неправильно менялась на листе Excel при изменении исходного пути к локальной папке OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-379">We fixed an issue where linked excel chart incorrectly changes to excel sheet when user changes the source path to local OneDrive folder.</span></span>
+
+
+- <span data-ttu-id="5d0d9-380">Исправлена ошибка, из-за которой функция "Рады видеть вас снова!</span><span class="sxs-lookup"><span data-stu-id="5d0d9-380">We fixed an issue due to which the feature ‘Welcome back!</span></span> <span data-ttu-id="5d0d9-381">Продолжайте работу в Office с того места, на котором остановились" не работала в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-381">Pick up where you left off in the office' was not working in the PowerPoint .</span></span>
+
+
+### <a name="visio"></a><span data-ttu-id="5d0d9-382">Visio</span><span class="sxs-lookup"><span data-stu-id="5d0d9-382">Visio</span></span>
+
+- <span data-ttu-id="5d0d9-383">Исправлена ошибка, из-за которой пользователи Visio для Office 365 не могли создавать прямые линии с помощью соединительных линий для наборов элементов Visio и встроенных шаблонов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-383">We fixed an issue where users will be able to create straight lines using connectors in Visio for Office 365 for both custom Visio stencils and in-built templates.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="5d0d9-384">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-384">Word</span></span>
+
+- <span data-ttu-id="5d0d9-385">Исправлена ошибка, из-за которой длинные ссылки не сворачивались при сохранении документа в формате HTML.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-385">We fixed an issue where long links were not being wrapped when saving document to HTML format.</span></span>
+
+
+- <span data-ttu-id="5d0d9-386">Исправлена ошибка, из-за которой при ответе на родительский комментарий с неизвестным расширением в списке расширений ответ получал то же расширение.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-386">We fixed an issue where if you reply to a parent comment that has unknown extensions in an extension list, the reply will get those same extensions.</span></span>
+
+
+- <span data-ttu-id="5d0d9-387">Устранена проблема с атрибутом сообщения "Не пересылать" в Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-387">We fixed an issue with Outlook with message set to Do not forward.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-388">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-388">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-389">Устранена проблема, из-за которой пользователи не могли импортировать списки SPO при отключенной ADAL.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-389">Addresses an issue that prevented users from importing SPO Lists when ADAL was disabled.</span></span>
+
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-may-12"></a><span data-ttu-id="968f4-569">Версия 2002: 12 мая</span><span class="sxs-lookup"><span data-stu-id="968f4-569">Version 2002: May 12</span></span>
-<span data-ttu-id="968f4-570">*Версия 2002 (сборка 12527.20612)*</span><span class="sxs-lookup"><span data-stu-id="968f4-570">*Version 2002 (Build 12527.20612)*</span></span>
+## <a name="version-2008-november-10"></a><span data-ttu-id="5d0d9-391">Версия 2008: 10 ноября</span><span class="sxs-lookup"><span data-stu-id="5d0d9-391">Version 2008: November 10</span></span>
+<span data-ttu-id="5d0d9-392">*Версия 2008 (сборка 13127.20760)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-392">*Version 2008 (Build 13127.20760)*</span></span>
 
-<span data-ttu-id="968f4-571">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-571">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-393">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-393">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-573">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-573">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-395">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-395">Resolved issues</span></span>
 
-### <a name="excel"></a><span data-ttu-id="968f4-574">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-574">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-396">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-396">Excel</span></span>
 
-- <span data-ttu-id="968f4-575">Открытие книги со ссылками на ряд других книг, особенно в скрытых окнах, выполнялось медленнее, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-575">Opening a workbook with references to numerous other workbooks, especially with hidden windows, would be slower than expected.</span></span>
+- <span data-ttu-id="5d0d9-397">Исправлена проблема, из-за которой некоторые функции выдавали неправильный результат после загрузки книги.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-397">We fixed an issue where certain functions would have an incorrect result after loading a workbook.</span></span>
 
-- <span data-ttu-id="968f4-576">В некоторых случаях открытие CSV-файлов занимало больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-576">Opening CSV files was taking longer than expected in some circumstances.</span></span>
 
-- <span data-ttu-id="968f4-577">В ряде случаев приложение Excel аварийно завершало работу при переключении между книгами с разным масштабом.</span><span class="sxs-lookup"><span data-stu-id="968f4-577">Excel may crash in some circumstances when switching between workbooks with different zoom levels.</span></span>
+- <span data-ttu-id="5d0d9-398">Исправлена проблема с неожиданным завершением работы приложения, которое было связано со ссылками и именованными диапазонами надстройки XLAM.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-398">We fixed an issue where the application would terminate unexpectedly which was related to XLAM add-in references and named ranges.</span></span>
 
-- <span data-ttu-id="968f4-578">Устранена проблема с VBA, из-за которой внесение значений в диапазон выполнялось медленнее, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-578">Fixed an issue with VBA in which writing values to a range would be slower than expected.</span></span>
 
-- <span data-ttu-id="968f4-579">Данные, скопированные из столбца и отфильтрованные по цвету, иногда не вставлялись должным образом.</span><span class="sxs-lookup"><span data-stu-id="968f4-579">Data copied from a column filtered by color sometimes would not paste properly.</span></span>
+- <span data-ttu-id="5d0d9-399">Исправлена проблема, из-за которой создавались неверные ссылки на ячейки при использовании макроса для настройки свойства FormulaR1C1 для диапазона, если лист диаграммы являлся активным листом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-399">We fixed an issue where using a macro to set the FormulaR1C1 property for a range, the cell references would be incorrect if a chart sheet was the active sheet.</span></span>
 
-- <span data-ttu-id="968f4-580">Устранена проблема, из-за которой в некоторых случаях происходил сбой Excel после копирования листа, содержащего сводную таблицу.</span><span class="sxs-lookup"><span data-stu-id="968f4-580">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
 
-- <span data-ttu-id="968f4-581">Для книг, сохраненных с цифровой подписью в Excel 2016, подпись могла быть признана недействительной при открытии в текущей версии Excel.</span><span class="sxs-lookup"><span data-stu-id="968f4-581">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="5d0d9-400">Исправлена проблема, которая могла вызывать сообщение об ошибке "При попытке вычисления одной или нескольких формул ресурсы Excel закончились".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-400">Fixed an issue which could cause an error that "Excel ran out of resources while attempting to calculate one or more formulas".</span></span>
 
-- <span data-ttu-id="968f4-582">Устранена проблема, которая приводила к неожиданному изменению свойства "Пересекает в значении" на оси диаграммы при сохранении и повторном открытии файла.</span><span class="sxs-lookup"><span data-stu-id="968f4-582">Addressed an issue where the "Value Crosses At" property on chart axis unexpectedly changes when saving and re-opening a file.</span></span>
 
-- <span data-ttu-id="968f4-583">При использовании Range.Value и Range.Value2 (VBA) формулы вводились как динамические массивы.</span><span class="sxs-lookup"><span data-stu-id="968f4-583">Using a Range.Value and Range.Value2 (VBA) would cause formulas to be entered as dynamic arrays.</span></span>
+- <span data-ttu-id="5d0d9-401">Исправлена проблема с испанским языком в Office, когда в списках проверки данных могли отображаться не все элементы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-401">Fixed an issue when the Office language was set to Spanish, in which data validation lists may not show all the items in the list.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="968f4-584">OneNote</span><span class="sxs-lookup"><span data-stu-id="968f4-584">OneNote</span></span>
 
-- <span data-ttu-id="968f4-585">Локализует уведомление, позволяющее пользователю получить дополнительные сведения о временных мерах, которые используются при работе с OneNote для улучшения синхронизации и стабильности службы.</span><span class="sxs-lookup"><span data-stu-id="968f4-585">Localises the notification that allows the user to learn more about temporary measures being enacted in the OneNote user experience to improve sync and service stability.</span></span>
+- <span data-ttu-id="5d0d9-402">Исправлена проблема, которая могла приводить к зависанию при обновлении сводных таблиц OLAP.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-402">We fixed an issue which could cause a hang when refreshing OLAP PivotTables.</span></span>
 
-- <span data-ttu-id="968f4-586">Отображает уведомление, позволяющее пользователю получить дополнительные сведения о временных мерах, которые используются при работе с OneNote для улучшения синхронизации и стабильности службы.</span><span class="sxs-lookup"><span data-stu-id="968f4-586">Display a notification that allows the user to learn more about temporary measures being enacted in the OneNote user experience to improve sync and service stability.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-403">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-403">Outlook</span></span>
 
-- <span data-ttu-id="968f4-587">Улучшена синхронизация и стабильность службы путем временного уменьшения количества и частоты синхронизации страниц журнала версий в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-587">Improved sync and service stability by temporarily reducing the number and sync frequency of version history pages in OneNote 2016.</span></span>
+- <span data-ttu-id="5d0d9-404">Исправлена проблема, из-за которой пользователи теперь могут отключить службу IRM (управление правами на доступ к данным) для Outlook, не отключая ее для других приложений Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-404">We fixed an issue where users can now disable IRM (Information Rights Management) for Outlook without having to disable it for the rest of the Office applications.</span></span>
 
-- <span data-ttu-id="968f4-588">Улучшена синхронизация и стабильность службы путем временного отключения корзины в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-588">Improved sync and service stability by temporarily disabling the recycle bin in OneNote 2016.</span></span> <span data-ttu-id="968f4-589">Если пользователь пытается удалить данные, которые обычно отправляются в корзину, ему будет предложено сохранить или окончательно удалить их.</span><span class="sxs-lookup"><span data-stu-id="968f4-589">When a user tries to delete data that would normally be sent to the recycle bin, users will be asked if they would prefer to keep or permanently delete the data.</span></span>
 
-- <span data-ttu-id="968f4-590">Улучшена синхронизация и стабильность службы путем временного изменения частоты синхронизации в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-590">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
+- <span data-ttu-id="5d0d9-405">Исправлена ошибка, из-за которой пользователи не могли предоставить разрешение "Редактор" своим делегатам.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-405">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
 
-- <span data-ttu-id="968f4-591">Улучшена синхронизация и стабильность службы путем временного откладывания загрузки внедренных файлов и изображений в записных книжках в Интернете, пока пользователь не перейдет на страницу в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-591">Improved sync and service stability by temporarily deferring the downloading of embedded files and images in online notebooks until the user navigates to the page in OneNote 2016.</span></span>
 
-- <span data-ttu-id="968f4-592">Улучшена синхронизация и стабильность службы путем временного отключения записи видео в приложении в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-592">Improved sync and service stability by temporarily disabling in-app video recording in OneNote 2016.</span></span> <span data-ttu-id="968f4-593">Это мера не влияет на локальные записные книжки.</span><span class="sxs-lookup"><span data-stu-id="968f4-593">Local notebooks are not impacted by this measure.</span></span>
+- <span data-ttu-id="5d0d9-406">Исправлена ошибка, из-за которой неожиданно завершалась работа приложения при выделении пользователем результата поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-406">We fixed an issue that caused users to experience the application to terminate unexpectedly when selecting a search result.</span></span>
 
-- <span data-ttu-id="968f4-594">Улучшена синхронизация и стабильность службы путем временного уменьшения максимально допустимого размера новых внедренных вложений до 50 МБ в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="968f4-594">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB in OneNote 2016.</span></span> <span data-ttu-id="968f4-595">В случае файлов большего размера у пользователей будет возможность отправить файл в OneDrive и вставить ссылку в OneNote.</span><span class="sxs-lookup"><span data-stu-id="968f4-595">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-596">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-596">Outlook</span></span>
+- <span data-ttu-id="5d0d9-407">Исправлена проблема, из-за которой поисковые запросы в календарях групп не возвращали никаких результатов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-407">We fixed an issue that caused searches in Group calendars fail to return any results.</span></span>
 
-- <span data-ttu-id="968f4-597">Устранена проблема, которая приводила к неожиданному изменению ширины области папок.</span><span class="sxs-lookup"><span data-stu-id="968f4-597">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
 
-- <span data-ttu-id="968f4-598">Устранена проблема, приводившая в сбою при попытке открытия файлов MSG и OFT после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-598">Addressed an issue that caused users to experience a crash when trying to open .msg and .oft files after a Windows update.</span></span>
+- <span data-ttu-id="5d0d9-408">Исправлена проблема, из-за которой у делегатов возникали периодические сбои при открытии общих папок в другом почтовом ящике.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-408">Addressed an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
 
-- <span data-ttu-id="968f4-599">Устранена проблема, из-за которой пользователи видели усечение тела сообщения при пересылке больших сообщений HTML.</span><span class="sxs-lookup"><span data-stu-id="968f4-599">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
 
-- <span data-ttu-id="968f4-600">Это обновление исправляет проблему, из-за которой в Microsoft Outlook не отображается текущая метка конфиденциальности при просмотре или создании сообщений.</span><span class="sxs-lookup"><span data-stu-id="968f4-600">This update fixes an issue with Microsoft Outlook not displaying the current sensitivity label when viewing or composing messages.</span></span>
+- <span data-ttu-id="5d0d9-409">Исправлена проблема, из-за которой некоторые автоматически созданные сообщения электронной почты отправлялись пустыми, если строка темы была пустой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-409">Addressed an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
 
-- <span data-ttu-id="968f4-601">Исправлена проблема, из-за которой пользователи не могли отправлять электронные сообщения в личный список рассылки.</span><span class="sxs-lookup"><span data-stu-id="968f4-601">Addressed an issue that caused users to be unable to address emails to a Personal Distribution List.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-602">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-602">PowerPoint</span></span>
+- <span data-ttu-id="5d0d9-410">Исправлена ошибка, из-за которой заголовки сообщений на китайском языке искажались при ответе или пересылке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-410">We fixed an issue that caused the headers of Chinese messages to get garbled when replying or forwarding.</span></span>
 
-- <span data-ttu-id="968f4-603">Устранена проблема с ретрансляцией точного текста сообщений для пользователей, которые открывают копию файла с улучшенными примечаниями.</span><span class="sxs-lookup"><span data-stu-id="968f4-603">Fixed an issue to relay correct messaging for users who open a copy of a file that has improved comments.</span></span>
+- <span data-ttu-id="5d0d9-411">Исправлена проблема, из-за которой необязательные сетевые функции блокировали загрузку веб-надстроек.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-411">We fixed an issue where optional connected experiences blocked web add-ins from loading.</span></span>  <br /><span data-ttu-id="5d0d9-412">Дополнительные сведения см. в этой [публикации в блоге](https://developer.microsoft.com/ru-RU/office/blogs/outlook-add-ins-and-optional-connected-experiences/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-412">See details in [blog post](https://developer.microsoft.com/ru-RU/office/blogs/outlook-add-ins-and-optional-connected-experiences/)</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-604">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-604">Word</span></span>
 
-- <span data-ttu-id="968f4-605">Решена проблема, из-за которой приложения Access и Publisher могли загружаться неправильно в зависимости от того, какие языки установлены.</span><span class="sxs-lookup"><span data-stu-id="968f4-605">Resolved the issue where Access and Publisher might not boot correctly depending on which languages were installed.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-413">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-413">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-606">Исправлена проблема с функцией сравнения для документов, защищенных от редактирования.</span><span class="sxs-lookup"><span data-stu-id="968f4-606">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
+- <span data-ttu-id="5d0d9-414">Исправлена ошибка, из-за которой содержимое надстройки Forms не отображалось после вставки, пока пользователь не щелкал другой слайд для отображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-414">We have fixed an issue where Forms content add-in doesn't render after insertion until user click to another slide to make it show.</span></span>
 
-- <span data-ttu-id="968f4-607">Исправлена проблема с объединением двух документов в один документ.</span><span class="sxs-lookup"><span data-stu-id="968f4-607">We fixed an issue when merging 2 documents into one document.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-608">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-608">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-415">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-415">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-609">Это исправление устраняет блокирование сети приложением Project при кэшировании файла в клиенте.</span><span class="sxs-lookup"><span data-stu-id="968f4-609">This is a fix to address that Project app should not block network when the file is cached in the client.</span></span>
+- <span data-ttu-id="5d0d9-416">Исправлена проблема для коммерческих пользователей, применяющих System Center Configuration Manager или другие средства управления для обновления Office с использованием защиты от потери данных в конечной точке Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-416">Addressed an issue for commercial customers who leverage System Center Configuration Manager or other management tool for the Office Update using Microsoft 365 Endpoint data loss prevention.</span></span>
 
-- <span data-ttu-id="968f4-610">Решена проблема, из-за которой внутренняя операция вызывала исключение при сбое вместо ведения журнала и продолжения работы.</span><span class="sxs-lookup"><span data-stu-id="968f4-610">We have resolved the issue where an internal operation was throwing an exception on failure instead of logging and continuing on.</span></span> <span data-ttu-id="968f4-611">Для затронутых пользователей будет отменен запрет на получение обновлений.</span><span class="sxs-lookup"><span data-stu-id="968f4-611">The affected users will not be blocked from receiving updates anymore.</span></span>
+- <span data-ttu-id="5d0d9-417">Исправлена проблема с неработающим API сообщений для надстроек Office.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-417">Fix an issue that the Messaging API for Office Add-ins is not working.</span></span>
 
-- <span data-ttu-id="968f4-612">Это изменение обеспечит правильную работу функции "Контур эскиза" на ленте.</span><span class="sxs-lookup"><span data-stu-id="968f4-612">This change ensures Sketched outline works properly in the ribbon.</span></span>
 
-- <span data-ttu-id="968f4-613">Исправлена проблема при открытии файлов из локальных расположений с определенными настройками прокси.</span><span class="sxs-lookup"><span data-stu-id="968f4-613">Fixed an issue while opening files from on-prem locations with some specific proxy configurations.</span></span>
-
-- <span data-ttu-id="968f4-614">Это обновление устраняет проблему в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени или пути к библиотеке, будут рассматриваться приложением Office как поврежденные при загрузке.</span><span class="sxs-lookup"><span data-stu-id="968f4-614">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
-
-- <span data-ttu-id="968f4-615">Это обновление устраняет проблему в Microsoft Office, из-за которой проекты Visual Basic для приложений с ссылками, которые должны быть найдены при поиске расположений, указанных в переменной среды PATH, могут быть не найдены в среде выполнения, что приводит к ошибкам среды выполнения VBA.</span><span class="sxs-lookup"><span data-stu-id="968f4-615">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
-
-- <span data-ttu-id="968f4-616">Это обновление устраняет проблему в Microsoft Word, из-за которой текст длиной более 255 символов, вставленный при применении метки конфиденциальности, впоследствии не удавалось идентифицировать и удалить путем изменения или удаления метки, если в рамках политики меток был применен колонтитул или подложка.</span><span class="sxs-lookup"><span data-stu-id="968f4-616">This update fixes a problem in Microsoft Word where text longer than 255 characters inserted while applying a sensitivity label could not subsequently be identified and removed by changing or removing the label if the label policy applied a header or footer or watermark.</span></span>
-
-- <span data-ttu-id="968f4-617">Исправлена проблема, благодаря чему устранены сбои во время сеансов передачи Office и повышена надежность работы пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-617">Fixed an issue that eliminates crashes during Office handoff sessions and improved reliability in the user experience.</span></span>  
-
-- <span data-ttu-id="968f4-618">Это исправление обновляет конечную точку URL-адреса конфигурации усиленной безопасности (ECS).</span><span class="sxs-lookup"><span data-stu-id="968f4-618">This bug updates the enhanced configuration service (ECS) url endpoint.</span></span> <span data-ttu-id="968f4-619">В результате вызова этой новой конечной точки повышается успешность получения данных из ECS.</span><span class="sxs-lookup"><span data-stu-id="968f4-619">Calling this newer endpoint has a higher success rate for fetching from ECS.</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-april-14"></a><span data-ttu-id="968f4-621">Версия 2002: 14 апреля</span><span class="sxs-lookup"><span data-stu-id="968f4-621">Version 2002: April 14</span></span>
-<span data-ttu-id="968f4-622">*Версия 2002 (сборка 12527.20442)*</span><span class="sxs-lookup"><span data-stu-id="968f4-622">*Version 2002 (Build 12527.20442)*</span></span>
+## <a name="version-2008-october-13"></a><span data-ttu-id="5d0d9-419">Версия 2008: 13 октября</span><span class="sxs-lookup"><span data-stu-id="5d0d9-419">Version 2008: October 13</span></span>
+<span data-ttu-id="5d0d9-420">*Версия 2008 (сборка 13127.20638)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-420">*Version 2008 (Build 13127.20638)*</span></span>
 
-<span data-ttu-id="968f4-623">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-623">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-421">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-421">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
-
-### <a name="feature-updates"></a><span data-ttu-id="968f4-624">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="968f4-624">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-625">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-625">Excel</span></span>
-
-- <span data-ttu-id="968f4-626">**Ввод формулы, возвращающей несколько значений.** Теперь вы можете быстро ввести формулу, возвращающую несколько значений, которые автоматически переносятся в смежные ячейки.</span><span class="sxs-lookup"><span data-stu-id="968f4-626">**Type a formula that returns multiple values:** Quickly type a formula that returns multiple values, and they'll automatically spill into the neighboring cells.</span></span> [<span data-ttu-id="968f4-627">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-627">Learn more</span></span>](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- <span data-ttu-id="968f4-628">**Шесть эффективных функций.** Добавлено шесть новых функций для улучшения электронных таблиц: ФИЛЬТР, СОРТ, СОРТПО, УНИК, ПОСЛЕДОВ и СЛУЧМАССИВ.</span><span class="sxs-lookup"><span data-stu-id="968f4-628">**Six powerful functions:** We’ve added six new functions to supercharge your spreadsheets: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE and RANDARRAY.</span></span>  [<span data-ttu-id="968f4-629">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-629">Learn more</span></span>](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- <span data-ttu-id="968f4-630">**Посмотрите налево, посмотрите направо… ПРОСМОТРX уже доступен!:** построчно просмотрите и найдите нужные элементы в таблице или диапазоне с помощью функции ПРОМОТРX.</span><span class="sxs-lookup"><span data-stu-id="968f4-630">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span>  <span data-ttu-id="968f4-631">
-  [Подробнее](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="968f4-631">[Learn more](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-633">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-633">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-634">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-634">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-423">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-423">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-424">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-424">Excel</span></span>
 
-- <span data-ttu-id="968f4-635">В ряде случаев приложение Excel аварийно завершало работу при повторном открытии книги, внедренной в Word или PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-635">Excel would crash in certain cases when re-opening a workbook embedded in Word or PowerPoint.</span></span>
-
-- <span data-ttu-id="968f4-636">В некоторых случаях при сохранении в виде CSV-файла Excel мог объединять все столбцы в один столбец.</span><span class="sxs-lookup"><span data-stu-id="968f4-636">When saving as a CSV file, Excel could merge all columns into a single column in some cases.</span></span>
-
-- <span data-ttu-id="968f4-637">Использование Range.ClearContents для диапазона в защищенном листе могло занимать больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="968f4-637">Using Range.ClearContents on a range in a protected sheet could take longer than expected.</span></span>
-
-- <span data-ttu-id="968f4-638">Исправлена проблема с масштабированием текста в элементах управления формами при их отображении в режиме предварительного просмотра печати.</span><span class="sxs-lookup"><span data-stu-id="968f4-638">Fixed a problem with scaling of text in form controls when displayed in Print Preview.</span></span>
-
-- <span data-ttu-id="968f4-639">Макросы VBA, взаимодействующие с лентой, могут неожиданно запускаться со значением True, присвоенным параметру ScreenUpdating.</span><span class="sxs-lookup"><span data-stu-id="968f4-639">VBA macros that interact with the ribbon may run with ScreenUpdating set to True unexpectedly.</span></span>
-
-- <span data-ttu-id="968f4-640">Устранена проблема, из-за которой внешние ссылки не обновляются при заполнении (заполнение вниз, заполнение в стороны), если исходная книга закрыта.</span><span class="sxs-lookup"><span data-stu-id="968f4-640">Addressed an issue where external links don't update on fill (fill down, fill across, etc.) if the source book is closed.</span></span>
-
-- <span data-ttu-id="968f4-641">В некоторых случаях в VBA не работал метод Application.Evaluate для определенных пользователем функций.</span><span class="sxs-lookup"><span data-stu-id="968f4-641">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
-
-- <span data-ttu-id="968f4-642">Устранена проблема с производительностью при создании диаграмм на основе шаблонов.</span><span class="sxs-lookup"><span data-stu-id="968f4-642">Addressed a performance issue when creating charts from templates.</span></span>
+- <span data-ttu-id="5d0d9-425">Исправлена ошибка с API PivotDateFilter, из-за которой условия фильтрации "До" и "После" менялись местами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-425">Fixed a bug with PivotDateFilter APIs in which 'Before' and 'After' filter conditions were reversed.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="968f4-643">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-643">Outlook</span></span>
-
-- <span data-ttu-id="968f4-644">Исправлена проблема, приводившая к неожиданному увеличению заголовка группы в некоторых сценариях.</span><span class="sxs-lookup"><span data-stu-id="968f4-644">Addressed an issue that caused the Group header to expand unexpectedly in some scenarios.</span></span>
-
-- <span data-ttu-id="968f4-645">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при выборе определенных результатов поиска.</span><span class="sxs-lookup"><span data-stu-id="968f4-645">Addressed an issue that caused users to experience a crash when selecting certain search results.</span></span>
-
-- <span data-ttu-id="968f4-646">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="968f4-646">Addressed an issue that caused users to occasionally experience a crash when using the X button on the mouse.</span></span>
-
-- <span data-ttu-id="968f4-647">Исправлена проблема, из-за которой кнопка "Сохранить в облаке" отсутствовала в средствах работы с вложениями.</span><span class="sxs-lookup"><span data-stu-id="968f4-647">Addressed an issue that caused the Save to Cloud button to be missing from Attachment Tools.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="968f4-648">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-648">PowerPoint</span></span>
-
-- <span data-ttu-id="968f4-649">Улучшен сценарий копирования-вставки. При копировании фигуры в слайде PowerPoint и вставке ее в другой слайд за один раз может произойти сбой с исключением.</span><span class="sxs-lookup"><span data-stu-id="968f4-649">Improved a copy-paste scenario: Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
+- <span data-ttu-id="5d0d9-426">Исправлена ошибка, из-за которой пользователи не могли изменить фильтр сводной таблицы, потому что его параметр был настроен на значение, которого больше нет в базе данных Analysis Services.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-426">We fixed an issue where users could not modify a PivotTable filter because it was set to a value that was no longer present in an Analysis Services database.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="968f4-650">Project</span><span class="sxs-lookup"><span data-stu-id="968f4-650">Project</span></span>
+- <span data-ttu-id="5d0d9-427">Исправлена проблема, из-за которой Excel мог аварийно завершать работу при использовании экспресс-анализа после закрепления верхней строки листа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-427">Fixed an issue where Excel could crash when using the Quick Analysis after freezing the top row of the sheet.</span></span>
 
-- <span data-ttu-id="968f4-651">Исправлена проблема, из-за которой приложение Project могло аварийно завершать работу при сохранении проектов, созданных в предыдущих версиях Project.</span><span class="sxs-lookup"><span data-stu-id="968f4-651">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
 
-- <span data-ttu-id="968f4-652">Исправлена проблема, из-за которой событие ProjectBeforeTaskChange не обнаруживает, деактивирована или активирована ли задача при помощи кнопки "Деактивировать".</span><span class="sxs-lookup"><span data-stu-id="968f4-652">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
+- <span data-ttu-id="5d0d9-428">Исправлена проблема, которая могла вызывать предупреждение о поврежденной книге, если она содержала формулы с ЕСНД().</span><span class="sxs-lookup"><span data-stu-id="5d0d9-428">Fixed an issue that could cause a warning about a corrupt workbook if it contained formulas using IFNA().</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-653">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-653">Word</span></span>
 
-- <span data-ttu-id="968f4-654">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="968f4-654">Addressed an issue that caused users to occasionally experience a crash when using the X button on the mouse.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-429">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-429">Outlook</span></span>
 
-- <span data-ttu-id="968f4-655">Исправлена проблема с размещением текста в таблице.</span><span class="sxs-lookup"><span data-stu-id="968f4-655">We fixed an issue with fit text in a table.</span></span>
+- <span data-ttu-id="5d0d9-430">Исправлена проблема, из-за которой пользователи не могли закрыть общие календари, щелкнув значок "X" в углу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-430">Addresses an issue that caused users to be unable to close shared calendars by clicking on the "X" in the corner.</span></span>
 
-- <span data-ttu-id="968f4-656">Исправлена проблема, из-за которой вставляемые горизонтальные линии не укорачиваются и не располагаются по центру.</span><span class="sxs-lookup"><span data-stu-id="968f4-656">We fixed an issue where inserting horizontal lines are not shorter and centered.</span></span>
+
+- <span data-ttu-id="5d0d9-431">Исправлена проблема, из-за которой иногда не удавалось применить параметр "Включить улучшения общего календаря" к существующим общим календарям.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-431">Addresses an issue that caused the "Turn on shared calendar improvements" setting to sometimes fail to apply to existing shared calendars.</span></span>
+
+
+- <span data-ttu-id="5d0d9-432">Исправлена проблема, из-за которой при открытии облачного вложения ошибка отображалась на странице безопасных ссылок, а не в открываемом документе.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-432">Addresses an issue that caused users to see an error on the safelinks page instead of the document they were trying to open when opening a cloud attachment.</span></span>
+
+
+- <span data-ttu-id="5d0d9-433">Исправлена проблема с производительностью при отправке вложений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-433">Addresses a performance issue with attachment upload.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-434">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-434">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-435">Это изменение исправляет проблему, связанную с функцией экспорта в GIF с анимацией, когда не выполнялся экспорт при нажатии кнопки "Экспорт".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-435">This change addresses an issue with Export to Animated GIF feature where clicking on Export button was not exporting.</span></span>
+
+
+- <span data-ttu-id="5d0d9-436">Исправление системы безопасности для решения проблемы, связанной с отключением защиты IRM при открытии файла PowerPoint в режиме защищенного просмотра.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-436">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+
+- <span data-ttu-id="5d0d9-437">Исправлена проблема в диалоговом окне "Параметры действия", из-за которой возникал сбой в приложении PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-437">We have fixed an issue in Action Settings dialog which was causing a crash in PowerPoint app.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="5d0d9-438">Visio</span><span class="sxs-lookup"><span data-stu-id="5d0d9-438">Visio</span></span>
+
+- <span data-ttu-id="5d0d9-439">Исправлена проблема, из-за которой возникал сбой динамического просмотра при выравнивании текста.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-439">We fixed an issue that caused the Live preview to crash on text alignment.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="5d0d9-440">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-440">Word</span></span>
+
+- <span data-ttu-id="5d0d9-441">Исправлена проблема, которая вызывала сбой при открытии некоторых очень больших сообщений электронной почты.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-441">Fixes an issue that caused users to experience a crash when opening certain very large emails.</span></span>
+
+
+- <span data-ttu-id="5d0d9-442">Исправлена проблема, из-за которой мог возникать сбой при открытии документа.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-442">We fixed an issue which user might experience crash when opening a document.</span></span>
+
+
+- <span data-ttu-id="5d0d9-443">Устранена проблема, которая могла вызвать сбой при загрузке Word.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-443">Resolved an issue that may have caused a crash when booting Word.</span></span>
+
+
+- <span data-ttu-id="5d0d9-444">Исправлена проблема с диалоговым окном "Коллекция стилей".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-444">We fixed an issue with Style Gallery dialog.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-445">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-445">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-446">Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-446">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="5d0d9-447">Сообщения будут изменены на «Мало тонера/чернил» и «Нет тонера/чернил».</span><span class="sxs-lookup"><span data-stu-id="5d0d9-447">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+
+
+- <span data-ttu-id="5d0d9-448">Исправлена высокая загрузка ЦП при простое с использованием GIF или анимированных трехмерных моделей</span><span class="sxs-lookup"><span data-stu-id="5d0d9-448">Fixes high CPU usage on idle with GIF/animated model3D</span></span>
+
+
+- <span data-ttu-id="5d0d9-449">Это изменение устраняет сбой при запуске приложений Office из-за невозможности загрузки d2d1.dll.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-449">This change addresses a crash when launching Office apps due to failing to load d2d1.dll.</span></span>
 
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-2002-march-10"></a><span data-ttu-id="968f4-658">Версия 2002: 10 марта</span><span class="sxs-lookup"><span data-stu-id="968f4-658">Version 2002: March 10</span></span>
-<span data-ttu-id="968f4-659">*Версия 2002 (сборка 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="968f4-659">*Version 2002 (Build 12527.20278)*</span></span>
+## <a name="version-2008-september-08"></a><span data-ttu-id="5d0d9-451">Версия 2008: 08 сентября</span><span class="sxs-lookup"><span data-stu-id="5d0d9-451">Version 2008: September 08</span></span>
+<span data-ttu-id="5d0d9-452">*Версия 2008 (сборка 13127.20408)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-452">*Version 2008 (Build 13127.20408)*</span></span>
 
-<span data-ttu-id="968f4-660">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-660">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-453">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-453">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="feature-updates"></a><span data-ttu-id="968f4-662">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="968f4-662">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="968f4-663">Access</span><span class="sxs-lookup"><span data-stu-id="968f4-663">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="5d0d9-455">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="5d0d9-455">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-456">Access</span><span class="sxs-lookup"><span data-stu-id="5d0d9-456">Access</span></span>
 
-- <span data-ttu-id="968f4-664">**Быстрый поиск связанных таблиц.** Наше новое поле поиска облегчает поиск связанных таблиц.</span><span class="sxs-lookup"><span data-stu-id="968f4-664">**Find linked tables fast:** Our new search box makes finding linked tables a breeze.</span></span> [<span data-ttu-id="968f4-665">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-665">Learn more</span></span>](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- <span data-ttu-id="5d0d9-457">**Повышайте эффективность работы в конструкторе запросов, режиме SQL и окне "Схема данных".** Щелкните правой кнопкой мыши таблицу для ее открытия, проектирования, изменения размера или скрытия.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-457">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="5d0d9-458">Находите и заменяйте текст в режиме SQL.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-458">Search and replace text in SQL View.</span></span> <span data-ttu-id="5d0d9-459">Выделяйте несколько таблиц в окне схемы данных.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-459">Select multiple tables in the Relationships window.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="968f4-666">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-666">Excel</span></span>
+- <span data-ttu-id="5d0d9-460">**Быстрое добавление таблиц.** Используйте область задач "Добавление таблиц", которая остается открытой во время работы, чтобы добавлять таблицы в связи и запросы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-460">**Add tables with fewer clicks:** Use the Add Tables task pane, which stays open while you work, to add tables to relationships and queries.</span></span> [<span data-ttu-id="5d0d9-461">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-461">Learn more</span></span>](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
-- <span data-ttu-id="968f4-667">**Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие.</span><span class="sxs-lookup"><span data-stu-id="968f4-667">**Get their attention with \@mentions:** Use @mentions in comments to let co-workers know when you need their input.</span></span> [<span data-ttu-id="968f4-668">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-668">Learn more</span></span>](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+### <a name="excel"></a><span data-ttu-id="5d0d9-462">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-462">Excel</span></span>
 
-- <span data-ttu-id="968f4-669">**Найдите то, что ищете:** Ищите команды, людей, файлы, фотографии, веб-статьи и многое другое.</span><span class="sxs-lookup"><span data-stu-id="968f4-669">**Find what you're looking for:** Search for commands, people, files, photos, web articles, and more.</span></span> [<span data-ttu-id="968f4-670">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-670">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- <span data-ttu-id="5d0d9-463">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-463">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="5d0d9-464">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-464">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
+- <span data-ttu-id="5d0d9-465">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-465">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="5d0d9-466">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-466">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
 
-- <span data-ttu-id="968f4-671">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей книге.</span><span class="sxs-lookup"><span data-stu-id="968f4-671">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your workbook.</span></span> [<span data-ttu-id="968f4-672">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-672">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- <span data-ttu-id="5d0d9-467">**Создание сводных таблиц на основе наборов данных в Power BI.** В Excel несколькими щелчками мыши можно создавать сводные таблицы, подключенные к хранящимся в Power BI наборам данных.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-467">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="5d0d9-468">Это позволит вам наиболее эффективно использовать и сводные таблицы, и Power BI.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-468">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="5d0d9-469">Производите вычисления с данными защищенных наборов данных Power BI, обобщайте и анализируйте их с помощью сводных таблиц.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-469">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span> [<span data-ttu-id="5d0d9-470">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-470">Learn more</span></span>](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br /><span data-ttu-id="5d0d9-471">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-471">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-- <span data-ttu-id="968f4-673">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="968f4-673">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+- <span data-ttu-id="5d0d9-472">**Ваши любимые функции Excel теперь работают быстрее.** Функции СУММЕСЛИМН, СРЗНАЧЕСЛИМН, СЧЁТЕСЛИМН, МАКСЕСЛИМН и МИНЕСЛИМН теперь работают намного быстрее.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-472">**Your favorite Excel functions just got faster:** The SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS functions are much faster than ever before.</span></span> <span data-ttu-id="5d0d9-473">Быстрее переходите к итоговой строке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-473">Get to the bottom line more quickly.</span></span> <span data-ttu-id="5d0d9-474">Попробуйте уже сейчас.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-474">Try one now.</span></span>
 
-- <span data-ttu-id="968f4-674">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="968f4-674">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span>
+- <span data-ttu-id="5d0d9-475">**Улучшение функции Realtimedata (RTD):** В Office 365 версии 2002 канала Monthly channel или более поздних версиях функция Excel RealTimeData (ДРВ) работает гораздо быстрее, чем в вычисление данных в таблице в Excel 2010.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-475">**Realtimedata (RTD) improvements:** In Office 365 version 2002 monthly channel and later, Excel's RealTimeData (RTD) function is much faster than Excel 2010 calculating data in the spreadsheet.</span></span> <span data-ttu-id="5d0d9-476">Мы удалили узкие места в базовой памяти и структурах данных, а также обеспечили потокобезопасность, чтобы разрешить вычисление во всех доступных потоках многопоточного пересчета (MTR).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-476">We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow  it to be calculated on all available threads of Multithreaded recalculation (MTR).</span></span>
 
-- <span data-ttu-id="968f4-675">**Сосредоточьтесь на оставшихся задачах.** Пометьте примечания как разрешенные, чтобы свернуть их и сделать открытые элементы более заметными.</span><span class="sxs-lookup"><span data-stu-id="968f4-675">**Focus on what's left to do:** Select Resolve to collapse comments and make open items stand out.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-477">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-477">Outlook</span></span>
 
-- <span data-ttu-id="968f4-676">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="968f4-676">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="968f4-677">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-677">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- <span data-ttu-id="5d0d9-478">**Общие календари стали обновляться быстрее.** Outlook может обновлять общие календари в Office 365 с помощью API REST.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-478">**Shared calendar updates just got faster:** For shared calendars in Office 365, Outlook can update these calendars using the REST API.</span></span> <span data-ttu-id="5d0d9-479">Включите предварительный просмотр для ускорения и повышения надежности обновлений в общих календарях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-479">Turn on the preview for faster and more reliable updates to shared calendars.</span></span>
 
-- <span data-ttu-id="968f4-678">**Преобразование файлов для расширения специальных возможностей.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-678">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="5d0d9-480">**Лучшие результаты - в одно мгновение:** мы обновили возможности поиска, чтобы сделать их умнее, быстрее и надежнее, чем когда-либо.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-480">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="5d0d9-481">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-481">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- <span data-ttu-id="968f4-679">**Надстройка "Визуализатор данных".** Быстро создавайте блок-схемы Visio из Excel.</span><span class="sxs-lookup"><span data-stu-id="968f4-679">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="968f4-680">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-680">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="5d0d9-482">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-482">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="5d0d9-483">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-483">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
 
-- <span data-ttu-id="968f4-681">**Быстрое прочтение и ответ.** Отвечайте на примечания и упоминания прямо в сообщении электронной почты, не открывая книгу.</span><span class="sxs-lookup"><span data-stu-id="968f4-681">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
+- <span data-ttu-id="5d0d9-484">**Перетаскивайте письма в вашу собственную группу.** Перемещайте и копируйте сообщения и беседы, перетаскивая их из папки "Входящие".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-484">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="5d0d9-485">Общий доступ к перенесенным сообщениям будет предоставляться всем участникам группы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-485">Messages you drag will be shared with all group members.</span></span><br /><span data-ttu-id="5d0d9-486">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-486">See details in [blog post](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)</span></span>
 
-- <span data-ttu-id="968f4-682">**Получите статистику в своей книге:** Статистика рабочей книги предоставляет обзор содержимого рабочей книги, чтобы упростить ее обнаружение.</span><span class="sxs-lookup"><span data-stu-id="968f4-682">**Get stats on your workbook:** Workbook Statistics provides an overview of the content of a workbook, to help you more easily discover its contents.</span></span>
+- <span data-ttu-id="5d0d9-487">**Обновления Календаря.** Ознакомьтесь с наглядными обновлениями, упрощающими сканирование календаря.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-487">**Calendar gets a makeover:** See visual updates that make your calendar easier to scan.</span></span> [<span data-ttu-id="5d0d9-488">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-488">Learn more</span></span>](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br /><span data-ttu-id="5d0d9-489">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-489">See details in [blog post](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span></span>
 
-- <span data-ttu-id="968f4-683">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="968f4-683">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="968f4-684">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="968f4-684">Find them at Insert > Icons.</span></span> [<span data-ttu-id="968f4-685">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-685">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- <span data-ttu-id="5d0d9-490">**Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-490">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="5d0d9-491">Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-491">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span> [<span data-ttu-id="5d0d9-492">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-492">Learn more</span></span>](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-### <a name="outlook"></a><span data-ttu-id="968f4-686">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-686">Outlook</span></span>
+- <span data-ttu-id="5d0d9-493">**Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа?</span><span class="sxs-lookup"><span data-stu-id="5d0d9-493">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="5d0d9-494">Теперь Outlook обнаруживает это и помогает вам подключиться.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-494">Outlook now detects this and helps you get connected.</span></span><br /><span data-ttu-id="5d0d9-495">Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-495">See details in [blog post](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)</span></span>
 
-- <span data-ttu-id="968f4-687">**Подключение к сети LinkedIn с помощью Outlook.** Безопасное подключение к учетным записям LinkedIn с помощью учетных записей Майкрософт для просмотра сведений из профилей LinkedIn прямо на карточках контактов.</span><span class="sxs-lookup"><span data-stu-id="968f4-687">**Connect your LinkedIn network with Outlook:** Securely connect your LinkedIn account with your Microsoft account to see information from LinkedIn profiles directly in the People card.</span></span> [<span data-ttu-id="968f4-688">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-688">Learn more</span></span>](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+- <span data-ttu-id="5d0d9-496">**Получение предложений электронной почты при поиске пользователя.** Когда вы вводите имя пользователя в поле поиска, в предложения поиска включаются наиболее подходящие сообщения электронной почты.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-496">**Get email suggestions when you search for a person:** When you type a person’s name in the Search box, the most relevant email messages will be included with your search suggestions.</span></span> [<span data-ttu-id="5d0d9-497">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-497">Learn more</span></span>](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
-- <span data-ttu-id="968f4-p158">**Все параметры шифрования в одном месте.** Просто откройте в параметрах раздел шифрования, чтобы выбрать способ защиты сообщений электронной почты. [Подробнее](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span><span class="sxs-lookup"><span data-stu-id="968f4-p158">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-498">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-498">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-691">**Меню "Вставка ссылки" в Outlook вставляет ссылку с разрешениями, определенными администратором клиента.** При выборе из списка последних использованных ссылок в Outlook вставляется ссылка, которая была доступна только пользователям, имеющим разрешение на доступ к ней.</span><span class="sxs-lookup"><span data-stu-id="968f4-691">**Insert Link Menu in Outlook will insert a link with permission defined by tenant admin:** A link from the Insert Link MRU in Outlook would insert a link that only worked for users who already had permissions to it.</span></span> <span data-ttu-id="968f4-692">Из-за этого пользователи часто посылали друг другу письма с просьбой предоставить доступ к документу.</span><span class="sxs-lookup"><span data-stu-id="968f4-692">This often caused back and forth emails between users asking to be granted access to a document.</span></span> <span data-ttu-id="968f4-693">Мы обновили этот опыт, поэтому теперь ссылка вставляется с разрешением по умолчанию, установленным администратором клиента. Для MSIT это «организация может редактировать», поэтому все внутренние пользователи, получившие ссылку, которой поделились таким образом, смогут получить к ней доступ.</span><span class="sxs-lookup"><span data-stu-id="968f4-693">We've updated this experience so now the link is inserted with the default permission set by the tenant admin. For MSIT this is "organization can edit" so all internal users who receive a link shared this way will be able to access it.</span></span>
+- <span data-ttu-id="5d0d9-499">**Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-499">**Get their attention with \@mentions:** Use @mentions in comments to let co-workers know when you need their input.</span></span> [<span data-ttu-id="5d0d9-500">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-500">Learn more</span></span>](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- <span data-ttu-id="968f4-694">**Поиск с правописанием проблем или опечаток:** Outlook найдет то, что вы ищете, даже если ваше правописание не соответствует.</span><span class="sxs-lookup"><span data-stu-id="968f4-694">**Search with spelling woes or typos:** Outlook will find what you're looking for even when your spelling doesn't match.</span></span>
+- <span data-ttu-id="5d0d9-501">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-501">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="5d0d9-502">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-502">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- <span data-ttu-id="968f4-695">**Фишинговые письма легко обнаружить:** спам и фишинговые сообщения выглядят по-разному, поэтому вы можете легко их идентифицировать и удалить из папки «Входящие».</span><span class="sxs-lookup"><span data-stu-id="968f4-695">**Phishing mails are easy to spot:** Spam and phishing messages have a different look and feel so you can easily identify and eliminate them from your inbox.</span></span>
+- <span data-ttu-id="5d0d9-503">**Быстрое создание GIF.** Один слайд, один кадр.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-503">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="5d0d9-504">Легко создавайте циклические GIF-изображения в PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-504">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="5d0d9-505">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-505">Learn more</span></span>](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br /><span data-ttu-id="5d0d9-506">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-506">See details in [blog post](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)</span></span>
 
-- <span data-ttu-id="968f4-696">**Расширенная защита от атак.** Система Office 365 Advanced Threat Protection защищает от атак с помощью гиперссылок в электронных письмах, вложенных и подписанных сообщениях, сетевых путях и т. д.</span><span class="sxs-lookup"><span data-stu-id="968f4-696">**Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.</span></span>
+- <span data-ttu-id="5d0d9-507">**Улучшенные диаграммы.** Более удобное создание диаграмм от руки за счет использования улучшенных соединителей и более совершенного процесса преобразования рукописного ввода.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-507">**Better diagrams:** With better connectors and a smoother ink conversion process you can ink your ideas more confidently.</span></span> [<span data-ttu-id="5d0d9-508">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-508">Learn more</span></span>](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- <span data-ttu-id="968f4-697">**Рисование.** Рисуйте поверх изображений или добавьте полотно, чтобы отправить свои идеи с помощью рукописного ввода.</span><span class="sxs-lookup"><span data-stu-id="968f4-697">**Let me draw it out:** Scribble on top of pictures or add a Drawing Canvas to send your thoughts with ink.</span></span> [<span data-ttu-id="968f4-698">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-698">Learn more</span></span>](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- <span data-ttu-id="5d0d9-509">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-509">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="5d0d9-510">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-510">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
 
-- <span data-ttu-id="968f4-699">**Получайте релевантные сообщения в результатах поиска.** Outlook анализирует условия поиска и отображает наиболее релевантные сообщения электронной почты в верхней части результатов поиска.</span><span class="sxs-lookup"><span data-stu-id="968f4-699">**See relevant messages in your search results:** Outlook analyzes search terms and shows the most relevant email messages at the top of your search results.</span></span> <span data-ttu-id="968f4-700">Кроме того, все результаты будут отображаться в разделе "Лучшие результаты" с сортировкой по дате.</span><span class="sxs-lookup"><span data-stu-id="968f4-700">You'll also see all results sorted by date in the Top Results section.</span></span> [<span data-ttu-id="968f4-701">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-701">Learn more</span></span>](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+- <span data-ttu-id="5d0d9-511">**Комментарии.** Новые функций комментирования в PowerPoint позволяют быстро и легко находить и добавлять комментарии к документам.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-511">**Comments:** The new commenting experience in PowerPoint allows you to quickly and easily discover and add comments to your documents.</span></span> <span data-ttu-id="5d0d9-512">Модернизируйте совместную работу с помощью новых функций, таких как привязка комментариев, сопоставление, задачи, улучшенные уведомления об упоминаниях и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-512">Modernize your collaboration workflows with new features like comment anchoring, resolve, tasks, improved mention notifications, and much more.</span></span> [<span data-ttu-id="5d0d9-513">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-513">Learn more</span></span>](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
 
-- <span data-ttu-id="968f4-702">**Получение предложений по расположению.** Начните вводить текст в поле "Место" при планировании встреч и собраний, и Outlook предложит помещения, адреса и другие недавние места.</span><span class="sxs-lookup"><span data-stu-id="968f4-702">**Get location suggestions:** Start typing in Location when scheduling appointments and meetings, and Outlook will suggest rooms, addresses and other recent places.</span></span> [<span data-ttu-id="968f4-703">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-703">Learn more</span></span>](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- <span data-ttu-id="5d0d9-514">**Синхронизировать изменения во время презентации:** Синхронизируйте изменения всякий раз, когда они вносятся, даже когда презентация находится в режиме слайд-шоу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-514">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span> [<span data-ttu-id="5d0d9-515">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-515">Learn more</span></span>](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br /><span data-ttu-id="5d0d9-516">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-516">See details in [blog post](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span></span>
 
-- <span data-ttu-id="968f4-704">**Размещение дополнительных сообщений на экране.** Выберите параметры "Вид" > "Уменьшить интервал", чтобы изменить интервалы между сообщениями.</span><span class="sxs-lookup"><span data-stu-id="968f4-704">**Fit more messages on the screen:** Select View > Use Tighter Spacing to adjust spacing between messages.</span></span> [<span data-ttu-id="968f4-705">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-705">Learn more</span></span>](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+- <span data-ttu-id="5d0d9-517">**Ссылка на слайд:** попросите коллег поучаствовать в создании презентации и направьте их прямо на нужный слайд.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-517">**Link to a slide:** Ask a colleague to contribute to your slide deck, and start them directly on the slide you need help with.</span></span> [<span data-ttu-id="5d0d9-518">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-518">Learn more</span></span>](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)<br /><span data-ttu-id="5d0d9-519">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-519">See details in [blog post](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)</span></span>
 
-- <span data-ttu-id="968f4-706">**Просмотр сообщений в другой освещенности.** Используйте кнопку "СОЛНЦЕ/ЛУНА" для переключения между светлым и темным фоном в области чтения.</span><span class="sxs-lookup"><span data-stu-id="968f4-706">**See your messages in a different light:** Use the Sun/Moon button to switch between light and dark backgrounds in the reading pane.</span></span> [<span data-ttu-id="968f4-707">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-707">Learn more</span></span>](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- <span data-ttu-id="5d0d9-520">**Улучшена производительность потокового видео в PowerPoint.** Мы улучшили скорость воспроизведения в видеороликах Microsoft Stream, чтобы сократить время загрузки видео и обеспечить удобство просмотра.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-520">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="5d0d9-521">Используйте корпоративные видео из Microsoft Stream для улучшения презентаций.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-521">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
 
-- <span data-ttu-id="968f4-708">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="968f4-708">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="968f4-709">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="968f4-709">Find them at Insert > Icons.</span></span> [<span data-ttu-id="968f4-710">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-710">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-711">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-711">PowerPoint</span></span>
+### <a name="word"></a><span data-ttu-id="5d0d9-522">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-522">Word</span></span>
 
-- <span data-ttu-id="968f4-712">**Быстрое взаимодействие в реальном времени в PowerPoint:** Быстрое сотрудничество в реальном времени в PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-712">**Fast real-time collaboration in PowerPoint:** Fast real-time collaboration in PowerPoint</span></span>
+- <span data-ttu-id="5d0d9-523">**Улучшенные диаграммы с картами.** Мы улучшили диаграммы с картами, интегрировав в них географические типы данных Excel, предоставляющие обширные сведения о расположениях на карте.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-523">**Improved map charts:** We've made map charts better by integrating them with Excel's Geographic Data Types, which can reveal rich information about your mapped locations.</span></span> [<span data-ttu-id="5d0d9-524">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-524">Learn more</span></span>](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- <span data-ttu-id="968f4-713">**Новые средства проверки правописания.** Не переживайте из-за слов.</span><span class="sxs-lookup"><span data-stu-id="968f4-713">**New proofreading tools:** Don't stress about your words.</span></span> <span data-ttu-id="968f4-714">В PowerPoint теперь отображаются предложения в отношении грамматики и написания.</span><span class="sxs-lookup"><span data-stu-id="968f4-714">PowerPoint now provides grammar and writing suggestions.</span></span> [<span data-ttu-id="968f4-715">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-715">Learn more</span></span>](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- <span data-ttu-id="5d0d9-525">**Лассо для рукописных фрагментов.** С помощью инструмента "лассо" на вкладке "Рисование" можно выбрать объекты, нарисованные от руки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-525">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="5d0d9-526">Выделяйте отдельные фрагменты или целые слова.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-526">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="5d0d9-527">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-527">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- <span data-ttu-id="968f4-716">**Субтитры в реальном времени.** Слова докладчика автоматически отображаются на экране в виде субтитров или переводятся в субтитры на выбранном языке.</span><span class="sxs-lookup"><span data-stu-id="968f4-716">**Live captions and subtitles:** The presenter’s words are automatically shown on screen as captions or translated into subtitles in the language of your choice.</span></span> [<span data-ttu-id="968f4-717">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-717">Learn more</span></span>](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
+- <span data-ttu-id="5d0d9-528">**Выберите идеальный цвет.** Используйте шестнадцатеричные коды цветов, чтобы выбрать нужный цвет шрифта, выделения текста и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-528">**Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.</span></span><br /><span data-ttu-id="5d0d9-529">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-529">See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)</span></span>
 
-- <span data-ttu-id="968f4-p168">**Вы вычисляете, мы форматируем.** Рукописные математические выражения преобразуются в стандартные знаки. Просто воспользуйтесь функцией "Рукописный фрагмент в математические символы" и выберите рукописные примечания для начала работы. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)</span><span class="sxs-lookup"><span data-stu-id="968f4-p168">**You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)</span></span>
+- <span data-ttu-id="5d0d9-530">**Подтверждение действий в средстве чтения с экрана.** Подтверждение действий — это важное требование для обеспечения специальных возможностей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-530">**Confirmation of action in screen readers:** Confirmation of action is an important accessibility requirement.</span></span> <span data-ttu-id="5d0d9-531">С появлением нового API уведомлений из Windows мы можем оповещать пользователей средства чтения с экрана об успехе их действий.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-531">With the introduction of a new Notification API from Windows, we are now able to alert screen reader users about the success of their actions.</span></span> <span data-ttu-id="5d0d9-532">Теперь пользователи экранного диктора в Word для Win32 уведомляются о вырезании, копировании, вставке, использовании полужирного шрифта, курсива или подчеркивания, отмене, повторе, автозамене и автоматическом использовании прописных букв.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-532">Cut, copy, paste, bold, italic, underline, undo, redo, auto corrections, and auto-capitalizations are now all announced to Narrator users in Win32 Word.</span></span> <span data-ttu-id="5d0d9-533">Чтобы включить эту возможность, включите экранный диктор с помощью клавиш Windows+CTRL+ВВОД.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-533">To enable this feature, turn on Narrator by pressing windows + ctrl + enter.</span></span><br /><span data-ttu-id="5d0d9-534">Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-534">See details in [blog post](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)</span></span>
 
-- <span data-ttu-id="968f4-721">**Найдите то, что вы ищете:** используйте окно поиска, чтобы найти текст, команды, помощь и многое другое.</span><span class="sxs-lookup"><span data-stu-id="968f4-721">**Find what you're looking for:** Use the search box to find text, commands, help, and more.</span></span> [<span data-ttu-id="968f4-722">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-722">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-535">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-535">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-723">**Поиск и исправление пропущенных названий слайдов:** Названия слайдов добавляют удар к вашей подаче и делают ваши слайды доступными для пользователей всех способностей.</span><span class="sxs-lookup"><span data-stu-id="968f4-723">**Find and fix missing slide titles:** Slide titles add punch to your pitch and make your slides accessible to users of all abilities.</span></span> <span data-ttu-id="968f4-724">С помощью средства проверки читаемости можно определить, где отсутствуют заголовки, и сразу же добавить их.</span><span class="sxs-lookup"><span data-stu-id="968f4-724">Accessibility Checker shows you where titles are missing so you can add them in a snap.</span></span> [<span data-ttu-id="968f4-725">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-725">Learn more</span></span>](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+- <span data-ttu-id="5d0d9-536">**Метки конфиденциальности**. Теперь вы можете применять метку конфиденциальности, настроенную организацией для запроса пользовательских разрешений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-536">**Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span>
 
-- <span data-ttu-id="968f4-726">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации.</span><span class="sxs-lookup"><span data-stu-id="968f4-726">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your presentation.</span></span> [<span data-ttu-id="968f4-727">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-727">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- <span data-ttu-id="968f4-728">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="968f4-728">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
-- <span data-ttu-id="968f4-729">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="968f4-729">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span>
+<br/>
 
-- <span data-ttu-id="968f4-730">**Сохранение изображений в формате SVG.** Сохранение графиков, фигур и других изображений в масштабируемом векторном формате. Можно изменять размер таких изображений без потери качества.</span><span class="sxs-lookup"><span data-stu-id="968f4-730">**Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality.</span></span> [<span data-ttu-id="968f4-731">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-731">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-- <span data-ttu-id="968f4-732">**Печать номеров слайдов на раздаточных материалах.** Номера слайдов автоматически добавляются в раздаточные материалы.</span><span class="sxs-lookup"><span data-stu-id="968f4-732">**Print slide numbers on handouts:** Slide numbers are included on your handouts automatically.</span></span> <span data-ttu-id="968f4-733">Вы сами решаете, оставить или отключить их.</span><span class="sxs-lookup"><span data-stu-id="968f4-733">Leave them on, turn them off, it's all up to you.</span></span> [<span data-ttu-id="968f4-734">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-734">Learn more</span></span>](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-539">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-539">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-540">Доступ</span><span class="sxs-lookup"><span data-stu-id="5d0d9-540">Access</span></span>
 
-- <span data-ttu-id="968f4-735">**Воспроизведение рукописного ввода.** При использовании рукописного ввода на слайдах примените анимацию воспроизведения, чтобы воспроизводить процесс рукописного ввода во время слайд-шоу.</span><span class="sxs-lookup"><span data-stu-id="968f4-735">**Ink-stant replay:** When inking on your slides, apply a replay animation to replay the actual drawing of your ink during your slide show.</span></span> [<span data-ttu-id="968f4-736">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-736">Learn more</span></span>](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- <span data-ttu-id="5d0d9-541">Устранена проблема со вставкой связанных таблиц SQL, содержащих поле удостоверения (например, счетчик).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-541">Resolved an issue with inserting linked SQL tables that include an identity (e.g. autonumber) field.</span></span>
 
-- <span data-ttu-id="968f4-737">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="968f4-737">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
+- <span data-ttu-id="5d0d9-542">Исправлена проблема, из-за которой выполнение запроса занимало примерно в два раза больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-542">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
 
-- <span data-ttu-id="968f4-738">**Оптимизация презентации для всех пользователей.** Средство проверки читаемости помогает расположить объекты на слайдах с учетом средств чтения с экрана.</span><span class="sxs-lookup"><span data-stu-id="968f4-738">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+- <span data-ttu-id="5d0d9-543">Исправлена проблема, препятствующая возможности вызова расширенного типа данных "Дата/время" без сбоев приложения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-543">Fixed an issue to be able to call the Date/Time Extended data type into your code without experiencing any crash in your app.</span></span>
 
-- <span data-ttu-id="968f4-739">**Преобразование файлов для улучшения доступности.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-739">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="5d0d9-544">Проблема исправлена, поэтому теперь вы можете вернуться к последней версии Access и использовать DAO/VBA для управления и изменения типа данных Decimal.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-544">Fixed an issue so you can now revert back to your most updated Access version, and use DAO/VBA to manage and edit a decimal data type.</span></span>
 
-- <span data-ttu-id="968f4-740">**Более безопасная работа с видео.** Улучшения системы безопасности означают более защищенный интерфейс работы с видео из Интернета.</span><span class="sxs-lookup"><span data-stu-id="968f4-740">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span>
+- <span data-ttu-id="5d0d9-545">Исправлена проблема, из-за которой при попытке выполнить определенные запросы ранее появлялось сообщение об ошибке "Слишком сложный запрос".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-545">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex'.</span></span>
 
-- <span data-ttu-id="968f4-741">**Зачем изобретать заново, если вы можете использовать повторно ?:** Экономьте время, повторно используя слайды, которые вы создали или которыми другие поделились с вами.</span><span class="sxs-lookup"><span data-stu-id="968f4-741">**Why reinvent when you can re-use?:** Save time by re-using slides that you created or that others have shared with you.</span></span> [<span data-ttu-id="968f4-742">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-742">Learn more</span></span>](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- <span data-ttu-id="5d0d9-546">Эта проблема исправлена в Access, но мы продолжаем изучать дополнительные интерфейсы, чтобы она не повторилась.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-546">Access has fixed this current issue, but will be investigating our additional interfaces to ensure that this problem does not persist.</span></span> <span data-ttu-id="5d0d9-547">Команда сообщит о будущих обновлениях. Мы ценим ваше терпение.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-547">The team will inform you with future updates; we appreciate your patience.</span></span>
 
-- <span data-ttu-id="968f4-743">**Измените рукописные чернила на фигуры, текст или математику в PowerPoint для Office 365:** Перейдите от чернил произвольной формы к фигурам, тексту или математическому выражению Office за пару движений.</span><span class="sxs-lookup"><span data-stu-id="968f4-743">**Change handwritten ink to shapes, text, or math in PowerPoint for Office 365:** Go from free-form ink to Office shapes, text, or a mathematical expression in a couple of strokes.</span></span> [<span data-ttu-id="968f4-744">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-744">Learn more</span></span>](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- <span data-ttu-id="5d0d9-548">Эта проблема устранена. Теперь вы можете использовать драйвер ODBC вне приложений Office "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-548">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
 
-- <span data-ttu-id="968f4-745">**Рукописный ввод для создания отличного слайда.** Преобразуйте рукописный ввод в стандартные фигуры и текст, а затем находите изящные идеи оформления слайдов в конструкторе PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-745">**Ink a splendid slide:** Convert your ink to standard shapes and text, then get smart slide-design ideas from PowerPoint Designer.</span></span> [<span data-ttu-id="968f4-746">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-746">Learn more</span></span>](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+### <a name="excel"></a><span data-ttu-id="5d0d9-549">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-549">Excel</span></span>
 
-- <span data-ttu-id="968f4-747">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="968f4-747">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="968f4-748">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="968f4-748">Find them at Insert > Icons.</span></span> [<span data-ttu-id="968f4-749">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-749">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- <span data-ttu-id="5d0d9-550">Для рабочих книг, доступных только для чтения, могла действовать автоматическая классификация документов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-550">Automatic document classification may have occurred for workbooks that were in read-only mode.</span></span>
 
-### <a name="visio"></a><span data-ttu-id="968f4-750">Visio</span><span class="sxs-lookup"><span data-stu-id="968f4-750">Visio</span></span>
+- <span data-ttu-id="5d0d9-551">Исправлен сбой, который мог происходить при попытке создать подключение к данным, если вы вышли из учетной записи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-551">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
 
-- <span data-ttu-id="968f4-751">**В сценах преступления:** Используйте новые трафареты «Доказательства», «В помещении» и «На улице» в шаблоне «Расследование места преступления», чтобы детально воссоздать места преступления.</span><span class="sxs-lookup"><span data-stu-id="968f4-751">**Back to the scene of the crime:** Use new Evidence, Indoor, and Outdoor stencils in the Crime Scene Investigation template to recreate crime scenes in detail.</span></span>
+- <span data-ttu-id="5d0d9-552">Исправлена проблема, из-за которой приложение Excel аварийно завершало работу при попытке вставки сводных таблиц на лист диаграмм.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-552">Addressed an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
 
-- <span data-ttu-id="968f4-752">**Создание полированных диаграмм Visio в Excel:** создайте блок-схему или организационную диаграмму, поместив данные на лист.</span><span class="sxs-lookup"><span data-stu-id="968f4-752">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="968f4-753">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-753">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- <span data-ttu-id="5d0d9-553">Могла возникать ошибка при попытке сохранить файл, содержащий формулу с функцией ПУСТЬ().</span><span class="sxs-lookup"><span data-stu-id="5d0d9-553">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-754">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-754">Word</span></span>
+- <span data-ttu-id="5d0d9-554">Исправлена проблема, из-за которой Excel мог аварийно завершать работу в определенных обстоятельствах при использовании форматирования по образцу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-554">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
 
-- <span data-ttu-id="968f4-755">**Редактор для резюме присоединяется к LinkedIn Resume Assistant:** редактор для резюме предлагает выбор грамматических и стилевых проверок, специально предназначенных для резюме, чтобы сделать ваше письмо более точным и профессиональным.</span><span class="sxs-lookup"><span data-stu-id="968f4-755">**Editor for Resume joins LinkedIn Resume Assistant:** Editor for Resume offers a selection of grammar and style checks specially tailored for resumes, to make your writing more precise and professional.</span></span>
+- <span data-ttu-id="5d0d9-555">Исправлена проблема, из-за которой удалялась настраиваемая вкладка в CustomUI XML при сохранении в SharePoint или OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-555">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
 
-- <span data-ttu-id="968f4-756">**Исправление проблемы с повреждением документа при объединении 3D объектов.** Исправлена проблема с повреждением документа, возникавшая при объединении 3D объектов.</span><span class="sxs-lookup"><span data-stu-id="968f4-756">**Fixed a document corruption issue caused by merge of 3D objects.:** Fixed a document corruption issue caused by merge of 3D objects.</span></span>
+- <span data-ttu-id="5d0d9-556">Исправлена проблема, из-за которой приложение Excel иногда переставало отвечать после нажатия клавиш CTRL+SHIFT+клавиши со стрелками для прокрутки, если окно Excel демонстрировалось в Teams.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-556">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
 
-- <span data-ttu-id="968f4-757">**Найдите то, что вы ищете:** используйте окно поиска, чтобы найти текст, команды, помощь и многое другое.</span><span class="sxs-lookup"><span data-stu-id="968f4-757">**Find what you're looking for:** Use the search box to find text, commands, help, and more.</span></span> [<span data-ttu-id="968f4-758">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-758">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- <span data-ttu-id="5d0d9-557">Исправлена проблема, из-за которой в некоторых случаях при щелчке по гиперссылке внутри книги она перестает отображаться.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-557">Fixed an issue where in some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
 
-- <span data-ttu-id="968f4-759">**Сотрудничайте в живом цвете:** комментарии и изменения имеют цветовую кодировку от участника, поэтому легко увидеть, кто есть кто среди ваших соавторов.</span><span class="sxs-lookup"><span data-stu-id="968f4-759">**Collaborate in living color:** Comments and changes are color coded by contributor so it's easy to see who's who among your collaborators.</span></span>
+- <span data-ttu-id="5d0d9-558">Исправлена проблема, из-за которой внешняя ссылка не срабатывала при повторном открытии файла, если путь к файлу был слишком длинным.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-558">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
 
-- <span data-ttu-id="968f4-760">**Совместное редактирование документов с поддержкой макросов:** сохраняйте файлы документов в OneDrive для бизнеса и редактируйте их вместе с соавторами в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="968f4-760">**Edit macro-enabled docs collaboratively:** Save your docm files on OneDrive for Business and edit with your collaborators in real time.</span></span>
+- <span data-ttu-id="5d0d9-559">Application.Evaluate (VBA) не работал для пользовательских функций в некоторых случаях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-559">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
 
-- <span data-ttu-id="968f4-761">**Улучшенные возможности совместного редактирования**. Улучшено быстродействие Word при совместном редактировании в документах с отслеживанием исправлений.</span><span class="sxs-lookup"><span data-stu-id="968f4-761">**Coauthoring improvements:** Improved Word performance when coauthoring in documents with tracked changes.</span></span>
+- <span data-ttu-id="5d0d9-560">Для книг, сохраненных с цифровой подписью в Excel 2016, подпись может быть признана недействительной при открытии в текущей версии Excel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-560">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="968f4-762">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="968f4-762">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="968f4-763">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="968f4-763">Find them at Insert > Icons.</span></span> [<span data-ttu-id="968f4-764">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-764">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- <span data-ttu-id="5d0d9-561">Исправлена ошибка, из-за которой в некоторых случаях происходил сбой Excel после копирования листа, содержащего сводную таблицу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-561">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
 
-- <span data-ttu-id="968f4-765">**Другие люди быстрее увидят сделанные вами изменения.** Улучшенные функции совместного редактирования означают, что участники совместной работы смогут просматривать сделанные вами изменения быстрее, чем когда-либо раньше.</span><span class="sxs-lookup"><span data-stu-id="968f4-765">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="5d0d9-562">Это устраняет проблему, из-за которой при подключениях, созданных поставщиком данных SQL в более ранних версиях Office, параметры внутренних таблиц задавались не так, как в Office 365.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-562">This addresses an issue where connections created by the SQL data provider in older versions of Office would set internal table properties differently from Office 365.</span></span> <span data-ttu-id="5d0d9-563">Это приводит к отключению раскрывающегося списка "Просмотр таблиц" или "Редактор запросов" для файлов с подключениями, созданными в более ранних версиях Office, когда они открывались с помощью Office 365.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-563">This caused the Table Preview / Query Editor dropdown to be disabled for files with connections created in older versions of Office when they were opened using Office 365.</span></span>
 
-- <span data-ttu-id="968f4-766">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своем документе.</span><span class="sxs-lookup"><span data-stu-id="968f4-766">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your document.</span></span> [<span data-ttu-id="968f4-767">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-767">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- <span data-ttu-id="5d0d9-564">Устранена проблема, из-за которой внешние ссылки не обновлялись при заполнении, если исходная книга закрыта.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-564">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
 
-- <span data-ttu-id="968f4-768">**Точное стирание.** Выберите один из двух размеров ластика, чтобы исправить небольшие недочеты рукописных фрагментов.</span><span class="sxs-lookup"><span data-stu-id="968f4-768">**Erase with precision:** Choose from two eraser sizes to fix small inking imperfections.</span></span> [<span data-ttu-id="968f4-769">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-769">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="5d0d9-565">Исправлена проблема, из-за которой при рукописном вводе приложение Excel переставало отвечать на запросы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-565">Resolved an issue where inking could cause Excel to become unresponsive.</span></span>
 
-- <span data-ttu-id="968f4-770">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="968f4-770">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+### <a name="onenote"></a><span data-ttu-id="5d0d9-566">OneNote</span><span class="sxs-lookup"><span data-stu-id="5d0d9-566">OneNote</span></span>
 
-- <span data-ttu-id="968f4-771">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="968f4-771">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span> [<span data-ttu-id="968f4-772">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-772">Learn more</span></span>](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
+- <span data-ttu-id="5d0d9-567">Информирование пользователей с помощью информационной панели о временных изменениях в Microsoft OneNote, помогающих улучшить синхронизацию и доступность служб при высоком уровне использования по всему миру.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-567">Inform users through the InfoBar about temporary adjustments in Microsoft OneNote that will help improve sync and service availability during high worldwide usage.</span></span>
 
-- <span data-ttu-id="968f4-773">**Улучшенные возможности совместного редактирования.** Повышена надежность при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="968f4-773">**Coauthoring improvements:** Improved reliability when coauthoring.</span></span>
+- <span data-ttu-id="5d0d9-568">Улучшена синхронизация и стабильность службы путем временного изменения частоты синхронизации в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-568">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
 
-- <span data-ttu-id="968f4-774">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="968f4-774">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="968f4-775">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-775">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- <span data-ttu-id="5d0d9-569">Улучшено обнаружение состояния совместного редактирования для снижения использования ресурсов</span><span class="sxs-lookup"><span data-stu-id="5d0d9-569">Improved detection of co-authoring status to reduce resource utilization.</span></span>
 
-- <span data-ttu-id="968f4-776">**Преобразование файлов для улучшения доступности.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="968f4-776">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+- <span data-ttu-id="5d0d9-570">Улучшена синхронизация и стабильность службы путем временного уменьшения максимально допустимого размера новых внедренных вложений до 50 МБ в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-570">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB in OneNote 2016.</span></span> <span data-ttu-id="5d0d9-571">В случае файлов большего размера у пользователей будет возможность отправить файл в OneDrive и вставить ссылку в OneNote.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-571">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
 
-- <span data-ttu-id="968f4-777">**Более безопасная работа с видео.** Улучшения системы безопасности означают более защищенный интерфейс работы с видео из Интернета.</span><span class="sxs-lookup"><span data-stu-id="968f4-777">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="968f4-778">Подробнее</span><span class="sxs-lookup"><span data-stu-id="968f4-778">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- <span data-ttu-id="5d0d9-572">Улучшена синхронизация и стабильность службы путем временного отключения записи видео в приложении в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-572">Improved sync and service stability by temporarily disabling in-app video recording in OneNote 2016.</span></span> <span data-ttu-id="5d0d9-573">Это мера не влияет на локальные записные книжки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-573">Local notebooks are not impacted by this measure.</span></span>
+
+- <span data-ttu-id="5d0d9-574">Улучшена синхронизация и стабильность службы за счет временного изменения частоты создания журналов версий страниц.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-574">Improved sync and service stability by temporarily altering how frequently page version histories are created.</span></span>
+
+- <span data-ttu-id="5d0d9-575">Улучшена синхронизация и стабильность службы за счет временного отключения перемещения страниц в корзину.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-575">Improved sync and service stability by temporarily disabling moving pages into the recycle bin.</span></span> <span data-ttu-id="5d0d9-576">Для пользователей, которым нужно удалить страницу, будет отображаться диалоговое окно с вопросом, нужно ли удалить страницу окончательно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-576">Users who want to delete a page will instead be shown a dialog asking if they'd want to permanently delete the page.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-577">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-577">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-578">Исправлена проблема, из-за которой пользователи, пытавшиеся создать приглашение на собрание из дополнительной учетной записи, добавленной в их профиль, не видели пустое поле "От:" вместо своего адреса.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-578">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
+
+- <span data-ttu-id="5d0d9-579">Исправлена проблема, из-за которой пользователи не могли подключаться к общедоступным папкам после добавления общего почтового ящика.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-579">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
+
+- <span data-ttu-id="5d0d9-580">Устранена проблема, из-за которой в некоторых обстоятельствах не удавалось удалять отклоненные представителем собрания из календаря руководителя.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-580">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
+
+- <span data-ttu-id="5d0d9-581">Исправлена проблема, не позволявшая некоторым пользователям функции улучшений общего календаря просматривать недавно добавленный общий календарь.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-581">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
+
+- <span data-ttu-id="5d0d9-582">Исправлена проблема, из-за которой возникали периодические сбои при взаимодействии пользователей с облачными вложениями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-582">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
+
+- <span data-ttu-id="5d0d9-583">Устранена проблема, из-за которой пользователи CLP могут столкнуться со сбоем при замене контекста адреса отправителя ответа с защищенного на незащищенный.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-583">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
+
+- <span data-ttu-id="5d0d9-584">Исправлена проблема, из-за которой Outlook не удавалось включать советы по политике защиты от потери данных для пользователей, которые приобрели подписку на Microsoft 365 бизнес премиум.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-584">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
+
+- <span data-ttu-id="5d0d9-585">Исправлена проблема, связанная с событием аудита CLP для метки "Ответить или переслать".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-585">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+
+- <span data-ttu-id="5d0d9-586">Устранена проблема, которая приводила к неожиданному изменению ширины области папок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-586">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
+
+- <span data-ttu-id="5d0d9-587">Устранена проблема, из-за которой дата создания вложений, скопированных в свою файловую систему с помощью перетаскивания, отображалась для пользователей как 1 января 4501 г.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-587">Addressed an issue that caused users to see the creation date of  attachments that they copied to their file system via drag and drop getting  set to January 1, 4501.</span></span>
+
+- <span data-ttu-id="5d0d9-588">Устранена проблема, из-за которой при добавлении интеллектуальной ссылки в файл SharePoint имена файлов неправильно отображались для пользователей некоторых наборов символов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-588">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
+
+- <span data-ttu-id="5d0d9-589">Исправлена проблема, из-за которой при обновлении правил в Outlook появлялось сообщение "Правила на этом компьютере не соответствуют правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-589">Addressed an issue that caused users to see the "The rules on this computer do not match the rules on Microsoft Exchange" message when updating their rules in Outlook.</span></span>
+
+- <span data-ttu-id="5d0d9-590">Устранена проблема, из-за которой Outlook не удавалось получить варианты поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-590">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
+
+- <span data-ttu-id="5d0d9-591">Устранена проблема, из-за которой пользователи общего календаря сталкивались со сбоями в календаре.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-591">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
+
+- <span data-ttu-id="5d0d9-592">Устранена проблема, которая в некоторых ситуациях приводила к периодическим зависаниям и сбоям.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-592">Addressed an issue that caused users to experience intermittent hangs and crashes in some scenarios.</span></span>
+
+- <span data-ttu-id="5d0d9-593">Устранена проблема, при которой удаление 4 и более сообщений электронной почты из учетной записи POP с выбранным параметром "Скачивать только заголовки" вызывало сбой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-593">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+
+- <span data-ttu-id="5d0d9-594">Исправлена проблема с отсутствием параметра "Разрешить переадресацию" в разделе "Параметры ответа" в собрании общего календаря, если НЕ установлен флажок скачивания общей папки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-594">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+
+- <span data-ttu-id="5d0d9-595">Исправлена проблема, из-за которой у представителей при редактировании существующей встречи в календаре руководителя отображалось сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-595">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
+
+- <span data-ttu-id="5d0d9-596">Устранена проблема, из-за которой у пользователей возникали сбои в сторонних приложениях MAPI.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-596">Addressed an issue that caused users to experience crashes in third party MAPI applications.</span></span>
+
+- <span data-ttu-id="5d0d9-597">Устранена проблема, приводившая к сбою Outlook при открытии MSG или OFT-файлов, сохраненных локально, после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-597">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+
+- <span data-ttu-id="5d0d9-598">Устранена проблема, приводившая к сбою Outlook в некоторых сборках Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-598">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
+
+- <span data-ttu-id="5d0d9-599">Устранена проблема, которая приводила к выводу предупреждений о недопустимом состоянии антивирусной программы в Windows 10 Server.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-599">Addressed an issue that caused users of Windows 10 server versions to see the warning "Antivirus status: Invalid.</span></span> <span data-ttu-id="5d0d9-600">Эта версия Windows поддерживает обнаружение вирусов, но антивирусные программы не найдены, несмотря на то, что антивирусная программа установлена.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-600">This version of Windows supports antivirus detection, but no antivirus was found" despite having anti virus correctly installed.</span></span>
+
+- <span data-ttu-id="5d0d9-601">Исправлена проблема, приводившая к сбою Outlook при открытии файлов MSG или OFT, сохраненных локально, после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-601">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+
+- <span data-ttu-id="5d0d9-602">Устранена проблема, приводившая к сбою Outlook в некоторых сборках Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-602">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
+
+- <span data-ttu-id="5d0d9-603">Устранена проблема, из-за которой пользователи получали предложение запустить средство восстановление папки "Входящие".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-603">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
+
+- <span data-ttu-id="5d0d9-604">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-604">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+
+- <span data-ttu-id="5d0d9-605">Устранена проблема, связанная с тем, что пользователи не могли сохранять вложения OneDrive вне клиента на локальный компьютер при сохранении через диалоговое окно "Безопасность".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-605">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+
+- <span data-ttu-id="5d0d9-606">Решена проблема, из-за которой страница помощника по планированию не отображается.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-606">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
+
+- <span data-ttu-id="5d0d9-607">Устранена проблема, из-за которой страница помощника по планированию не отображалась для некоторых пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-607">Addressed an issue that caused some users to see the Scheduling Assistant page fail to display.</span></span>
+
+- <span data-ttu-id="5d0d9-608">Устранена проблема, которая иногда приводила к аварийному завершению работы при получении сведений о пользователе.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-608">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
+
+- <span data-ttu-id="5d0d9-609">Исправлена проблема, из-за которой возникали периодические сбои при изменении получателей пользователями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-609">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+
+- <span data-ttu-id="5d0d9-610">Исправлена проблема, из-за которой возникали аномалии при использовании пользователями компактного представления.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-610">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
+
+- <span data-ttu-id="5d0d9-611">Устранена проблема, из-за которой у пользователей Outlook возникали проблемы с навигацией в компактных представлениях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-611">Addressed an issue that caused outlook users to see issues with navigation in compact views.</span></span>
+
+- <span data-ttu-id="5d0d9-612">Устранена проблема, из-за которой контекстное меню, вызываемое щелчком правой кнопки мыши, не отображалось в элементах управления поиском.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-612">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
+
+- <span data-ttu-id="5d0d9-613">Исправлена проблема, из-за которой пользователи получали следующую ошибку при ответе или создании сообщения: "Часть файлов с этой веб-страницы отсутствует в указанных папках.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-613">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="5d0d9-614">Вы все равно хотите скачать их?</span><span class="sxs-lookup"><span data-stu-id="5d0d9-614">Do you want to download them anyway?</span></span> <span data-ttu-id="5d0d9-615">Если вы уверены в надежности источника веб-страницы, выберите "Да".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-615">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
+
+- <span data-ttu-id="5d0d9-616">Устранена проблема, из-за которой пользователи сталкивались с зависанием интерфейса при выходе из Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-616">Addresses an issue that caused users to experience a hang while exiting Outlook.</span></span>
+
+- <span data-ttu-id="5d0d9-617">Устранена проблема, из-за которой поиск возможности предложения функции не возвращал результатов, и пользователи не могли делиться идеями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-617">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
+
+- <span data-ttu-id="5d0d9-618">Устранена проблема, вызывающая нарушения в форматировании оповещений об инцидентах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-618">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
+
+- <span data-ttu-id="5d0d9-619">Устранена проблема, из-за которой у пользователей возникали сбои при отправлении отзывов из уведомлений администратора.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-619">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+
+- <span data-ttu-id="5d0d9-620">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-620">We fixed an issue for copy and paste SVG image.</span></span>
+
+- <span data-ttu-id="5d0d9-621">Устранена проблема, из-за которой возникали периодические сбои при изменении получателей пользователями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-621">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+
+- <span data-ttu-id="5d0d9-622">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-622">We fixed an issue for copy and paste SVG image.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-623">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-623">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-624">Устранена проблема, из-за которой обновлялись примечания в случае, когда в файлах были примечания одновременно из старых и новых версий.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-624">Fixed a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
+
+- <span data-ttu-id="5d0d9-625">Устранена проблема со сбоем в приложении PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-625">We have fixed a crash issue with PowerPoint app.</span></span>
+
+- <span data-ttu-id="5d0d9-626">Устранена проблема со сбоем панели предложений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-626">We have fixed a crash issue with suggestion pane.</span></span>
+
+### <a name="project"></a><span data-ttu-id="5d0d9-627">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-627">Project</span></span>
+
+- <span data-ttu-id="5d0d9-628">Устранена проблема, из-за которой при редактировании данных Предшественника / Преемника в представлении формы, запускалось дополнительное событие ProjectBeforeTaskChange.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-628">Fixed an issue when Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+
+- <span data-ttu-id="5d0d9-629">Исправлена проблема, из-за которой приложение Project могло аварийно завершать работу при сохранении проектов, созданных в предыдущих версиях Project.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-629">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
+
+- <span data-ttu-id="5d0d9-630">Исправлена проблема, из-за которой пользователю не удавалось ввести повременные базовые трудозатраты, если был включен параметр защиты фактических трудозатрат.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-630">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
+
+- <span data-ttu-id="5d0d9-631">Исправлена проблема, из-за которой процент выполнения задачи неправильно изменялся на значение менее 100 % после ее пометки как выполненной.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-631">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+
+- <span data-ttu-id="5d0d9-632">Исправлена проблема, из-за которой событие OnUndoOrRedo не запускалось без предварительного выполнения метода OpenUndoTransaction.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-632">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+
+- <span data-ttu-id="5d0d9-633">Исправлена проблема, из-за которой иногда неверно вычислялись даты суммарной задачи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-633">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+
+- <span data-ttu-id="5d0d9-634">Исправлена проблема, из-за которой событие ProjectBeforeTaskChange не обнаруживает, деактивирована или активирована ли задача при помощи кнопки "Деактивировать".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-634">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
+
+- <span data-ttu-id="5d0d9-635">Исправлена проблема, из-за которой при использовании Project, подключенного к Project Web App, метод добавления TaskDependencies завершался сбоем при попытке добавления задержки к зависимости.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-635">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+
+- <span data-ttu-id="5d0d9-636">Исправлена проблема, из-за которой проекты не открывались в классическом клиенте Project из Project Web App, если URL-адрес оканчивался на ".com".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-636">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
+
+- <span data-ttu-id="5d0d9-637">Исправлена проблема, из-за которой при вставке задачи, имеющей несколько зависимостей, не все зависимости были скопированы правильно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-637">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
+
+- <span data-ttu-id="5d0d9-638">Исправлена проблема, из-за которой не удавалось сохранить файл PDF или XPS из Project в библиотеке документов SharePoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-638">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+
+- <span data-ttu-id="5d0d9-639">Исправлена проблема, из-за которой прогресс задачи, помеченной как завершенная на 100%, некорректно изменяется в меньшую сторону.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-639">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+
+- <span data-ttu-id="5d0d9-640">Устранена проблема, из-за которой событие ProjectBeforeTaskChange не запускалось при наличии изменений в суммарной задаче проекта, либо в поле даты начала, либо задачи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-640">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+
+- <span data-ttu-id="5d0d9-641">Исправлена проблема, из-за которой при определении для ресурса нескольких таблиц норм затрат оставшиеся затраты не всегда рассчитывались правильно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-641">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+
+- <span data-ttu-id="5d0d9-642">Исправлена проблема, из-за которой дата окончания проекта не обновлялась для проектов, подключенных к списку задач SharePoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-642">Fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+
+- <span data-ttu-id="5d0d9-643">Исправлена проблема, из-за которой задача, выбранная в диалоговом окне "Назначение ресурсов", не совпадала с задачей, выбранной на "Доске задач".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-643">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
+
+- <span data-ttu-id="5d0d9-644">Исправлена проблема, из-за которой проект в нерабочем состоянии нельзя было открыть.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-644">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
+
+### <a name="skype"></a><span data-ttu-id="5d0d9-645">Skype</span><span class="sxs-lookup"><span data-stu-id="5d0d9-645">Skype</span></span>
+
+- <span data-ttu-id="5d0d9-646">Если пользователю назначена политика, которая перемещает его только в Teams, он все еще может использовать надстройку Outlook для Skype для бизнеса для планирования собраний.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-646">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span> <span data-ttu-id="5d0d9-647">После этого обновления вы больше не сможете планировать собрания Skype для бизнеса, если клиент запустит политику, указывающую на то, что у пользователя есть возможность использовать только Teams, а собрания станут доступны только в режиме присоединения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-647">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span> <span data-ttu-id="5d0d9-648">Кроме того, надстройка Outlook для Skype для бизнеса перестанет активироваться при запуске, если клиент Skype для бизнеса доступен только в режиме присоединения к собранию.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-648">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
+
+- <span data-ttu-id="5d0d9-649">Цвет кожи танцующего смайлика изменен на нейтральный.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-649">Changed dancing emoticon skin tone to neutral color.</span></span>
+
+### <a name="word"></a><span data-ttu-id="5d0d9-650">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-650">Word</span></span>
+
+- <span data-ttu-id="5d0d9-651">Решена проблема с открытием документов Word из ASPX при наличии в URL-адресе компонента запроса.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-651">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
+
+- <span data-ttu-id="5d0d9-652">Это исправление устраняет проблему, из-за которой приложения Office могли зависнуть в состоянии автоматического сохранения после предыдущего сеанса совместного редактирования.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-652">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
+
+- <span data-ttu-id="5d0d9-653">Устранена проблема, из-за которой у пользователей возникали сбои при ответе или создании сообщения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-653">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
+
+- <span data-ttu-id="5d0d9-654">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-654">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+
+- <span data-ttu-id="5d0d9-655">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-655">We fixed an issue for copy and paste SVG image.</span></span>
+
+- <span data-ttu-id="5d0d9-656">Устранена проблема, из-за которой пользователь мог потерять контент при изменении размера фигуры.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-656">We fixed an issue where the user might lose content when resize a shape.</span></span>
+
+- <span data-ttu-id="5d0d9-657">Исправлена проблема, из-за которой базовые стили не обновлялись со стилем "Обычный".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-657">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+
+- <span data-ttu-id="5d0d9-658">Исправлена проблема, из-за которой макрос AutoOpen запускается до AutoExec.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-658">We fixed an issue where macro AutoOpen runs before AutoExec.</span></span>
+
+- <span data-ttu-id="5d0d9-659">Устранена проблема при копировании и вставке SVG-изображения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-659">We fixed an issue for copy and paste SVG image.</span></span>
+
+- <span data-ttu-id="5d0d9-660">Устранена проблема, которая могла вызвать сбой при перетаскивании части содержимого из приложения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-660">Resolved an issue that may have caused a crash when dragging some content from the app.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-661">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-661">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-662">Старая область общего доступа, не основанная на веб-службе, при закрытии документа могла вызывать сбой, если область общего доступа была открыта.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-662">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="5d0d9-663">Эта ошибка исправлена.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-663">This is now fixed.</span></span>
+
+- <span data-ttu-id="5d0d9-664">Устранена проблема, из-за которой при закрытии файлов Office мог произойти сбой из-за проблем с синхронизацией.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-664">Fixed a timing issue could cause a crash when closing office files</span></span>
+
+- <span data-ttu-id="5d0d9-665">Мы решили проблему с частотой сбоев ValidateInstall, установив для проверки установки надстройки Bing значение true по умолчанию и приняв успешное возвращение MSI как успешную установку.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-665">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
+
+- <span data-ttu-id="5d0d9-666">Мы отправили новую версию AppV51 на доработку, чтобы исправить ошибки в предыдущей версии AppV51.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-666">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+
+- <span data-ttu-id="5d0d9-667">Исправлена проблема технологии "Нажми и работай", из-за которой происходил сбой обновления при попытке жесткой связи символьных ссылок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-667">Fixed a Click-to-Run issue which was resulting in update failure when trying to hard link symbolic links.</span></span>
+
+- <span data-ttu-id="5d0d9-668">Исправлена проблема, из-за которой сообщение о процессе выполнения появлялось, даже если переход на полную версию продукта завершен.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-668">Fixed an issue that caused a runtime message to show even though the transition to the full product is complete.</span></span> <span data-ttu-id="5d0d9-669">Чтобы устранить эту проблему, необходимо, чтобы служба правильно производила вычисления, связанные с добавленными продуктами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-669">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="5d0d9-670">Недавно добавленные продукты были отфильтрованы (чтобы убедиться в том, что они существуют в новой конфигурации) и добавлены после существующих идентификаторов выпуска продукта.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-670">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
+
+- <span data-ttu-id="5d0d9-671">Исправлена проблема, из-за которой пользователи видели элементы или содержимое пользовательского интерфейса, которое не отображается при определенных условиях. В частности, при входе или выходе из режима докладчика и использовании нескольких мониторов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-671">We fixed an issue where users were seeing the UI elements or content not being displayed under certain conditions, in particular with coming in and out of Presenter View or using multiple monitors.</span></span>
+
+- <span data-ttu-id="5d0d9-672">Это изменение устраняет потенциальные зависания при загрузке и воспроизведении анимированных данных, таких как GIF или трехмерные модели.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-672">This change addresses potential hangs when loading and playing animated content such as GIFs or 3D models.</span></span>
+
+- <span data-ttu-id="5d0d9-673">Это изменение устраняет проблему, из-за которой диалоговое окно "Сжатие рисунка" не сохраняло определенные пользовательские параметры.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-673">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+
+- <span data-ttu-id="5d0d9-674">Это обновление устраняет проблему в Microsoft Office, из-за которой проекты Visual Basic для приложений с ссылками, которые должны быть найдены при поиске расположений, указанных в переменной среды PATH, могут быть не найдены в среде выполнения, что приводит к ошибкам среды выполнения VBA.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-674">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+
+- <span data-ttu-id="5d0d9-675">Это обновление устраняет проблему в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени или пути к библиотеке, будут рассматриваться приложением Office как поврежденные при загрузке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-675">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+
+- <span data-ttu-id="5d0d9-676">Это исправление устраняет возникающую ошибку, одновременно блокирующую ограничение доступа и защиту файлов с паролем.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-676">This fix resolves an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
+
+- <span data-ttu-id="5d0d9-677">Устранена проблема со сбоем в работе узла Office в Windows при активации надстройки, когда значение реестра TabProcGrowth относилось к типу REG_SZ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-677">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
+
+- <span data-ttu-id="5d0d9-678">Аварийное завершение работы узла Office в Windows, при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имеет значение "0".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-678">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="5d0d9-679">Это изменение может устранить проблему.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-679">This change would fix this issue.</span></span>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-august-11"></a><span data-ttu-id="5d0d9-681">Версия 2002: 11 августа</span><span class="sxs-lookup"><span data-stu-id="5d0d9-681">Version 2002: August 11</span></span>
+<span data-ttu-id="5d0d9-682">*Версия 2002 (сборка 12527.20988)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-682">*Version 2002 (Build 12527.20988)*</span></span>
+
+<span data-ttu-id="5d0d9-683">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-683">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-685">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-685">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-686">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-686">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-687">Исправлена проблема, не позволявшая переключиться на редактирование файлов, открытых с использованием параметра "Рекомендовать доступ только для чтения".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-687">Fixed an issue which prevented the ability to switch to editing for files that opened as "read-only recommended".</span></span>
+
+### <a name="onenote"></a><span data-ttu-id="5d0d9-688">OneNote</span><span class="sxs-lookup"><span data-stu-id="5d0d9-688">OneNote</span></span>
+
+- <span data-ttu-id="5d0d9-689">Удалены лишние вызовы удостоверений, чтобы сократить использование ресурсов</span><span class="sxs-lookup"><span data-stu-id="5d0d9-689">Removed redundant identity calls to reduce resource utilization</span></span>
+
+- <span data-ttu-id="5d0d9-690">Улучшено обнаружение состояния совместного редактирования для снижения использования ресурсов</span><span class="sxs-lookup"><span data-stu-id="5d0d9-690">Improved detection of co-authoring status to reduce resource utilization.</span></span>
+
+- <span data-ttu-id="5d0d9-691">Улучшена функция обнаружения ошибок и качество синхронизации.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-691">Improved capability for detecting errors and the quality of the sync experience.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-692">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-692">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-693">Исправлена ошибка, вызывавшая серьезную проблему с производительностью при запуске Outlook для некоторых клиентов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-693">Addressed an issue that caused a significant performance issue when starting Outlook for some tenants.</span></span>
+
+### <a name="skype"></a><span data-ttu-id="5d0d9-694">Skype</span><span class="sxs-lookup"><span data-stu-id="5d0d9-694">Skype</span></span>
+
+- <span data-ttu-id="5d0d9-695">Исправлена проблема, из-за которой запуск демонстрации экрана мог завершиться сбоем в 32-разрядном клиенте Skype для бизнеса после его работы в течение нескольких дней.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-695">Fixed an issue where starting a screen share can fail on a 32-bit Skype for Business client after it has been running for several days.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-696">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-696">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-697">Исправлена проблема, из-за которой в случае отключения автосохранения с помощью групповой политики некоторые документы могли не отображать последнее содержимое сервера при открытии, пока пользователь не нажмет кнопку "Доступны обновления".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-697">Fixed an issue where if AutoSave is turned off through group policy, some documents might not show the latest server contents on open until the user clicks on 'Updates available'.</span></span>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-july-14"></a><span data-ttu-id="5d0d9-699">Версия 2002: 14 июля</span><span class="sxs-lookup"><span data-stu-id="5d0d9-699">Version 2002: July 14</span></span>
+<span data-ttu-id="5d0d9-700">*Версия 2002 (сборка 12527.20880)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-700">*Version 2002 (Build 12527.20880)*</span></span>
+
+<span data-ttu-id="5d0d9-701">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-701">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-703">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-703">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-704">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-704">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-705">Ускорение загрузки файлов, доступных в локальной папке OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-705">Speed up loading of files that are available on local OneDrive folder.</span></span>
+
+- <span data-ttu-id="5d0d9-706">Исправлена проблема, из-за которой CustomUI XML для настраиваемой вкладки ленты удалялся при сохранении в SharePoint или OneDrive.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-706">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
+
+- <span data-ttu-id="5d0d9-707">Исправлена проблема, из-за которой появлялось сообщение об ошибке "На эту книгу имеются ссылки из других книг, поэтому закрыть ее нельзя", так как надстройки загружались в алфавитном, а не в указанном пользователем порядке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-707">Fixed an issue where the error message “This workbook is currently referenced by another and cannot be closed” would appear because add-ins were being loaded in alphabetical order rather than in a user specified order.</span></span>
+
+- <span data-ttu-id="5d0d9-708">Исправлена проблема, при которой книга могла быть скрыта при щелчке гиперссылки на определенное место в уже открытой книге.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-708">Fixed an issue where a workbook could become hidden when clicking a hyperlink to a spot within an already opened workbook.</span></span>
+
+- <span data-ttu-id="5d0d9-709">Исправлена проблема, из-за которой некоторые скопированные и вставленные ссылки диаграмм использовали сопоставленные адреса дисков вместо универсальных адресов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-709">We fixed an issue where some copy and pasted chart links used mapped drive addresses rather than universal addresses.</span></span>
+
+- <span data-ttu-id="5d0d9-710">Повышена производительность при удалении столбцов с объединенными ячейками.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-710">Improved performance when deleting columns with merged cells.</span></span>
+
+- <span data-ttu-id="5d0d9-711">Устранена проблема, из-за которой имена принтеров могли повторяться в списке принтеров в диалоговом окне "Печать".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-711">Fixed an issue where printer names could be repeated in the list of printers in the Print dialog.</span></span>
+
+- <span data-ttu-id="5d0d9-712">Исправлена проблема с задержками при сохранении файлов с листами, содержащими несколько формул с определенными именами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-712">We fixed an issue where worksheets containing multiple formulas with defined names was resulting in longer times when saving files.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-713">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-713">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-714">Исправлена проблема с окном редактора метода ввода (IME), которое перекрывало вводимый с помощью IME базовый текст в случае использования нескольких мониторов с различными разрешениями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-714">We fixed an issue where the IME (Input Method Editor) window would overlap the underlying text being entered via the IME when using multiple monitors with different resolutions.</span></span>
+
+- <span data-ttu-id="5d0d9-715">Устранена проблема, при которой повторяющиеся встречи или собрания отображались с ошибкой во времени при приближении изменений в определении часового пояса.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-715">Addressed an issue that caused recurring appointments or meetings to be displayed at the wrong time when approaching a timezone definition change.</span></span>
+
+- <span data-ttu-id="5d0d9-716">Исправлена проблема, из-за которой при обновлении правил в Outlook появлялось сообщение "Правила на этом компьютере не соответствуют правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-716">Addressed an issue that caused users to see the "The rules on this computer do not match the rules on Microsoft Exchange" message when updating their rules in Outlook.</span></span>
+
+- <span data-ttu-id="5d0d9-717">Исправлена проблема с отсутствием параметра "Разрешить переадресацию" в разделе "Параметры ответа" в собрании общего календаря, если НЕ установлен флажок скачивания общей папки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-717">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+
+- <span data-ttu-id="5d0d9-718">Устранена проблема, из-за которой категории иногда исчезали из сообщений электронной почты.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-718">Addressed an issue that caused categories to occasionally disappear from email messages.</span></span>
+
+- <span data-ttu-id="5d0d9-719">Устранена проблема, из-за которой представители видели разные иерархии папок общих почтовых ящиков на разных компьютерах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-719">Addressed an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</span></span>
+
+- <span data-ttu-id="5d0d9-720">Исправлена проблема, из-за которой у представителей при редактировании существующей встречи в календаре руководителя отображалось сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-720">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
+
+- <span data-ttu-id="5d0d9-721">Исправлена проблема, из-за которой кодировка текста отчета о недоставке изменялась с Юникода на ASCII после изменения темы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-721">Addressed an issue that caused the body of an NDR message to change from Unicode to ASCII after editing the subject.</span></span>
+
+- <span data-ttu-id="5d0d9-722">Устранена проблема, вызывавшая сбой после того, как две надстройки добавляли кнопку в одну и ту же группу ленты.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-722">Addressed an issue that caused users to experience a crash when two add-ins add a button to the same ribbon group.</span></span>
+
+- <span data-ttu-id="5d0d9-723">Исправлена проблема, из-за которой пользователи не могли отправлять электронные сообщения по адресам из личного списка рассылки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-723">Addressed an issue that caused users to be unable to address emails to a Personal Distribution List.</span></span>
+
+- <span data-ttu-id="5d0d9-724">Устранена проблема, из-за которой нельзя было добавить ссылки в сообщения электронной почты с правильным клиентским разрешением по умолчанию, если для этого разрешения был установлен параметр "все".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-724">Addressed an issue that caused links to fail to be added to emails with the correct tenant default permission when the tenant default permission is configured as"anyone".</span></span>
+
+- <span data-ttu-id="5d0d9-725">Устранена проблема, связанная с тем, что пользователи не могли сохранять вложения OneDrive вне клиента на локальный компьютер при сохранении через диалоговое окно "Безопасность".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-725">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+
+### <a name="word"></a><span data-ttu-id="5d0d9-726">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-726">Word</span></span>
+
+- <span data-ttu-id="5d0d9-727">Исправлена проблема с совместной работой над документом при включении политики FileBlick\Word2007Files.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-727">We fixed an issue in coautthoring if we enable policy FileBlick\Word2007Files.</span></span>
+
+- <span data-ttu-id="5d0d9-728">Устранена проблема, при которой функция экспресс-блоков Word не работала при добавлении переименованного поля подстановки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-728">We fixed an issue which Word QuickPart doesn't work when adding lookup field that has been renamed.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-729">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-729">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-730">Исправлена проблема, из-за которой при совместной работе над объемными файлами PowerPoint чрезмерно повышалась нагрузка на сеть и ЦП.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-730">Fixed an issue where users can experience excessive network and CPU usage while coauthoring on large PowerPoint files.</span></span>
+
+- <span data-ttu-id="5d0d9-731">Мы отправили часть AppV51 на доработку, чтобы исправить в предыдущей версии AppV51.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-731">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+
+- <span data-ttu-id="5d0d9-732">Устранена проблема со сбоем в работе узла Office в Windows при активации надстройки, когда значение реестра TabProcGrowth относилось к типу REG_SZ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-732">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-june-09"></a><span data-ttu-id="5d0d9-734">Версия 2002: 9 июня</span><span class="sxs-lookup"><span data-stu-id="5d0d9-734">Version 2002: June 09</span></span>
+<span data-ttu-id="5d0d9-735">*Версия 2002 (сборка 12527.20720)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-735">*Version 2002 (Build 12527.20720)*</span></span>
+
+<span data-ttu-id="5d0d9-736">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-736">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-738">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-738">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-739">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-739">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-740">Исправлена проблема, из-за которой внешняя ссылка не срабатывала при повторном открытии файла, если путь к файлу был слишком длинным.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-740">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
+
+- <span data-ttu-id="5d0d9-741">Исправлена проблема, из-за которой приложение Excel иногда переставало отвечать после нажатия клавиш CTRL+SHIFT+клавиши со стрелками для прокрутки, если окно Excel демонстрировалось в Teams.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-741">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
+
+- <span data-ttu-id="5d0d9-742">Исправлена проблема с масштабированием флажков в элементах управления формы при печати.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-742">Fixed a problem with the scaling of checkboxes in form controls when printed.</span></span>
+
+- <span data-ttu-id="5d0d9-743">Мог возникать сбой при попытке перечислить изменения на новом листе для книги с использованием устаревшего режима "Общая книга".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-743">A crash could occur when trying to list changes on a new sheet for a workbook using legacy "Shared Workbook" mode.</span></span>
+
+- <span data-ttu-id="5d0d9-744">Вставка столбца в отфильтрованный список занимала больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-744">Inserting a column in a filtered list would take longer than expected.</span></span>
+
+- <span data-ttu-id="5d0d9-745">Исправлена проблема, из-за которой знак @ в начале формулы считался неявным оператором пересечения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-745">Fixed an issue where an @ symbol starting a formula would be considered an implicit intersection operator.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-746">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-746">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-747">Позволяет присоединиться к собранию в Teams непосредственно через собственный клиент Teams.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-747">Enables joining a Teams meeting directly through the native Teams client.</span></span>
+
+- <span data-ttu-id="5d0d9-748">Исправлена проблема, из-за которой Outlook не удавалось включать советы по политике защиты от потери данных для пользователей, которые приобрели подписку на Microsoft 365 бизнес премиум.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-748">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
+
+- <span data-ttu-id="5d0d9-749">Исправлена проблема, из-за которой пользователи, имеющие неправильный параметр эмуляции браузера, не могли завершить запрос на проверку подлинности Gmail.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-749">Addressed an issue that caused users with the incorrect browser emulation setting when to be unable to complete the authentication prompt for Gmail.</span></span>
+
+- <span data-ttu-id="5d0d9-750">Исправлена проблема пользователей Outlook, использующих серверные операционные системы, приводившая к ошибке "Состояние защиты от вирусов: Недействительно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-750">Addressed an issue that caused Outlook users on server operating systems to see the error, "Antivirus status: Invalid.</span></span> <span data-ttu-id="5d0d9-751">Эта версия Windows поддерживает обнаружение вирусов, но антивирусные программы не найдены", несмотря на то, что антивирусная программа настроена правильно.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-751">This version of Windows supports antivirus detection, but no antivirus was found" despite having anti virus properly configured.</span></span>
+
+### <a name="word"></a><span data-ttu-id="5d0d9-752">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-752">Word</span></span>
+
+- <span data-ttu-id="5d0d9-753">Исправлена проблема, из-за которой выравнивание слова в документе сбивалось при попытке редактирования после печати с помощью функции "Быстрая печать".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-753">We fixed an issue which alignment of word in document gets scrambled when tried to edit after printing using Quick Print.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-754">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-754">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-755">Эта проблема устранена с помощью замены имен каналов в представлении Backstage на новые в разветвлении января 2020 г.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-755">We resolved this issue by updating the channel names in the backstage to the new channel names in the January 2020 Fork.</span></span>
+
+- <span data-ttu-id="5d0d9-756">Исправлена проблема, из-за которой устройства регулируемые политикой не могли вызвать API аудитории DMS.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-756">We have fixed this issue and going forward, if a device is policy-managed, it will not call the DMS Audience API.</span></span>
+
+- <span data-ttu-id="5d0d9-757">Исправлена проблема, из-за которой при добавлении и удалении приложений в одной транзакции выполнялось неполное удаление.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-757">Resolved the issue where there is an incomplete removal when adding and removing apps in a single transaction.</span></span>
+
+- <span data-ttu-id="5d0d9-758">Аварийное завершение работы узла Office в Windows, при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имеет значение "0".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-758">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="5d0d9-759">Это изменение может устранить проблему.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-759">This change would fix this issue.</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-may-12"></a><span data-ttu-id="5d0d9-761">Версия 2002: 12 мая</span><span class="sxs-lookup"><span data-stu-id="5d0d9-761">Version 2002: May 12</span></span>
+<span data-ttu-id="5d0d9-762">*Версия 2002 (сборка 12527.20612)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-762">*Version 2002 (Build 12527.20612)*</span></span>
+
+<span data-ttu-id="5d0d9-763">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-763">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-765">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-765">Resolved issues</span></span>
+
+### <a name="excel"></a><span data-ttu-id="5d0d9-766">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-766">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-767">Открытие книги со ссылками на ряд других книг, особенно в скрытых окнах, выполнялось медленнее, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-767">Opening a workbook with references to numerous other workbooks, especially with hidden windows, would be slower than expected.</span></span>
+
+- <span data-ttu-id="5d0d9-768">В некоторых случаях открытие CSV-файлов занимало больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-768">Opening CSV files was taking longer than expected in some circumstances.</span></span>
+
+- <span data-ttu-id="5d0d9-769">В ряде случаев приложение Excel аварийно завершало работу при переключении между книгами с разным масштабом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-769">Excel may crash in some circumstances when switching between workbooks with different zoom levels.</span></span>
+
+- <span data-ttu-id="5d0d9-770">Устранена проблема с VBA, из-за которой внесение значений в диапазон выполнялось медленнее, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-770">Fixed an issue with VBA in which writing values to a range would be slower than expected.</span></span>
+
+- <span data-ttu-id="5d0d9-771">Данные, скопированные из столбца и отфильтрованные по цвету, иногда не вставлялись должным образом.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-771">Data copied from a column filtered by color sometimes would not paste properly.</span></span>
+
+- <span data-ttu-id="5d0d9-772">Устранена проблема, из-за которой в некоторых случаях происходил сбой Excel после копирования листа, содержащего сводную таблицу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-772">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
+
+- <span data-ttu-id="5d0d9-773">Для книг, сохраненных с цифровой подписью в Excel 2016, подпись могла быть признана недействительной при открытии в текущей версии Excel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-773">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+
+- <span data-ttu-id="5d0d9-774">Устранена проблема, которая приводила к неожиданному изменению свойства "Пересекает в значении" на оси диаграммы при сохранении и повторном открытии файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-774">Addressed an issue where the "Value Crosses At" property on chart axis unexpectedly changes when saving and re-opening a file.</span></span>
+
+- <span data-ttu-id="5d0d9-775">При использовании Range.Value и Range.Value2 (VBA) формулы вводились как динамические массивы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-775">Using a Range.Value and Range.Value2 (VBA) would cause formulas to be entered as dynamic arrays.</span></span>
+
+### <a name="onenote"></a><span data-ttu-id="5d0d9-776">OneNote</span><span class="sxs-lookup"><span data-stu-id="5d0d9-776">OneNote</span></span>
+
+- <span data-ttu-id="5d0d9-777">Локализует уведомление, позволяющее пользователю получить дополнительные сведения о временных мерах, которые используются при работе с OneNote для улучшения синхронизации и стабильности службы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-777">Localises the notification that allows the user to learn more about temporary measures being enacted in the OneNote user experience to improve sync and service stability.</span></span>
+
+- <span data-ttu-id="5d0d9-778">Отображает уведомление, позволяющее пользователю получить дополнительные сведения о временных мерах, которые используются при работе с OneNote для улучшения синхронизации и стабильности службы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-778">Display a notification that allows the user to learn more about temporary measures being enacted in the OneNote user experience to improve sync and service stability.</span></span>
+
+- <span data-ttu-id="5d0d9-779">Улучшена синхронизация и стабильность службы путем временного уменьшения количества и частоты синхронизации страниц журнала версий в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-779">Improved sync and service stability by temporarily reducing the number and sync frequency of version history pages in OneNote 2016.</span></span>
+
+- <span data-ttu-id="5d0d9-780">Улучшена синхронизация и стабильность службы путем временного отключения корзины в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-780">Improved sync and service stability by temporarily disabling the recycle bin in OneNote 2016.</span></span> <span data-ttu-id="5d0d9-781">Если пользователь пытается удалить данные, которые обычно отправляются в корзину, ему будет предложено сохранить или окончательно удалить их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-781">When a user tries to delete data that would normally be sent to the recycle bin, users will be asked if they would prefer to keep or permanently delete the data.</span></span>
+
+- <span data-ttu-id="5d0d9-782">Улучшена синхронизация и стабильность службы путем временного изменения частоты синхронизации в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-782">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
+
+- <span data-ttu-id="5d0d9-783">Улучшена синхронизация и стабильность службы путем временного откладывания загрузки внедренных файлов и изображений в записных книжках в Интернете, пока пользователь не перейдет на страницу в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-783">Improved sync and service stability by temporarily deferring the downloading of embedded files and images in online notebooks until the user navigates to the page in OneNote 2016.</span></span>
+
+- <span data-ttu-id="5d0d9-784">Улучшена синхронизация и стабильность службы путем временного отключения записи видео в приложении в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-784">Improved sync and service stability by temporarily disabling in-app video recording in OneNote 2016.</span></span> <span data-ttu-id="5d0d9-785">Это мера не влияет на локальные записные книжки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-785">Local notebooks are not impacted by this measure.</span></span>
+
+- <span data-ttu-id="5d0d9-786">Улучшена синхронизация и стабильность службы путем временного уменьшения максимально допустимого размера новых внедренных вложений до 50 МБ в OneNote 2016.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-786">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB in OneNote 2016.</span></span> <span data-ttu-id="5d0d9-787">В случае файлов большего размера у пользователей будет возможность отправить файл в OneDrive и вставить ссылку в OneNote.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-787">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-788">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-788">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-789">Устранена проблема, которая приводила к неожиданному изменению ширины области папок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-789">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
+
+- <span data-ttu-id="5d0d9-790">Устранена проблема, приводившая в сбою при попытке открытия файлов MSG и OFT после обновления Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-790">Addressed an issue that caused users to experience a crash when trying to open .msg and .oft files after a Windows update.</span></span>
+
+- <span data-ttu-id="5d0d9-791">Устранена проблема, из-за которой пользователи видели усечение тела сообщения при пересылке больших сообщений HTML.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-791">Addressed an issue that caused users to see message body truncation when forwarding large HTML messages.</span></span>
+
+- <span data-ttu-id="5d0d9-792">Это обновление исправляет проблему, из-за которой в Microsoft Outlook не отображается текущая метка конфиденциальности при просмотре или создании сообщений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-792">This update fixes an issue with Microsoft Outlook not displaying the current sensitivity label when viewing or composing messages.</span></span>
+
+- <span data-ttu-id="5d0d9-793">Исправлена проблема, из-за которой пользователи не могли отправлять электронные сообщения в личный список рассылки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-793">Addressed an issue that caused users to be unable to address emails to a Personal Distribution List.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-794">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-794">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-795">Устранена проблема с ретрансляцией точного текста сообщений для пользователей, которые открывают копию файла с улучшенными примечаниями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-795">Fixed an issue to relay correct messaging for users who open a copy of a file that has improved comments.</span></span>
+
+### <a name="word"></a><span data-ttu-id="5d0d9-796">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-796">Word</span></span>
+
+- <span data-ttu-id="5d0d9-797">Решена проблема, из-за которой приложения Access и Publisher могли загружаться неправильно в зависимости от того, какие языки установлены.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-797">Resolved the issue where Access and Publisher might not boot correctly depending on which languages were installed.</span></span>
+
+- <span data-ttu-id="5d0d9-798">Исправлена проблема с функцией сравнения для документов, защищенных от редактирования.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-798">Fixed an issue with Compare feature for documents that were protected for editing.</span></span>
+
+- <span data-ttu-id="5d0d9-799">Исправлена проблема с объединением двух документов в один документ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-799">We fixed an issue when merging 2 documents into one document.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-800">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-800">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-801">Это исправление устраняет блокирование сети приложением Project при кэшировании файла в клиенте.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-801">This is a fix to address that Project app should not block network when the file is cached in the client.</span></span>
+
+- <span data-ttu-id="5d0d9-802">Решена проблема, из-за которой внутренняя операция вызывала исключение при сбое вместо ведения журнала и продолжения работы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-802">We have resolved the issue where an internal operation was throwing an exception on failure instead of logging and continuing on.</span></span> <span data-ttu-id="5d0d9-803">Для затронутых пользователей будет отменен запрет на получение обновлений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-803">The affected users will not be blocked from receiving updates anymore.</span></span>
+
+- <span data-ttu-id="5d0d9-804">Это изменение обеспечит правильную работу функции "Контур эскиза" на ленте.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-804">This change ensures Sketched outline works properly in the ribbon.</span></span>
+
+- <span data-ttu-id="5d0d9-805">Исправлена проблема при открытии файлов из локальных расположений с определенными настройками прокси.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-805">Fixed an issue while opening files from on-prem locations with some specific proxy configurations.</span></span>
+
+- <span data-ttu-id="5d0d9-806">Это обновление устраняет проблему в Visual Basic для приложений в Microsoft Office, когда некоторые проекты VBA, содержащие ссылки на библиотеки кода с символами DBCS в имени или пути к библиотеке, будут рассматриваться приложением Office как поврежденные при загрузке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-806">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+
+- <span data-ttu-id="5d0d9-807">Это обновление устраняет проблему в Microsoft Office, из-за которой проекты Visual Basic для приложений с ссылками, которые должны быть найдены при поиске расположений, указанных в переменной среды PATH, могут быть не найдены в среде выполнения, что приводит к ошибкам среды выполнения VBA.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-807">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+
+- <span data-ttu-id="5d0d9-808">Это обновление устраняет проблему в Microsoft Word, из-за которой текст длиной более 255 символов, вставленный при применении метки конфиденциальности, впоследствии не удавалось идентифицировать и удалить путем изменения или удаления метки, если в рамках политики меток был применен колонтитул или подложка.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-808">This update fixes a problem in Microsoft Word where text longer than 255 characters inserted while applying a sensitivity label could not subsequently be identified and removed by changing or removing the label if the label policy applied a header or footer or watermark.</span></span>
+
+- <span data-ttu-id="5d0d9-809">Исправлена проблема, благодаря чему устранены сбои во время сеансов передачи Office и повышена надежность работы пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-809">Fixed an issue that eliminates crashes during Office handoff sessions and improved reliability in the user experience.</span></span>  
+
+- <span data-ttu-id="5d0d9-810">Это исправление обновляет конечную точку URL-адреса конфигурации усиленной безопасности (ECS).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-810">This bug updates the enhanced configuration service (ECS) url endpoint.</span></span> <span data-ttu-id="5d0d9-811">В результате вызова этой новой конечной точки повышается успешность получения данных из ECS.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-811">Calling this newer endpoint has a higher success rate for fetching from ECS.</span></span>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-april-14"></a><span data-ttu-id="5d0d9-813">Версия 2002: 14 апреля</span><span class="sxs-lookup"><span data-stu-id="5d0d9-813">Version 2002: April 14</span></span>
+<span data-ttu-id="5d0d9-814">*Версия 2002 (сборка 12527.20442)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-814">*Version 2002 (Build 12527.20442)*</span></span>
+
+<span data-ttu-id="5d0d9-815">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-815">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+### <a name="feature-updates"></a><span data-ttu-id="5d0d9-816">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="5d0d9-816">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-817">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-817">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-818">**Ввод формулы, возвращающей несколько значений.** Теперь вы можете быстро ввести формулу, возвращающую несколько значений, которые автоматически переносятся в смежные ячейки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-818">**Type a formula that returns multiple values:** Quickly type a formula that returns multiple values, and they'll automatically spill into the neighboring cells.</span></span> [<span data-ttu-id="5d0d9-819">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-819">Learn more</span></span>](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- <span data-ttu-id="5d0d9-820">**Шесть эффективных функций.** Добавлено шесть новых функций для улучшения электронных таблиц: ФИЛЬТР, СОРТ, СОРТПО, УНИК, ПОСЛЕДОВ и СЛУЧМАССИВ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-820">**Six powerful functions:** We’ve added six new functions to supercharge your spreadsheets: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE and RANDARRAY.</span></span>  [<span data-ttu-id="5d0d9-821">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-821">Learn more</span></span>](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- <span data-ttu-id="5d0d9-822">**Посмотрите налево, посмотрите направо… ПРОСМОТРX уже доступен!:** построчно просмотрите и найдите нужные элементы в таблице или диапазоне с помощью функции ПРОМОТРX.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-822">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span>  <span data-ttu-id="5d0d9-823">
+  [Подробнее](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-823">[Learn more](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)</span></span>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-825">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-825">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-826">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-826">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-827">В ряде случаев приложение Excel аварийно завершало работу при повторном открытии книги, внедренной в Word или PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-827">Excel would crash in certain cases when re-opening a workbook embedded in Word or PowerPoint.</span></span>
+
+- <span data-ttu-id="5d0d9-828">В некоторых случаях при сохранении в виде CSV-файла Excel мог объединять все столбцы в один столбец.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-828">When saving as a CSV file, Excel could merge all columns into a single column in some cases.</span></span>
+
+- <span data-ttu-id="5d0d9-829">Использование Range.ClearContents для диапазона в защищенном листе могло занимать больше времени, чем ожидалось.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-829">Using Range.ClearContents on a range in a protected sheet could take longer than expected.</span></span>
+
+- <span data-ttu-id="5d0d9-830">Исправлена проблема с масштабированием текста в элементах управления формами при их отображении в режиме предварительного просмотра печати.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-830">Fixed a problem with scaling of text in form controls when displayed in Print Preview.</span></span>
+
+- <span data-ttu-id="5d0d9-831">Макросы VBA, взаимодействующие с лентой, могут неожиданно запускаться со значением True, присвоенным параметру ScreenUpdating.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-831">VBA macros that interact with the ribbon may run with ScreenUpdating set to True unexpectedly.</span></span>
+
+- <span data-ttu-id="5d0d9-832">Устранена проблема, из-за которой внешние ссылки не обновляются при заполнении (заполнение вниз, заполнение в стороны), если исходная книга закрыта.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-832">Addressed an issue where external links don't update on fill (fill down, fill across, etc.) if the source book is closed.</span></span>
+
+- <span data-ttu-id="5d0d9-833">В некоторых случаях в VBA не работал метод Application.Evaluate для определенных пользователем функций.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-833">Using VBA's Application.Evaluate was not working for User-defined functions in some cases.</span></span>
+
+- <span data-ttu-id="5d0d9-834">Устранена проблема с производительностью при создании диаграмм на основе шаблонов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-834">Addressed a performance issue when creating charts from templates.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-835">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-835">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-836">Исправлена проблема, приводившая к неожиданному увеличению заголовка группы в некоторых сценариях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-836">Addressed an issue that caused the Group header to expand unexpectedly in some scenarios.</span></span>
+
+- <span data-ttu-id="5d0d9-837">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при выборе определенных результатов поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-837">Addressed an issue that caused users to experience a crash when selecting certain search results.</span></span>
+
+- <span data-ttu-id="5d0d9-838">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-838">Addressed an issue that caused users to occasionally experience a crash when using the X button on the mouse.</span></span>
+
+- <span data-ttu-id="5d0d9-839">Исправлена проблема, из-за которой кнопка "Сохранить в облаке" отсутствовала в средствах работы с вложениями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-839">Addressed an issue that caused the Save to Cloud button to be missing from Attachment Tools.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-840">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-840">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-841">Улучшен сценарий копирования-вставки. При копировании фигуры в слайде PowerPoint и вставке ее в другой слайд за один раз может произойти сбой с исключением.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-841">Improved a copy-paste scenario: Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="5d0d9-842">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-842">Project</span></span>
+
+- <span data-ttu-id="5d0d9-843">Исправлена проблема, из-за которой приложение Project могло аварийно завершать работу при сохранении проектов, созданных в предыдущих версиях Project.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-843">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
+
+- <span data-ttu-id="5d0d9-844">Исправлена проблема, из-за которой событие ProjectBeforeTaskChange не обнаруживает, деактивирована или активирована ли задача при помощи кнопки "Деактивировать".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-844">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
+
+### <a name="word"></a><span data-ttu-id="5d0d9-845">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-845">Word</span></span>
+
+- <span data-ttu-id="5d0d9-846">Устранена проблема, из-за которой иногда происходил сбой при использовании кнопки "X" на мыши.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-846">Addressed an issue that caused users to occasionally experience a crash when using the X button on the mouse.</span></span>
+
+- <span data-ttu-id="5d0d9-847">Исправлена проблема с размещением текста в таблице.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-847">We fixed an issue with fit text in a table.</span></span>
+
+- <span data-ttu-id="5d0d9-848">Исправлена проблема, из-за которой вставляемые горизонтальные линии не укорачиваются и не располагаются по центру.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-848">We fixed an issue where inserting horizontal lines are not shorter and centered.</span></span>
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
+
+## <a name="version-2002-march-10"></a><span data-ttu-id="5d0d9-850">Версия 2002: 10 марта</span><span class="sxs-lookup"><span data-stu-id="5d0d9-850">Version 2002: March 10</span></span>
+<span data-ttu-id="5d0d9-851">*Версия 2002 (сборка 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-851">*Version 2002 (Build 12527.20278)*</span></span>
+
+<span data-ttu-id="5d0d9-852">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-852">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a><span data-ttu-id="5d0d9-854">Обновления функций</span><span class="sxs-lookup"><span data-stu-id="5d0d9-854">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-855">Access</span><span class="sxs-lookup"><span data-stu-id="5d0d9-855">Access</span></span>
+
+- <span data-ttu-id="5d0d9-856">**Быстрый поиск связанных таблиц.** Наше новое поле поиска облегчает поиск связанных таблиц.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-856">**Find linked tables fast:** Our new search box makes finding linked tables a breeze.</span></span> [<span data-ttu-id="5d0d9-857">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-857">Learn more</span></span>](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a><span data-ttu-id="5d0d9-858">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-858">Excel</span></span>
+
+- <span data-ttu-id="5d0d9-859">**Привлечение внимания с помощью \@упоминаний.** Добавляйте @упоминания в комментарии, чтобы сообщить коллегам о том, что нужно их участие.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-859">**Get their attention with \@mentions:** Use @mentions in comments to let co-workers know when you need their input.</span></span> [<span data-ttu-id="5d0d9-860">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-860">Learn more</span></span>](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- <span data-ttu-id="5d0d9-861">**Найдите то, что ищете:** Ищите команды, людей, файлы, фотографии, веб-статьи и многое другое.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-861">**Find what you're looking for:** Search for commands, people, files, photos, web articles, and more.</span></span> [<span data-ttu-id="5d0d9-862">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-862">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+
+
+- <span data-ttu-id="5d0d9-863">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей книге.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-863">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your workbook.</span></span> [<span data-ttu-id="5d0d9-864">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-864">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- <span data-ttu-id="5d0d9-865">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-865">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+
+- <span data-ttu-id="5d0d9-866">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-866">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span>
+
+- <span data-ttu-id="5d0d9-867">**Сосредоточьтесь на оставшихся задачах.** Пометьте примечания как разрешенные, чтобы свернуть их и сделать открытые элементы более заметными.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-867">**Focus on what's left to do:** Select Resolve to collapse comments and make open items stand out.</span></span>
+
+- <span data-ttu-id="5d0d9-868">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-868">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="5d0d9-869">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-869">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- <span data-ttu-id="5d0d9-870">**Преобразование файлов для расширения специальных возможностей.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-870">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="5d0d9-871">**Надстройка "Визуализатор данных".** Быстро создавайте блок-схемы Visio из Excel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-871">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="5d0d9-872">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-872">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+- <span data-ttu-id="5d0d9-873">**Быстрое прочтение и ответ.** Отвечайте на примечания и упоминания прямо в сообщении электронной почты, не открывая книгу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-873">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
+
+- <span data-ttu-id="5d0d9-874">**Получите статистику в своей книге:** Статистика рабочей книги предоставляет обзор содержимого рабочей книги, чтобы упростить ее обнаружение.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-874">**Get stats on your workbook:** Workbook Statistics provides an overview of the content of a workbook, to help you more easily discover its contents.</span></span>
+
+- <span data-ttu-id="5d0d9-875">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-875">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="5d0d9-876">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-876">Find them at Insert > Icons.</span></span> [<span data-ttu-id="5d0d9-877">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-877">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+
+### <a name="outlook"></a><span data-ttu-id="5d0d9-878">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-878">Outlook</span></span>
+
+- <span data-ttu-id="5d0d9-879">**Подключение к сети LinkedIn с помощью Outlook.** Безопасное подключение к учетным записям LinkedIn с помощью учетных записей Майкрософт для просмотра сведений из профилей LinkedIn прямо на карточках контактов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-879">**Connect your LinkedIn network with Outlook:** Securely connect your LinkedIn account with your Microsoft account to see information from LinkedIn profiles directly in the People card.</span></span> [<span data-ttu-id="5d0d9-880">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-880">Learn more</span></span>](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
+- <span data-ttu-id="5d0d9-p176">**Все параметры шифрования в одном месте.** Просто откройте в параметрах раздел шифрования, чтобы выбрать способ защиты сообщений электронной почты. [Подробнее](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-p176">**All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)</span></span>
+
+- <span data-ttu-id="5d0d9-883">**Меню "Вставка ссылки" в Outlook вставляет ссылку с разрешениями, определенными администратором клиента.** При выборе из списка последних использованных ссылок в Outlook вставляется ссылка, которая была доступна только пользователям, имеющим разрешение на доступ к ней.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-883">**Insert Link Menu in Outlook will insert a link with permission defined by tenant admin:** A link from the Insert Link MRU in Outlook would insert a link that only worked for users who already had permissions to it.</span></span> <span data-ttu-id="5d0d9-884">Из-за этого пользователи часто посылали друг другу письма с просьбой предоставить доступ к документу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-884">This often caused back and forth emails between users asking to be granted access to a document.</span></span> <span data-ttu-id="5d0d9-885">Мы обновили этот опыт, поэтому теперь ссылка вставляется с разрешением по умолчанию, установленным администратором клиента. Для MSIT это «организация может редактировать», поэтому все внутренние пользователи, получившие ссылку, которой поделились таким образом, смогут получить к ней доступ.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-885">We've updated this experience so now the link is inserted with the default permission set by the tenant admin. For MSIT this is "organization can edit" so all internal users who receive a link shared this way will be able to access it.</span></span>
+
+- <span data-ttu-id="5d0d9-886">**Поиск с правописанием проблем или опечаток:** Outlook найдет то, что вы ищете, даже если ваше правописание не соответствует.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-886">**Search with spelling woes or typos:** Outlook will find what you're looking for even when your spelling doesn't match.</span></span>
+
+- <span data-ttu-id="5d0d9-887">**Фишинговые письма легко обнаружить:** спам и фишинговые сообщения выглядят по-разному, поэтому вы можете легко их идентифицировать и удалить из папки «Входящие».</span><span class="sxs-lookup"><span data-stu-id="5d0d9-887">**Phishing mails are easy to spot:** Spam and phishing messages have a different look and feel so you can easily identify and eliminate them from your inbox.</span></span>
+
+- <span data-ttu-id="5d0d9-888">**Расширенная защита от атак.** Система Office 365 Advanced Threat Protection защищает от атак с помощью гиперссылок в электронных письмах, вложенных и подписанных сообщениях, сетевых путях и т. д.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-888">**Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.</span></span>
+
+- <span data-ttu-id="5d0d9-889">**Рисование.** Рисуйте поверх изображений или добавьте полотно, чтобы отправить свои идеи с помощью рукописного ввода.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-889">**Let me draw it out:** Scribble on top of pictures or add a Drawing Canvas to send your thoughts with ink.</span></span> [<span data-ttu-id="5d0d9-890">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-890">Learn more</span></span>](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+- <span data-ttu-id="5d0d9-891">**Получайте релевантные сообщения в результатах поиска.** Outlook анализирует условия поиска и отображает наиболее релевантные сообщения электронной почты в верхней части результатов поиска.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-891">**See relevant messages in your search results:** Outlook analyzes search terms and shows the most relevant email messages at the top of your search results.</span></span> <span data-ttu-id="5d0d9-892">Кроме того, все результаты будут отображаться в разделе "Лучшие результаты" с сортировкой по дате.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-892">You'll also see all results sorted by date in the Top Results section.</span></span> [<span data-ttu-id="5d0d9-893">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-893">Learn more</span></span>](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+
+- <span data-ttu-id="5d0d9-894">**Получение предложений по расположению.** Начните вводить текст в поле "Место" при планировании встреч и собраний, и Outlook предложит помещения, адреса и другие недавние места.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-894">**Get location suggestions:** Start typing in Location when scheduling appointments and meetings, and Outlook will suggest rooms, addresses and other recent places.</span></span> [<span data-ttu-id="5d0d9-895">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-895">Learn more</span></span>](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- <span data-ttu-id="5d0d9-896">**Размещение дополнительных сообщений на экране.** Выберите параметры "Вид" > "Уменьшить интервал", чтобы изменить интервалы между сообщениями.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-896">**Fit more messages on the screen:** Select View > Use Tighter Spacing to adjust spacing between messages.</span></span> [<span data-ttu-id="5d0d9-897">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-897">Learn more</span></span>](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+
+- <span data-ttu-id="5d0d9-898">**Просмотр сообщений в другой освещенности.** Используйте кнопку "СОЛНЦЕ/ЛУНА" для переключения между светлым и темным фоном в области чтения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-898">**See your messages in a different light:** Use the Sun/Moon button to switch between light and dark backgrounds in the reading pane.</span></span> [<span data-ttu-id="5d0d9-899">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-899">Learn more</span></span>](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+- <span data-ttu-id="5d0d9-900">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-900">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="5d0d9-901">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-901">Find them at Insert > Icons.</span></span> [<span data-ttu-id="5d0d9-902">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-902">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-903">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-903">PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-904">**Быстрое взаимодействие в реальном времени в PowerPoint:** Быстрое сотрудничество в реальном времени в PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-904">**Fast real-time collaboration in PowerPoint:** Fast real-time collaboration in PowerPoint</span></span>
+
+- <span data-ttu-id="5d0d9-905">**Новые средства проверки правописания.** Не переживайте из-за слов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-905">**New proofreading tools:** Don't stress about your words.</span></span> <span data-ttu-id="5d0d9-906">В PowerPoint теперь отображаются предложения в отношении грамматики и написания.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-906">PowerPoint now provides grammar and writing suggestions.</span></span> [<span data-ttu-id="5d0d9-907">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-907">Learn more</span></span>](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+
+- <span data-ttu-id="5d0d9-908">**Субтитры в реальном времени.** Слова докладчика автоматически отображаются на экране в виде субтитров или переводятся в субтитры на выбранном языке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-908">**Live captions and subtitles:** The presenter’s words are automatically shown on screen as captions or translated into subtitles in the language of your choice.</span></span> [<span data-ttu-id="5d0d9-909">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-909">Learn more</span></span>](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- <span data-ttu-id="5d0d9-p186">**Вы вычисляете, мы форматируем.** Рукописные математические выражения преобразуются в стандартные знаки. Просто воспользуйтесь функцией "Рукописный фрагмент в математические символы" и выберите рукописные примечания для начала работы. [Подробнее](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-p186">**You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)</span></span>
+
+- <span data-ttu-id="5d0d9-913">**Найдите то, что вы ищете:** используйте окно поиска, чтобы найти текст, команды, помощь и многое другое.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-913">**Find what you're looking for:** Use the search box to find text, commands, help, and more.</span></span> [<span data-ttu-id="5d0d9-914">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-914">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+
+- <span data-ttu-id="5d0d9-915">**Поиск и исправление пропущенных названий слайдов:** Названия слайдов добавляют удар к вашей подаче и делают ваши слайды доступными для пользователей всех способностей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-915">**Find and fix missing slide titles:** Slide titles add punch to your pitch and make your slides accessible to users of all abilities.</span></span> <span data-ttu-id="5d0d9-916">С помощью средства проверки читаемости можно определить, где отсутствуют заголовки, и сразу же добавить их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-916">Accessibility Checker shows you where titles are missing so you can add them in a snap.</span></span> [<span data-ttu-id="5d0d9-917">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-917">Learn more</span></span>](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+
+- <span data-ttu-id="5d0d9-918">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своей презентации.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-918">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your presentation.</span></span> [<span data-ttu-id="5d0d9-919">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-919">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- <span data-ttu-id="5d0d9-920">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-920">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+
+- <span data-ttu-id="5d0d9-921">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-921">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span>
+
+- <span data-ttu-id="5d0d9-922">**Сохранение изображений в формате SVG.** Сохранение графиков, фигур и других изображений в масштабируемом векторном формате. Можно изменять размер таких изображений без потери качества.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-922">**Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality.</span></span> [<span data-ttu-id="5d0d9-923">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-923">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- <span data-ttu-id="5d0d9-924">**Печать номеров слайдов на раздаточных материалах.** Номера слайдов автоматически добавляются в раздаточные материалы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-924">**Print slide numbers on handouts:** Slide numbers are included on your handouts automatically.</span></span> <span data-ttu-id="5d0d9-925">Вы сами решаете, оставить или отключить их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-925">Leave them on, turn them off, it's all up to you.</span></span> [<span data-ttu-id="5d0d9-926">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-926">Learn more</span></span>](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- <span data-ttu-id="5d0d9-927">**Воспроизведение рукописного ввода.** При использовании рукописного ввода на слайдах примените анимацию воспроизведения, чтобы воспроизводить процесс рукописного ввода во время слайд-шоу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-927">**Ink-stant replay:** When inking on your slides, apply a replay animation to replay the actual drawing of your ink during your slide show.</span></span> [<span data-ttu-id="5d0d9-928">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-928">Learn more</span></span>](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- <span data-ttu-id="5d0d9-929">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-929">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
+
+- <span data-ttu-id="5d0d9-930">**Оптимизация презентации для всех пользователей.** Средство проверки читаемости помогает расположить объекты на слайдах с учетом средств чтения с экрана.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-930">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+
+- <span data-ttu-id="5d0d9-931">**Преобразование файлов для улучшения доступности.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-931">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="5d0d9-932">**Более безопасная работа с видео.** Улучшения системы безопасности означают более защищенный интерфейс работы с видео из Интернета.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-932">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span>
+
+- <span data-ttu-id="5d0d9-933">**Зачем изобретать заново, если вы можете использовать повторно ?:** Экономьте время, повторно используя слайды, которые вы создали или которыми другие поделились с вами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-933">**Why reinvent when you can re-use?:** Save time by re-using slides that you created or that others have shared with you.</span></span> [<span data-ttu-id="5d0d9-934">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-934">Learn more</span></span>](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+
+- <span data-ttu-id="5d0d9-935">**Измените рукописные чернила на фигуры, текст или математику в PowerPoint для Office 365:** Перейдите от чернил произвольной формы к фигурам, тексту или математическому выражению Office за пару движений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-935">**Change handwritten ink to shapes, text, or math in PowerPoint for Office 365:** Go from free-form ink to Office shapes, text, or a mathematical expression in a couple of strokes.</span></span> [<span data-ttu-id="5d0d9-936">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-936">Learn more</span></span>](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- <span data-ttu-id="5d0d9-937">**Рукописный ввод для создания отличного слайда.** Преобразуйте рукописный ввод в стандартные фигуры и текст, а затем находите изящные идеи оформления слайдов в конструкторе PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-937">**Ink a splendid slide:** Convert your ink to standard shapes and text, then get smart slide-design ideas from PowerPoint Designer.</span></span> [<span data-ttu-id="5d0d9-938">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-938">Learn more</span></span>](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- <span data-ttu-id="5d0d9-939">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-939">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="5d0d9-940">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-940">Find them at Insert > Icons.</span></span> [<span data-ttu-id="5d0d9-941">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-941">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+
+### <a name="visio"></a><span data-ttu-id="5d0d9-942">Visio</span><span class="sxs-lookup"><span data-stu-id="5d0d9-942">Visio</span></span>
+
+- <span data-ttu-id="5d0d9-943">**В сценах преступления:** Используйте новые трафареты «Доказательства», «В помещении» и «На улице» в шаблоне «Расследование места преступления», чтобы детально воссоздать места преступления.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-943">**Back to the scene of the crime:** Use new Evidence, Indoor, and Outdoor stencils in the Crime Scene Investigation template to recreate crime scenes in detail.</span></span>
+
+- <span data-ttu-id="5d0d9-944">**Создание полированных диаграмм Visio в Excel:** создайте блок-схему или организационную диаграмму, поместив данные на лист.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-944">**Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet.</span></span> [<span data-ttu-id="5d0d9-945">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-945">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a><span data-ttu-id="5d0d9-946">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-946">Word</span></span>
+
+- <span data-ttu-id="5d0d9-947">**Редактор для резюме присоединяется к LinkedIn Resume Assistant:** редактор для резюме предлагает выбор грамматических и стилевых проверок, специально предназначенных для резюме, чтобы сделать ваше письмо более точным и профессиональным.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-947">**Editor for Resume joins LinkedIn Resume Assistant:** Editor for Resume offers a selection of grammar and style checks specially tailored for resumes, to make your writing more precise and professional.</span></span>
+
+- <span data-ttu-id="5d0d9-948">**Исправление проблемы с повреждением документа при объединении 3D объектов.** Исправлена проблема с повреждением документа, возникавшая при объединении 3D объектов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-948">**Fixed a document corruption issue caused by merge of 3D objects.:** Fixed a document corruption issue caused by merge of 3D objects.</span></span>
+
+- <span data-ttu-id="5d0d9-949">**Найдите то, что вы ищете:** используйте окно поиска, чтобы найти текст, команды, помощь и многое другое.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-949">**Find what you're looking for:** Use the search box to find text, commands, help, and more.</span></span> [<span data-ttu-id="5d0d9-950">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-950">Learn more</span></span>](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+
+- <span data-ttu-id="5d0d9-951">**Сотрудничайте в живом цвете:** комментарии и изменения имеют цветовую кодировку от участника, поэтому легко увидеть, кто есть кто среди ваших соавторов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-951">**Collaborate in living color:** Comments and changes are color coded by contributor so it's easy to see who's who among your collaborators.</span></span>
+
+- <span data-ttu-id="5d0d9-952">**Совместное редактирование документов с поддержкой макросов:** сохраняйте файлы документов в OneDrive для бизнеса и редактируйте их вместе с соавторами в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-952">**Edit macro-enabled docs collaboratively:** Save your docm files on OneDrive for Business and edit with your collaborators in real time.</span></span>
+
+- <span data-ttu-id="5d0d9-953">**Улучшенные возможности совместного редактирования**. Улучшено быстродействие Word при совместном редактировании в документах с отслеживанием исправлений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-953">**Coauthoring improvements:** Improved Word performance when coauthoring in documents with tracked changes.</span></span>
+
+- <span data-ttu-id="5d0d9-954">**Больше иконок в соответствии с вашим настроением:** мы добавили более 300 новых иконок.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-954">**More icons to match your mood:** We've added over 300 new icons.</span></span> <span data-ttu-id="5d0d9-955">Их можно найти, выбрав элементы "Вставка" > "Значки".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-955">Find them at Insert > Icons.</span></span> [<span data-ttu-id="5d0d9-956">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-956">Learn more</span></span>](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+
+- <span data-ttu-id="5d0d9-957">**Другие люди быстрее увидят сделанные вами изменения.** Улучшенные функции совместного редактирования означают, что участники совместной работы смогут просматривать сделанные вами изменения быстрее, чем когда-либо раньше.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-957">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+
+- <span data-ttu-id="5d0d9-958">**Стиль наброска.** Применяйте свободное оформление в виде наброска от руки к фигурам Office в своем документе.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-958">**Sketch it out:** Give a casual, hand-drawn look to Office shapes in your document.</span></span> [<span data-ttu-id="5d0d9-959">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-959">Learn more</span></span>](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- <span data-ttu-id="5d0d9-960">**Точное стирание.** Выберите один из двух размеров ластика, чтобы исправить небольшие недочеты рукописных фрагментов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-960">**Erase with precision:** Choose from two eraser sizes to fix small inking imperfections.</span></span> [<span data-ttu-id="5d0d9-961">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-961">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- <span data-ttu-id="5d0d9-962">**Быстрое предоставление общего доступа к файлам.** Делитесь своими документами прямо из списка недавно использовавшихся файлов, не открывая их.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-962">**Faster file sharing:** Share your documents right from the recently used list without having to open the file.</span></span>
+
+- <span data-ttu-id="5d0d9-963">**Больше не нужно возвращаться в браузер.** Вы сами решаете, как открывать ссылки на документы Office: в браузере или в приложении.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-963">**No more bouncing to the browser:** You decide how links to Office documents open: in the browser or in the app.</span></span> [<span data-ttu-id="5d0d9-964">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-964">Learn more</span></span>](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
+
+- <span data-ttu-id="5d0d9-965">**Улучшенные возможности совместного редактирования.** Повышена надежность при совместном редактировании.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-965">**Coauthoring improvements:** Improved reliability when coauthoring.</span></span>
+
+- <span data-ttu-id="5d0d9-966">**Создание более удобных для чтения PDF-документов.** Создайте PDF-файл, и средство проверки читаемости укажет на проблемы с читаемостью для их устранения перед сохранением.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-966">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="5d0d9-967">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-967">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- <span data-ttu-id="5d0d9-968">**Преобразование файлов для улучшения доступности.** Обновите свои файлы до современного формата, чтобы сделать их доступнее для всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-968">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="5d0d9-969">**Более безопасная работа с видео.** Улучшения системы безопасности означают более защищенный интерфейс работы с видео из Интернета.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-969">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="5d0d9-970">Подробнее</span><span class="sxs-lookup"><span data-stu-id="5d0d9-970">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 
 
@@ -1230,273 +1612,274 @@ ms.locfileid: "50173838"
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-781">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-781">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="968f4-782">Доступ</span><span class="sxs-lookup"><span data-stu-id="968f4-782">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-973">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-973">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="5d0d9-974">Доступ</span><span class="sxs-lookup"><span data-stu-id="5d0d9-974">Access</span></span>
 
-- <span data-ttu-id="968f4-783">Это обновление исправляет проблему в Microsoft Access, которая может приводить к ошибке "Запрос поврежден" при выполнении запроса на обновление или использовании оператора UPDATE в SQL.</span><span class="sxs-lookup"><span data-stu-id="968f4-783">This update fixes an issue in Microsoft Access that may cause the error "Query is Corrupt" when an Update Query is run, or an UPDATE statement is used in SQL.</span></span>
+- <span data-ttu-id="5d0d9-975">Это обновление исправляет проблему в Microsoft Access, которая может приводить к ошибке "Запрос поврежден" при выполнении запроса на обновление или использовании оператора UPDATE в SQL.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-975">This update fixes an issue in Microsoft Access that may cause the error "Query is Corrupt" when an Update Query is run, or an UPDATE statement is used in SQL.</span></span>
 
-- <span data-ttu-id="968f4-784">Это обновление исправляет проблему, из-за которой Microsoft Access не удавалось определить столбец идентификаторов в связанной таблице SQL Server, что могло приводить к неправильному указанию строк как удаленных.</span><span class="sxs-lookup"><span data-stu-id="968f4-784">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
+- <span data-ttu-id="5d0d9-976">Это обновление исправляет проблему, из-за которой Microsoft Access не удавалось определить столбец идентификаторов в связанной таблице SQL Server, что могло приводить к неправильному указанию строк как удаленных.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-976">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
 
-- <span data-ttu-id="968f4-785">Это обновление исправляет проблему, из-за которой использование объекта ADODB</span><span class="sxs-lookup"><span data-stu-id="968f4-785">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="968f4-786">средства записи в коде VB могло неверно вызывать сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="968f4-786">Recorder object in VB code may incorrectly report an error.</span></span>
+- <span data-ttu-id="5d0d9-977">Это обновление исправляет проблему, из-за которой использование объекта ADODB</span><span class="sxs-lookup"><span data-stu-id="5d0d9-977">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="5d0d9-978">средства записи в коде VB могло неверно вызывать сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-978">Recorder object in VB code may incorrectly report an error.</span></span>
 
-- <span data-ttu-id="968f4-787">В случае, если в базе данных не будет сбоев вложенных столбцов, они больше не должны возникать.</span><span class="sxs-lookup"><span data-stu-id="968f4-787">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="968f4-788">После создания шаблона вы можете добавить в базу данных поле вложения.</span><span class="sxs-lookup"><span data-stu-id="968f4-788">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
+- <span data-ttu-id="5d0d9-979">В случае, если в базе данных не будет сбоев вложенных столбцов, они больше не должны возникать.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-979">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="5d0d9-980">После создания шаблона вы можете добавить в базу данных поле вложения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-980">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="968f4-789">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-789">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-981">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-981">Excel</span></span>
 
-- <span data-ttu-id="968f4-790">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="968f4-790">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="5d0d9-982">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-982">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
 
-- <span data-ttu-id="968f4-791">Это изменение обходит проблему, связанную с некоторыми графическими драйверами Intel, благодаря использованию программной отрисовки.</span><span class="sxs-lookup"><span data-stu-id="968f4-791">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
+- <span data-ttu-id="5d0d9-983">Это изменение обходит проблему, связанную с некоторыми графическими драйверами Intel, благодаря использованию программной отрисовки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-983">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
 
-- <span data-ttu-id="968f4-792">Исправлена проблема, из-за которой некоторые пользователи могут столкнуться с ошибками при преобразовании текста в столбцы с ячейками, в которых есть массив для переноса.</span><span class="sxs-lookup"><span data-stu-id="968f4-792">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
+- <span data-ttu-id="5d0d9-984">Исправлена проблема, из-за которой некоторые пользователи могут столкнуться с ошибками при преобразовании текста в столбцы с ячейками, в которых есть массив для переноса.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-984">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
 
-- <span data-ttu-id="968f4-793">Это обновление устраняет проблему, из-за которой на панели формул текст отображался шрифтом, отличным от ожидаемого.</span><span class="sxs-lookup"><span data-stu-id="968f4-793">This update fixes an issue that caused the formula bar to display text in a different font than expected.</span></span>
+- <span data-ttu-id="5d0d9-985">Это обновление устраняет проблему, из-за которой на панели формул текст отображался шрифтом, отличным от ожидаемого.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-985">This update fixes an issue that caused the formula bar to display text in a different font than expected.</span></span>
 
-- <span data-ttu-id="968f4-794">Функциональность Text to Column может не работать в некоторых локациях.</span><span class="sxs-lookup"><span data-stu-id="968f4-794">Text to Column functionality may fail for some locales.</span></span>
+- <span data-ttu-id="5d0d9-986">Функциональность Text to Column может не работать в некоторых локациях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-986">Text to Column functionality may fail for some locales.</span></span>
 
-- <span data-ttu-id="968f4-795">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону.</span><span class="sxs-lookup"><span data-stu-id="968f4-795">Users may encounter an error when accessing a hidden named range.</span></span>
+- <span data-ttu-id="5d0d9-987">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-987">Users may encounter an error when accessing a hidden named range.</span></span>
 
-- <span data-ttu-id="968f4-796">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="968f4-796">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
+- <span data-ttu-id="5d0d9-988">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-988">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
 
-- <span data-ttu-id="968f4-797">Исправлена проблема, из-за которой выбор ячейки после прокрутки мог приводить к выбору неправильной ячейки.</span><span class="sxs-lookup"><span data-stu-id="968f4-797">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected.</span></span>
+- <span data-ttu-id="5d0d9-989">Исправлена проблема, из-за которой выбор ячейки после прокрутки мог приводить к выбору неправильной ячейки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-989">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected.</span></span>
 
-- <span data-ttu-id="968f4-798">При изменении защищенного файла из ненадежного сетевого ресурса могут возникать проблемы в Excel.</span><span class="sxs-lookup"><span data-stu-id="968f4-798">Excel may have issues when editing a protected file from an untrusted network share.</span></span>
+- <span data-ttu-id="5d0d9-990">При изменении защищенного файла из ненадежного сетевого ресурса могут возникать проблемы в Excel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-990">Excel may have issues when editing a protected file from an untrusted network share.</span></span>
 
-- <span data-ttu-id="968f4-799">Функция "Текст в столбец" может не работать для некоторых вариантов локализации.</span><span class="sxs-lookup"><span data-stu-id="968f4-799">Text to Column functionality may fail for some localizations.</span></span>
+- <span data-ttu-id="5d0d9-991">Функция "Текст в столбец" может не работать для некоторых вариантов локализации.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-991">Text to Column functionality may fail for some localizations.</span></span>
 
-- <span data-ttu-id="968f4-800">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону.</span><span class="sxs-lookup"><span data-stu-id="968f4-800">Users may encounter an error when accessing a hidden named range.</span></span>
+- <span data-ttu-id="5d0d9-992">Пользователи могут столкнуться с ошибкой при доступе к скрытому именованному диапазону.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-992">Users may encounter an error when accessing a hidden named range.</span></span>
 
-- <span data-ttu-id="968f4-801">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="968f4-801">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
+- <span data-ttu-id="5d0d9-993">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-993">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
 
-- <span data-ttu-id="968f4-802">Исправлена проблема, которая могла возникнуть у некоторых пользователей со встроенными и связанными объектами (OLE).</span><span class="sxs-lookup"><span data-stu-id="968f4-802">Fixed an issue that some users may have experienced with embedded and linked objects (OLE).</span></span>
+- <span data-ttu-id="5d0d9-994">Исправлена проблема, которая могла возникнуть у некоторых пользователей со встроенными и связанными объектами (OLE).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-994">Fixed an issue that some users may have experienced with embedded and linked objects (OLE).</span></span>
 
-- <span data-ttu-id="968f4-803">Мы исправили контекстное меню для сводных диаграмм для включения опции «Показать сведения».</span><span class="sxs-lookup"><span data-stu-id="968f4-803">We fixed the right click menu for Pivot Charts to enable the option to Show Details.</span></span>
+- <span data-ttu-id="5d0d9-995">Мы исправили контекстное меню для сводных диаграмм для включения опции «Показать сведения».</span><span class="sxs-lookup"><span data-stu-id="5d0d9-995">We fixed the right click menu for Pivot Charts to enable the option to Show Details.</span></span>
 
-- <span data-ttu-id="968f4-804">Решена проблема, из-за которой мог происходить сбой при поиске последних файлов с неоткрытой книгой.</span><span class="sxs-lookup"><span data-stu-id="968f4-804">Resolved an issue that may have caused a crash when searching for recent files while no workbook is open.</span></span>
+- <span data-ttu-id="5d0d9-996">Решена проблема, из-за которой мог происходить сбой при поиске последних файлов с неоткрытой книгой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-996">Resolved an issue that may have caused a crash when searching for recent files while no workbook is open.</span></span>
 
-- <span data-ttu-id="968f4-805">Исправлена ошибка, из-за которой некоторые пользователи могли сталкиваться с несколькими всплывающими окнами при наличии внешних ссылок в книге.</span><span class="sxs-lookup"><span data-stu-id="968f4-805">Fixed an issue where some users may have experienced multiple pop-up windows when external links were present in the workbook.</span></span>
+- <span data-ttu-id="5d0d9-997">Исправлена ошибка, из-за которой некоторые пользователи могли сталкиваться с несколькими всплывающими окнами при наличии внешних ссылок в книге.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-997">Fixed an issue where some users may have experienced multiple pop-up windows when external links were present in the workbook.</span></span>
 
-- <span data-ttu-id="968f4-806">Исправлена проблема, в которой не отображаются команды примечаний в контекстном меню.</span><span class="sxs-lookup"><span data-stu-id="968f4-806">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+- <span data-ttu-id="5d0d9-998">Исправлена проблема, в которой не отображаются команды примечаний в контекстном меню.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-998">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
 
-- <span data-ttu-id="968f4-807">Исправлена проблема, из-за которой настройка ленты не загружалась при открытии внедренной книги.</span><span class="sxs-lookup"><span data-stu-id="968f4-807">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
+- <span data-ttu-id="5d0d9-999">Исправлена проблема, из-за которой настройка ленты не загружалась при открытии внедренной книги.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-999">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
 
-- <span data-ttu-id="968f4-808">Исправлена проблема, из-за которой функция КУБЗНАЧЕНИЕ иногда возвращала неверный результат.</span><span class="sxs-lookup"><span data-stu-id="968f4-808">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
+- <span data-ttu-id="5d0d9-1000">Исправлена проблема, из-за которой функция КУБЗНАЧЕНИЕ иногда возвращала неверный результат.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1000">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-809">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-809">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-1001">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1001">Outlook</span></span>
 
-- <span data-ttu-id="968f4-810">Решена проблема, вызывавшая зависание интерфейса отзывов о поиске. </span><span class="sxs-lookup"><span data-stu-id="968f4-810">Addressed an issue that caused a hang in the Search Feedback experience.</span></span>
+- <span data-ttu-id="5d0d9-1002">Решена проблема, вызывавшая зависание интерфейса отзывов о поиске. </span><span class="sxs-lookup"><span data-stu-id="5d0d9-1002">Addressed an issue that caused a hang in the Search Feedback experience.</span></span>
 
-- <span data-ttu-id="968f4-811">Исправлена проблема, приводившая к зависаниям у пользователей в Outlook при получении облачных параметров.</span><span class="sxs-lookup"><span data-stu-id="968f4-811">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
+- <span data-ttu-id="5d0d9-1003">Исправлена проблема, приводившая к зависаниям у пользователей в Outlook при получении облачных параметров.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1003">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
 
-- <span data-ttu-id="968f4-812">Устранена проблема, которая приводила к неправильному выравниванию поля поиска в режиме высокого разрешения.</span><span class="sxs-lookup"><span data-stu-id="968f4-812">Addressed an issue that caused the search box to be improperly aligned in high dpi mode.</span></span>
+- <span data-ttu-id="5d0d9-1004">Устранена проблема, которая приводила к неправильному выравниванию поля поиска в режиме высокого разрешения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1004">Addressed an issue that caused the search box to be improperly aligned in high dpi mode.</span></span>
 
-- <span data-ttu-id="968f4-813">Исправлена проблема, из-за которой наблюдалась утечка памяти в процессе Outlook.</span><span class="sxs-lookup"><span data-stu-id="968f4-813">Addressed an issue that caused users to observe a memory leak in the Outlook process.</span></span>
+- <span data-ttu-id="5d0d9-1005">Исправлена проблема, из-за которой наблюдалась утечка памяти в процессе Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1005">Addressed an issue that caused users to observe a memory leak in the Outlook process.</span></span>
 
-- <span data-ttu-id="968f4-814">Исправлена проблема, из-за которой пользователи иногда наблюдали отправку сообщений на адрес, не соответствующий отображавшемуся SMTP-адресу.</span><span class="sxs-lookup"><span data-stu-id="968f4-814">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
+- <span data-ttu-id="5d0d9-1006">Исправлена проблема, из-за которой пользователи иногда наблюдали отправку сообщений на адрес, не соответствующий отображавшемуся SMTP-адресу.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1006">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
 
-- <span data-ttu-id="968f4-815">Это изменение восстанавливает возможность просмотра многострочных тем в заголовке сообщения.</span><span class="sxs-lookup"><span data-stu-id="968f4-815">This change restores the ability to view multi-line subjects in the message header.</span></span>
+- <span data-ttu-id="5d0d9-1007">Это изменение восстанавливает возможность просмотра многострочных тем в заголовке сообщения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1007">This change restores the ability to view multi-line subjects in the message header.</span></span>
 
-- <span data-ttu-id="968f4-816">Исправлена проблема, которая не позволяла сохранять файлы в WebDAV.</span><span class="sxs-lookup"><span data-stu-id="968f4-816">We fixed an issue which could have prevented files from being saved to a WebDAV location.</span></span>
+- <span data-ttu-id="5d0d9-1008">Исправлена проблема, которая не позволяла сохранять файлы в WebDAV.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1008">We fixed an issue which could have prevented files from being saved to a WebDAV location.</span></span>
 
-- <span data-ttu-id="968f4-817">Исправлена проблема с выбором алгоритма SMIME.</span><span class="sxs-lookup"><span data-stu-id="968f4-817">Corrected an issue with SMIME algorithm selection.</span></span>
+- <span data-ttu-id="5d0d9-1009">Исправлена проблема с выбором алгоритма SMIME.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1009">Corrected an issue with SMIME algorithm selection.</span></span>
 
-- <span data-ttu-id="968f4-818">Устранена проблема, из-за которой сторонние приложения не могли отправлять электронную почту.</span><span class="sxs-lookup"><span data-stu-id="968f4-818">Addressed an issue that caused third party applications to be unable to send email.</span></span>
+- <span data-ttu-id="5d0d9-1010">Устранена проблема, из-за которой сторонние приложения не могли отправлять электронную почту.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1010">Addressed an issue that caused third party applications to be unable to send email.</span></span>
 
-- <span data-ttu-id="968f4-819">Исправлена проблема, приводившая к отображению для пользователей пустого окна сообщения с кнопкой "ОК" при обращении в службу поддержки в контексте создания учетной записи.</span><span class="sxs-lookup"><span data-stu-id="968f4-819">Addressed an issue that caused users to see an empty message box with an "OK" button when trying to contact support from the Account Creation context.</span></span>
+- <span data-ttu-id="5d0d9-1011">Исправлена проблема, приводившая к отображению для пользователей пустого окна сообщения с кнопкой "ОК" при обращении в службу поддержки в контексте создания учетной записи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1011">Addressed an issue that caused users to see an empty message box with an "OK" button when trying to contact support from the Account Creation context.</span></span>
 
-- <span data-ttu-id="968f4-820">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при создании профиля.</span><span class="sxs-lookup"><span data-stu-id="968f4-820">Addressed an issue that caused users to experience a crash during profile creation.</span></span>
+- <span data-ttu-id="5d0d9-1012">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при создании профиля.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1012">Addressed an issue that caused users to experience a crash during profile creation.</span></span>
 
-- <span data-ttu-id="968f4-821">Устранена проблема, из-за которой Outlook неожиданно синхронизировал всю почту, даже если для ползунка синхронизации установлено меньшее значение.</span><span class="sxs-lookup"><span data-stu-id="968f4-821">Addressed an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.</span></span>
+- <span data-ttu-id="5d0d9-1013">Устранена проблема, из-за которой Outlook неожиданно синхронизировал всю почту, даже если для ползунка синхронизации установлено меньшее значение.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1013">Addressed an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.</span></span>
 
-- <span data-ttu-id="968f4-822">Исправлена проблема, из-за которой для пользователей с черной темой в раскрывающемся списке "От" отображался белый текст на белом фоне.</span><span class="sxs-lookup"><span data-stu-id="968f4-822">Addressed an issue that caused users with Black Theme to see the "From" dropdown show white text on a white background.</span></span>
+- <span data-ttu-id="5d0d9-1014">Исправлена проблема, из-за которой для пользователей с черной темой в раскрывающемся списке "От" отображался белый текст на белом фоне.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1014">Addressed an issue that caused users with Black Theme to see the "From" dropdown show white text on a white background.</span></span>
 
-- <span data-ttu-id="968f4-823">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при отмене настройки учетной записи.</span><span class="sxs-lookup"><span data-stu-id="968f4-823">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
+- <span data-ttu-id="5d0d9-1015">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при отмене настройки учетной записи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1015">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
 
-- <span data-ttu-id="968f4-824">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="968f4-824">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="5d0d9-1016">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1016">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
 
-- <span data-ttu-id="968f4-825">Устранена проблема, из-за которой опция отключения подсветки помеченных элементов не учитывалась в некоторых сценариях.</span><span class="sxs-lookup"><span data-stu-id="968f4-825">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
+- <span data-ttu-id="5d0d9-1017">Устранена проблема, из-за которой опция отключения подсветки помеченных элементов не учитывалась в некоторых сценариях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1017">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
 
-- <span data-ttu-id="968f4-826">Исправлена проблема, из-за которой при открытии диалогового окна "Правила" появлялось сообщение "Правила на этом компьютере противоречат правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="968f4-826">Addressed an issue that caused users to see a "The rules on this computer do not match the rules on Microsoft Exchange" prompt when opening the Rules dialog.</span></span>
+- <span data-ttu-id="5d0d9-1018">Исправлена проблема, из-за которой при открытии диалогового окна "Правила" появлялось сообщение "Правила на этом компьютере противоречат правилам Microsoft Exchange".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1018">Addressed an issue that caused users to see a "The rules on this computer do not match the rules on Microsoft Exchange" prompt when opening the Rules dialog.</span></span>
 
-- <span data-ttu-id="968f4-827">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при попытке указать недопустимый адрес.</span><span class="sxs-lookup"><span data-stu-id="968f4-827">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <span data-ttu-id="5d0d9-1019">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при попытке указать недопустимый адрес.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1019">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
 
-- <span data-ttu-id="968f4-828">Решена проблема, вызывавшая утечку памяти при очень продолжительном сеансе Outlook.</span><span class="sxs-lookup"><span data-stu-id="968f4-828">Addressed an issue that caused a memory leak for very long Outlook sessions.</span></span>
+- <span data-ttu-id="5d0d9-1020">Решена проблема, вызывавшая утечку памяти при очень продолжительном сеансе Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1020">Addressed an issue that caused a memory leak for very long Outlook sessions.</span></span>
 
-- <span data-ttu-id="968f4-829">Устранена проблема, которая могла привести к сбою при просмотре одного и того же элемента в нескольких окнах.</span><span class="sxs-lookup"><span data-stu-id="968f4-829">Addressed an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
+- <span data-ttu-id="5d0d9-1021">Устранена проблема, которая могла привести к сбою при просмотре одного и того же элемента в нескольких окнах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1021">Addressed an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
 
-- <span data-ttu-id="968f4-830">Исправлена проблема, приводившая к возникновению у пользователей заметных задержек при взаимодействии с папками почтового ящика с помощью сочетаний клавиш.</span><span class="sxs-lookup"><span data-stu-id="968f4-830">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
+- <span data-ttu-id="5d0d9-1022">Исправлена проблема, приводившая к возникновению у пользователей заметных задержек при взаимодействии с папками почтового ящика с помощью сочетаний клавиш.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1022">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
 
-- <span data-ttu-id="968f4-831">Исправлена проблема, из-за которой пользователи не могли открывать некоторые вхождения повторяющихся элементов календаря.</span><span class="sxs-lookup"><span data-stu-id="968f4-831">Addressed an issue that caused users to be unable to open some instances of recurring calendar items.</span></span>
+- <span data-ttu-id="5d0d9-1023">Исправлена проблема, из-за которой пользователи не могли открывать некоторые вхождения повторяющихся элементов календаря.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1023">Addressed an issue that caused users to be unable to open some instances of recurring calendar items.</span></span>
 
-- <span data-ttu-id="968f4-832">Устранена проблема, из-за которой у пользователей с почтовыми ящиками на серверах Exchange 2010 возникали проблемы при добавлении вложений в элементы календаря.</span><span class="sxs-lookup"><span data-stu-id="968f4-832">Addressed an issue that caused users with mailboxes on Exchange 2010 servers to experience issues when adding attachments to calendar items.</span></span>
+- <span data-ttu-id="5d0d9-1024">Устранена проблема, из-за которой у пользователей с почтовыми ящиками на серверах Exchange 2010 возникали проблемы при добавлении вложений в элементы календаря.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1024">Addressed an issue that caused users with mailboxes on Exchange 2010 servers to experience issues when adding attachments to calendar items.</span></span>
 
-- <span data-ttu-id="968f4-833">Устранена проблема, из-за которой у пользователей возникали проблемы при ответе на сообщения с цифровой подписью.</span><span class="sxs-lookup"><span data-stu-id="968f4-833">Addressed an issue that caused users to experience issues when replying to digitally signed messages.</span></span>
+- <span data-ttu-id="5d0d9-1025">Устранена проблема, из-за которой у пользователей возникали проблемы при ответе на сообщения с цифровой подписью.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1025">Addressed an issue that caused users to experience issues when replying to digitally signed messages.</span></span>
 
-- <span data-ttu-id="968f4-834">Исправлена проблема, из-за которой неожиданно обновлялось поле расположения в собраниях.</span><span class="sxs-lookup"><span data-stu-id="968f4-834">Addressed an issue that caused the Location field in meetings to get updated unexpectedly.</span></span>
+- <span data-ttu-id="5d0d9-1026">Исправлена проблема, из-за которой неожиданно обновлялось поле расположения в собраниях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1026">Addressed an issue that caused the Location field in meetings to get updated unexpectedly.</span></span>
 
-- <span data-ttu-id="968f4-835">Устранена проблема, из-за которой запятые в поле местоположения собрания превращались в точки с запятой.</span><span class="sxs-lookup"><span data-stu-id="968f4-835">Addressed an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
+- <span data-ttu-id="5d0d9-1027">Устранена проблема, из-за которой запятые в поле местоположения собрания превращались в точки с запятой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1027">Addressed an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
 
-- <span data-ttu-id="968f4-836">Исправлена проблема, из-за которой место проведения собрания неожиданно вновь добавлялось к собранию после его очистки.</span><span class="sxs-lookup"><span data-stu-id="968f4-836">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
+- <span data-ttu-id="5d0d9-1028">Исправлена проблема, из-за которой место проведения собрания неожиданно вновь добавлялось к собранию после его очистки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1028">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
 
-- <span data-ttu-id="968f4-837">Решены вопросы, связанные со встречами и встречами, установленными в часовом поясе Бразилии.</span><span class="sxs-lookup"><span data-stu-id="968f4-837">Addressed issues relating to meetings and appointments set in the Brazilia time zone.</span></span>
+- <span data-ttu-id="5d0d9-1029">Решены вопросы, связанные со встречами и встречами, установленными в часовом поясе Бразилии.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1029">Addressed issues relating to meetings and appointments set in the Brazilia time zone.</span></span>
 
-- <span data-ttu-id="968f4-838">Устранена проблема, из-за которой сообщения неожиданно отправлялись при нажатии клавиши "S" после закрытия панели проверки читаемости.</span><span class="sxs-lookup"><span data-stu-id="968f4-838">Addressed an issue that caused users to see mails unexpectedly send when pressing the "S" key after closing the accessibility checker pane.</span></span>
+- <span data-ttu-id="5d0d9-1030">Устранена проблема, из-за которой сообщения неожиданно отправлялись при нажатии клавиши "S" после закрытия панели проверки читаемости.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1030">Addressed an issue that caused users to see mails unexpectedly send when pressing the "S" key after closing the accessibility checker pane.</span></span>
 
-- <span data-ttu-id="968f4-839">Обновлена логика блокировки вложений в Outlook, чтобы также блокировать вложения Python.</span><span class="sxs-lookup"><span data-stu-id="968f4-839">This updates the attachment blocking logic in Outlook to also block python attachments.</span></span>
+- <span data-ttu-id="5d0d9-1031">Обновлена логика блокировки вложений в Outlook, чтобы также блокировать вложения Python.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1031">This updates the attachment blocking logic in Outlook to also block python attachments.</span></span>
 
-- <span data-ttu-id="968f4-840">Устранена проблема, из-за которой веб-надстройки обращались к сообщениям, управляемым цифровыми правами.</span><span class="sxs-lookup"><span data-stu-id="968f4-840">Addressed an issue that caused web add ins to access Digital Rights Managed messages.</span></span>
+- <span data-ttu-id="5d0d9-1032">Устранена проблема, из-за которой веб-надстройки обращались к сообщениям, управляемым цифровыми правами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1032">Addressed an issue that caused web add ins to access Digital Rights Managed messages.</span></span>
 
-- <span data-ttu-id="968f4-841">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при создании профиля.</span><span class="sxs-lookup"><span data-stu-id="968f4-841">Addressed an issue that caused users to experience a crash during profile creation.</span></span>
+- <span data-ttu-id="5d0d9-1033">Исправлена проблема, из-за которой пользователи сталкивались со сбоем при создании профиля.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1033">Addressed an issue that caused users to experience a crash during profile creation.</span></span>
 
-- <span data-ttu-id="968f4-842">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="968f4-842">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="5d0d9-1034">Устранена проблема, из-за которой у пользователей возникали сбои при переименовании подписи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1034">Addressed an issue that caused users to experience crashes when renaming a signature.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-843">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-843">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-1035">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1035">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-844">Мы исправили проблему с методом Shape.Paste: когда пользователь копирует и вставляет фигуру с помощью метода Shape.Paste, он меняет выделение на вставленную фигуру.</span><span class="sxs-lookup"><span data-stu-id="968f4-844">We fixed an issue with Shape.Paste method: when user copies and paste the shape using Shape.Paste method it changes the selection to the pasted shape.</span></span>
+- <span data-ttu-id="5d0d9-1036">Мы исправили проблему с методом Shape.Paste: когда пользователь копирует и вставляет фигуру с помощью метода Shape.Paste, он меняет выделение на вставленную фигуру.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1036">We fixed an issue with Shape.Paste method: when user copies and paste the shape using Shape.Paste method it changes the selection to the pasted shape.</span></span>
 
-- <span data-ttu-id="968f4-845">Устранена проблема, которая могла вызвать сбой при использовании контекстного меню в устаревших комментариях PPT.</span><span class="sxs-lookup"><span data-stu-id="968f4-845">Addressed an issue that may have caused a crash when using context menu in legacy PPT comments.</span></span>
+- <span data-ttu-id="5d0d9-1037">Устранена проблема, которая могла вызвать сбой при использовании контекстного меню в устаревших комментариях PPT.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1037">Addressed an issue that may have caused a crash when using context menu in legacy PPT comments.</span></span>
 
-### <a name="project"></a><span data-ttu-id="968f4-846">Project</span><span class="sxs-lookup"><span data-stu-id="968f4-846">Project</span></span>
+### <a name="project"></a><span data-ttu-id="5d0d9-1038">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1038">Project</span></span>
 
-- <span data-ttu-id="968f4-847">Обнаружена проблема, из-за которой пользователи могут получать несколько сообщений при открытии проекта только для чтения.</span><span class="sxs-lookup"><span data-stu-id="968f4-847">Identified an issue where users could get several messages when opening a read-only project.</span></span>
+- <span data-ttu-id="5d0d9-1039">Обнаружена проблема, из-за которой пользователи могут получать несколько сообщений при открытии проекта только для чтения.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1039">Identified an issue where users could get several messages when opening a read-only project.</span></span>
 
-- <span data-ttu-id="968f4-848">Исправлена ошибка, из-за которой 100% задач с фиксированной продолжительностью могут ошибочно рассчитывать% выполнения при завершении менее чем на 100%.</span><span class="sxs-lookup"><span data-stu-id="968f4-848">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+- <span data-ttu-id="5d0d9-1040">Исправлена ошибка, из-за которой 100% задач с фиксированной продолжительностью могут ошибочно рассчитывать% выполнения при завершении менее чем на 100%.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1040">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
 
-- <span data-ttu-id="968f4-849">Исправлена проблема, из-за которой иногда неверно вычислялись даты суммарной задачи.</span><span class="sxs-lookup"><span data-stu-id="968f4-849">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+- <span data-ttu-id="5d0d9-1041">Исправлена проблема, из-за которой иногда неверно вычислялись даты суммарной задачи.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1041">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
-- <span data-ttu-id="968f4-850">Исправлена ошибка, из-за которой событие OnUndoOrRedo не срабатывает без предварительного запуска метода OpenUndoTransaction.</span><span class="sxs-lookup"><span data-stu-id="968f4-850">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="5d0d9-1042">Исправлена ошибка, из-за которой событие OnUndoOrRedo не срабатывает без предварительного запуска метода OpenUndoTransaction.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1042">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-851">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-851">Word</span></span>
+### <a name="word"></a><span data-ttu-id="5d0d9-1043">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1043">Word</span></span>
 
-- <span data-ttu-id="968f4-852">Мы исправили проблему, при которой в некоторых случаях сохранение существующего файла всегда вызывает диалоговое окно «Сохранить как», а файл фактически не сохраняется.</span><span class="sxs-lookup"><span data-stu-id="968f4-852">We fixed an issue where in some cases, saving an existing file always causes the Save As dialog and the file never actually saves.</span></span>
+- <span data-ttu-id="5d0d9-1044">Мы исправили проблему, при которой в некоторых случаях сохранение существующего файла всегда вызывает диалоговое окно «Сохранить как», а файл фактически не сохраняется.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1044">We fixed an issue where in some cases, saving an existing file always causes the Save As dialog and the file never actually saves.</span></span>
 
-- <span data-ttu-id="968f4-853">Диспетчер стандартных блоков может отображать неправильное оповещение: "Были изменены стили, стандартные блоки".</span><span class="sxs-lookup"><span data-stu-id="968f4-853">Building blocks organizer may display an invalid alert: "You have modified styles, building blocks".</span></span>
+- <span data-ttu-id="5d0d9-1045">Диспетчер стандартных блоков может отображать неправильное оповещение: "Были изменены стили, стандартные блоки".</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1045">Building blocks organizer may display an invalid alert: "You have modified styles, building blocks".</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-854">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-854">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-1046">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1046">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-855">Это изменение касается медленного рендеринга некоторых точечных диаграмм с маркерами.</span><span class="sxs-lookup"><span data-stu-id="968f4-855">This change addresses slow rendering of some scatter charts with markers.</span></span>
+- <span data-ttu-id="5d0d9-1047">Это изменение касается медленного рендеринга некоторых точечных диаграмм с маркерами.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1047">This change addresses slow rendering of some scatter charts with markers.</span></span>
 
-- <span data-ttu-id="968f4-856">Это изменение устраняет проблемы с графическими адаптерами, использующими встроенный графический процессор Intel.</span><span class="sxs-lookup"><span data-stu-id="968f4-856">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <span data-ttu-id="5d0d9-1048">Это изменение устраняет проблемы с графическими адаптерами, использующими встроенный графический процессор Intel.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1048">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
 
-- <span data-ttu-id="968f4-857">Исправлена ошибка в настройке ODT и крайнего срока обновления GPO, когда относительный крайний срок работает только при первом его включении, исправление включает относительный крайний срок для последующих обновлений.</span><span class="sxs-lookup"><span data-stu-id="968f4-857">Fixed a bug in ODT and GPO Update Deadline setting where relative deadline only works the first time it is set, the fix enables the relative deadline for subsequent updates.</span></span>
+- <span data-ttu-id="5d0d9-1049">Исправлена ошибка в настройке ODT и крайнего срока обновления GPO, когда относительный крайний срок работает только при первом его включении, исправление включает относительный крайний срок для последующих обновлений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1049">Fixed a bug in ODT and GPO Update Deadline setting where relative deadline only works the first time it is set, the fix enables the relative deadline for subsequent updates.</span></span>
 
-- <span data-ttu-id="968f4-858">Решена проблема, из-за которой обновления Office могли неожиданно скачать файлы из Office CDN вместо намеченного источника, такого как локальная или сетевая папка или расположение, предоставленное Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="968f4-858">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
+- <span data-ttu-id="5d0d9-1050">Решена проблема, из-за которой обновления Office могли неожиданно скачать файлы из Office CDN вместо намеченного источника, такого как локальная или сетевая папка или расположение, предоставленное Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1050">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
 
-- <span data-ttu-id="968f4-859">Исправлена проблема, возникавшая при открытии нескольких документов в Word, Excel или PowerPoint из одной библиотеки SharePoint, из-за которой только первый открывавшийся документ проверялся на соответствие политике.</span><span class="sxs-lookup"><span data-stu-id="968f4-859">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
+- <span data-ttu-id="5d0d9-1051">Исправлена проблема, возникавшая при открытии нескольких документов в Word, Excel или PowerPoint из одной библиотеки SharePoint, из-за которой только первый открывавшийся документ проверялся на соответствие политике.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1051">Fixed an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</span></span>
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-1908-february-11"></a><span data-ttu-id="968f4-861">Версия 1908: 11 февраля</span><span class="sxs-lookup"><span data-stu-id="968f4-861">Version 1908: February 11</span></span>
-<span data-ttu-id="968f4-862">*Версия 1908 (сборка 11929,20606)*</span><span class="sxs-lookup"><span data-stu-id="968f4-862">*Version 1908 (Build 11929.20606)*</span></span>
+## <a name="version-1908-february-11"></a><span data-ttu-id="5d0d9-1053">Версия 1908: 11 февраля</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1053">Version 1908: February 11</span></span>
+<span data-ttu-id="5d0d9-1054">*Версия 1908 (сборка 11929,20606)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1054">*Version 1908 (Build 11929.20606)*</span></span>
 
-<span data-ttu-id="968f4-863">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-863">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-1055">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1055">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-865">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-865">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-866">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-866">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-1057">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1057">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-1058">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1058">Excel</span></span>
 
-- <span data-ttu-id="968f4-867">Это обновление устраняет проблему, которая приводила к возникновению ошибки при использовании VBA для добавления изображения в верхний или нижний колонтитул диаграммы.</span><span class="sxs-lookup"><span data-stu-id="968f4-867">This update fixes an issue that caused an error to occur whenever VBA was used to add an image to the header/footer of a chart.</span></span>
+- <span data-ttu-id="5d0d9-1059">Это обновление устраняет проблему, которая приводила к возникновению ошибки при использовании VBA для добавления изображения в верхний или нижний колонтитул диаграммы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1059">This update fixes an issue that caused an error to occur whenever VBA was used to add an image to the header/footer of a chart.</span></span>
 
-- <span data-ttu-id="968f4-868">Исправлена ошибка, из-за которой граница элемента управления Group Box не отображалась в предварительном просмотре или при печати.</span><span class="sxs-lookup"><span data-stu-id="968f4-868">Fixed an issue where the border of a Group Box control wasn't visible in print preview or when printed.</span></span>
+- <span data-ttu-id="5d0d9-1060">Исправлена ошибка, из-за которой граница элемента управления Group Box не отображалась в предварительном просмотре или при печати.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1060">Fixed an issue where the border of a Group Box control wasn't visible in print preview or when printed.</span></span>
 
-- <span data-ttu-id="968f4-869">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="968f4-869">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
+- <span data-ttu-id="5d0d9-1061">Пользователи могут столкнуться с ошибкой при сохранении изменений, если используются некоторые наборы символов не из английского языка.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1061">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
 
-- <span data-ttu-id="968f4-870">Исправлена ошибка, из-за которой размер файла изображений в заголовках диаграммы увеличивался при сохранении книги, содержащей диаграмму.</span><span class="sxs-lookup"><span data-stu-id="968f4-870">Fixed an issue where the file size of images in chart headers increased when the workbook containing the chart was saved.</span></span>
-
-
-- <span data-ttu-id="968f4-871">Исправлена ошибка, приводившая к повреждению символов DBCS в книгах с перекрестными ссылками из-за синхронизации диапазонов выбора с книгой с перекрестными ссылками.</span><span class="sxs-lookup"><span data-stu-id="968f4-871">Fixed an issue that causes corruption of DBCS characters in cross referenced books by keeping the selection ranges in sync with the cross referenced book.</span></span>
-
-- <span data-ttu-id="968f4-872">Устранена проблема, из-за которой элементы управления флажками могли уменьшаться при использовании автоподбора для настройки высоты строки.</span><span class="sxs-lookup"><span data-stu-id="968f4-872">Resolved an issue that could cause check box controls to shrink when using autofit to adjust row height.</span></span>
+- <span data-ttu-id="5d0d9-1062">Исправлена ошибка, из-за которой размер файла изображений в заголовках диаграммы увеличивался при сохранении книги, содержащей диаграмму.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1062">Fixed an issue where the file size of images in chart headers increased when the workbook containing the chart was saved.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="968f4-873">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-873">Outlook</span></span>
+- <span data-ttu-id="5d0d9-1063">Исправлена ошибка, приводившая к повреждению символов DBCS в книгах с перекрестными ссылками из-за синхронизации диапазонов выбора с книгой с перекрестными ссылками.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1063">Fixed an issue that causes corruption of DBCS characters in cross referenced books by keeping the selection ranges in sync with the cross referenced book.</span></span>
 
-- <span data-ttu-id="968f4-874">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при попытке указать недопустимый адрес.</span><span class="sxs-lookup"><span data-stu-id="968f4-874">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
-
-- <span data-ttu-id="968f4-875">В ней рассматриваются проблемы, которые приводят к возникновению сбоев синхронизации при обработке сообщений о конфликтах.</span><span class="sxs-lookup"><span data-stu-id="968f4-875">Addressed an issue that caused users to experience sync failures when processing conflict messages.</span></span>
-
-- <span data-ttu-id="968f4-876">Эта проблема связана с проблемой, из-за которой пользователи могут зависнуть на экране загружаемого профиля при запуске Outlook.</span><span class="sxs-lookup"><span data-stu-id="968f4-876">Addressed an issue that caused users to experience a hang at the Loading Profile screen when Outlook is starting up.</span></span>
-
-- <span data-ttu-id="968f4-877">Устранена проблема, из-за которой пользователи видели периодические сбои при смене представлений.</span><span class="sxs-lookup"><span data-stu-id="968f4-877">Addressed an issue that caused users to see intermittent crashes when changing views.</span></span>
+- <span data-ttu-id="5d0d9-1064">Устранена проблема, из-за которой элементы управления флажками могли уменьшаться при использовании автоподбора для настройки высоты строки.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1064">Resolved an issue that could cause check box controls to shrink when using autofit to adjust row height.</span></span>
 
 
-- <span data-ttu-id="968f4-878">Устранена проблема, приводившая к сбоям пользователей при просмотре более 30 календарей в среде Citrix.</span><span class="sxs-lookup"><span data-stu-id="968f4-878">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span> <span data-ttu-id="968f4-879">[Здесь](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) — это отдельная статья базы знаний, в которой эта статья описана в предыдущих версиях.</span><span class="sxs-lookup"><span data-stu-id="968f4-879">[Here](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) is the individual KB where this was documented for previous versions.</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-1065">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1065">Outlook</span></span>
 
-- <span data-ttu-id="968f4-880">Устраняет проблему, из-за которой пользователи столкнулись с проблемами, связанными с общими папками календаря, которые синхронизируются с PST-ФАЙЛОМ, при котором при попытке взаимодействовать с этими папками возникает ошибка.</span><span class="sxs-lookup"><span data-stu-id="968f4-880">Addresses an issue that caused users to have problems problems with shared calendar folders syncing to the OST, resulting in permission errors when they try to interact with these folders.</span></span>
+- <span data-ttu-id="5d0d9-1066">Эта проблема связана с проблемой, из-за которой пользователи могут столкнуться со сбоем при попытке указать недопустимый адрес.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1066">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+
+- <span data-ttu-id="5d0d9-1067">В ней рассматриваются проблемы, которые приводят к возникновению сбоев синхронизации при обработке сообщений о конфликтах.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1067">Addressed an issue that caused users to experience sync failures when processing conflict messages.</span></span>
+
+- <span data-ttu-id="5d0d9-1068">Эта проблема связана с проблемой, из-за которой пользователи могут зависнуть на экране загружаемого профиля при запуске Outlook.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1068">Addressed an issue that caused users to experience a hang at the Loading Profile screen when Outlook is starting up.</span></span>
+
+- <span data-ttu-id="5d0d9-1069">Устранена проблема, из-за которой пользователи видели периодические сбои при смене представлений.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1069">Addressed an issue that caused users to see intermittent crashes when changing views.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-881">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-881">PowerPoint</span></span>
+- <span data-ttu-id="5d0d9-1070">Устранена проблема, приводившая к сбоям пользователей при просмотре более 30 календарей в среде Citrix.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1070">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span> <span data-ttu-id="5d0d9-1071">[Здесь](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) — это отдельная статья базы знаний, в которой эта статья описана в предыдущих версиях.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1071">[Here](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) is the individual KB where this was documented for previous versions.</span></span>
 
-- <span data-ttu-id="968f4-882">Улучшен сценарий копирования-вставки. Копирование фигуры в слайде PowerPoint и вставка его в другой слайд в цикле может произойти сбой за исключением.</span><span class="sxs-lookup"><span data-stu-id="968f4-882">Improved a copy-paste scenario Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
+- <span data-ttu-id="5d0d9-1072">Устраняет проблему, из-за которой пользователи столкнулись с проблемами, связанными с общими папками календаря, которые синхронизируются с PST-ФАЙЛОМ, при котором при попытке взаимодействовать с этими папками возникает ошибка.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1072">Addresses an issue that caused users to have problems problems with shared calendar folders syncing to the OST, resulting in permission errors when they try to interact with these folders.</span></span>
 
 
-- <span data-ttu-id="968f4-883">Исправлена проблема, которая приводила к снижению производительности между пользователями совместной работы.</span><span class="sxs-lookup"><span data-stu-id="968f4-883">Fixed an issue that was causing slower performance between collaboration users.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-1073">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1073">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-884">Исправлена проблема, которая могла возникнуть, когда открываемый файл постепенно содержит слайд с более чем одним встроенным медиапотоком.</span><span class="sxs-lookup"><span data-stu-id="968f4-884">Fixed an issue that can occur when a file being opened incrementally contains a slide with more than one embedded media stream.</span></span>
+- <span data-ttu-id="5d0d9-1074">Улучшен сценарий копирования-вставки. Копирование фигуры в слайде PowerPoint и вставка его в другой слайд в цикле может произойти сбой за исключением.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1074">Improved a copy-paste scenario Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
 
-- <span data-ttu-id="968f4-885">Мы исправили проблему, из-за которой панель предупреждений системы безопасности могла не отображаться для ненадежных надстроек при первом запуске PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="968f4-885">We fixed an issue where security warning message bar may not appear for untrusted add-ins on first launch of PowerPoint.</span></span>
 
-### <a name="project"></a><span data-ttu-id="968f4-886">Project</span><span class="sxs-lookup"><span data-stu-id="968f4-886">Project</span></span>
+- <span data-ttu-id="5d0d9-1075">Исправлена проблема, которая приводила к снижению производительности между пользователями совместной работы.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1075">Fixed an issue that was causing slower performance between collaboration users.</span></span>
 
-- <span data-ttu-id="968f4-887">Исправлена ошибка, из-за которой фактическая работа в расписании и плане проекта могла отличаться из-за того, что календари ресурсов не обновлялись при изменении базового календаря.</span><span class="sxs-lookup"><span data-stu-id="968f4-887">Fixed an issue where actual work may be different between the timesheet and project plan due to resource calendars not being updated when the base calendar changes.</span></span>
+- <span data-ttu-id="5d0d9-1076">Исправлена проблема, которая могла возникнуть, когда открываемый файл постепенно содержит слайд с более чем одним встроенным медиапотоком.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1076">Fixed an issue that can occur when a file being opened incrementally contains a slide with more than one embedded media stream.</span></span>
 
-### <a name="word"></a><span data-ttu-id="968f4-888">Word</span><span class="sxs-lookup"><span data-stu-id="968f4-888">Word</span></span>
+- <span data-ttu-id="5d0d9-1077">Мы исправили проблему, из-за которой панель предупреждений системы безопасности могла не отображаться для ненадежных надстроек при первом запуске PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1077">We fixed an issue where security warning message bar may not appear for untrusted add-ins on first launch of PowerPoint.</span></span>
 
-- <span data-ttu-id="968f4-889">Исправлен сбой в Word при удалении от устаревшего API.</span><span class="sxs-lookup"><span data-stu-id="968f4-889">Fixed a crash in Word by moving away from a deprecated API.</span></span>
+### <a name="project"></a><span data-ttu-id="5d0d9-1078">Project</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1078">Project</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-890">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-890">Office Suite</span></span>
+- <span data-ttu-id="5d0d9-1079">Исправлена ошибка, из-за которой фактическая работа в расписании и плане проекта могла отличаться из-за того, что календари ресурсов не обновлялись при изменении базового календаря.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1079">Fixed an issue where actual work may be different between the timesheet and project plan due to resource calendars not being updated when the base calendar changes.</span></span>
 
-- <span data-ttu-id="968f4-891">Это изменение касается правильной визуализации изображений после открытия поврежденного файла.</span><span class="sxs-lookup"><span data-stu-id="968f4-891">This change addresses correctly rendering images after opening a corrupted file.</span></span>
+### <a name="word"></a><span data-ttu-id="5d0d9-1080">Word</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1080">Word</span></span>
+
+- <span data-ttu-id="5d0d9-1081">Исправлен сбой в Word при удалении от устаревшего API.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1081">Fixed a crash in Word by moving away from a deprecated API.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-1082">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1082">Office Suite</span></span>
+
+- <span data-ttu-id="5d0d9-1083">Это изменение касается правильной визуализации изображений после открытия поврежденного файла.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1083">This change addresses correctly rendering images after opening a corrupted file.</span></span>
 
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
-## <a name="version-1908-january-14"></a><span data-ttu-id="968f4-893">Версия 1908: 14 января</span><span class="sxs-lookup"><span data-stu-id="968f4-893">Version 1908: January 14</span></span>
-<span data-ttu-id="968f4-894">*Версия 1908 (сборка 11929.20562)*</span><span class="sxs-lookup"><span data-stu-id="968f4-894">*Version 1908 (Build 11929.20562)*</span></span>
+## <a name="version-1908-january-14"></a><span data-ttu-id="5d0d9-1085">Версия 1908: 14 января</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1085">Version 1908: January 14</span></span>
+<span data-ttu-id="5d0d9-1086">*Версия 1908 (сборка 11929.20562)*</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1086">*Version 1908 (Build 11929.20562)*</span></span>
 
-<span data-ttu-id="968f4-895">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="968f4-895">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="5d0d9-1087">Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1087">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
-### <a name="resolved-issues"></a><span data-ttu-id="968f4-897">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="968f4-897">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="968f4-898">Excel</span><span class="sxs-lookup"><span data-stu-id="968f4-898">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="5d0d9-1089">Решенные проблемы</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1089">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="5d0d9-1090">Excel</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1090">Excel</span></span>
 
-- <span data-ttu-id="968f4-899">На нидерландском языке подсказка клавиш для заголовка документа изменена на сочетание ALT+G.</span><span class="sxs-lookup"><span data-stu-id="968f4-899">Dutch keytip for document title has been changed to Alt-G.</span></span>
+- <span data-ttu-id="5d0d9-1091">На нидерландском языке подсказка клавиш для заголовка документа изменена на сочетание ALT+G.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1091">Dutch keytip for document title has been changed to Alt-G.</span></span>
 
-- <span data-ttu-id="968f4-900">Исправлена проблема, из-за которой настройка ленты не загружалась при открытии внедренной книги.</span><span class="sxs-lookup"><span data-stu-id="968f4-900">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
+- <span data-ttu-id="5d0d9-1092">Исправлена проблема, из-за которой настройка ленты не загружалась при открытии внедренной книги.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1092">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
 
-- <span data-ttu-id="968f4-901">Существовала проблема, не позволявшая выбирать элементы из поля со списком в форме WPF (Windows Presentation Foundation), открытой надстройкой.</span><span class="sxs-lookup"><span data-stu-id="968f4-901">There was a problem in which you would be unable to select items from combo box of a WPF (Windows Presentation Foundation) form that was opened by an add-in.</span></span>
+- <span data-ttu-id="5d0d9-1093">Существовала проблема, не позволявшая выбирать элементы из поля со списком в форме WPF (Windows Presentation Foundation), открытой надстройкой.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1093">There was a problem in which you would be unable to select items from combo box of a WPF (Windows Presentation Foundation) form that was opened by an add-in.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="968f4-902">Outlook</span><span class="sxs-lookup"><span data-stu-id="968f4-902">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="5d0d9-1094">Outlook</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1094">Outlook</span></span>
 
-- <span data-ttu-id="968f4-903">Исправлена проблема, приводившая к возникновению у пользователей заметных задержек при взаимодействии с папками почтового ящика с помощью сочетаний клавиш.</span><span class="sxs-lookup"><span data-stu-id="968f4-903">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
+- <span data-ttu-id="5d0d9-1095">Исправлена проблема, приводившая к возникновению у пользователей заметных задержек при взаимодействии с папками почтового ящика с помощью сочетаний клавиш.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1095">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
 
-- <span data-ttu-id="968f4-904">Исправлена проблема, из-за которой подсказки политики не отображались при использовании другого отправителя.</span><span class="sxs-lookup"><span data-stu-id="968f4-904">Addressed an issue that caused Policy Tips to fail to display when using an alternate sender.</span></span>
+- <span data-ttu-id="5d0d9-1096">Исправлена проблема, из-за которой подсказки политики не отображались при использовании другого отправителя.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1096">Addressed an issue that caused Policy Tips to fail to display when using an alternate sender.</span></span>
 
-- <span data-ttu-id="968f4-905">Исправлена проблема, вызывавшая у пользователей периодические сбои при обновлении сведений о присутствии.</span><span class="sxs-lookup"><span data-stu-id="968f4-905">Addressed an issue that caused users to experience intermittent crashes when updating presence information.</span></span>
+- <span data-ttu-id="5d0d9-1097">Исправлена проблема, вызывавшая у пользователей периодические сбои при обновлении сведений о присутствии.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1097">Addressed an issue that caused users to experience intermittent crashes when updating presence information.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="968f4-906">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="968f4-906">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="5d0d9-1098">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1098">PowerPoint</span></span>
 
-- <span data-ttu-id="968f4-907">Исправлена проблема, из-за которой копирование слайда из одной презентации в другую могло создавать дубликаты образцов.</span><span class="sxs-lookup"><span data-stu-id="968f4-907">We fixed an issue when copying a slide from one presentation to another might create duplicate masters.</span></span>
-- <span data-ttu-id="968f4-908">Файлы с новыми современными примечаниями отображают желтое предупреждение, если открываются в неподдерживаемой версии</span><span class="sxs-lookup"><span data-stu-id="968f4-908">Files with new modern comments will show a yellow warning if opened in unsupported version</span></span>
+- <span data-ttu-id="5d0d9-1099">Исправлена проблема, из-за которой копирование слайда из одной презентации в другую могло создавать дубликаты образцов.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1099">We fixed an issue when copying a slide from one presentation to another might create duplicate masters.</span></span>
+- <span data-ttu-id="5d0d9-1100">Файлы с новыми современными примечаниями отображают желтое предупреждение, если открываются в неподдерживаемой версии</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1100">Files with new modern comments will show a yellow warning if opened in unsupported version</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="968f4-909">Набор Office</span><span class="sxs-lookup"><span data-stu-id="968f4-909">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="5d0d9-1101">Набор Office</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1101">Office Suite</span></span>
 
-- <span data-ttu-id="968f4-910">Исправлена проблема, из-за которой сообщения об обновлениях Office отображаются на языке, отличном от ожидаемого.</span><span class="sxs-lookup"><span data-stu-id="968f4-910">Fixed an issue where Office update messages appear in a different language than expected.</span></span> <span data-ttu-id="968f4-911">В дальнейшем сообщения об обновлениях Office будут соответствовать языку интерфейса Windows.</span><span class="sxs-lookup"><span data-stu-id="968f4-911">Going forward, Office update messages will correctly match the Windows display language.</span></span>
+- <span data-ttu-id="5d0d9-1102">Исправлена проблема, из-за которой сообщения об обновлениях Office отображаются на языке, отличном от ожидаемого.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1102">Fixed an issue where Office update messages appear in a different language than expected.</span></span> <span data-ttu-id="5d0d9-1103">В дальнейшем сообщения об обновлениях Office будут соответствовать языку интерфейса Windows.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1103">Going forward, Office update messages will correctly match the Windows display language.</span></span>
 
-- <span data-ttu-id="968f4-912">Исправлена проблема, из-за которой обновление в некоторых случаях не применялось, если пользователь не являлся администратором, а системная учетная запись не была подключена к сети.</span><span class="sxs-lookup"><span data-stu-id="968f4-912">Resolved an issue where an update would not apply in certain cases where the user is not an administrator and the System account did not have network connectivity.</span></span>
+- <span data-ttu-id="5d0d9-1104">Исправлена проблема, из-за которой обновление в некоторых случаях не применялось, если пользователь не являлся администратором, а системная учетная запись не была подключена к сети.</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1104">Resolved an issue where an update would not apply in certain cases where the user is not an administrator and the System account did not have network connectivity.</span></span>
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 > [!NOTE]
-> <span data-ttu-id="968f4-914">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="968f4-914">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="5d0d9-1106">Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="5d0d9-1106">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
