@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Semi-Annual Channel для Office 365 профессиональный плюс для ИТ-специалистов
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760748"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735213"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>Архивные заметки о выпусках для Полугодового канала (корпоративного)
 
@@ -719,7 +719,8 @@ ms.locfileid: "49760748"
 
 ### <a name="office-suite-security-update"></a>Набор Office. Обновление для системы безопасности
 
-- **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
+- 
+  **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
  
 ### <a name="office-suite-non-security-updates"></a>Набор Office. Обновления, не связанные с безопасностью
 - Исправлена ошибка, из-за которой в некоторых случаях установка обновлений занимала длительное время.
@@ -1600,7 +1601,7 @@ ms.locfileid: "49760748"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2017-8696): уязвимость графического компонента Майкрософт, связанная с удаленным выполнением кода
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype для бизнеса. Обновления, не связанные с безопасностью
--   Добавлено диалоговое окно, поясняющее, почему пользователь не может присоединиться к собранию, когда определенные порты заблокированы или IP-адреса не добавлены в список разрешений.
+-   Добавлено диалоговое окно, поясняющее, почему пользователь не может присоединиться к собранию, когда определенные порты заблокированы или IP-адреса запрещены.
 -   Устранена проблема, из-за которой непрочитанные сообщения в комнатах сохраняемого чата помечаются как прочтенные при открытии вкладок бесед IM.
 -   Устранена проблема, из-за которой происходит задержка длительностью несколько секунд при отображении всплывающих уведомлений IM.
 -   Устранена проблема, из-за которой контакт AD отображается не как имя контакта, а как номер телефона, когда синхронизация с Exchange отключена.
