@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595694"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741652"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Заметки о выпусках Полугодового канала (корпоративный)
 
@@ -190,7 +190,7 @@ ms.locfileid: "50595694"
 
 - **Перетаскивайте письма в вашу собственную группу.** Перемещайте и копируйте сообщения и беседы, перетаскивая их из папки "Входящие". Общий доступ к перенесенным сообщениям будет предоставляться всем участникам группы.<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)
 
-- **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Прикрепив календарь к панели To-Do, присоединяйтесь к любому собранию одним щелчком мыши. [Подробнее](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
+- **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Если календарь закреплен на панели задач, учетные записи пользователей, размещенные в Exchange Server 2019 или Exchange Online, могут присоединиться к любому собранию одним щелчком мыши. [Подробнее](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
