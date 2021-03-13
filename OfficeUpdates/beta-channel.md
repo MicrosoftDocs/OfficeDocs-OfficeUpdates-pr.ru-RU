@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
-ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
+ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
+ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50505671"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50756265"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -30,6 +30,38 @@ ms.locfileid: "50505671"
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+## <a name="version-2104-march-12"></a>Версия 2104: 12 марта
+*Версия 2104 (сборка 13906.20000)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="powerpoint"></a>PowerPoint
+
+- **Вставка видео Flipgrid в PowerPoint.** PowerPoint теперь поддерживает вставку видео Flipgrid на слайды.
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+<br/>
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, из-за которой гиперссылки, созданные с помощью функции ГИПЕРССЫЛКА, не работали, если файл был сохранен в формате PDF.
+
+
+### <a name="word"></a>Word
+
+- Исправлена проблема с комментариями во время совместного редактирования.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2103-march-05"></a>Версия 2103: 5 марта
 *Версия 2103 (сборка 13901.20036)*
@@ -2254,7 +2286,7 @@ ms.locfileid: "50505671"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
-### <a name="access"></a>Доступ
+### <a name="access"></a>Access
 
 - Исправлены проблемы с изменением размера и обновлением таблиц на панели задач.
 
@@ -2674,6 +2706,7 @@ ms.locfileid: "50505671"
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
@@ -2683,5 +2716,4 @@ ms.locfileid: "50505671"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
