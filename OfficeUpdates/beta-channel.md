@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756265"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902144"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -30,6 +30,36 @@ ms.locfileid: "50756265"
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+## <a name="version-2104-march-19"></a>Версия 2104: 19 марта
+*Версия 2104 (сборка 13913.20000)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="access"></a>Access
+
+- Это изменение исправляет проблему, из-за которой в некоторых случаях при выполнении запроса к серверу SQL Server могло возникать сообщение об ошибке, указывающее на "недопустимое состояние курсора".
+
+
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, не позволявшая вставлять формулы на защищенном листе.
+
+
+### <a name="project"></a>Project
+
+- Исправлена проблема, из-за которой при использовании формата даты W4/4 в средстве выбора даты мог отображаться неправильный день и год.
+
+
+### <a name="office-suite"></a>Набор Office
+
+- Исправлена проблема с поддержкой GDI+ LineJoinMiterClipped в Office.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2104-march-12"></a>Версия 2104: 12 марта
 *Версия 2104 (сборка 13906.20000)*
@@ -2706,6 +2736,7 @@ ms.locfileid: "50756265"
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
@@ -2715,5 +2746,4 @@ ms.locfileid: "50756265"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
