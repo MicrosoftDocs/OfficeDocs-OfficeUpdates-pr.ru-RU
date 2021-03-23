@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
-ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
+ms.openlocfilehash: e12cd2ef1015a6f561d186ace737e96548dc5d18
+ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50829233"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51030769"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -28,6 +28,20 @@ ms.locfileid: "50829233"
 > - Функции Microsoft Teams могут отличаться от последних версий Актуального канала (предварительная версия), поскольку они выпускаются чаще.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="version-2103-march-22"></a>Версия 2103: 22 марта
+*Версия 2103 (сборка 13901.20230)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="outlook"></a>Outlook
+
+- Исправлена проблема, из-за которой пользователи видели больше подписей, чем ожидалось.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2103-march-15"></a>Версия 2103: 15 марта
 *Версия 2103 (сборка 13901.20170)*
