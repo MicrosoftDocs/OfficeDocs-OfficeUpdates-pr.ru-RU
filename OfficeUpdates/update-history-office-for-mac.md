@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Информация о последних обновлениях Office для Mac, включая ссылки на скачивание пакетов, и история обновлений для ИТ-специалистов
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837497"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170178"
 ---
 # <a name="update-history-for-office-for-mac"></a>История обновлений Office для Mac
   
 Обновления для приложения Office для Mac, которое входит в состав подписки на Microsoft 365, выходят на регулярной основе и содержат новые функции, обновления для системы безопасности и обновления, не связанные с безопасностью. Приведенные ниже сведения в первую очередь предназначены для ИТ-специалистов, которым приходится развертывать Office для Mac для пользователей в организациях.
 
 > [!NOTE]
-> - Начиная с версии 16.21, Microsoft Teams устанавливается по умолчанию для ***новых*** экземпляров установки, если вы используете установочный пакет набора Office. Дополнительные сведения см. в разделе [Установка экземпляров Microsoft Teams на компьютере Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
-> - Из соображений безопасности корпорация Майкрософт прекратила использование SHA-1. [Подробнее](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Начиная с версии 16.21, Microsoft Teams устанавливается по умолчанию для ***новых*** экземпляров установки, если вы используете установочный пакет набора Office. Дополнительные сведения см. в разделе [Установка экземпляров Microsoft Teams на компьютере Mac](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> - Из соображений безопасности корпорация Майкрософт прекратила использование SHA-1. [Подробнее](/security-updates/SecurityAdvisories/2017/4010323)
 > - Начиная с выпуска 16.17 за сентябрь 2018 года, эта информация также относится к Office 2019 для Mac, версии Office для Mac, которую можно приобрести в розничном магазине или через соглашение о корпоративном лицензировании.
 > - Информацию о том, какие функции, обновления для системы безопасности и обновления, не связанные с безопасностью, включены в определенный выпуск Office для Mac, см. в статье [Заметки о выпусках Office для Mac](release-notes-office-for-mac.md).
 > - Чтобы получить ранний доступ к новым выпускам, присоединяйтесь к программе [предварительной оценки Office](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).

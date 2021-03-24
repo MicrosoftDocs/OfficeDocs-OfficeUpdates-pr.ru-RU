@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741652"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169617"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Заметки о выпусках Полугодового канала (корпоративный)
 
 Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Полугодовой канал (корпоративный) для подписок "Приложения Microsoft 365 для предприятий", "Приложения Microsoft 365 для бизнеса", а также эквивалентов классических приложений для Project и Visio, предоставляемых по подписке.
 
 > [!IMPORTANT]
-> Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2008-march-09"></a>Версия 2008: 9 марта
 *Версия 2008 (сборка 13127.21348)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -68,12 +68,12 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-march-09"></a>Версия 2002: 9 марта
 *Версия 2002 (сборка 12527.21686)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>Версия 2008: 9 февраля
 *Версия 2008 (сборка 13127.21216)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -134,7 +134,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-february-09"></a>Версия 2002: 9 февраля
 *Версия 2002 (сборка 12527.21594)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -151,12 +151,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-february-09"></a>Версия 1908: 9 февраля
 *Версия 1908 (сборка 11929.21008)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>Версия 2008: 12 января
 *Версия 2008 (сборка 13127.21064)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
@@ -192,7 +192,7 @@ ms.locfileid: "50741652"
 
 - **Присоединяйтесь к собраниям, не выходя из папки Входящие:** не нужно переключаться на календарь, чтобы присоединиться к онлайн-собраниям. Если календарь закреплен на панели задач, учетные записи пользователей, размещенные в Exchange Server 2019 или Exchange Online, могут присоединиться к любому собранию одним щелчком мыши. [Подробнее](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Новый интерфейс для сетей Wi-Fi с авторизацией.** Вам приходилось присоединяться к сети Wi-Fi с обязательной веб-страницей для входа? Теперь Outlook обнаруживает это и помогает вам подключиться.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Получение предложений электронной почты при поиске пользователя.** Когда вы вводите имя пользователя в поле поиска, в предложения поиска включаются наиболее подходящие сообщения электронной почты. [Подробнее](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-january-12"></a>Версия 2002: 12 января
 *Версия 2002 (сборка 12527.21504)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -864,7 +864,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-january-12"></a>Версия 1908: 12 января
 *Версия 1908 (сборка 11929.20994)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -881,7 +881,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-december-08"></a>Версия 2002: 08 декабря
 *Версия 2002 (сборка 12527.21416)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -925,12 +925,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-december-08"></a>Версия 1908: 08 декабря
 *Версия 1908 (сборка 11929.20984)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>Версия 2002: 10 ноября
 *Версия 2002 (сборка 12527.21330)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -967,12 +967,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-november-10"></a>Версия 1908: 10 ноября
 *Версия 1908 (сборка 11929.20974)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>Версия 2002: 13 октября
 *Версия 2002 (сборка 12527.21236)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1012,7 +1012,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-october-13"></a>Версия 1908: 13 октября
 *Версия 1908 (сборка 11929.20966)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1029,7 +1029,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-september-08"></a>Версия 2002: 08 сентября
 *Версия 2002 (сборка 12527.21104)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1059,12 +1059,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-september-08"></a>Версия 1908: 08 сентября
 *Версия 1908 (сборка 11929.20946)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>Версия 2002: 11 августа
 *Версия 2002 (сборка 12527.20988)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1099,12 +1099,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-august-11"></a>Версия 1908: 11 августа
 *Версия 1908 (сборка 11929.20934)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>Версия 1902: 11 августа
 *Версия 1902 (сборка 11328.20644)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1115,7 +1115,7 @@ ms.locfileid: "50741652"
 ## <a name="version-2002-july-14"></a>Версия 2002: 14 июля
 *Версия 2002 (сборка 12527.20880)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1631,7 +1631,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-july-14"></a>Версия 1908: 14 июля
 *Версия 1908 (сборка 11929.20904)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -1811,7 +1811,7 @@ ms.locfileid: "50741652"
 
 - Устраняет проблему, из-за которой пользователи столкнулись с проблемами, связанными с общими папками календаря, которые синхронизируются с PST-ФАЙЛОМ, при котором при попытке взаимодействовать с этими папками возникает ошибка.
 
-- Устранена проблема, приводившая к сбоям при просмотре более 30 календарей в среде Citrix. Вот отдельная [статья базы знаний, где эта проблема задокументирована в описаниях предыдущих версий](https://support.microsoft.com/ru-RU/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
+- Устранена проблема, приводившая к сбоям при просмотре более 30 календарей в среде Citrix. Вот отдельная [статья базы знаний, где эта проблема задокументирована в описаниях предыдущих версий](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen).
 
 - Устранена проблема с выбором алгоритма SMIME.
 
@@ -1969,12 +1969,12 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-july-14"></a>Версия 1902: 14 июля
 *Версия 1902 (сборка 11328.20624)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>Версия 1908: 09 июля
 *Версия 1908 (сборка 11929.20838)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2002,7 +2002,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-june-09"></a>Версия 1902: 09 июня
 *Версия 1902 (сборка 11328.20602)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2021,7 +2021,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-may-12"></a>Версия 1908: 12 мая
 *Версия 1908 (сборка 11929.20776)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2046,7 +2046,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-may-12"></a>Версия 1902: 12 мая
 *Версия 1902 (сборка 11328.20586)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2064,7 +2064,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-may-04"></a>Версия 1908: 04 мая
 *Версия 1908 (сборка 11929.20752)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-april-26"></a>Версия 1908: 26 апреля
 *Версия 1908 (сборка 11929.20736)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1908-april-14"></a>Версия 1908: 14 апреля
 *Версия 1908 (сборка 11929.20708)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -2145,14 +2145,14 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-april-14"></a>Версия 1902: 14 апреля
 *Версия 1902 (сборка 11328.20564)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-march-10"></a>Версия 1908: 10 марта
 *Версия 1908 (сборка 11929.20648)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2186,14 +2186,14 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-march-10"></a>Версия 1902: 10 марта
 *Версия 1902 (сборка 11328.20554)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-february-11"></a>Версия 1908: 11 февраля
 *Версия 1908 (сборка 11929,20606)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2261,7 +2261,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-february-11"></a>Версия 1902: 11 февраля
 *Версия 1902 (сборка 11328,20526)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2283,14 +2283,14 @@ ms.locfileid: "50741652"
 ## <a name="version-1808-february-11"></a>Версия 1808: 11 февраля
 *Версия 1808 (сборка 10730,20438)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-1908-january-14"></a>Версия 1908: 14 января
 *Версия 1908 (сборка 11929.20562)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -2409,11 +2409,11 @@ ms.locfileid: "50741652"
 
 - **Сохранение изменений по мере внесения.** Отправляйте свои файлы в OneDrive, чтобы обеспечить автоматическое сохранение всех обновлений.
 
-- **Средства контроля конфиденциальности.** Новые, обновленные и улучшенные средства контроля для диагностических данных и сетевых функций. [Подробнее](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Средства контроля конфиденциальности.** Новые, обновленные и улучшенные средства контроля для диагностических данных и сетевых функций. [Подробнее](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Новый дизайн значков Office.** Дизайн значков Office был изменен с целью отобразить простой, мощный и интеллектуальный интерфейс Office.
 
-- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается для существующих экземпляров Office 365 профессиональный плюс. [Подробнее](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Установка Microsoft Teams.** Microsoft Teams по умолчанию устанавливается для существующих экземпляров Office 365 профессиональный плюс. [Подробнее](/DeployOffice/teams-install)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -2652,7 +2652,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1902-january-14"></a>Версия 1902: 14 января
 *Версия 1902 (сборка 11328.20512)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -2680,7 +2680,7 @@ ms.locfileid: "50741652"
 ## <a name="version-1808-january-14"></a>Версия 1808: 14 января
 *Версия 1808 (сборка 10730.20432)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 

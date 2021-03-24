@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет пользователям заметки о выпуске обновлений для Приложений Microsoft 365 в Windows 7
-ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595463"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170168"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Журнал обновлений для Приложений Microsoft 365 в Windows 7 
 
  > [!NOTE]
 >
 >- Поддержка Windows 7 окончена 14 января 2020 г. [Подробнее](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Приложения Microsoft 365 больше не поддерживаются в Windows 7, но продолжат получать обновления для системы безопасности до января 2023 г. Дополнительные сведения см. в статье [Окончание поддержки Windows 7 и использование Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support).
+>- Приложения Microsoft 365 больше не поддерживаются в Windows 7, но продолжат получать обновления для системы безопасности до января 2023 г. Дополнительные сведения см. в статье [Окончание поддержки Windows 7 и использование Приложений Microsoft 365](/DeployOffice/endofsupport/windows-7-support).
 >- Если вы домашний пользователь Office для Windows 7, см. статью [Окончание поддержки Windows 7 и Office ](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9).
 
 Версия 2002 — это последняя версия Приложений Microsoft 365, доступная на компьютерах с Windows 7. Версия 2002 доступна по всем каналам обновлений для Приложений Microsoft 365.
@@ -32,7 +32,7 @@ ms.locfileid: "50595463"
 
 Во второй вторник каждого месяца будет выпускаться новая сборка версии 2002 с необходимыми обновлениями для системы безопасности. Список обновлений для системы безопасности, включенных в выпуски версии 2002, см. в статье [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md).
 
-Если вы управляете обновлениями с помощью диспетчера конфигураций конечных точек Майкрософт, см. раздел [Рекомендации по использованию диспетчера конфигураций для обновления](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
+Если вы управляете обновлениями с помощью диспетчера конфигураций конечных точек Майкрософт, см. раздел [Рекомендации по использованию диспетчера конфигураций для обновления](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
 
 
 ## <a name="update-history"></a>Журнал обновлений

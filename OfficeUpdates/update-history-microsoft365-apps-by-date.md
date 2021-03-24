@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902154"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170208"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
 Эти номера версий и сборок применяются к приложениям Microsoft 365 для предприятий, Microsoft 365 для бизнеса и версиям классических приложений Project и Visio, включающих подписки.
 
 > [!IMPORTANT]
-> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](/deployoffice/name-change). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 > [!NOTE]
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
-> - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Дополнительную информацию о каналах обновления см. в статье [Обзор каналов обновления для Приложений Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 В следующей таблице перечислены поддерживаемая версия и номер самой последней сборки для каждого канала обновления. Дата выпуска указывает, когда была выпущена актуальная сборка.
 
@@ -45,7 +45,7 @@ ms.locfileid: "50902154"
 
 [//]: # (EOSTABLEEND)
 
-Сведенья о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска приложений Microsoft 365 до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях приложений Microsoft 365](download-sizes-office365-proplus-updates.md).
+Сведенья о приблизительном объеме скачиваемых данных при обновлении с предыдущего выпуска приложений Microsoft 365 до последнего выпуска см. в статье [Объемы скачиваемых данных при обновлениях приложений Microsoft 365](./download-sizes-microsoft365-apps-updates.md).
 
 В таблице ниже приведены номера версий и сборок для каждого обновления приложений Microsoft 365, выпущенных в следующих каналах обновления: Актуальный, Ежемесячный (корпоративный), Полугодовой (предварительная корпоративная версия), Полугодовой (корпоративный). Каждая запись в таблице связывается непосредственно с заметками о соответствующем выпуске. В этих заметках о выпусках содержатся сведения о функциях, обновлениях системы безопасности и обновлениях, не связанных с безопасностью, включенных в обновление приложений Microsoft 365.
 
@@ -139,10 +139,10 @@ ms.locfileid: "50902154"
 |2019|25 марта |[Версия 1902 (сборка 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019|12 марта |[Версия 1902 (сборка 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[Версия 1902 (сборка 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[Версия 1808 (сборка 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019|4 марта  |[Версия 1902 (сборка 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019|12 февраля |[Версия 1901 (сборка 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Версия 1808 (сборка 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Версия 1808 (сборка 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Версия 1803 (сборка 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Версия 1708 (сборка 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|12 февраля |[Версия 1901 (сборка 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Версия 1808 (сборка 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Версия 1808 (сборка 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Версия 1803 (сборка 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Версия 1708 (сборка 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|31 января   |[Версия 1901 (сборка 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|14 января   |[Версия 1812 (сборка 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|8 января |[Версия 1812 (сборка 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[Версия 1808 (сборка 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Версия 1808 (сборка 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Версия 1803 (сборка 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Версия 1708 (сборка 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|8 января |[Версия 1812 (сборка 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[Версия 1808 (сборка 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Версия 1808 (сборка 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Версия 1803 (сборка 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Версия 1708 (сборка 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|3 января   |[Версия 1812 (сборка 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|11 декабря |[Версия 1811 (сборка 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[Версия 1808 (сборка 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Версия 1803 (сборка 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Версия 1708 (сборка 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 ноября   |[Версия 1811 (сборка 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -223,11 +223,11 @@ ms.locfileid: "50902154"
 
 [//]: # (HISTORYTABLEEND)
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Статьи по теме
 
-- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Информация о выпуске обновлений для Приложений Microsoft 365](release-notes-office365-proplus.md)
-- [Размеры скачиваемых обновлений для Приложений Microsoft 365](download-sizes-office365-proplus-updates.md)
+- [Обзор каналов обновления для Приложений Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Информация о выпуске обновлений для Приложений Microsoft 365](./release-notes-microsoft365-apps.md)
+- [Размеры скачиваемых обновлений для Приложений Microsoft 365](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > Если вам нужна помощь с использованием Office, рекомендуем задать вопрос на [форуме](https://answers.microsoft.com/) или в [сообществе](https://techcommunity.microsoft.com/) или связаться со [службой поддержки](https://support.microsoft.com/contactus).

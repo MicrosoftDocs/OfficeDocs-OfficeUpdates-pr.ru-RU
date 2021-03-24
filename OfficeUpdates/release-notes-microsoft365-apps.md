@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Список последних выпусков приложений Microsoft 365 для каждого канала обновления и ссылки на заметки о выпусках и историю обновлений для ИТ-специалистов
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780683"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170148"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Информация о выпуске обновлений для Приложений Microsoft 365
 
 
 > [!IMPORTANT]
-> Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](https://go.microsoft.com/fwlink/p/?linkid=2123420). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+> Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](/deployoffice/name-change). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Обновления системы безопасности для выпусков Приложений Microsoft 365
@@ -64,12 +64,12 @@ ms.locfileid: "49780683"
 
 ## <a name="related-topics"></a>Статьи по теме
 
-- [Обзор каналов обновления для Приложений Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Развертывание Office](https://docs.microsoft.com/deployoffice/)
+- [Обзор каналов обновления для Приложений Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Развертывание Office](/deployoffice/)
 - [Новые возможности приложений Microsoft 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Стратегия развития приложений Microsoft 365](https://products.office.com/business/office-365-roadmap)
 - [Общие сведения о центре сообщений приложений Microsoft 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Информация о выпуске Windows 10](https://aka.ms/windows/releaseinfo)
+- [Информация о выпуске Windows 10](/windows/release-health/release-information)
 - [Руководство по обновлениям для системы безопасности Майкрософт](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]

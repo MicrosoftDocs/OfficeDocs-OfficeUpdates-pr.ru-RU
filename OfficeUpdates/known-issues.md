@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Сведения об известных проблемах с Office 365 профессиональный плюс
-ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: f93d43233c448cdc1100fe82e255acbb1fd344f3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369947"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169848"
 ---
 # <a name="microsoft-365-apps-known-issues"></a>Известные проблемы с Приложениями Microsoft 365
 
@@ -23,7 +23,7 @@ ms.locfileid: "48369947"
 
 > [!NOTE]
 >- Этот список не является полным.
->- Если у вас возникла проблема в канале, который не является разрешенным, скоро она будет устранена. [Подробнее](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- Если у вас возникла проблема в канале, который не является разрешенным, скоро она будет устранена. [Подробнее](/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- Устраненные проблемы также описываются на страницах соответствующих каналов.
 
 <br>
