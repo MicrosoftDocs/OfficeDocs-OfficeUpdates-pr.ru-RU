@@ -48,14 +48,14 @@
 ## [Обновления для Office, не связанные с безопасностью (MSI)](office-MSI-non-security-updates.md)
 ## [MSP-файлы для Office 2016 (MSI)](msp-files-office-2016.md)
 ## [MSP-файлы для Office 2013 (MSI)](msp-files-office-2013.md)
-## [Обновления для Skype для бизнеса (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [Обновления для Skype для бизнеса (MSI)](/SkypeForBusiness/sfb-client-updates)
 
 # Серверные продукты Office
-## [Обновления для Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+## [Обновления для Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Обновления для Project Server](project-server-updates.md)
 ## [Обновления для SharePoint](sharepoint-updates.md)
-## [Обновления для Skype для бизнеса Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
+## [Обновления для Skype для бизнеса Server](/SkypeForBusiness/sfb-server-updates)
 
 # Связанные ссылки
-## [Выпуски Windows 10](https://aka.ms/windows/releaseinfo)
+## [Выпуски Windows 10](/windows/release-health/release-information)
 ## [Политика жизненного цикла поддержки Майкрософт](https://support.microsoft.com/lifecycle)
