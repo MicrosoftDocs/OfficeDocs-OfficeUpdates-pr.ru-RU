@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595503"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169698"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -41,7 +41,7 @@ ms.locfileid: "50595503"
    
 ## <a name="office-2010-updates"></a>Обновления для Office 2010
 > [!IMPORTANT]
-> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|:-----|

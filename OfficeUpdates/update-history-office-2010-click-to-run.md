@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2010 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989938"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170198"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Журнал обновления продуктов Office 2010 "нажми и работай"
 
 > [!IMPORTANT]
-> Поддержка Office 2010 закончилась 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [План прекращения поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Перечисленные ниже продукты Office 2010 обновляются автоматически с помощью технологии "нажми и работай".
@@ -33,7 +33,7 @@ ms.locfileid: "48989938"
 Если вы используете один из этих продуктов и хотите убедиться в том, что пакет обновлен, проверьте номер версии Office и при необходимости обновите Office.
   
 > [!NOTE]
-> Самая последняя версия Office 2010 — **14.0.7261.5000** , выпущенная 13 октября 2020 г.
+> Самая текущая версия Office 2010 — **14.0.7261.5000,** выпущенная 13 октября 2020 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -70,7 +70,7 @@ ms.locfileid: "48989938"
 |2019|10 декабря  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||12 ноября  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
 ||8 октября  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/help/4522242) <br/> |
-||10 сентября  <br/> |14.0.7237.5000  <br/> |[СТАТЬЯ БАЗЫ ЗНАНИЙ 4517986](https://support.microsoft.com/help/4517986) <br/> |
+||10 сентября  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/help/4517986) <br/> |
 ||13 августа  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/help/4514418) <br/> |
 ||9 июля  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/help/4509295) <br/> |
 ||11 июня  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/help/4505743) <br/> |
@@ -132,9 +132,9 @@ ms.locfileid: "48989938"
 ||8 апреля  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 февраля  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |14 мая  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |9 октября  <br/> |14.0.6126.5003  <br/> |[Бюллетень по безопасности (Майкрософт) MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Бюллетень по безопасности (Майкрософт) MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Обновление определения Office 2010  <br/> |
+|2012  <br/> |9 октября  <br/> |14.0.6126.5003  <br/> |[Бюллетень по безопасности (Майкрософт) MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Бюллетень по безопасности (Майкрософт) MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Обновление определения Office 2010  <br/> |
 ||13 марта  <br/> |14.0.6117.5002  <br/> |Обновление определения Office 2010  <br/> |
-|2011  <br/> |13 декабря  <br/> |14.0.6114.5002  <br/> |[Бюллетень по безопасности (Майкрософт) MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Обновление фильтра нежелательной почты Outlook 2010  <br/> |
+|2011  <br/> |13 декабря  <br/> |14.0.6114.5002  <br/> |[Бюллетень по безопасности (Майкрософт) MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Обновление фильтра нежелательной почты Outlook 2010  <br/> |
 ||12 апреля  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Обновление определения Office 2010  <br/> |
 ||9 февраля  <br/> |14.0.5130.5004  <br/> |Обновление определения Office 2010  <br/> |
 |2010  <br/> |14 декабря  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Обновление определения Office 2010  <br/> |
@@ -147,5 +147,3 @@ ms.locfileid: "48989938"
 |2009  <br/> |8 декабря  <br/> |14.0.4541.1000 (бета-версия)  <br/> |Это бета-версия Office 2010.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||18 ноября  <br/> |14.0.4536.1000  <br/> |Это бета-версия Office 2010.  <br/> |
    
-  
-

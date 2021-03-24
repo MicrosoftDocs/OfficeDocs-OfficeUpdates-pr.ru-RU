@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
-ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595543"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169738"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -32,11 +32,11 @@ ms.locfileid: "50595543"
     
 - Требования к системе для локальных развертываний Exchange зависят от используемой версии Outlook.
     
-  - [Требования к системе для Exchange 2016](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Требования к системе для Exchange 2016](/Exchange/plan-and-deploy/system-requirements)
     
-  - [Требования к системе для Exchange 2013](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Требования к системе для Exchange 2013](/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Требования к системе для Exchange 2010](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Требования к системе для Exchange 2010](/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Обновления для Outlook 2016
@@ -53,10 +53,8 @@ ms.locfileid: "50595543"
    
 ## <a name="outlook-2010-updates"></a>Обновления для Outlook 2010
 > [!IMPORTANT]
-> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [План прекращения поддержки Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [План прекращения поддержки Office 2010](/DeployOffice/office-2010-end-support-roadmap).
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
 |SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за декабрь 2020 г. <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
-   
-

@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Централизованный поиск обновлений для SharePoint Server 2016, SharePoint 2013 и SharePoint 2010 и управление ими. Чтобы узнать больше об обновлениях и скачать их, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: e9187ff0773046586409e63904b3be303dc4f222
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ebcdf333a3c9a8cd934508a51159eaa7cb2a278c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595673"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170248"
 ---
 # <a name="sharepoint-updates"></a>Обновления SharePoint
 
@@ -323,20 +323,20 @@ ms.locfileid: "50595673"
 - Windows Server AppFabric с SharePoint
   
   - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
-  - [AppFabric с SharePoint: основные понятия](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
-  - [Обновления AppFabric](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
+  - [AppFabric с SharePoint: основные понятия](/archive/blogs/besidethepoint/appfabric-caching-and-sharepoint-concepts-and-examples-part-1)
+  - [Обновления AppFabric](/archive/blogs/distributedservices/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages)
   
 - Управление рабочими процессами в SharePoint 
   
-  - [Установка и настройка рабочих процессов для SharePoint Server](https://docs.microsoft.com/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
-  - [Обновления Workflow Manager](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [Установка и настройка рабочих процессов для SharePoint Server](/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
+  - [Обновления Workflow Manager](/archive/blogs/workflowteam/)
    
 
 ## <a name="related-topics"></a>Связанные статьи
 
-- [Установка обновления программного обеспечения для SharePoint Server 2019](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-- [Установка обновления программного обеспечения для SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [Обзор обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [Подготовка к развертыванию обновлений программного обеспечения для SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
-- [Обновления для Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [Установка обновления программного обеспечения для SharePoint Server 2019](/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [Установка обновления программного обеспечения для SharePoint Server 2016](/SharePoint/upgrade-and-update/install-a-software-update)
+- [Обзор обновлений программного обеспечения для SharePoint Server 2013](/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [Подготовка к развертыванию обновлений программного обеспечения для SharePoint Server 2013](/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Обновления для Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
 - [Обновления для Project Server](project-server-updates.md)

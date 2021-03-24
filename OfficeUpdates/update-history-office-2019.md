@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2016 и 2019 с технологией "нажми и работай" (C2R) для ИТ-специалистов
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902184"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169488"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Журнал обновлений для Office 2016 C2R и Office 2019
 
@@ -35,8 +35,8 @@ ms.locfileid: "50902184"
 
 
  > [!NOTE]
-> - Начиная с 11 августа 2020 г., обновления для системы безопасности (статьи CVE) для Office 2016 и 2019 приводятся на [странице обновления для системы безопасности](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) вместо этой страницы. 
-> - Office 2016 и 2019 поддерживаются в [политике фиксированного жизненного цикла](https://docs.microsoft.com/lifecycle/policies/fixed). Поддерживаются только последние выпуски корпоративного лицензирования и розничной торговли, указанные ниже.
+> - Начиная с 11 августа 2020 г., обновления для системы безопасности (статьи CVE) для Office 2016 и 2019 приводятся на [странице обновления для системы безопасности](./microsoft365-apps-security-updates.md) вместо этой страницы. 
+> - Office 2016 и 2019 поддерживаются в [политике фиксированного жизненного цикла](/lifecycle/policies/fixed). Поддерживаются только последние выпуски корпоративного лицензирования и розничной торговли, указанные ниже.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Корпоративные версии Office 2019
@@ -153,9 +153,3 @@ ms.locfileid: "50902184"
 
 
 </details>
-
-
-
-
-
-

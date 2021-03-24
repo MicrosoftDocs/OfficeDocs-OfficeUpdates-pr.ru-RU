@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и загрузить сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: c37a6eeae3dc6472a800151ae7d78c3e6dabbca2
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ae21395ff12335149db9fe351dc516549143ce52
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595523"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170158"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -260,5 +260,5 @@ ms.locfileid: "50595523"
 
 ## <a name="related-topics"></a>Похожие темы
 
-- [Обновления Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [Обновления Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
 - [Обновления SharePoint](sharepoint-updates.md)
