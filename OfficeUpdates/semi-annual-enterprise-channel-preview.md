@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
+ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170218"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51196738"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)
 
@@ -79,9 +79,7 @@ ms.locfileid: "51170218"
 
 ### <a name="word"></a>Word
 
-- **Произвольное выделение и ластик в панели инструментов рукописного ввода.** При использовании средств рисования в панели инструментов рукописного ввода теперь доступно произвольное выделение и ластик.<br />Дополнительные сведения см. в [записи блога](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
-
-- **Инструменты всегда под рукой.** На панели элементов "Рисование" найдите интеллектуальное перо, с помощью которого к тексту можно добавить жесты рукописного ввода. [Подробнее](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+- **Произвольное выделение и ластик в панели инструментов рукописного ввода.** При использовании средств рисования в панели инструментов рукописного ввода теперь доступно произвольное выделение и ластик.<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
 
 - **Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.  Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла. Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить". Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint. [Подробнее](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
