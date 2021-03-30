@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки журнал обновлений для выпусков Monthly Channel Targeted для настольных компьютеров с Windows
-ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 578a6940c75add13c10463dca8bbea7e38cf6f76
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170238"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408062"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Журнал обновлений Актуального канала Office (предварительная версия) для Windows
 
@@ -24,7 +24,7 @@ ms.locfileid: "51170238"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Версии и сборки текущего канала (предварительной версии) Office
 
 Если вы зарегистрированы на уровне Актуального канала (предварительной версии), который раньше назывался "Программа предварительной оценки — поздний доступ", приблизительно раз в месяц вы получаете обновления компонентов Office, а также последующие сборки с важными исправлениями и обновлениями для системы безопасности. В списке ниже перечислены последние версии и сборки Актуального канала (предварительной версии), при этом **последняя сборка указана в начале**. Каждая новая сборка содержит все обновления из предыдущих сборок.
-Заметки о выпуске [см. в разделе](./current-channel-preview.md). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/en-us/releasenotes/windows/slow).
+Заметки о выпуске [см. в разделе](./current-channel-preview.md). Кроме того, см. статью [Новые возможности для участников программы предварительной оценки Office](https://insider.office.com/ru-RU/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -38,6 +38,9 @@ ms.locfileid: "51170238"
 
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+**28 марта 2021 г.**<br/>
+Версия 2103 (сборка 13901.20306)<br/>
 
 **22 марта 2021 г.**<br/>
 Версия 2103 (сборка 13901.20230)<br/>
