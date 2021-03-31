@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408052"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440714"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -28,6 +28,10 @@ ms.locfileid: "51408052"
 > - Функции Microsoft Teams могут отличаться от последних версий Актуального канала (предварительная версия), поскольку они выпускаются чаще.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="version-2103-march-30"></a>Версия 2103: 30 марта
+*Версия 2103 (сборка 13901.20312)*
+* Исправления различных ошибок и улучшения производительности.
 
 ## <a name="version-2103-march-28"></a>Версия 2103: 28 марта
 *Версия 2103 (сборка 13901.20306)*
