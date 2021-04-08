@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
+ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418064"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51598120"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,11 @@ ms.locfileid: "50418064"
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+
+## <a name="april-6-2021"></a>6 апреля 2021 г.
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 [(KB4486672](https://support.microsoft.com/help/4486672)) </br> 
 
 ## <a name="march-2-2021"></a>2 марта 2021 г.
 **Office 2016**<br/>
@@ -80,23 +85,5 @@ ms.locfileid: "50418064"
 Обновление для Microsoft Visio 2016 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
 Обновление для Skype для бизнеса 2016 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
-## <a name="september-1-2020"></a>1 сентября 2020 г.
-**Office 2016**<br/>
-Обновление для Microsoft Office 2016 ([KB4484251](https://support.microsoft.com/help/4484251))<br/>
-Обновление для Microsoft Office 2016 ([KB4484395](https://support.microsoft.com/help/4484395))<br/> Обновление для Microsoft Office 2016 ([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
-Обновление для Microsoft Outlook 2016 ([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
-Обновление для Skype для бизнеса 2016 ([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
-
-**Office 2013**<br/>
-Обновление для Microsoft Visio 2013 ([KB4484355](https://support.microsoft.com/help/4484355))<br/>
-
-## <a name="august-4-2020"></a>4 августа 2020 г.
-
-**Office 2016**<br/>
-Обновление для Microsoft Office 2016 ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Обновление для Microsoft Project 2016 ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
-Обновление для Skype для бизнеса 2016 ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
-
-**Office 2010**<br/>
-Обновление для Microsoft Office 2010 ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Обновление для Microsoft PowerPoint 2010 ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 </br>
