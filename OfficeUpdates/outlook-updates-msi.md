@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
-ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 370d3235a8c02d98c5ae038d13c1ed1c2f7d625e
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169738"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749207"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -43,13 +43,13 @@ ms.locfileid: "51169738"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за март 2021 г. <br/>[KB4493226](https://support.microsoft.com/help/4493226) 
+|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за апрель 2021 г. <br/>[KB4504712](https://support.microsoft.com/help/4504712) 
 
 ## <a name="outlook-2013-updates"></a>Обновления для Outlook 2013
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Общедоступное обновление за декабрь 2015 г. <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Общедоступное обновление за март 2021 г. <br/>[KB4493174 ](https://support.microsoft.com/help/4493174 )  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Общедоступное обновление за декабрь 2015 г. <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Общедоступное обновление за апрель 2021 г. <br/>[KB4504733](https://support.microsoft.com/help/4504733)  |
    
 ## <a name="outlook-2010-updates"></a>Обновления для Outlook 2010
 > [!IMPORTANT]
@@ -57,4 +57,4 @@ ms.locfileid: "51169738"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за декабрь 2020 г. <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Общедоступное обновление за октябрь 2015 г. <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Общедоступное обновление для Office 2010 для MAPI или HTTP за апрель 2015 г. <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Общедоступное обновление за апрель 2021 г. <br/>[KB4493185](https://support.microsoft.com/help/4493185) <br><br><br><br/>|
