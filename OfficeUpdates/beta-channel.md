@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
-ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
+ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51662333"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875730"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -30,6 +30,29 @@ ms.locfileid: "51662333"
 [//]: # (НЕ УДАЛЯТЬ)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+## <a name="version-2105-april-16"></a>Версия 2105: 16 апреля
+*Версия 2105 (сборка 14007.20002)*
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+
+- Исправлена проблема, вызывавшая сбой Excel при использовании 32-разрядной версии Office в 64-разрядной версии Windows.
+
+
+- Исправлена проблема, из-за которой экранный диктор неправильно читал свойства двух кнопок на вкладке "Колонтитулы" диалогового окна "Параметры страницы".
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Исправлена проблема со связанным рисунками.
+
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
 
 ## <a name="version-2105-april-09"></a>Версия 2105: 9 апреля
 *Версия 2105 (сборка 14002.20000)*
@@ -2819,6 +2842,7 @@ ms.locfileid: "51662333"
 
 
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ НАЧАЛО СОДЕРЖИМОГО)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
@@ -2828,5 +2852,4 @@ ms.locfileid: "51662333"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (НЕ ИЗМЕНЯТЬ МЕТАДАННЫЕ ЦЕНТРА АДМИНИСТРИРОВАНИЯ КОНЕЦ СОДЕРЖИМОГО)
