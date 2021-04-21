@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Monthly Enterprise Channel для Приложений Microsoft 365 в 2020 г. для ИТ-специалистов.
-ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c1e72418fa6b133775f7a78ca6f243fb61014ef5
+ms.sourcegitcommit: 65c8693187b7f6673343ae1516708df749c19a5a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749177"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900539"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Заметки о выпусках Monthly Enterprise Channel в 2020 г.
 
@@ -69,8 +69,6 @@ ms.locfileid: "51749177"
 
 - Исправлена проблема, из-за которой в некоторых случаях при выполнении запроса к серверу SQL Server могло возникать сообщение об ошибке, указывающее на "недопустимое состояние курсора".
 
-
-- Исправлена проблема, из-за которой пользователям отображалось диалоговое окно "Недопустимое состояние курсора".
 
 
 ### <a name="excel"></a>Excel
@@ -153,9 +151,6 @@ ms.locfileid: "51749177"
 
 
 - Исправлена ошибка, которая делала текст в Outlook прозрачным и поэтому невидимым.
-
-
-- Исправлена проблема, возникающая при использовании экранного диктора в тексте с математическими уравнениями.
 
 
 - Исправлена проблема, возникающая при использовании экранного диктора в тексте с математическими уравнениями.
@@ -296,7 +291,7 @@ ms.locfileid: "51749177"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/svg-content-office-third-party-apps)
+- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Ведение журнала аудита действий с метками конфиденциальности.** Когда пользователи присваивают, изменяют или удаляют метки конфиденциальности из своих документов и писем, эти сведения теперь становятся доступными администраторам в журналах аудита Microsoft 365.
 
@@ -554,7 +549,7 @@ ms.locfileid: "51749177"
 
 - **Экспорт GIF с анимацией в диапазоне:** можно выбрать диапазон слайдов при экспорте в GIF с анимацией
 
-- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/export-animated-gifs-transparent-backgrounds)
+- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -799,7 +794,7 @@ ms.locfileid: "51749177"
 - Исправлена ошибка, из-за которой пользователи не могли предоставить разрешение "Редактор" своим делегатам.
 
 
-- Исправлена проблема, из-за которой необязательные сетевые функции блокировали загрузку веб-надстроек.<br />Дополнительные сведения см. в этой [публикации в блоге](https://developer.microsoft.com/ru-RU/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Исправлена проблема, из-за которой необязательные сетевые функции блокировали загрузку веб-надстроек.<br />Дополнительные сведения см. в этой [публикации в блоге](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
