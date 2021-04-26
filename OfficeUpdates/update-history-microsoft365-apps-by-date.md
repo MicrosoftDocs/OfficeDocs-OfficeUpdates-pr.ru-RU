@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 7b0f88e47caed3d6391794ff4a770bc0976c65de
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749187"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995716"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
@@ -36,7 +36,7 @@ ms.locfileid: "51749187"
 
 |**Канал**|**Версия**|**Сборка**|**Дата выпуска**|**Версия поддерживается до**|
 |:-----|:-----|:-----|:-----|:-----|
-|Актуальный канал<br/>|2103<br/>|13901.20400<br/>|13 апреля 2021 г.<br/>|Вышла версия 2104<br/>|
+|Актуальный канал<br/>|2103<br/>|13901.20462<br/>|23 апреля 2021 г.<br/>|Вышла версия 2104<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2102<br/>|13801.20506<br/>|13 апреля 2021 г.<br/>|8 июня 2021 г.<br/>|
 |Ежемесячный канал (корпоративный)<br/>|2101<br/>|13628.20664<br/>|13 апреля 2021 г.<br/>|11 мая 2021 г.<br/>|
 |Полугодовой канал (предварительная корпоративная версия)<br/>|2102<br/>|13801.20506<br/>|13 апреля 2021 г.<br/>|14 сентября 2021 г.<br/>|
@@ -55,6 +55,7 @@ ms.locfileid: "51749187"
 
 |**Год**|**Дата выпуска**|**Актуальный канал**|**Ежемесячный канал (корпоративный)**|**Полугодовой канал (предварительная корпоративная версия)**|**Полугодовой канал (корпоративный)**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 г.|23 апреля|[Версия 2103 (сборка 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021 г.|13 апреля|[Версия 2103 (сборка 13901.20400)](current-channel.md#version-2103-april-13)|[Версия 2102 (сборка 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Версия 2101 (сборка 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Версия 2102 (сборка 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Версия 2008 (сборка 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Версия 2002 (сборка 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021 г.|2 апреля|[Версия 2103 (сборка 13901.20336)](current-channel.md#version-2103-april-02)| | | |
 |2021 г.|30 марта|[Версия 2103 (сборка 13901.20312)](current-channel.md#version-2103-march-30)| | | |
@@ -226,7 +227,7 @@ ms.locfileid: "51749187"
 
 [//]: # (HISTORYTABLEEND)
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>Связанные статьи
 
 - [Обзор каналов обновления для Приложений Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Информация о выпуске обновлений для Приложений Microsoft 365](./release-notes-microsoft365-apps.md)
