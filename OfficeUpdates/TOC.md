@@ -10,6 +10,7 @@
 
 ## Ежемесячный канал (корпоративный)
 ### [Заметки о выпуске](monthly-enterprise-channel.md)
+### [Архивные заметки о выпуске](monthly-enterprise-channel-archived.md)
 
 ## Полугодовой канал (корпоративный)
 ### [Заметки о выпуске](semi-annual-enterprise-channel.md)
