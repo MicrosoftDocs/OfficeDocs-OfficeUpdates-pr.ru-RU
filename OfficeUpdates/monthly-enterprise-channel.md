@@ -1,5 +1,5 @@
 ---
-title: Заметки о выпусках Monthly Enterprise Channel
+title: Заметки о выпусках Ежемесячного канала (корпоративного)
 ms.author: anankani
 author: anankani
 manager: anankani
@@ -8,20 +8,20 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Этот раздел содержит заметки о выпусках Monthly Enterprise Channel для Приложений Microsoft 365 для ИТ-специалистов.
-ms.openlocfilehash: 66ee8ab5a7a3a855992efdc6e29e23f997675ad0
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+description: Этот раздел содержит заметки о выпусках Приложений Microsoft 365 для ИТ-специалистов в Ежемесячном канале (корпоративном).
+ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026354"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058753"
 ---
-# <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Заметки о выпусках Monthly Enterprise Channel в 2020 г.
+# <a name="release-notes-for-monthly-enterprise-channel"></a>Заметки о выпусках Ежемесячного канала (корпоративного)
 
-Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в Monthly Enterprise Channel в 2020 г. для Приложений Microsoft 365 для предприятий, Приложений Microsoft 365 для бизнеса, а также классических приложений Project и Visio, предоставляемых по подписке.
+Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в обновления Ежемесячного канала (корпоративного) для Приложений Microsoft 365 для предприятий, Приложений Microsoft 365 для бизнеса, а также классических приложений Project и Visio, предоставляемых по подписке.
 
 > [!IMPORTANT]
-> Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
+> Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
 
 [//]: # (НЕ УДАЛЯТЬ)
 
