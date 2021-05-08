@@ -9,20 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: ddcbff596fef219151991e7244d747ee1ab59f1a
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264747"
+ms.locfileid: "52278056"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
 Эти номера версий и сборок применяются к приложениям Microsoft 365 для предприятий, Microsoft 365 для бизнеса и версиям классических приложений Project и Visio, включающих подписки.
-
-> [!IMPORTANT]
-> - Мы вносим ряд изменений в каналы обновления приложений Microsoft 365, в том числе добавляем канал обновления (Ежемесячный корпоративный канал) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий.  Дополнительные сведения см. в [этой статье](/deployoffice/name-change).  В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
 
 
 > [!NOTE]

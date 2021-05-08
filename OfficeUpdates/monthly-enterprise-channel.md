@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Приложений Microsoft 365 для ИТ-специалистов в Ежемесячном канале (корпоративном).
-ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058753"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278046"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Заметки о выпусках Ежемесячного канала (корпоративного)
 
 Эти заметки о выпусках содержат информацию о новых возможностях и обновлениях, не связанных с безопасностью, которые включены в обновления Ежемесячного канала (корпоративного) для Приложений Microsoft 365 для предприятий, Приложений Microsoft 365 для бизнеса, а также классических приложений Project и Visio, предоставляемых по подписке.
 
-> [!IMPORTANT]
-> Мы вносим ряд изменений в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Ежемесячный канал (корпоративный)) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
 
 [//]: # (НЕ УДАЛЯТЬ)
 
@@ -291,7 +289,7 @@ ms.locfileid: "52058753"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/svg-content-office-third-party-apps)
+- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Ведение журнала аудита действий с метками конфиденциальности.** Когда пользователи присваивают, изменяют или удаляют метки конфиденциальности из своих документов и писем, эти сведения теперь становятся доступными администраторам в журналах аудита Microsoft 365.
 
