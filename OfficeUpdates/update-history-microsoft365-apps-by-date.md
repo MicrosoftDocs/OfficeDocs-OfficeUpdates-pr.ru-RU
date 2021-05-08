@@ -9,20 +9,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Полный список выпусков приложений Microsoft 365, упорядоченных по дате, со ссылками на заметки о выпусках, предназначенный для ИТ-специалистов
-ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091828"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264747"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Журнал обновлений для приложений Microsoft 365 (перечислены по дате)
 
 Эти номера версий и сборок применяются к приложениям Microsoft 365 для предприятий, Microsoft 365 для бизнеса и версиям классических приложений Project и Visio, включающих подписки.
 
 > [!IMPORTANT]
-> - Мы вносим некоторые изменения в каналы обновления для Приложений Microsoft 365, в том числе добавляем новый канал обновления (Monthly Enterprise Channel) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
-> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий. Дополнительные сведения см. в [этой статье](/deployoffice/name-change). В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+> - Мы вносим ряд изменений в каналы обновления приложений Microsoft 365, в том числе добавляем канал обновления (Ежемесячный корпоративный канал) и переименовываем существующие каналы обновления. Дополнительные сведения см. в [этой статье](/DeployOffice/update-channels-changes).
+> - Office 365 профессиональный плюс с версии 2004 переименовывается в Приложения Microsoft 365 для предприятий.  Дополнительные сведения см. в [этой статье](/deployoffice/name-change).  В нашей документации чаще всего используется обозначение "Приложения Microsoft 365".
+
 
 > [!NOTE]
 > - Данные в таблице упорядочены по дате выпуска (вначале указан самый новый).
