@@ -9,19 +9,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпусках Monthly Channel для Office 365 профессиональный плюс для ИТ-специалистов
-ms.openlocfilehash: 985bb8ffff81cc0300487c14629e9fe9c5ba25a8
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: f6cbb8db94f2f3a92ebc98f7c0a45b660f4ca815
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026364"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278036"
 ---
 # <a name="archived-release-notes-for-monthly-channel"></a>Архивные заметки о выпусках Monthly Channel
 В этих заметках о выпусках содержатся сведения о новых функциях и обновлениях, не связанных с безопасностью, включенных в обновления Monthly Channel для Office 365 профессиональный плюс, Visio Pro для Office 365, классического клиента Project Online и Office 365 бизнес.
 
  > [!NOTE]
 >- Мы часто выпускаем функции (а иногда даже исправления) для Monthly Channel по истечении определенного времени.  Если у вас пока нет каких-либо из перечисленных ниже возможностей, они скоро появятся. [Подробнее](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams для существующих установок Office 365 профессиональный плюс — с начала июля обновления Office 365 профессиональный плюс (и Office 365 бизнес) будут включать Microsoft Teams.  Дата добавления приложения Teams зависит от используемого канала обновления. Дополнительные сведения см. в статье [Развертывание Microsoft Teams с Office 365 профессиональный плюс](/deployoffice/teams-install).
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ КОНЕЦ СОДЕРЖИМОГО)
@@ -149,9 +148,9 @@ ms.locfileid: "52026364"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Поддержка буфера обмена SVG:** теперь SVG-содержимое можно вставлять из Office в сторонние приложения. [Подробнее](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/svg-content-office-third-party-apps)
 
-- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Создание GIF с прозрачным фоном:** при экспорте в GIF с анимацией новый параметр позволит сделать фон прозрачным.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Автоматическое переключение на темы Office**. Office может автоматически переключать темы в соответствии с параметрами темы Windows 10. Перейдите в меню "Файл" > "Учетная запись" и выберите "Использовать системные настройки" в раскрывающемся списке тем Office. [Подробнее](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -286,19 +285,19 @@ ms.locfileid: "52026364"
 
 - **Создание типов данных с помощью Power Query.** Создавайте типы сложных данных с помощью Power Query из любого источника данных. [Подробнее](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Дополнительные сведения см. в этой [публикации в блоге](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 - **Быстрые изменения с помощью пера действий.** С помощью пера действий вы можете писать от руки прямо в ячейках и использовать рукописный ввод для беглой записи данных, чтобы автоматически преобразовывать их в данные Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
-- **Проверка грамматики всегда под рукой.** Outlook помечает грамматические ошибки по мере ввода текста, так что вы можете применять исправления одним щелчком. [Подробнее](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Проверка грамматики всегда под рукой.** Outlook помечает грамматические ошибки по мере ввода текста, так что вы можете применять исправления одним щелчком. [Подробнее](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -312,7 +311,7 @@ ms.locfileid: "52026364"
 
 ### <a name="word"></a>Word
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
@@ -365,7 +364,7 @@ ms.locfileid: "52026364"
 
 ### <a name="office-suite"></a>Набор приложений Office
 
-- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера. Сообщения будут изменены на "Мало тонера/чернил" и "Нет тонера/чернил".
+- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение "Мало тонера" или "Нет тонера", несмотря на то, что в струйных принтерах тонера нет в принципе. Сообщение было изменено и теперь гласит: "Мало чернил или тонера" и "Нет чернил или тонера".
 
 - Исправлена проблема, из-за которой защита от потери данных в конечной точке Microsoft 365 не могла классифицировать документы Office на диске.
 
@@ -438,7 +437,7 @@ ms.locfileid: "52026364"
 
 ### <a name="office-suite"></a>Набор приложений Office
 
-- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение «Мало тонера» или «Нет тонера», несмотря на то, что в струйных принтерах нет тонера. Сообщения будут изменены на «Мало тонера/чернил» и «Нет тонера/чернил».
+- Когда пользователь печатает документ или файл на струйных принтерах Office и в картридже принтера заканчиваются чернила, появляется сообщение "Мало тонера" или "Нет тонера", несмотря на то, что в струйных принтерах тонера нет в принципе. Сообщение было изменено и теперь гласит: "Мало чернил или тонера" и "Нет чернил или тонера".
 
 
 
@@ -719,7 +718,7 @@ ms.locfileid: "52026364"
 
 ### <a name="office-suite"></a>Набор Office
 
-- Старая область общего доступа, не основанная на веб-службе, при закрытии документа могла вызывать сбой, если область общего доступа была открыта. Эта ошибка исправлена.
+- Старая область общего доступа, не основанная на веб-службе, при закрытии документа могла вызывать сбой, если область общего доступа была открыта. Эта проблема устранена.
 
 
 - Исправлена проблема, из-за которой пользователи видели элементы или содержимое пользовательского интерфейса, которое не отображается при определенных условиях. В частности, при входе или выходе из режима докладчика и использовании нескольких мониторов.
@@ -1011,9 +1010,9 @@ ms.locfileid: "52026364"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
-### <a name="access"></a>Доступ
+### <a name="access"></a>Access
 
-- Эта ошибка устранена. Теперь вы можете вызвать расширенный тип данных "Дата/время" без сбоя приложения. Если у вас возникнут другие проблемы, сообщите команде разработчиков.
+- Эта ошибка устранена. Теперь можно вызывать расширенный тип данных "Дата/время", не опасаясь сбоя приложения. Если вы по-прежнему испытываете проблему, сообщите нам.
 
 
 - Проблема устранена. Теперь вы можете вернуться к последней версии Access и использовать DAO/VBA для изменения десятичного типа данных и управления им. Если у вас возникнут другие проблемы с использованием нашего типа данных, сообщите команде разработчиков Access.
@@ -1131,7 +1130,7 @@ ms.locfileid: "52026364"
 
 - **Автоматическое использование новых типов данных.** При вводе значения данных, похожего на акцию или географическое положение, Excel предлагает преобразовать его в соответствующий связанный тип данных — акции или географические данные. [Подробнее](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Доклады с анимированными изображениями GIF.** Анимированные изображения GIF теперь поддерживаются в редакторе Office — ваши документы стали еще более впечатляющими.
+- **Доклады с помощью анимационных GIF.** Анимационные GIF теперь поддерживаются в редакторе Office — ваши документы стали еще более впечатляющими
 
 ### <a name="outlook"></a>Outlook
 
@@ -1212,7 +1211,7 @@ ms.locfileid: "52026364"
 
 - Это обновление устраняет проблему в Microsoft Office, из-за которой проекты Visual Basic для приложений с ссылками, которые должны быть найдены при поиске расположений, указанных в переменной среды PATH, могут быть не найдены в среде выполнения, что приводит к ошибкам среды выполнения VBA.
 
-- Аварийное завершение работы узла Office в Windows, при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имеет значение "0". Это изменение может устранить проблему.
+- Узел Office в Windows завершал работу с ошибкой при активации надстройки, если раздел реестра HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth имел значение "0". Внесено изменение, устранившее проблему.
 
 
 
@@ -1661,7 +1660,7 @@ ms.locfileid: "52026364"
 ### <a name="resolved-issues"></a>Решенные проблемы
 ### <a name="access"></a>Access
 
-- Это обновление исправляет проблему, из-за которой использование объекта ADODB средства записи в коде VB могло неверно вызывать сообщение об ошибке.
+- Это обновление исправляет проблему, из-за которой при использовании объекта ADODB.Recorder в коде VB необоснованно появлялось сообщение об ошибке.
 
 
 - Это обновление исправляет проблему, из-за которой Microsoft Access не удавалось определить столбец идентификаторов в связанной таблице SQL Server, что могло приводить к неправильному указанию строк как удаленных.
@@ -1713,7 +1712,7 @@ ms.locfileid: "52026364"
 
 - **Оптимизация презентации для всех пользователей.** Средство проверки читаемости помогает расположить объекты на слайдах с учетом средств чтения с экрана.
 
-- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **Быстрое создание GIF.** Один слайд, один кадр. Легко создавайте циклические GIF-изображения в PowerPoint. [Подробнее](https://support.office.com/ru-RU/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
 
@@ -1926,7 +1925,7 @@ ms.locfileid: "52026364"
 ### <a name="non-security-updates"></a>Обновления, не связанные с безопасностью
 
 ### <a name="office-suite"></a>Набор Office
-- Мы временно отключили диалоговое окно "Сохранение в облаке", чтобы устранить ошибку сохранения (сведения о которой мы опубликовали 14 октября 2019 г.) для сборок, предшествовавших сборке 12130.20184. Эта функция будет снова включена в ближайшее время.
+- Мы временно отключили диалоговое окно "Сохранение в облаке", чтобы устранить ошибку сохранения (сведения о которой мы опубликовали 14 октября 2019 г.) для сборок, предшествующих сборке 12130.20184.
 
 
 ## <a name="version-1909-october-14"></a>Версия 1909: 14 октября
@@ -1936,7 +1935,7 @@ ms.locfileid: "52026364"
 
 ### <a name="office-suite"></a>Набор Office
 
-- Решена проблема, из-за которой пользователям не удается сохранять документы Word 2019, Excel 2019 и PowerPoint 2019 для сборок, предшествовавших сборке 12130.20184.  Эта проблема возникает у пользователей, которые создают файл и используют диалоговое окно "Сохранить как" после щелчка по значку "Сохранить" или нажатия клавиш CTRL+S.
+- Решена проблема, из-за которой пользователям не удавалось сохранить документы Word, Excel и PowerPoint 2019 в сборках после 12130.20184. Эта проблема возникает у пользователей, которые создали файл и используют диалоговое окно "Сохранить как" после щелчка по значку "Сохранить" или нажатия клавиш CTRL+S.
 
 
 ## <a name="version-1909-october-08"></a>Версия 1909: 8 октября
@@ -2414,9 +2413,9 @@ ms.locfileid: "52026364"
 
 - **Улучшенное изменение формы**  Давайте своим фигурам имена, чтобы получить больший контроль над их трансформацией. [Подробнее](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
-- **Расширение доступа к содержимому:** нужно сделать презентации доступными для людей с ограниченными возможностями? Доверьте это средству проверки читаемости, которое не будет вас отвлекать. Проверьте, как это работает, выбрав пункт меню "Рецензирование" > "Проверка читаемости", и получайте требующие вашего внимания уведомления в строке состояния.
+- **Расширение доступа к содержимому:** нужно сделать презентации доступными для людей с ограниченными возможностями? Доверьте это средству проверки читаемости, которое не будет вас отвлекать. Проверьте, как это работает, выбрав пункт меню Рецензирование > Проверка читаемости, и получайте требующие вашего внимания уведомления в строке состояния.
 
-- **Зачем придумывать что-то заново, если можно пользоваться тем, что уже есть?**  Экономьте время, повторно используя слайды, которые создали вы или которыми с вами поделились другие пользователи.
+- **Зачем изобретать заново то, что можно использовать повторно?** Экономьте время, повторно используя слайды, которые вы создали или которыми другие поделились с вами.
 
 ### <a name="excel-non-security-updates"></a>Excel. Обновления, не связанные с безопасностью
 
@@ -2502,7 +2501,7 @@ ms.locfileid: "52026364"
 
 - **Переосмысление блок-схем данных.** Замечательные новые макеты для блок-схем визуализатора данных просты, лаконичны и удобны для понимания. [Подробнее](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **Встроенные наборы элементов Azure.** Разрабатывайте облачное приложение или планируйте архитектуру с помощью множества наборов элементов Azure. [Подробнее](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Встроенные наборы элементов Azure.** Разрабатывайте облачное приложение или планируйте архитектуру с помощью множества наборов элементов Azure.[Подробнее](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word-feature-updates"></a>Word. Обновления функций
 
@@ -2559,18 +2558,18 @@ ms.locfileid: "52026364"
 
  ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): уязвимость Microsoft Excel, связанная с раскрытием информации 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): уязвимость Microsoft Excel, связанная с раскрытием информации 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8597): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8598): уязвимость Microsoft Excel, связанная с раскрытием информации 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8627): уязвимость Microsoft Excel, связанная с раскрытием информации 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8636): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8587): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint. Обновления для системы безопасности 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8628): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода 
 
 
 ## <a name="version-1811-november-27"></a>Версия 1811: 27 ноября
@@ -2600,29 +2599,29 @@ ms.locfileid: "52026364"
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8574): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8577): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): уязвимость Microsoft Outlook, связанная с раскрытием информации 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): уязвимость Microsoft Outlook, связанная с раскрытием информации 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8522): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8524): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8558): уязвимость Microsoft Outlook, связанная с раскрытием информации 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8576): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8579): уязвимость Microsoft Outlook, связанная с раскрытием информации 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8582): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода 
 
 ### <a name="project-security-updates"></a>Project. Обновления для системы безопасности 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): уязвимость Microsoft Project, связанная с удаленным выполнением кода 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8575): уязвимость Microsoft Project, связанная с удаленным выполнением кода 
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности  
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): уязвимость Microsoft Word, связанная с удаленным выполнением кода 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8573): уязвимость Microsoft Word, связанная с удаленным выполнением кода 
 
 ### <a name="skype-for-business-security-updates"></a>Skype для бизнеса. Обновления для системы безопасности 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): уязвимость Microsoft Skype для бизнеса, связанная с отказом в обслуживании 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8546): уязвимость Microsoft Skype для бизнеса, связанная с отказом в обслуживании 
 
  ### <a name="project-non-security-updates"></a>Project. Обновления, не связанные с безопасностью
 
@@ -2681,20 +2680,20 @@ ms.locfileid: "52026364"
 *Версия 1809 (сборка 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8502): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности 
--   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): обновление для эшелонированной защиты Microsoft Office 
+-   [ADV180026](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180026): обновление для эшелонированной защиты Microsoft Office 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint. Обновления для системы безопасности 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8501): уязвимость Microsoft PowerPoint, связанная с удаленным выполнением кода
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): уязвимость Microsoft Word, связанная с удаленным выполнением кода 
--   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): обновление для эшелонированной защиты Microsoft Office 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8504): уязвимость Microsoft Word, связанная с удаленным выполнением кода 
+-   [ADV180026](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180026): обновление для эшелонированной защиты Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): уязвимость графического компонента Майкрософт, связанная с удаленным выполнением кода 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8432): уязвимость графического компонента Майкрософт, связанная с удаленным выполнением кода 
 
 
 ## <a name="version-1809-september-27"></a>Версия 1809: 27 сентября
@@ -2725,14 +2724,14 @@ ms.locfileid: "52026364"
 *Версия 1808 (сборка 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Excel, связанная с раскрытием информации
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8331): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8429): уязвимость Microsoft Excel, связанная с раскрытием информации
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): уязвимость Word, связанная с удаленным выполнением кода в PDF-документах
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8430): уязвимость Word, связанная с удаленным выполнением кода в PDF-документах
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): уязвимость Win32k Graphics, связанная с удаленным выполнением кода
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8332): уязвимость Win32k Graphics, связанная с удаленным выполнением кода
 
 
 ## <a name="version-1808-september-5"></a>Версия 1808: 5 сентября
@@ -2769,18 +2768,18 @@ ms.locfileid: "52026364"
 *Версия 1807 (сборка 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access. Обновления для системы безопасности
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8375): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8379): уязвимость Microsoft Excel, связанная с удаленным выполнением кода 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8382): уязвимость Microsoft Excel, связанная с раскрытием информации 
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): обновление для эшелонированной защиты Microsoft Office 
+-   [ADV180021](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180021): обновление для эшелонированной защиты Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): уязвимость Microsoft Office, связанная с раскрытием информации 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8378): уязвимость Microsoft Office, связанная с раскрытием информации 
 
 ## <a name="version-1807-july-25"></a>Версия 1807: 25 июля
 *Версия 1807 (сборка 10325.20082)*
@@ -2811,13 +2810,13 @@ ms.locfileid: "52026364"
 *Версия 1806 (сборка 10228.20104)*
 
 ### <a name="access-security-updates"></a>Access. Обновления для системы безопасности
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8312): удаленное выполнение кода в Microsoft Access после открытой уязвимости
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): уязвимость Microsoft Office, связанная с незаконным изменением
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8310): уязвимость Microsoft Office, связанная с незаконным изменением
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8281): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 ## <a name="version-1806-june-25"></a>Версия 1806: 25 июня
 *Версия 1806 (сборка 10228.20080)*
@@ -2863,11 +2862,11 @@ ms.locfileid: "52026364"
 *Версия 1805 (сборка 9330.2118)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8246): уязвимость Microsoft Excel, связанная с раскрытием информации
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8248): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8244): уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
 
 ### <a name="outlook-non-security-updates"></a>Outlook. Обновления, не связанные с безопасностью
 
@@ -2933,17 +2932,17 @@ ms.locfileid: "52026364"
 *Версия 1804 (сборка 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): уязвимость Microsoft Excel, связанная с раскрытием информации
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8147): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8148): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8162): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8163): уязвимость Microsoft Excel, связанная с раскрытием информации
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): уязвимость Microsoft Outlook, связанная с обходом функций безопасности
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8150): уязвимость Microsoft Outlook, связанная с обходом функций безопасности
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8157): уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-8158): уязвимость Microsoft Office, связанная с удаленным выполнением кода
 
 
 ## <a name="version-1804-april-25"></a>Версия 1804: 25 апреля
@@ -2971,7 +2970,7 @@ ms.locfileid: "52026364"
 *Версия 1803 (сборка 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-1029:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-1029:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1029) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint. Обновления, не связанные с безопасностью
 -   Исправлена ошибка, из-за которой совместное редактирование одной презентации несколькими пользователями приводит к неправильному дублированию образцов слайдов.
@@ -2984,9 +2983,9 @@ ms.locfileid: "52026364"
 -   Исправлена ошибка, из-за которой появляется сообщение о нехватке памяти.
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-0950:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950) уязвимость Microsoft Office, связанная с раскрытием информации
--   [CVE-2018-1026:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026) уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   [CVE-2018-1030:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030) уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-0950:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0950) уязвимость Microsoft Office, связанная с раскрытием информации
+-   [CVE-2018-1026:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1026) уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-1030:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-1030) уязвимость Microsoft Office, связанная с удаленным выполнением кода
 -   **Блокировка активации элементов управления Flash, Silverlight и Shockwave в Office для обеспечения безопасности.** Из соображений безопасности новые сборки Microsoft Office для Office 365 в Windows блокируют активацию элементов управления Flash, Silverlight и Shockwave. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) и [здесь](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
 
 ## <a name="version-1803-march-27"></a>Версия 1803: 27 марта
@@ -3026,13 +3025,13 @@ ms.locfileid: "52026364"
 *Версия 1802 (сборка 9029.2253)*
 
 ### <a name="access-security-updates"></a>Access. Обновления для системы безопасности
--   [CVE-2018-0903:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903) уязвимость Microsoft Access, связанная с удаленным выполнением кода
+-   [CVE-2018-0903:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0903) уязвимость Microsoft Access, связанная с удаленным выполнением кода
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-0907:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907) обход функций безопасности Excel в Microsoft Office
+-   [CVE-2018-0907:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0907) обход функций безопасности Excel в Microsoft Office
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): уязвимость Microsoft Office, связанная с раскрытием информации
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0919): уязвимость Microsoft Office, связанная с раскрытием информации
 
 
 ## <a name="version-1802-february-26"></a>Версия 1802: 26 февраля
@@ -3061,15 +3060,15 @@ ms.locfileid: "52026364"
 *Версия 1801 (сборка 9001.2171)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-0841:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [CVE-2018-0841:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0841) уязвимость Microsoft Excel, связанная с удаленным выполнением кода
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-0850:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850) уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): уязвимость Microsoft Outlook, связанная с повреждением памяти
+-   [CVE-2018-0850:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0850) уязвимость Microsoft Outlook, связанная с несанкционированным повышением привилегий
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0852): уязвимость Microsoft Outlook, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-0851:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851) уязвимость Microsoft Office, связанная с повреждением памяти
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): уязвимость Microsoft Office, связанная с раскрытием информации
+-   [CVE-2018-0851:](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0851) уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0853): уязвимость Microsoft Office, связанная с раскрытием информации
 
 
 ## <a name="version-1801-february-7"></a>Версия 1801: 7 февраля
@@ -3144,29 +3143,29 @@ ms.locfileid: "52026364"
 *Версия 1711 (сборка 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel. Обновления для системы безопасности
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
--   [Рекомендация 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): обновление для системы многоуровневой защиты Microsoft Office
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0796): уязвимость Microsoft Excel, связанная с удаленным выполнением кода
+-   [Рекомендация 170021](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV170021): обновление для системы многоуровневой защиты Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook. Обновления для системы безопасности
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0791): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
 
 ### <a name="word-security-updates"></a>Word. Обновления для системы безопасности
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798). Уязвимость Microsoft Office, связанная с повреждением памяти
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802). Уязвимость Microsoft Office, связанная с повреждением памяти
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): уязвимость Microsoft Word, связанная с удаленным выполнением кода
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): уязвимость Microsoft Word, связанная с повреждением памяти
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0792): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0793): уязвимость Microsoft Outlook, связанная с удаленным выполнением кода
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0794): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0798). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0801): Уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0802). Уязвимость Microsoft Office, связанная с повреждением памяти
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0804): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0805): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0806): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0807): уязвимость Microsoft Word, связанная с удаленным выполнением кода
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0812): уязвимость Microsoft Word, связанная с повреждением памяти
 
 ### <a name="office-suite-security-updates"></a>Набор Office. Обновления для системы безопасности
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): уязвимость Microsoft Office, связанная с удаленным выполнением кода
--   [Рекомендация 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): обновление для эшелонированной защиты Microsoft Office
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2018-0795): уязвимость Microsoft Office, связанная с удаленным выполнением кода
+-   [Рекомендация 180003](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/ADV180003): обновление для эшелонированной защиты Microsoft Office
 
 
 ## <a name="version-1711-january-2"></a>Версия 1711: 2 января
