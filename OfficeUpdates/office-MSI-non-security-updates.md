@@ -9,23 +9,26 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
-ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
+ms.openlocfilehash: b87152251bac703f17324a2236d79fb2674e01f6
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51598120"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236949"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
 На этой странице перечислены не связанные с безопасностью обновления для Office, выпускаемые в первый вторник каждого месяца.
 
 > [!NOTE]
-> - Сведения в этой статье применимы только к бессрочным версиям Office, в которых используется установщик Windows (MSI). Например, Office профессиональный плюс 2016.
+> - Информация в этой статье относится только к бессрочным версиям Office, в которых используется технология установщика Windows (MSI), например Office профессиональный плюс 2016.
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
+## <a name="may-4-2021"></a>4 мая 2021 г.
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB4462117](https://support.microsoft.com/help/4462117)) </br> Обновление для Skype для бизнеса 2016 ([KB4493155](https://support.microsoft.com/help/4493155)) </br> Обновление для Microsoft Outlook 2016 ([KB5001921](https://support.microsoft.com/help/5001921)) </br> 
 
 ## <a name="april-6-2021"></a>6 апреля 2021 г.
 **Office 2016**<br/>
@@ -76,14 +79,6 @@ ms.locfileid: "51598120"
 Обновление для Microsoft Office 2016 ([KB4484397](https://support.microsoft.com/help/4484397)) <br/>
 Обновление для Microsoft Outlook 2016 ([KB4486720](https://support.microsoft.com/help/4486720)) <br/>
 Обновление для Microsoft Project 2016 ([KB4486712](https://support.microsoft.com/help/4486712)) <br/>
-
-
-## <a name="october-6-2020"></a>6 октября 2020 г.
-**Office 2016**<br/>
-Обновление для Microsoft Office 2016 ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
-Обновление для Microsoft Project 2016 ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
-Обновление для Microsoft Visio 2016 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
-Обновление для Skype для бизнеса 2016 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 
 </br>
