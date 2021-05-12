@@ -1,5 +1,5 @@
 ---
-title: Список самых современных файлов msp для продуктов Office 2016
+title: Список наиболее актуальных файлов msp для Office 2016 г.
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,25 +8,25 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: Предоставляет ИТ-специалисты список наиболее актуальных файлов MSP для бессрочных версий Office 2016 с использованием установщика Windows (MSI)
-ms.openlocfilehash: 8b797b0602f85196ab578663df62303e91b590b2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+description: Предоставляет ИТ-специалисты список наиболее актуальных файлов MSP для бессрочных версий Office 2016 г., Windows установки (MSI)
+ms.openlocfilehash: 9a3cee95f097c44fa486b2d4ade910592f9c319c
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748937"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330526"
 ---
-# <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Список самых современных файлов msp для продуктов Office 2016
+# <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Список наиболее актуальных файлов msp для Office 2016 г.
 
-В следующих сведениях содержится список наиболее актуальных файлов MSP, которые необходимо включить ИТ-специалистам при создании образа установки для продукта Office 2016, включая Visio 2016 и Project 2016. Включив эти файлы .msp, при установке продукта Office 2016 их пользователи автоматически применяют к установке Office самые актуальные обновления безопасности и небезопасности.
+В следующих сведениях содержится список наиболее актуальных файлов MSP, которые необходимо включить ИТ-специалистам при создании образа установки для продукта Office 2016 г., включая Visio 2016 г. и Project 2016 г. Включив эти файлы .msp, при установке продукта Office 2016 года к установке Office безопасности автоматически применяются самые актуальные обновления безопасности и Office безопасности.
   
-Эта информация распространяется только на продукты Office 2016, которые используют технологию установки Установки Windows (MSI).
+Эта информация распространяется только на Office 2016 г., которые используют технологию установки Windows установки (MSI).
   
 ## <a name="most-recently-updated-msp-files"></a>Недавно обновленные файлы MSP
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО))
 
-В следующей таблице перечислены файлы MSP, которые были обновлены в **апреле 2021 г.**
+В следующей таблице перечислены файлы MSP, которые были обновлены в **мае 2021 г.**
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ))
 
@@ -34,46 +34,46 @@ ms.locfileid: "51748937"
 
 |Обновления без обеспечения безопасности****|Обновления безопасности****|
 |:-----|:-----|
-|msodll20-x-none|Excel-x-none|
-| |graph-x-none|
+|dcf-x-none|ace-x-none|
+|lync-x-none|Excel-x-none|
+|outlook-x-none|graph-x-none|
 | |mso-x-none|
-| |outlook-x-none|
 | |word-x-none|
 
 [//]: # (НЕ УДАЛЯТЬ КОНЕЧНЫЙ КОНТЕНТ MSP)
 
 ## <a name="list-of-all-msp-files"></a>Список всех файлов MSP
 
-В следующей таблице перечислены все файлы MSP, выпущенные с момента выпуска Office 2016 в сентябре 2015 г. Если для файла MSP установлена дата выпуска безопасности, которая больше даты выпуска без обеспечения безопасности, выпуск без обеспечения безопасности не требуется, так как он был выменит выпуском безопасности.
+В следующей таблице перечислены все файлы MSP, выпущенные с Office 2016 г., выпущенные в сентябре 2015 г. Если для файла MSP установлена дата выпуска безопасности, которая больше даты выпуска без обеспечения безопасности, выпуск без обеспечения безопасности не требуется, так как он был выменит выпуском безопасности.
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ИСТОРИИ (НАЧАЛО))
 
 |Имя файла msp****|Продукт****|Дата выпуска без обеспечения безопасности****|Статья КБ без обеспечения безопасности****|Дата выпуска безопасности****|Статья KB выпуска безопасности****|Безопасность KB переименовывалась****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2016  <br/> |2 марта 2021 г.  <br/> |[4493188](https://support.microsoft.com/help/4493188) <br/> |11 августа 2020 г.  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
-|ace-x-none  <br/> |Office 2016  <br/> |2 июня 2020 г.  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> | 12 января 2021 г.  <br/> |[4486755](https://support.microsoft.com/help/4486755) <br/>|[4484508](https://support.microsoft.com/help/4484508) <br/> |
+|ace-x-none  <br/>|Office 2016  <br/>|2 июня 2020 г.  <br/>|[4484394](https://support.microsoft.com/help/4484394) <br/>|11 мая 2021 г. <br/>|[4493197](https://support.microsoft.com/help/4493197) <br/>|[4486755](https://support.microsoft.com/help/4486755) <br/>|
 |acewss-x-none  <br/> |Office 2016  <br/> |7 ноября 2017 г.  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |chart-x-none  <br/> |Office 2016  <br/> |2 июня 2020 г.  <br/> |[4484171](https://support.microsoft.com/help/4484171) <br/> |10 апреля 2018 г.  <br/> |[4018319](https://support.microsoft.com/help/4018319) <br/> |[4011095](https://support.microsoft.com/help/4011095) <br/> |
 |conv-x-none  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |12 сентября 2017 г.  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
 |csi-x-none  <br/> |Office 2016  <br/> |1 мая 2018 г.  <br/> |[4011634](https://support.microsoft.com/help/4011634) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |csisyncclient-x-none  <br/> |Office 2016  <br/> |4 октября 2016 г.  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|dcf-x-none  <br/> |Office 2016  <br/> |2 января 2019 год  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
+|dcf-x-none  <br/>|Office 2016  <br/>|4 мая 2021 г. <br/>|[4462117](https://support.microsoft.com/help/4462117) <br/>|Неприменимо  <br/>|Неприменимо  <br/>|Неприменимо  <br/>|
 |eqnedt32-x-none  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |9 января 2018 г.  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|Excel-x-none  <br/>|Excel 2016  <br/>|7 июля 2020 г.  <br/>|[4484437](https://support.microsoft.com/help/4484437) <br/>|13 апреля 2021 г. <br/>|[4504721](https://support.microsoft.com/help/4504721) <br/>|[4493233](https://support.microsoft.com/help/4493233) <br/>|
+|Excel-x-none  <br/>|Excel 2016  <br/>|7 июля 2020 г.  <br/>|[4484437](https://support.microsoft.com/help/4484437) <br/>|11 мая 2021 г. <br/>|[5001918](https://support.microsoft.com/help/5001918) <br/>|[4504721](https://support.microsoft.com/help/4504721) <br/>|
 |excelpp-x-none  <br/> |Office 2016  <br/> |3 сентября 2019 г.  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |exppdf-x-none  <br/> |Office 2016  <br/> |5 апреля 2016 г.  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |filterpack-x-none  <br/> |Office 2016  <br/> |6 октября 2020 г.  <br/> |[4475584](https://support.microsoft.com/help/4475584) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |fonts-x-none  <br/> |Office 2016  <br/> |5 апреля 2016 г.  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |gkall-x-none  <br/> |Office 2016  <br/> |6 сентября 2016 г.  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|graph-x-none  <br/>|Office 2016  <br/>|6 марта 2018 г.  <br/>|[4011624](https://support.microsoft.com/help/4011624) <br/>|13 апреля 2021 г. <br/>|[4504724](https://support.microsoft.com/help/4504724) <br/>|[4493200](https://support.microsoft.com/help/4493200) <br/>|
+|graph-x-none  <br/>|Office 2016  <br/>|6 марта 2018 г.  <br/>|[4011624](https://support.microsoft.com/help/4011624) <br/>|11 мая 2021 г. <br/>|[5001923](https://support.microsoft.com/help/5001923) <br/>|[4504724](https://support.microsoft.com/help/4504724) <br/>|
 |groove-x-none  <br/> |OneDrive для бизнеса  <br/> |7 августа 2018 г.  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ieawsdc-x-none  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо <br/> |13 октября 2015 г.  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |Неприменимо  <br/> |
 |kohhc-x-none  <br/> |Office 2016  <br/> |6 июня 2017 г.  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |*lip-ll-cc* <sup>1</sup> <br/> |Office 2016 пакет интерфейса пользователя  <br/> |3 марта 2020 г.  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|lync-x-none  <br/> |Skype для бизнеса 2016  <br/> |1 декабря 2020 г.  <br/> |[4486745](https://support.microsoft.com/help/4486745) <br/> |9 июля 2019 г.  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
+|lync-x-none  <br/>|Skype для бизнеса 2016  <br/>|4 мая 2021 г. <br/>|[4493155](https://support.microsoft.com/help/4493155) <br/>|9 июля 2019 г.  <br/>|[4475545](https://support.microsoft.com/help/4475545) <br/>|[4461473](https://support.microsoft.com/help/4461473)  <br/>|
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |12 января 2016 г.  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Неприменимо  <br/> |
 |msmipc-x-none  <br/> |Office 2016  <br/> |4 апреля 2017 г.  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|mso-x-none  <br/>|Office 2016  <br/>|2 февраля 2021 г.  <br/>|[4493189](https://support.microsoft.com/help/4493189) <br/>|13 апреля 2021 г. <br/>|[4504722](https://support.microsoft.com/help/4504722) <br/>|[4493225](https://support.microsoft.com/help/4493225) <br/>|
+|mso-x-none  <br/>|Office 2016  <br/>|2 февраля 2021 г.  <br/>|[4493189](https://support.microsoft.com/help/4493189) <br/>|11 мая 2021 г. <br/>|[5001920](https://support.microsoft.com/help/5001920) <br/>|[4504722](https://support.microsoft.com/help/4504722) <br/>|
 |msodll20-x-none  <br/>|Office 2016  <br/>|6 апреля 2021 г. <br/>|[4486672](https://support.microsoft.com/help/4486672) <br/>|13 июня 2017 г.  <br/>|[3178667](https://support.microsoft.com/help/3178667) <br/>|Неприменимо  <br/>|
 |msodll30-x-none  <br/> |Office 2016  <br/> |1 декабря 2020 г.  <br/> |[4486747](https://support.microsoft.com/help/4486747) <br/> |12 сентября 2017 г.  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-none  <br/> |Office 2016  <br/> |7 июля 2020 г.  <br/> |[4484174](https://support.microsoft.com/help/4484174) <br/> |10 мая 2016 г.  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Неприменимо  <br/> |
@@ -93,7 +93,7 @@ ms.locfileid: "51748937"
 |otkruntimertl-x-none  <br/> |Office 2016  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |8 марта 2016 г.  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |Неприменимо  <br/> |
 |outexum-x-none  <br/> |Office 2016  <br/> |6 августа 2019 г.  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |outlfltr-x-none  <br/> |Office 2016  <br/> |2 августа 2016 г.  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|outlook-x-none  <br/>|Outlook 2016  <br/>|2 марта 2021 г.  <br/>|[4493226](https://support.microsoft.com/help/4493226) <br/>|13 апреля 2021 г. <br/>|[4504712](https://support.microsoft.com/help/4504712) <br/>|[4486748](https://support.microsoft.com/help/4486748) <br/>|
+|outlook-x-none  <br/>|Outlook 2016  <br/>|4 мая 2021 г. <br/>|[5001921](https://support.microsoft.com/help/5001921) <br/>|13 апреля 2021 г. <br/>|[4504712](https://support.microsoft.com/help/4504712) <br/>|[4486748](https://support.microsoft.com/help/4486748) <br/>|
 |policytips-x-none  <br/> |Office 2016  <br/> |7 июня 2016 г.  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |powerpoint-x-none  <br/> |PowerPoint 2016  <br/> |2 февраля 2021 г.  <br/> |[4493164](https://support.microsoft.com/help/4493164) <br/> |9 марта 2021 г.  <br/> |[4493224](https://support.microsoft.com/help/4493224) <br/> |[4484393](https://support.microsoft.com/help/4484393) <br/> |
 |ppaddin-x-none  <br/> |Office 2016  <br/> |5 декабря 2017 г.  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
@@ -109,7 +109,7 @@ ms.locfileid: "51748937"
 |vbe7-x-none  <br/> |Office 2016  <br/> |2 марта 2021 г.  <br/> |[4493153](https://support.microsoft.com/help/4493153) <br/> |13 октября 2020 г.  <br/> |[4484417](https://support.microsoft.com/help/4484417) <br/> |[3128012](https://support.microsoft.com/help/3128012) <br/> |
 |visio-x-none  <br/> |Visio 2016  <br/> |1 декабря 2020 г.  <br/> |[4486709](https://support.microsoft.com/help/4486709) <br/> |9 марта 2021 г.  <br/> |[4493151](https://support.microsoft.com/help/4493151) <br/> |[4484244](https://support.microsoft.com/help/4484244) <br/> |
 |vviewer-x-none  <br/> |Office 2016  <br/> |7 января 2020 г.  <br/> |[2920709](https://support.microsoft.com/help/2920709) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|word-x-none  <br/>|Word 2016  <br/>|1 декабря 2020 г.  <br/>|[4486756](https://support.microsoft.com/help/4486756) <br/>|13 апреля 2021 г. <br/>|[4493198](https://support.microsoft.com/help/4493198) <br/>|[4493156](https://support.microsoft.com/help/4493156) <br/>|
+|word-x-none  <br/>|Word 2016  <br/>|1 декабря 2020 г.  <br/>|[4486756](https://support.microsoft.com/help/4486756) <br/>|11 мая 2021 г. <br/>|[5001919](https://support.microsoft.com/help/5001919) <br/>|[4493198](https://support.microsoft.com/help/4493198) <br/>|
 |wxpcore-x-none  <br/> |Office 2016  <br/> |4 октября 2016 г.  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |4 октября 2016 г.  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |xdext-x-none  <br/> |Office 2016  <br/> |1 августа 2017 г.  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |

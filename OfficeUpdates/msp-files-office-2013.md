@@ -1,5 +1,5 @@
 ---
-title: Список наиболее актуальных файлов msp для продуктов Office 2013
+title: Список наиболее актуальных файлов MSP для Office 2013 г.
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,25 +8,25 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: Предоставляет ИТ-специалисты список наиболее актуальных файлов MSP для бессрочных версий Office 2013 с использованием установщика Windows (MSI)
-ms.openlocfilehash: 0c69bd6172577142fcd545969651f8f706b9e6fb
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+description: Предоставляет ИТ-специалисты список наиболее актуальных файлов MSP для бессрочных версий Office 2013 г., Windows установки (MSI)
+ms.openlocfilehash: bd2e58fe40e0694d4b3a599bf3e778c5fa3feef3
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748947"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330496"
 ---
-# <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Список наиболее актуальных файлов msp для продуктов Office 2013
+# <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Список наиболее актуальных файлов MSP для Office 2013 г.
 
-Ниже приводится список наиболее актуальных файлов MSP, которые ИТ-специалисты должны включить при создании образа установки для продукта Office 2013, включая Visio 2013 и Project 2013. Включив эти файлы .msp, при установке продукта Office 2013 пользователи автоматически применяют к установке Office самые актуальные обновления безопасности и небезопасности.
+В следующих сведениях содержится список наиболее актуальных файлов MSP, которые необходимо включить ИТ-специалистам при создании образа установки для продукта Office 2013 г., включая Visio 2013 г. и Project 2013 г. Включив эти файлы .msp, при установке пользователями продукта Office 2013 года к установке Office безопасности автоматически применяются самые актуальные обновления безопасности и Office безопасности.
   
-Эти сведения применимы только к продуктам Office 2013, которые используют технологию установки Установки Windows (MSI). Например, в выпусках лицензий на Office профессиональный плюс 2013 и Visio Standard 2013 используются MSI.
+Эта информация применяется только к Office 2013 года, которые используют технологию установки Windows установки (MSI). Например, в выпусках томов лицензий Office профессиональный плюс 2013 и Visio стандартный 2013 г. используются MSI.
   
 ## <a name="most-recently-updated-msp-files"></a>Недавно обновленные файлы MSP
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО))
 
-В следующей таблице перечислены файлы MSP, которые были обновлены в **апреле 2021 г.**
+В следующей таблице перечислены файлы MSP, которые были обновлены в **мае 2021 г.**
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ))
 
@@ -34,28 +34,25 @@ ms.locfileid: "51748947"
 
 |Обновления без обеспечения безопасности****|Обновления безопасности****|
 |:-----|:-----|
-|<br/>|analys32-x-none<br/>|
-|<br/>|eurotool-x-none<br/>|
-|<br/>|Excel-x-none<br/>|
-|<br/>|graph-x-none<br/>|
-|<br/>|mso-x-none<br/>|
-|<br/>|outlook-none<br/>|
-|<br/>|word-x-none<br/>|
- 
-<br/>
+| |ace-x-none|
+| |Excel-x-none|
+| |graph-x-none|
+| |mso-x-none|
+| |oart-x-none|
+| |word-x-none|
 
 [//]: # (НЕ УДАЛЯТЬ КОНЕЧНЫЙ КОНТЕНТ MSP)
 
 ## <a name="list-of-all-msp-files"></a>Список всех файлов MSP
 
-В следующей таблице перечислены все файлы MSP, выпущенные с момента выпуска Office 2013 Пакет обновления 1 (SP1) в феврале 2014 г. Если для файла MSP установлена дата выпуска безопасности, которая больше даты выпуска без обеспечения безопасности, выпуск без обеспечения безопасности не требуется, так как он был выменит выпуском безопасности.
+В следующей таблице перечислены все файлы MSP, выпущенные с Office 2013 Пакет обновления 1 (SP1), выпущенные в феврале 2014 г. Если для файла MSP установлена дата выпуска безопасности, которая больше даты выпуска без обеспечения безопасности, выпуск без обеспечения безопасности не требуется, так как он был выменит выпуском безопасности.
 
 [//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ ИСТОРИИ (НАЧАЛО))
 
 |Имя файла msp****|Продукт****|Дата выпуска без обеспечения безопасности****|Статья КБ без обеспечения безопасности****|Дата выпуска безопасности****|Статья KB выпуска безопасности****|Безопасность KB переименовывалась****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2013  <br/> |5 февраля 2019 г.  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |11 августа 2020 г.  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
-|ace-x-none  <br/> |Office 2013  <br/> |1 ноября 2016 г.  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |12 января 2021 г.  <br/> |[4486762](https://support.microsoft.com/help/4486762) <br/>|[4484520](https://support.microsoft.com/help/4484520) <br/> |
+|ace-x-none  <br/>|Office 2013  <br/>|1 ноября 2016 г.  <br/>|[3039750](https://support.microsoft.com/kb/3039750) <br/>|11 мая 2021 г. <br/>|[4493206](https://support.microsoft.com/help/4493206) <br/>|[4486762](https://support.microsoft.com/help/4486762) <br/>|
 |acmserver-x-none  <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |airspacewer-x-none  <br/> |Office 2013  <br/> |9 декабря 2014 г.  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |analys32-x-none  <br/> |Office 2013  <br/> |9 февраля 2016 г.  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |13 апреля 2021 г.  <br/> |[3178639](https://support.microsoft.com/kb/3178639) <br/>  |Неприменимо  <br/> |
@@ -68,14 +65,14 @@ ms.locfileid: "51748947"
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |5 сентября 2017 г.  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |9 января 2018 г.  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
 |eurotool-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |13 апреля 2021 г. |[3178643](https://support.microsoft.com/kb/3178643) <br/> |Неприменимо  <br/> |
-|Excel-x-none  <br/> |Excel 2013  <br/> |3 июля 2018 г.  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |13 апреля 2021 г.  <br/> |[4504735](https://support.microsoft.com/help/4504735) <br/>|[4493239](https://support.microsoft.com/help/4493239) <br/> |
+|Excel-x-none  <br/>|Excel 2013  <br/>|3 июля 2018 г.  <br/>|[4022244](https://support.microsoft.com/help/4022244) <br/>|11 мая 2021 г. <br/>|[5001936](https://support.microsoft.com/help/5001936) <br/>|[4504735](https://support.microsoft.com/help/4504735) <br/>|
 |excelpp-x-none  <br/> |Office 2013  <br/> |6 июня 2017 г.  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |5 апреля 2016 г.  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |fm20-x-none  <br/> |Office 2013  <br/> |14 июля 2015 г.  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9 декабря 2014 г.  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Неприменимо  <br/> |
 |gfonts-x-none  <br/> |Office 2013  <br/> |14.10.14  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |7 июня 2016 г.  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|graph-x-none  <br/> |Office 2013  <br/> |2 апреля 2019 г.  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |13 апреля 2021 г.  <br/> |[4504727](https://support.microsoft.com/help/4504727) <br/> |[4493203](https://support.microsoft.com/help/4493203)| 
+|graph-x-none  <br/>|Office 2013  <br/>|2 апреля 2019 г.  <br/>|[4462203](https://support.microsoft.com/kb/4462203)  <br/>|11 мая 2021 г. <br/>|[5001927](https://support.microsoft.com/help/5001927) <br/>|[4504727](https://support.microsoft.com/help/4504727) <br/>|
 |groove-x-none  <br/> |OneDrive для бизнеса  <br/> |7 августа 2018 г.  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |11 августа 2015 г.  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Неприменимо  <br/> |
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |3 мая 2016 г.  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8 марта 2016 г.  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -86,13 +83,13 @@ ms.locfileid: "51748947"
 |mscomct2-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |13.05.14  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |Неприменимо  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |12 января 2016 г.  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |4 апреля 2017 г.  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|mso-x-none  <br/> |Office 2013  <br/> |2 февраля 2021 г.  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |13 апреля 2021 г.  <br/> |[4504726](https://support.microsoft.com/help/4504726) <br/> |[4493228](https://support.microsoft.com/help/4493228) <br/>|
+|mso-x-none  <br/>|Office 2013  <br/>|2 февраля 2021 г.  <br/>|[4486684](https://support.microsoft.com/help/4486684) <br/>|11 мая 2021 г. <br/>|[5001925](https://support.microsoft.com/help/5001925) <br/>|[4504726](https://support.microsoft.com/help/4504726) <br/>|
 |msohevi-x-none  <br/> |Office 2013  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |8 января 2019 г.  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |Неприменимо  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |3 июля 2018 г.  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |11 августа 2015 г.  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |Неприменимо  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |9 июня 2015 г.  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |mtextra-x-none  <br/> |Office 2013  <br/> |7 августа 2018 г.  <br/> |[4022212](https://support.microsoft.com/kb/4022212) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |nlgmsfad-x-none  <br/> |Office 2013  <br/> |14.10.14  <br/> |[2883095](https://support.microsoft.com/kb/2883095) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|oart-x-none  <br/> |Office 2013  <br/> |2 апреля 2019 г.  <br/> |[4462200](https://support.microsoft.com/help/4462200) <br/> |12 июня 2018 г.  <br/> |[4018387](https://support.microsoft.com/help/4018387) <br/> |[4018288](https://support.microsoft.com/help/4018288) <br/> |
+|oart-x-none  <br/>|Office 2013  <br/>|2 апреля 2019 г.  <br/>|[4462200](https://support.microsoft.com/help/4462200) <br/>|11 мая 2021 г. <br/>|[4464542](https://support.microsoft.com/help/4464542) <br/>|[4018387](https://support.microsoft.com/help/4018387) <br/>|
 |ocfxca-x-none  <br/> |Office 2013  <br/> |13 октября 2015 г.  <br/> |[3039720](https://support.microsoft.com/kb/3039720) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |ocr-x-none  <br/> |Office 2013  <br/> |8 апреля 2014 г.  <br/> |[2760344](https://support.microsoft.com/kb/2760344) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |oleo-x-none  <br/> |Office 2013  <br/> |6 ноября 2018 г.  <br/> |[3178640](https://support.microsoft.com/kb/3178640) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
@@ -126,7 +123,7 @@ ms.locfileid: "51748947"
 |visio-x-none  <br/> |Visio 2013  <br/> |1 сентября 2020 г.  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |9 марта 2021 г.  <br/> |[4486673](https://support.microsoft.com/help/4486673) <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |8 апреля 2014 г.  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |7 ноября 2015 г.  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
-|word-x-none  <br/> |Word 2013  <br/> |2 июля 2019 г. <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |13 апреля 2021 г.  <br/> |[4493208](https://support.microsoft.com/help/4493208) <br/>|[4486764](https://support.microsoft.com/help/4486764) <br/>|
+|word-x-none  <br/>|Word 2013  <br/>|2 июля 2019 г. <br/>|[4475525](https://support.microsoft.com/help/4475525) <br/>|11 мая 2021 г. <br/>|[5001931](https://support.microsoft.com/help/5001931) <br/>|[4493208](https://support.microsoft.com/help/4493208) <br/>|
 |wordpia-x-none  <br/> |Word 2013  <br/> |7 ноября 2017 г.  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8 марта 2016 г.  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13 октября 2015 г.  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Неприменимо  <br/> |Неприменимо  <br/> |Неприменимо  <br/> |
