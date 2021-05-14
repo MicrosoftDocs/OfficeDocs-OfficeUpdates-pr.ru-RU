@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: 12a6b6d73decddbb9df5769b2961d4a3257857d4
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 675e2e7f547475bd9fae4b6800151b92f22a007f
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748977"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322389"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -31,13 +31,13 @@ ms.locfileid: "51748977"
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Недоступно  <br/> |Общедоступное обновление за апрель 2021 г.  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за май 2021 г.  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
 
 ## <a name="office-2013-updates"></a>Обновления для Office 2013
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за апрель 2021 г.  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за май 2021 г.  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
    
 ## <a name="office-2010-updates"></a>Обновления для Office 2010
 > [!IMPORTANT]
@@ -50,6 +50,8 @@ ms.locfileid: "51748977"
 
    
 ## <a name="updates-released-in-past-12-months"></a>Обновления, выпущенные за последние 12 месяцев
+
+[Обновления для системы безопасности и другие обновления за май 2021 г.: KB5003427](https://support.microsoft.com/help/5003427)
 
 [Обновления для системы безопасности и другие обновления за апрель 2021 г.: KB5001778](https://support.microsoft.com/help/5001778)
 
@@ -73,7 +75,6 @@ ms.locfileid: "51748977"
 
 [Обновления для системы безопасности и другие обновления за июнь 2020 г.: KB4559448](https://support.microsoft.com/help/4559448)
 
-[Обновления для системы безопасности и другие обновления за май 2020 г.: KB4549680](https://support.microsoft.com/help/4549680)
 
 
 

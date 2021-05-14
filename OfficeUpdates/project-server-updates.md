@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Находите обновления для Project Server 2013 и Project Server 2010, а также управляйте ими в одном расположении. Чтобы узнать больше об обновлениях и загрузить сами обновления, воспользуйтесь ссылками на этой странице.
-ms.openlocfilehash: d24a0110d63e71e72ec06d61dcc132fb676043fb
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c5c5dfadbe70eedbabec37392007a29c5668a4e5
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748927"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322369"
 ---
 # <a name="project-server-updates"></a>Обновления для Project Server
 
@@ -28,6 +28,7 @@ ms.locfileid: "51748927"
 ## <a name="project-server-2013-update-history"></a>История обновлений Project Server 2013
 |**Дата выпуска**|**Номер статьи в базе знаний**||
 |:-----|:-----|:-----|
+|Май 2021 г. <br/>|[KB5001930](https://support.microsoft.com/help/5001930) <br/>|
 |Апрель 2021 г. <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
 |Март 2021 г. <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |Февраль 2021 г. <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
