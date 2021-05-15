@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2021 г. для ИТ-специалистов.
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322489"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470783"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)
 
@@ -24,7 +24,7 @@ ms.locfileid: "52322489"
 ## <a name="version-2102-may-11"></a>Версия 2102: 11 мая
 *Версия 2102 (сборка 13801.20638)*
 
-Обновления для системы безопасности перечислены [здесь](microsoft365-apps-security-updates.md)
+Список обновлений для системы безопасности см. в статье: [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -70,7 +70,7 @@ ms.locfileid: "52322489"
 ## <a name="version-2102-april-13"></a>Версия 2102: 13 апреля
 *Версия 2102 (сборка 13801.20506)*
 
-Обновления для системы безопасности перечислены [здесь](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Список обновлений для системы безопасности см. в статье: [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -138,7 +138,7 @@ ms.locfileid: "52322489"
 ## <a name="version-2102-march-09"></a>Версия 2102: 9 марта
 *Версия 2102 (сборка 13801.20294)*
 
-Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
+Список обновлений для системы безопасности см. в статье: [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
@@ -518,7 +518,7 @@ ms.locfileid: "52322489"
 ## <a name="version-2008-february-09"></a>Версия 2008: 9 февраля
 *Версия 2008 (сборка 13127.21216)*
 
-Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
+Список обновлений для системы безопасности см. в статье: [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
@@ -579,7 +579,7 @@ ms.locfileid: "52322489"
 ## <a name="version-2008-january-12"></a>Версия 2008: 12 января
 *Версия 2008 (сборка 13127.21064)*
 
-Обновления для системы безопасности перечислены [здесь](./microsoft365-apps-security-updates.md)
+Список обновлений для системы безопасности см. в статье: [Заметки о выпусках для обновлений системы безопасности в приложениях Microsoft Office](microsoft365-apps-security-updates.md)
 
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
