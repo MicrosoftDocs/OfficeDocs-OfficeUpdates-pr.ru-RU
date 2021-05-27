@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставление участникам программы предварительной оценки с поздним доступом последнего списка новых функций, исправлений или известных проблем
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636533"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662825"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Заметки о выпуске Актуального канала Office (предварительная версия)
 
@@ -57,17 +57,13 @@ ms.locfileid: "52636533"
 - Исправлена проблема, из-за которой у некоторых пользователей приложение неожиданно закрывались при загрузке карточек пользователей.
 
 
-- Исправлена проблема, из-за которой не удавалось вставлять формулы на защищенном листе.
-
+- Мы добавили раздел реестра, отключающий новые возможности поиска помещений (такой же, как в Outlook в Интернете) и включающий устаревшую версию поиска помещений с предлагаемыми интервалами времени.
     - Раздел реестра:
 
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (по умолчанию) — Outlook использует новый интерфейс поиска помещений на платформе OWA, когда пользователь нажимает кнопку "Поиск помещений" для поиска доступных помещений  </br>
-
-    > 1 — Outlook использует устаревший пользовательский интерфейс поиска помещений для поиска доступных помещений </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (по умолчанию) — Outlook использует новый интерфейс поиска помещений на платформе OWA, когда пользователь нажимает кнопку "Поиск помещений" для поиска доступных помещений  </br>
+        > 1 — Outlook использует устаревший пользовательский интерфейс поиска помещений для поиска доступных помещений </br>
 
 
 ### <a name="project"></a>Project

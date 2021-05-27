@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: d16050d5873de88a8ac9d709d097c447f6ab553c
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 73137bc5838cdf63ce3bdf5ab4109543bc7dd41a
+ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563365"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52645156"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -30,6 +30,22 @@ ms.locfileid: "52563365"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="may-24-2021"></a>24 мая 2021 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)24 мая 2021 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Новейший выпуск - версия 2105 (сборка 14026.20246).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2104 (сборка 13929.20386) <br/> |18 мая 2021 г. <br/> |210<br/> |
+|Версия 2104 (сборка 13929.20372) <br/> |11 мая 2021 г. <br/> |210<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)24 мая 2021 г.)
 
 ## <a name="may-18-2021"></a>18 мая 2021 г.
 
