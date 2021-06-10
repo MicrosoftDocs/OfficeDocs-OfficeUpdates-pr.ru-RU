@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330506"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851839"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -25,6 +25,42 @@ ms.locfileid: "52330506"
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
 
+## <a name="june-08-2021"></a>8 июня 2021 г.
+Актуальный канал: версия 2105 (сборка 14026.20270)  
+Ежемесячный канал (корпоративный): версия 2104 (сборка 13929.20408)  
+Ежемесячный канал (корпоративный): версия 2103 (сборка 13901.20554)  
+Полугодовой канал (предварительная корпоративная версия): версия 2102 (сборка 13801.20738)  
+Полугодовой канал (корпоративный): версия 2008 (сборка 13127.21668)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21952)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21952)  
+Розничная версия Office 2019: версия 2105 (сборка 14026.20270)  
+Розничная версия Office 2016: версия 2105 (сборка 14026.20270)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10375.20036)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="access"></a>Доступ
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Набор Office
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (НЕ УДАЛЯЙТЕ СВЕДЕНИЯ О БЕЗОПАСНОСТИ (КОНЕЦ СОДЕРЖИМОГО))
+
+
+
 ## <a name="may-11-2021"></a>11 мая 2021 г.
 Актуальный канал: версия 2104 (сборка 13929.20372)  
 Ежемесячный канал (корпоративный): версия 2103 (сборка 13901.20516)  
@@ -32,10 +68,10 @@ ms.locfileid: "52330506"
 Полугодовой канал (предварительная корпоративная версия): версия 2102 (сборка 13801.20638)  
 Полугодовой канал (корпоративный): версия 2008 (сборка 13127.21624)  
 Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21912)  
-Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21912)  
-Розничная версия Office 2019: версия 2104 (сборка 13929.20372)  
-Розничная версия Office 2016: версия 2104 (сборка 13929.20372)  
-Корпоративная версия Office 2019: версия 1808 (сборка 10374.20040)  
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21912)  
+Розничная версия Office 2019: версия 2104 (сборка 13929.20372)  
+Розничная версия Office 2016: версия 2104 (сборка 13929.20372)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10374.20040)  
 
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ НАЧАЛО СОДЕРЖИМОГО)
 
@@ -317,7 +353,7 @@ ms.locfileid: "52330506"
 
 
 
-## <a name="september-08-2020"></a>08 сентября 2020 г.
+## <a name="september-08-2020"></a>08 сентября 2020 г.
 Актуальный канал: версия 2008 (сборка 13127.20408)  
 Ежемесячный канал (корпоративный): версия 2007 (сборка 13029.20534)  
 Ежемесячный канал (корпоративный): версия 2006 (сборка 13001.20648)  
@@ -442,7 +478,7 @@ ms.locfileid: "52330506"
 
 
 
-## <a name="june-09-2020"></a>9 июня 2020 г.
+## <a name="june-09-2020"></a>9 июня 2020 г.
 Актуальный канал: версия 2005 (сборка 12827.20336)  
 Ежемесячный канал (корпоративный): версия 2004 (сборка 12730.20430)  
 Ежемесячный канал (корпоративный): версия 2003 (сборка 12624.20708)  
@@ -475,7 +511,7 @@ ms.locfileid: "52330506"
 
 
 
-## <a name="may-12-2020"></a>12 мая 2020 г.
+## <a name="may-12-2020"></a>12 мая 2020 г.
 Monthly Channel: версия 2004 (сборка 12730.20270)  
 Monthly Enterprise Channel: версия 2003 (сборка 12624.20588)  
 Semi-Annual Channel (Targeted): версия 2002 (сборка 12527.20612)  
@@ -545,7 +581,7 @@ Semi-Annual Channel: версия 1902 (сборка 11328.20554)
 
 
 
-## <a name="february-11-2020"></a>11 февраля 2020 г.
+## <a name="february-11-2020"></a>11 февраля 2020 г.
 Месячный канал: версия 2001 (сборка 12430.20264)  
 Semi-Annual Channel (Targeted): версия 1908 (сборка 11929.20606)  
 Semi-Annual Channel: версия 1908 (сборка 11929.20606)  
@@ -645,7 +681,7 @@ Semi-Annual Channel: версия 1808 (сборка 10730.20386)
 -   [CVE-2019-1331](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1331)
 -   [CVE-2019-1327](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1327)
 
-## <a name="september-10-2019"></a>10 сентября 2019 г.
+## <a name="september-10-2019"></a>10 сентября 2019 г.
 Monthly Channel: версия 1908 (сборка 11929.20300)   
 Semi-Annual Channel (Targeted): версия 1908 (сборка 11929.20300)  
 Semi-Annual Channel: версия 1902 (сборка 11328.20420)  
@@ -661,7 +697,7 @@ Semi-Annual Channel: версия 1808 (сборка 10730.20380)
 -   [CVE-2019-1246](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1246)
 -   [CVE-2019-1264](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1264)
 
-## <a name="august-13-2019"></a>13 августа 2019 г.
+## <a name="august-13-2019"></a>13 августа 2019 г.
 Monthly Channel: версия 1907 (сборка 11901.20218)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20392)  
 Semi-Annual Channel: версия 1902 (сборка 11328.20392)  
@@ -683,7 +719,7 @@ Semi-Annual Channel: версия 1803 (сборка 9126.2432)
 
 -   [CVE-2019-1155](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1155)
 
-## <a name="july-09-2019"></a>09 июля 2019 г.
+## <a name="july-09-2019"></a>09 июля 2019 г.
 Monthly Channel: версия 1906 (сборка 11727.20244)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20368)  
 Semi-Annual Channel: версия 1902 (сборка 11328.20368)  
@@ -708,7 +744,7 @@ Semi-Annual Channel: версия 1803 (сборка 9126.2428)
 
 -   [CVE-2019-1109](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1109)
 
-## <a name="june-11-2019"></a>11 июня 2019 г.
+## <a name="june-11-2019"></a>11 июня 2019 г.
 Monthly Channel: версия 1905 (сборка 11629.20246)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20318)   
 Semi-Annual Channel: версия 1808 (сборка 10730.20348)  
@@ -719,7 +755,7 @@ Semi-Annual Channel: версия 1803 (сборка 9126.2388)
 -   [CVE-2019-1034](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1034)
 -   [CVE-2019-1035](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-1035)
 
-## <a name="may-14-2019"></a>14 мая 2019 г.
+## <a name="may-14-2019"></a>14 мая 2019 г.
 Monthly Channel: версия 1904 (сборка 11601.20204)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20286)  
 Semi-Annual Channel: версия 1808 (сборка 10730.20344)  
@@ -734,7 +770,7 @@ Semi-Annual Channel: версия 1803 (сборка 9126.2387)
 -   [CVE-2019-0945](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0945)
 -   [CVE-2019-0946](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0946)
 
-## <a name="april-09-2019"></a>9 апреля 2019 г.
+## <a name="april-09-2019"></a>9 апреля 2019 г.
 Monthly Channel: версия 1903 (сборка 11425.20204)  
 Semi-Annual Channel (Targeted): версия 1902 (сборка 11328.20230)  
 Semi-Annual Channel: версия 1808 (сборка 10730.20334)  
@@ -753,7 +789,7 @@ Semi-Annual Channel: версия 1803 (сборка 9126.2382)
 -   [CVE-2019-0826](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0826)
 -   [CVE-2019-0801](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2019-0801)
 
-## <a name="march-12-2019"></a>12 марта 2019 г.
+## <a name="march-12-2019"></a>12 марта 2019 г.
 В этом месяце ни для одного канала нет обновлений системы безопасности.
 
 ## <a name="february-12-2019"></a>12 февраля 2019 г.

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: 675e2e7f547475bd9fae4b6800151b92f22a007f
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: c3933557c854757f9371e03361105c35a48596ad
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322389"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851979"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -31,29 +31,32 @@ ms.locfileid: "52322389"
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за май 2021 г.  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Н/Д  <br/> |Общедоступное обновление за июнь 2021 г.  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
 
 ## <a name="office-2013-updates"></a>Обновления для Office 2013
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за май 2021 г.  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Общедоступное обновление за июнь 2021 г.  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
    
 ## <a name="office-2010-updates"></a>Обновления для Office 2010
 > [!IMPORTANT]
-> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
+> Поддержка Office 2010 была прекращена 13 октября 2020 г. Если вы еще не начали обновление среды Office 2010, рекомендуем вам приступить к этому процессу. Дополнительные сведения см. в статье [Стратегия по окончанию поддержки Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Версии и продукты**|**Последний пакет обновления**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за апрель 2021 г.  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+|**2010** <br/> Наборы Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Серверы Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Продукты SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 для SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Общедоступное обновление за апрель 2021 г.  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Обновления, выпущенные за последние 12 месяцев
 
-[Обновления для системы безопасности и другие обновления за май 2021 г.: KB5003427](https://support.microsoft.com/help/5003427)
+[Обновления для системы безопасности и другие обновления за июнь 2020 г.: KB5004001](https://support.microsoft.com/help/5004001)
 
-[Обновления для системы безопасности и другие обновления за апрель 2021 г.: KB5001778](https://support.microsoft.com/help/5001778)
+
+[Обновления для системы безопасности и другие обновления за май 2021 г.: KB5003427](https://support.microsoft.com/help/5003427)
+
+[Обновления для системы безопасности и другие обновления за апрель 2021 г.: KB5001778](https://support.microsoft.com/help/5001778)
 
 [Обновления для системы безопасности и другие обновления за март 2021 г.: KB5000635](https://support.microsoft.com/help/5000635)
 
@@ -71,9 +74,7 @@ ms.locfileid: "52322389"
 
 [Обновления для системы безопасности и другие обновления за август 2020 г.: KB4563408](https://support.microsoft.com/help/4563408)
 
-[Обновления для системы безопасности и другие обновления за июль 2020 г.: KB4559453](https://support.microsoft.com/help/4559453)
-
-[Обновления для системы безопасности и другие обновления за июнь 2020 г.: KB4559448](https://support.microsoft.com/help/4559448)
+[Обновления для системы безопасности и другие обновления за июль 2020 г.: KB4559453](https://support.microsoft.com/help/4559453)
 
 
 

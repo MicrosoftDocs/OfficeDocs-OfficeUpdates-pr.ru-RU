@@ -1,5 +1,5 @@
 ---
-title: История обновлений Office 2013
+title: История обновлений Office 2013
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 0edbfbabe81e8c379489fa15bfc3f54942f6aeb6
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322299"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851929"
 ---
-# <a name="update-history-for-office-2013"></a>История обновлений Office 2013
+# <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
-Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
+Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Актуальная версия Office 2013 — **15.0.5345.1002**. Она была выпущена 11 мая 2021 г.
+> Последняя версия Office 2013 — **15.0.5357.1000**, выпущенная 8 июня 2021 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -33,9 +33,9 @@ ms.locfileid: "52322299"
     
     Если он совпадает с номером самой последней версии, обновлений нет. В противном случае вы можете обновить Office 2013 до последней версии. Для этого выполните [описанные ниже действия](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
-### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Даты выпуска, номера версий и информация об исправлениях для обновлений Office 2013
+### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Даты выпуска, номера версий и информация об исправлениях для обновлений Office 2013
 
-В таблице ниже приведен список обновлений для Office 2013. В начале указаны более новые. Таблица включает номер версии для выпуска и ссылку на статью в базе знаний Майкрософт, если имеется, с информацией об исправлениях, включенных в обновление.
+В таблице ниже приведен список обновлений для Office 2013. В начале указаны более новые. Таблица включает номер версии для выпуска и ссылку на статью в базе знаний Майкрософт, если имеется, с информацией об исправлениях, включенных в обновление.
   
 Новые версии содержат все обновления, имеющиеся в предыдущих версиях.
 
@@ -45,7 +45,8 @@ ms.locfileid: "52322299"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2021 г.|11 мая|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
+|2021 г.|8 июня|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+||11 мая|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13 апреля|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 марта|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||9 февраля|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
@@ -67,19 +68,19 @@ ms.locfileid: "52322299"
 ||8 октября   |15.0.5179.1000   |[KB 4522242](https://support.microsoft.com/help/4522242)  |
 ||10 сентября   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/help/4517986)  |
 ||13 августа   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/help/4514418)  |
-||9 июля   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/help/4509295)  |
-||11 июня   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/help/4505743)  |
+||9 июля   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/help/4509295)  |
+||11 июня   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/help/4505743)  |
 ||14 мая   |15.0.5137.1000   |[KB 4501270](https://support.microsoft.com/help/4501270)  |
-||9 апреля   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/help/4495300)  |
+||9 апреля   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/help/4495300)  |
 ||12 марта   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/help/4491754)  |
-||12 февраля   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/help/4488446)  |
+||12 февраля   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/help/4488446)  |
 ||8 января   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/help/4484800)  |
 |2018|19 декабря   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/help/4477615)  |
 ||13 ноября   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/help/4469617)  |
 ||9 октября   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/help/4464656)  |
 | |11 сентября   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/help/4459402)  |
 ||14 августа   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/help/4346823)  |
-||10 июля   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/help/4340798)  |
+||10 июля   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/help/4340798)  |
 ||12 июня   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/help/4299875)  |
 ||8 мая   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/help/4133083)  |
 ||10 апреля   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/help/4098622)  |
@@ -138,7 +139,7 @@ ms.locfileid: "52322299"
 ||13 мая   |15.0.4615.1001   |[KB 2964042](https://support.microsoft.com/kb/2964042)  |
 ||8 апреля   |15.0.4605.1003   |[KB 2955382](https://support.microsoft.com/kb/2955382)  |
 ||11 марта   |15.0.4569.1508   |[KB 2937335](https://support.microsoft.com/kb/2937335)  |
-||25 февраля   |15.0.4569.1507   |[KB 2817430](https://support.microsoft.com/kb/2817430) (пакет обновления 1)   |
+||25 февраля   |15.0.4569.1507   |[KB 2817430](https://support.microsoft.com/kb/2817430) (пакет обновления 1)   |
 ||14 января   |15.0.4551.1512   |[KB 2923177](https://support.microsoft.com/kb/2923177)  |
 |2013   |10 декабря   |15.0.4551.1011   |[KB 2916204](https://support.microsoft.com/kb/2916204)  |
 ||12 ноября   |15.0.4551.1005   |[KB 2908105](https://support.microsoft.com/kb/2908105)  |
