@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Office 2016, Office 2013 и Office 2010 для ИТ-специалистов
-ms.openlocfilehash: c3933557c854757f9371e03361105c35a48596ad
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
+ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851979"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52899920"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления для версий Office, в которых используется установщик Windows (MSI)
 
@@ -51,7 +51,7 @@ ms.locfileid: "52851979"
    
 ## <a name="updates-released-in-past-12-months"></a>Обновления, выпущенные за последние 12 месяцев
 
-[Обновления для системы безопасности и другие обновления за июнь 2020 г.: KB5004001](https://support.microsoft.com/help/5004001)
+[Обновления для системы безопасности и другие обновления за июнь 2021 г.: KB5004001](https://support.microsoft.com/help/5004001)
 
 
 [Обновления для системы безопасности и другие обновления за май 2021 г.: KB5003427](https://support.microsoft.com/help/5003427)
