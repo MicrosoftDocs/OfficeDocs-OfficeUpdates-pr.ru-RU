@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: История выпусков функции автоматического обновления (Майкрософт) для ИТ-специалистов
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563385"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949839"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>История выпусков функции автоматического обновления (Майкрософт)
  
@@ -29,6 +29,22 @@ ms.locfileid: "52563385"
 > - В автоматическом обновлении (Майкрософт) имеются обновления для различных продуктов для Mac от корпорации Майкрософт. Таким образом, вы можете получить уведомление о необходимости обновления функции автоматического обновления (Майкрософт), даже если вы не используете Office для Mac.
 
 Заметки о выпуске см. [здесь.](release-notes-office-for-mac.md)<br/><br/>
+## <a name="june-2021-release"></a>Выпуск за июнь 2021 г.
+
+**Дата выпуска:** 15 июня 2021 г.
+
+*Функция автоматического обновления (Майкрософт) версии 4.36*
+
+**Исправления ошибок и улучшения**
+- Индикатор хода выполнения на плитке закрепления — функция MAU теперь отображает индикатор хода выполнения на закрепленном значке.
+- Гибкое завершение обновления — функция MAU попытается применить отложенные обновления во время завершения работы или перезагрузки устройства.
+
+[Скачать пакет функции автоматического обновления (Майкрософт) версии 4.36](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**Хэш SHA-256:**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>Выпуск за май 2021 г.
 
