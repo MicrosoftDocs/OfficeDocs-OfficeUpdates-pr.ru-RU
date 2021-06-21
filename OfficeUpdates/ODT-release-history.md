@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851649"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022102"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -28,6 +28,11 @@ ms.locfileid: "52851649"
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="june-17-2021"></a>17 июня 2021 г.
+Версия 16.0.14026.20306 (версия файла setup.exe — 16.0.14026.20306)
+- Исправлена проблема, из-за которой операции, использующие языковой параметр MatchOS, завершались сбоем в некоторых конфигурациях ОС.
+
 
 ## <a name="june-7-2021"></a>7 июня 2021 г.
 Версия 16.0.14026.20254 (версия файла setup.exe — 16.0.14026.20252)
