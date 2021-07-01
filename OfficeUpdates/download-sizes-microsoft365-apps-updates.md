@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Информация для ИТ-специалистов о приблизительных размерах скачиваемых обновлений для приложений Microsoft 365 для каждого канала обновления
-ms.openlocfilehash: 827be1cfa501c9f5b5c187221e3551007bd5c9bc
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: 36bda636ac0c154b9df9e0e521d66e44955b0f43
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022092"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206321"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Размеры скачиваемых обновлений для Приложений Microsoft 365
 
@@ -30,6 +30,22 @@ ms.locfileid: "53022092"
 > - Указаны выпуски за последние четыре месяца.
 
 [//]: # (НЕ УДАЛЯТЬ)
+
+## <a name="june-29-2021"></a>29 июня 2021 г.
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (НАЧАЛО)29 июня 2021 г.)
+
+### <a name="current-channel"></a>Актуальный канал
+
+Новейший выпуск — версия 2106 (сборка 14131.20278).
+
+|**Обновляемый выпуск**|**Дата выпуска**|**Приблизительный размер файла для скачивания (в МБ)**|
+|:-----|:-----|:-----|
+|Версия 2105 (сборка 14026.20308) <br/> |17 июня 2021 г. <br/> |145<br/> |
+|Версия 2105 (сборка 14026.20270) <br/> |7 июня 2021 г. <br/> |146<br/> |
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СОДЕРЖИМОЕ (КОНЕЦ)29 июня 2021 г.)
 
 ## <a name="june-18-2021"></a>18 июня 2021 г.
 
