@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения для ИТ-специалистов об обновлениях, не связанных с безопасностью, для бессрочных версий Office 2016, Office 2013 и Office 2010
-ms.openlocfilehash: 0ea47845b4efc2783c835459853545a000f37e96
-ms.sourcegitcommit: 05bff52afd0c2f4dd8c5fe128e24a048596f5a05
+ms.openlocfilehash: 4d2df73c3e73040e9be0ccac02d31977bb1a74b8
+ms.sourcegitcommit: 96056ede205e1d10d7e8665931d309684bb5fb79
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2021
-ms.locfileid: "52736867"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53303304"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Последние обновления, не связанные с безопасностью, для версий Office, в которых используется установщик Windows (MSI)
 
@@ -25,6 +25,11 @@ ms.locfileid: "52736867"
 > - Сведения в этой статье не относятся к приложениям Microsoft 365.
 > - Дополнительные сведения об установке обновлений Office см. в статье [Установка обновлений Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="july-6-2021"></a>6 июля 2021 г.
+**Office 2016**<br/>
+Обновление для Microsoft Office 2016 ([KB5001971](https://support.microsoft.com/help/5001971)) </br>
+Обновление для Microsoft Outlook 2016 ([KB5001980](https://support.microsoft.com/help/5001980)) </br>
 
 ## <a name="june-1-2021"></a>1 июня 2021 г.
 **Office 2016**<br/>
@@ -61,15 +66,6 @@ ms.locfileid: "52736867"
 **Office 2010**<br/>
 Обновление для Microsoft Office 2010 ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
 Обновление для Microsoft PowerPoint 2010 ([KB4493179](https://support.microsoft.com/help/4493179))</br>
-
-
-## <a name="january-5-2021"></a>5 января 2021 г.
-**Office 2016**</br>
-Обновление для Microsoft Access 2016 ([KB4484509](https://support.microsoft.com/help/4484509)) </br>
-Обновление для Microsoft Office 2016 ([KB4493157](https://support.microsoft.com/help/4493157)) </br>
-Обновление для Microsoft Outlook 2016 ([KB4493166](https://support.microsoft.com/help/4493166)) </br>
-Обновление для Microsoft Project 2016 ([KB4493159](https://support.microsoft.com/help/4493159)) </br>
-
 
 
 </br>
