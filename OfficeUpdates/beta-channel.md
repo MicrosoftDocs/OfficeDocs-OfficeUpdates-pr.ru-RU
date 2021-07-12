@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Предоставляет участникам программы предварительной оценки с ранним доступом последний список новых функций, исправлений или известных проблем
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278752"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347972"
 ---
 # <a name="release-notes-for-beta-channel"></a>Заметки о выпуске для бета-канала
 
@@ -296,6 +296,8 @@ ms.locfileid: "53278752"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
+### <a name="excel"></a>Excel
+- Удалено значение "RichValue" из Range.valueTypes. Связанные типы данных теперь возвращают "Error" в соответствии со значением "#ЗНАЧ!", возвращаемым от Range.values.
 ### <a name="outlook"></a>Outlook
 
 - Исправлена проблема, из-за которой пользователи не могли перемещать элементы между папками в версиях Outlook с лицензией "не бизнес".
@@ -3013,7 +3015,7 @@ ms.locfileid: "53278752"
 [//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ ОБ ОШИБКАХ НАЧАЛО СОДЕРЖИМОГО)
 
 ### <a name="resolved-issues"></a>Решенные проблемы
-### <a name="access"></a>Доступ
+### <a name="access"></a>Access
 
 - Исправлены проблемы с изменением размера и обновлением таблиц на панели задач.
 
