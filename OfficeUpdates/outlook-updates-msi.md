@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Содержит ссылки на последние сведения об обновлениях для бессрочных версий Outlook 2016, Outlook 2013 и Outlook 2010 для ИТ-специалистов
-ms.openlocfilehash: c63b3e2e5f68deee93714ad394fe3d963fd3305f
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 5c496839e156bdf65bbe8222819349bf0b384426
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851889"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411727"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Последние обновления для версий Outlook, в которых используется установщик Windows (MSI)
 
@@ -43,7 +43,7 @@ ms.locfileid: "52851889"
 
 |**Последний пакет обновления**|**Минимально необходимое обновление**|**Последнее общедоступное обновление**|
 |:-----|:-----|:-----|
-|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за июнь 2021 г. <br/>[KB5001942](https://support.microsoft.com/help/5001942) 
+|Недоступно  <br/> |Общедоступное обновление за март 2016 г. <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Общедоступное обновление за июль 2021 г. <br/>[KB5001980](https://support.microsoft.com/help/5001980) 
 
 ## <a name="outlook-2013-updates"></a>Обновления для Outlook 2013
 

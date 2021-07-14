@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Заметки о выпуске обновлений для системы безопасности Microsoft Office, предназначенные для ИТ-специалистов
-ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 6dece74c6156c1a3e8a0ca22fce7e94337cbcf75
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851839"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409424"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Заметки о выпуске обновлений для системы безопасности Microsoft Office
 
@@ -24,6 +24,39 @@ ms.locfileid: "52851839"
  
 
 [//]: # (НЕ УДАЛЯЙТЕ СТРОКУ ВЫШЕ, она используется для интервала)  
+
+## <a name="july-13-2021"></a>13 июля 2021 г.
+Актуальный канал: версия 2106 (сборка 14131.20320)  
+Ежемесячный канал (корпоративный): версия 2105 (сборка 14026.20334)  
+Ежемесячный канал (корпоративный): версия 2104 (сборка 13929.20434)  
+Полугодовой канал (предварительная корпоративная версия): версия 2102 (сборка 13801.20808)  
+Полугодовой канал (корпоративный): версия 2102 (сборка 13801.20808)  
+Полугодовой канал (корпоративный): версия 2008 (сборка 13127.21704)  
+Полугодовой канал (корпоративный): версия 2002 (сборка 12527.21986)   
+Приложения Microsoft 365 в Windows 7: версия 2002 (сборка 12527.21986)  
+Розничная версия Office 2019: версия 2106 (сборка 14131.20320)  
+Розничная версия Office 2016: версия 2106 (сборка 14131.20320)  
+Корпоративная версия Office 2019: версия 1808 (сборка 10376.20033)  
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-34501)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-34452](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-34452)
+
+### <a name="office-suite"></a>Набор приложений Office
+
+-   [CVE-2021-34469](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-34469)
+
+
+[//]: # (НЕ УДАЛЯЙТЕ СВЕДЕНИЯ О БЕЗОПАСНОСТИ (КОНЕЦ СОДЕРЖИМОГО))
+
+
 
 ## <a name="june-08-2021"></a>8 июня 2021 г.
 Актуальный канал: версия 2105 (сборка 14026.20270)  

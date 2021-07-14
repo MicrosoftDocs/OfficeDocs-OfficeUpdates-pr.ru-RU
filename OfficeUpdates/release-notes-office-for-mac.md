@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Предоставляет ИТ-специалистам заметки о выпуске выпусков Office для Mac для подписчиков приложений Microsoft 365
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949849"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409544"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Заметки о выпуске Office для Mac
 
@@ -61,6 +61,38 @@ Office для Mac в составе подписки на Microsoft 365 обно
 
 
 
+
+
+
+## <a name="july-13-2021"></a>13 июля 2021 г.
+*Версия 16.51 (сборка 21071101)*
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ НАЧАЛО СОДЕРЖИМОГО)
+
+### <a name="feature-updates"></a>Обновления функций
+### <a name="outlook"></a>Outlook
+
+- **Настройка стандартных параметров планирования для всей организации, которые сокращают время собраний.** Наши коммерческие клиенты могут устанавливать стандартные параметры планирования для всей организации, которые сокращают время собраний и создают возможность для перерывов для всех сотрудников компании.
+
+### <a name="word"></a>Word
+
+- **Просмотр документов при другом освещении.** Опробуйте эффектный новый внешний вид, который снижает нагрузку на ваши глаза и помогает сосредоточиться на работе.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/dark-mode-in-word-for-mac)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О ФУНКЦИЯХ КОНЕЦ СОДЕРЖИМОГО)
+
+
+[//]: # (НЕ УДАЛЯТЬ СВЕДЕНИЯ О БЕЗОПАСНОСТИ, НАЧАЛО СОДЕРЖИМОГО)
+
+
+### <a name="security-updates"></a>Обновления для системы безопасности
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/ru-RU/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (НЕ УДАЛЯЙТЕ СВЕДЕНИЯ О БЕЗОПАСНОСТИ (КОНЕЦ СОДЕРЖИМОГО))
 
 ## <a name="june-15-2021"></a>15 июня 2021 г.
 *Версия 16.50 (сборка 21061301)*
