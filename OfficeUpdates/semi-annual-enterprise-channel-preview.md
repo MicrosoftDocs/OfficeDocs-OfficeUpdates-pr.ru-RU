@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Этот раздел содержит заметки о выпусках Semi-Annual Channel (Targeted) для подписки "Приложения Microsoft 365" в 2021 г. для ИТ-специалистов.
-ms.openlocfilehash: 7ccc68f004285105f9567fb761edf80516fb1f32
-ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
+ms.openlocfilehash: ccadc781717d3ed177734fb53c4e4524b846118c
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409494"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463736"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Заметки о выпусках для Полугодового канала (предварительной корпоративной версии)
 
@@ -276,7 +276,7 @@ ms.locfileid: "53409494"
 
 - **Получение данных организации из Power BI с помощью типов данных.** Типы данных Excel из Power BI теперь развертываются для участников программы предварительной оценки в организациях с Office 365 / Microsoft 365 и планом обслуживания Power BI Pro. Получение необходимой информации и легкость ее обновления чрезвычайно важны для многих повседневных рабочих процессов. Мы предоставляем вам доступ к информации вашей компании или организации из Power BI как типа данных Excel, что расширяет ваши возможности получения связанных данных для электронных таблиц. [Подробнее](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Создание профессиональных схем Visio в Excel.** Создавайте на листе схемы, основанные на данных, например блок-схемы или организационные диаграммы. [Подробнее](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -293,13 +293,13 @@ ms.locfileid: "53409494"
 
 - **Создание опросов в Outlook с помощью быстрого опроса.** Можно легко создать опрос, собрать голоса и просмотреть результаты в сообщении электронной почты. [Подробнее](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Новая функция "Поиск помещений".** Поиск конференц-залов с учетом различных возможностей. 
 
 - **Поиск естественными фразами.** Используйте обычные фразы, например "запись к ветеринару на прошлой неделе", чтобы отфильтровать и сузить область поиска.
 
-- **Быстрое повторное открытие элементов из предыдущего сеанса Outlook.** Добавлена возможность быстро открывать элементы из предыдущего сеанса Outlook.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/automatically-restore-windows-in-outlook)
+- **Быстрое повторное открытие элементов из предыдущего сеанса Outlook.** Добавлена возможность быстро открывать элементы из предыдущего сеанса Outlook.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -307,7 +307,7 @@ ms.locfileid: "53409494"
 
 - **Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.  Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла. Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить". Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint. [Подробнее](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="visio"></a>Visio
 
@@ -319,7 +319,7 @@ ms.locfileid: "53409494"
 
 - **Сохранение в закрепленных папках.** Закрепление папок облегчает сохранение файлов Office.  Мы получили отзывы о том, что пользователи хотят больше контролировать папки, доступные при сохранении нового файла. Мы рады предоставить вам новую возможность: закрепить папки в диалоговом окне "Сохранить". Эта новая возможность упростит сохранение файлов Word, Excel и PowerPoint. [Подробнее](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Дополнительные сведения см. в этой [публикации в блоге](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/ru-RU/blog/insert-apple-photos-into-office-easily)
+- **Вставьте фотографии с вашего iPhone прямо в Office:** HEIC фотографии с вашего телефона теперь можно вставлять в Office. Преобразование не требуется.<br />Дополнительные сведения см. в этой [публикации в блоге](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="office-suite"></a>Набор Office
 
