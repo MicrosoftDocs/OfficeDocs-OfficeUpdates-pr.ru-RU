@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Предоставляет ИТ-специалистам журнал выпусков средства развертывания Office (ODT)
-ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f6df62267f7f2035f610867721b3dc1b9f65a1bd
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022102"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409585"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Журнал выпусков средства развертывания Office
 
@@ -28,6 +28,14 @@ ms.locfileid: "53022102"
  **Инструкции по установке**: загрузите и затем запустите самоизвлекающийся исполняемый файл, содержащий EXE-файл средства развертывания Office (setup.exe) и пример файла конфигурации (configuration.xml). 
 
 [Скачайте средство развертывания Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="july-12-2021"></a>12 июля 2021 г.
+Версия 16.0.14131.20278 (версия файла setup.exe — 16.0.14131.20278)
+- Исправлена проблема сбоя RemoveMSI в определенных случаях
+- Исправлена проблема с обнаружением одновременного выполнения программы setup.exe
+- Исправления для повышения надежности платформ ARM
+
 
 ## <a name="june-17-2021"></a>17 июня 2021 г.
 Версия 16.0.14026.20306 (версия файла setup.exe — 16.0.14026.20306)

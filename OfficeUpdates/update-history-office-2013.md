@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: История обновлений для бессрочных версий Office 2013 с технологией "нажми и работай" для ИТ-специалистов
-ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851929"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411747"
 ---
 # <a name="update-history-for-office-2013"></a>История обновлений Office 2013
 
 Некоторые продукты Office 2013 обновляются автоматически с помощью технологии "нажми и работай". Чтобы узнать, установлено ли у вас последнее обновление, посмотрите номер версии Office. При необходимости обновите Office вручную.
   
 > [!NOTE]
-> Последняя версия Office 2013 — **15.0.5357.1000**, выпущенная 8 июня 2021 г.
+> Последняя версия Office 2013 — **15.0.5363.1000**, выпущенная 13 июля 2021 г.
   
 Чтобы проверить свою версию Office, выполните следующее:
   
@@ -45,7 +45,8 @@ ms.locfileid: "52851929"
   
 |**Год выпуска**|**Дата выпуска**|**Номер версии**|**Дополнительные сведения**|
 |:-----|:-----|:-----|:-----|
-|2021 г.|8 июня|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+|2021 г.|13 июля|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
+||8 июня|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
 ||11 мая|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13 апреля|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 марта|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
